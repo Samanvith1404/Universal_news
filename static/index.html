@@ -826,10 +826,89 @@ async function loadDetailPanel(mod, src) {
 // ── RENDER DETAIL ───────────────────────────────────────────
 function renderDetail(data, el, mod) {
   if (!data || !data.sections || !data.sections.length) {
-    el.innerHTML = `<div class="state-box">No brief available for this modality yet.</div>`;
+    el.innerHTML = `<div class="state-box">No brief available.</div>`;
     return;
   }
 
+  // ⭐ SPECIAL COMPANY VIEW ⭐
+  if (activeSrc === "company") {
+    const points = data.sections[0].points || [];
+
+    const html = points.map((pt, i) => {
+      const parts = pt.text.split(":");
+      const company = parts[0] || "Unknown";
+      const description = parts.slice(1).join(":") || "";
+
+      return `
+        <div style="
+          background: linear-gradient(145deg, #0f1a28, #13202f);
+          border: 1px solid #1a2d45;
+          border-radius: 10px;
+          padding: 18px;
+          margin-bottom: 14px;
+          box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+          transition: transform 0.2s ease, box-shadow 0.2s ease;
+        "
+        onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 10px 25px rgba(0,0,0,0.5)'"
+        onmouseout="this.style.transform='none';this.style.boxShadow='0 6px 18px rgba(0,0,0,0.35)'"
+        >
+
+          <div style="
+            font-size: 14px;
+            font-weight: 700;
+            color: #00e5a0;
+            margin-bottom: 6px;
+          ">
+            🏢 ${company}
+          </div>
+
+          <div style="
+            font-size: 10px;
+            color: #00c8d4;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+          ">
+            Company Update
+          </div>
+
+          <div style="
+            font-size: 12px;
+            line-height: 1.6;
+            color: #c8ddf0;
+            margin-bottom: 10px;
+          ">
+            ${description}
+          </div>
+
+          ${
+            pt.url
+              ? `<a href="${pt.url}" target="_blank" style="
+                  font-size: 10px;
+                  color: #00e5a0;
+                  text-decoration: none;
+                  border: 1px solid #243a56;
+                  padding: 4px 10px;
+                  display: inline-block;
+                  transition: all 0.15s;
+                "
+                onmouseover="this.style.background='#00e5a0';this.style.color='#000'"
+                onmouseout="this.style.background='transparent';this.style.color='#00e5a0'"
+              >
+                Read Source ↗
+              </a>`
+              : ""
+          }
+
+        </div>
+      `;
+    }).join("");
+
+    el.innerHTML = html;
+    return;
+  }
+
+  // ⭐ DEFAULT (PHARMA VIEW — unchanged)
   const sectionIcons = ['📋','🔬','💊','📈','🏢','⚡','🔗','📡','🎯','🧪'];
 
   const html = data.sections.map((sec, si) => {
@@ -843,7 +922,7 @@ function renderDetail(data, el, mod) {
               <span class="point-dot"></span>
               <span>${esc(pt.text)}</span>
             </div>
-            ${hasLink ? `<a class="source-btn" href="${esc(pt.url)}" target="_blank" rel="noopener">Source ↗</a>` : ''}
+            ${hasLink ? `<a class="source-btn" href="${esc(pt.url)}" target="_blank">Source ↗</a>` : ''}
           </div>
         </div>`;
     }).join('');
