@@ -30,7 +30,7 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      # 4. Run pipeline
+      # 4. Run extraction pipeline
       - name: Run Extraction Pipeline
         run: |
           cd News_portals
@@ -46,26 +46,14 @@ jobs:
       - name: Check article count
         id: check
         run: |
-          python - <<'EOF'
-          import json, os
-          from pathlib import Path
-
-          f = Path('News_portals/allinone.json')
-          count = 0
-          if f.exists():
-              data = json.loads(f.read_text(encoding='utf-8'))
-              count = len(data.get('articles', []))
-
-          print(f'Articles: {count}')
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
-              out.write(f'count={count}\n')
-          EOF
+          cd News_portals
+          COUNT=$(python -c "import json; d=json.load(open('allinone.json')); print(len(d.get('articles', [])))")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Articles: $COUNT"
 
       # 7. Run summarizer
       - name: Run Summarizer
         if: steps.check.outputs.count != '0'
-        env:
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
         run: |
           cd News_portals
           python SUMMARIZER.py \
