@@ -669,25 +669,25 @@ const MODALITIES = {
   bispecific_antibodies: {
     label: 'Bispecific Antibodies',
     overall: `/api/pharma/bispecific_antibodies`,
-    company: `/api/company`,
+    company: `/api/company/bispecific_antibodies`,
   },
   monoclonal_antibodies: {
     label: 'Monoclonal Antibodies',
     overall: `/api/pharma/monoclonal_antibodies`,
-    company: `/api/company`,
+    company: `/api/company/monoclonal_antibodies`,
   },
   molecular_glues: {
     label: 'Molecular Glues',
     overall: `/api/pharma/molecular_glues`,
-    company: `/api/company`,
+    company: `/api/company/molecular_glues`,
   },
   gene_editing: {
     label: 'Gene Editing',
     overall: `/api/pharma/gene_editing`,
-    company: `/api/company`,
+    company: `/api/company/gene_editing`,
   },
 };
-
+  
 const cache = {};
 let activeMod = null;
 let activeSrc = 'overall';
