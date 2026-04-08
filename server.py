@@ -55,8 +55,8 @@ def load_company():
         return None
 
 
-@app.get("/api/company")
-def get_company():
+@app.get("/api/company/{modality}")
+def get_company(modality: str):
     data = load_company()
 
     if not data or "news" not in data:
@@ -64,22 +64,28 @@ def get_company():
 
     news_items = data["news"]
 
+    # 🔥 FILTER BY MODALITY
+    filtered = [
+        item for item in news_items
+        if item.get("modality", "").lower() == modality.replace("_", " ").lower()
+    ]
+
     return {
-        "article_count": len(news_items),
+        "article_count": len(filtered),
         "sections": [
             {
-                "heading": "Company News",
+                "heading": f"{modality.replace('_',' ').title()} Company News",
                 "points": [
                     {
                         "text": f"{item.get('company', '')}: {item.get('news', '')}",
                         "url": item.get("url")
                     }
-                    for item in news_items
+                    for item in filtered
                 ]
             }
         ],
         "generated_at": data.get("meta", {}).get("generated_at", ""),
-        "query": data.get("meta", {}).get("query", "company news")
+        "query": modality
     }
 
 
