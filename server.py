@@ -59,10 +59,28 @@ def load_company():
 def get_company():
     data = load_company()
 
-    if not data:
+    if not data or "news" not in data:
         raise HTTPException(status_code=404, detail="Company data not found")
 
-    return data
+    news_items = data["news"]
+
+    return {
+        "article_count": len(news_items),
+        "sections": [
+            {
+                "heading": "Company News",
+                "points": [
+                    {
+                        "text": f"{item.get('company', '')}: {item.get('news', '')}",
+                        "url": item.get("url")
+                    }
+                    for item in news_items
+                ]
+            }
+        ],
+        "generated_at": data.get("meta", {}).get("generated_at", ""),
+        "query": data.get("meta", {}).get("query", "company news")
+    }
 
 
 # ------------------ HEALTH CHECK ------------------
