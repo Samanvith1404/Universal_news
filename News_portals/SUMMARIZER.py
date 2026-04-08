@@ -40,7 +40,7 @@ from pathlib import Path
 # ── NVIDIA CONFIG ─────────────────────────────────────────────────────────────
 
 INVOKE_URL = "https://integrate.api.nvidia.com/v1/chat/completions"
-API_KEY    = "Bearer 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"
+API_KEY    = "Bearer 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"
 MODEL      = "qwen/qwen3.5-122b-a10b"
 
 HEADERS = {
