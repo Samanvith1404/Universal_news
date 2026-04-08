@@ -27,34 +27,42 @@ jobs:
           playwright install chromium
           playwright install-deps chromium
 
-      # 4. Run pipeline
+      # 4. Run Harvester
       - name: Run Harvester
-        run: python companies_news/harvester.py
+        run: |
+          cd companies_news
+          python harvester.py
 
+      # 5. Run Delta Engine
       - name: Run Delta Engine
-        run: python companies_news/today_info.py
+        run: |
+          cd companies_news
+          python today_info.py
 
-      # 5. Check new articles
+      # 6. Check new articles
       - name: Check if new articles exist
         id: check
         run: |
-          COUNT=$(python -c "import json; d=json.load(open('companies_news/today.json')); print(len(d))")
+          cd companies_news
+          COUNT=$(python -c "import json; d=json.load(open('today.json')); print(len(d))")
           echo "count=$COUNT" >> $GITHUB_OUTPUT
           echo "New articles: $COUNT"
 
-      # 6. Run LLM
+      # 7. Run LLM
       - name: Run LLM extractor
         if: steps.check.outputs.count != '0'
-        run: python companies_news/llm.py
+        run: |
+          cd companies_news
+          python llm.py
 
-      # 7. Run summarizer
+      # 8. Run Summary
       - name: Run Summary
         if: steps.check.outputs.count != '0'
-        env:
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-        run: python companies_news/summary.py --query "gene editing"
+        run: |
+          cd companies_news
+          python summary.py --query "gene editing"
 
-      # 8. Commit results
+      # 9. Commit results
       - name: Commit and push
         run: |
           git config user.name "github-actions"
