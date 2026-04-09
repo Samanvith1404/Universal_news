@@ -1,17 +1,35 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 10,
-    "items_extracted": 1,
+    "articles_used": 44,
+    "items_extracted": 4,
     "items_dropped": 0,
-    "generated_at": "2026-04-07 07:25:23"
+    "generated_at": "2026-04-09 07:32:33"
   },
   "news": [
     {
-      "company": "Affinia Therapeutics",
+      "company": "GSK",
+      "modality": "monoclonal antibodies",
+      "news": "China's National Medical Products Administration (NMPA) approved Exdensur (depemokimab), an ultra-long-acting monoclonal antibody, for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP) in adults. The approval is based on data from the ANCHOR-1 and ANCHOR-2 phase III trials showing significant improvements in nasal polyp size and obstruction.",
+      "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/"
+    },
+    {
+      "company": "Gilead Sciences",
+      "modality": "monoclonal antibodies",
+      "news": "Gilead Sciences entered into a definitive agreement to acquire Tubulis GmbH for $3.15 billion in upfront cash, plus up to $1.85 billion in milestone payments. The acquisition adds Tubulis' next-generation antibody-drug conjugate (ADC) platform and clinical assets, including TUB-040, to Gilead's oncology pipeline.",
+      "url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline"
+    },
+    {
+      "company": "CRISPR Therapeutics",
       "modality": "gene editing",
-      "news": "Affinia Therapeutics received approval from Health Canada to initiate the UPBEAT trial, a Phase 1/2 clinical study investigating AFTX-201, an AAV gene therapy for BAG3-associated dilated cardiomyopathy. This follows FDA acceptance of the IND application and Fast Track designation for the investigational medicine.",
-      "url": "https://affiniatx.com/affinia-therapeutics-receives-approval-from-health-canada-to-initiate-the-upbeat-trial-a-phase-1-2-clinical-trial-to-investigate-aftx-201-as-a-treatment-for-bag3-associated-dilated-cardiomyopat/"
+      "news": "CRISPR Therapeutics announced that its senior management team will present at the 25th Annual Needham Virtual Healthcare Conference on April 13, 2026. The company highlighted its leadership in gene editing, including the approved CASGEVY therapy and its proprietary SyNTase editing platform.",
+      "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-25th-annual-needham-virtual-healthcare-conference"
+    },
+    {
+      "company": "Chugai Pharmaceutical",
+      "modality": "monoclonal antibodies",
+      "news": "Chugai Pharmaceutical and Zenyaku Kogyo announced the termination of their co-promotion agreement for Rituxan (rituximab), an anti-CD20 monoclonal antibody, in Japan. Effective September 3, 2026, Zenyaku Kogyo will assume sole responsibility for sales and medical information for the product.",
+      "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260409153000_1239.html?year=2026&category="
     }
   ]
 }
