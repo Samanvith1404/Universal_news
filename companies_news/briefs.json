@@ -1,35 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 44,
-    "items_extracted": 4,
+    "articles_used": 67,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-04-09 07:32:33"
+    "generated_at": "2026-04-10 07:52:57"
   },
   "news": [
     {
-      "company": "GSK",
-      "modality": "monoclonal antibodies",
-      "news": "China's National Medical Products Administration (NMPA) approved Exdensur (depemokimab), an ultra-long-acting monoclonal antibody, for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP) in adults. The approval is based on data from the ANCHOR-1 and ANCHOR-2 phase III trials showing significant improvements in nasal polyp size and obstruction.",
-      "url": "https://www.gsk.com/en-gb/media/press-releases/exdensur-depemokimab-approved-in-china/"
-    },
-    {
-      "company": "Gilead Sciences",
-      "modality": "monoclonal antibodies",
-      "news": "Gilead Sciences entered into a definitive agreement to acquire Tubulis GmbH for $3.15 billion in upfront cash, plus up to $1.85 billion in milestone payments. The acquisition adds Tubulis' next-generation antibody-drug conjugate (ADC) platform and clinical assets, including TUB-040, to Gilead's oncology pipeline.",
-      "url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline"
-    },
-    {
-      "company": "CRISPR Therapeutics",
+      "company": "Cartherics",
       "modality": "gene editing",
-      "news": "CRISPR Therapeutics announced that its senior management team will present at the 25th Annual Needham Virtual Healthcare Conference on April 13, 2026. The company highlighted its leadership in gene editing, including the approved CASGEVY therapy and its proprietary SyNTase editing platform.",
-      "url": "https://crisprtx.com/about-us/press-releases-and-presentations/crispr-therapeutics-to-present-at-the-25th-annual-needham-virtual-healthcare-conference"
+      "news": "Cartherics and Catalent expanded their commercial license agreement to utilize a Catalent cGMP-compliant induced pluripotent stem cell (iPSC) line for the manufacture of CAR-NK cell therapies. The partnership supports the development of CTH-401, an iPSC-derived CAR-NK product, with FDA approval already granted for the use of the licensed iPSC line as the starting cell material.",
+      "url": "https://www.catalent.com/catalent-news/cartherics-and-catalent-expand-commercial-license-agreement/"
     },
     {
-      "company": "Chugai Pharmaceutical",
-      "modality": "monoclonal antibodies",
-      "news": "Chugai Pharmaceutical and Zenyaku Kogyo announced the termination of their co-promotion agreement for Rituxan (rituximab), an anti-CD20 monoclonal antibody, in Japan. Effective September 3, 2026, Zenyaku Kogyo will assume sole responsibility for sales and medical information for the product.",
-      "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260409153000_1239.html?year=2026&category="
+      "company": "Généthon",
+      "modality": "gene editing",
+      "news": "Généthon scientists published a study in Molecular Therapy detailing a CRISPR/Cas9 strategy to increase utrophin expression in Duchenne Muscular Dystrophy (DMD). By using gene editing to deactivate a Let7c microRNA binding site, the team successfully boosted utrophin levels in human DMD cells and murine models, offering a potential universal therapeutic approach independent of specific DMD mutations.",
+      "url": "https://www.genethon.fr/crispr-cas9-genethon-devoile-une-strategie-innovante-pour-augmenter-lutrophine-dans-la-myopathie-de-duchenne/"
     }
   ]
 }
