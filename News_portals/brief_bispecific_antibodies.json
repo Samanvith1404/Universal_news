@@ -1,31 +1,15 @@
 {
   "query": "protac",
-  "generated_at": "2026-04-09 06:37:15",
-  "article_count": 10,
+  "generated_at": "2026-04-10 06:46:00",
+  "article_count": 14,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The reviewed pharmaceutical intelligence corpus for the reporting period, consisting of five articles from STAT News dated April 2026, was analyzed specifically for Proteolysis Targeting Chimeras (PROTAC) developments. A comprehensive review of the source material indicates a complete absence of PROTAC-specific data, including clinical trials, corporate partnerships, or regulatory filings related to this technology class. Consequently, no actionable intelligence regarding PROTAC mechanisms, target proteins, or pipeline progression could be extracted from these documents. The selected articles cover diverse health policy, legal, and technology topics including artificial intelligence scribes, sports betting public health implications, FDA regulatory rulings on mifepristone mail delivery, genetics education funding, and Supreme Court decisions on conversion therapy. Despite the breadth of coverage across regulatory, legal, and biotech-adjacent sectors, none of the five documents reference PROTAC technology, associated clinical programs, or relevant corporate entities. This absence suggests that PROTAC-related news was not a primary focus of the selected media coverage during this specific window. Stakeholders seeking PROTAC updates must consult specialized oncology or protein degradation databases rather than general health policy or technology newsletters. The lack of mention across these high-profile outlets further underscores that no major PROTAC announcements, such as trial initiations or licensing deals, occurred within the scope of the provided text. Therefore, this brief confirms no new PROTAC developments based on the supplied inputs. The reporting period remains clear of PROTAC-specific regulatory or commercial activity within this dataset. Intelligence gathering must pivot to alternative sources for meaningful updates on this modality.",
+      "paragraph": "Recent industry developments highlight strategic expansions in specialized manufacturing capabilities relevant to proteolysis targeting chimeras (PROTACs). Ofichem, a Netherlands-based contract development and manufacturing organization, announced a unification of its business units under a single trading name effective April 1, 2026, to streamline engagement for pharmaceutical and biotechnology customers. This reorganization consolidates active pharmaceutical ingredient, drug product, and supply capabilities into an integrated offering. Crucially for PROTAC development, Ofichem's 2025 acquisition of a site in Uppsala, Sweden, from Meribel Pharma Solutions expanded non-GMP capabilities for early-phase small-molecule API development. The facility specifically added expertise in modalities including antibody-drug conjugates, oligonucleotides, and proteolysis targeting chimeras. Additionally, Ofichem acquired Avivia in 2025 to enhance pharmaceutical development services with formulation expertise. These moves strengthen Ofichem's position as a European CDMO partner focused on supply chain reliability and regulatory expertise, providing end-to-end support from early development through commercial manufacturing. The unified structure offers greater visibility into capabilities in API development and drug substance manufacturing while maintaining quality standards. This consolidation supports the growing demand for specialized modalities like PROTACs within the contract manufacturing landscape, ensuring clients have access to integrated partners capable of handling complex small-molecule and targeted degradation technologies throughout the drug lifecycle.",
       "sources": [
         {
-          "url": "https://statnews.com/2026/04/08/are-scribes-raising-health-care-costs-ai-prognosis/",
-          "label": "STAT News"
-        },
-        {
-          "url": "https://statnews.com/2026/04/08/sports-betting-public-health-research-expert/",
-          "label": "STAT News"
-        },
-        {
-          "url": "https://statnews.com/2026/04/07/abortion-pill-mifepristone-by-mail-judge-ruling/",
-          "label": "STAT News"
-        },
-        {
-          "url": "https://statnews.com/2026/04/07/brian-donovan-fighting-racism-with-genetics-education/",
-          "label": "STAT News"
-        },
-        {
-          "url": "https://statnews.com/2026/04/03/conversion-therapy-ruling-scotus-impact-state-medical-boards/",
-          "label": "STAT News"
+          "url": "https://pharmamanufacturing.com/industry-news/news/55369796/ofichem-unites-brands-under-single-cdmo-pharmaceutical-supplier",
+          "label": "Ofichem"
         }
       ]
     },
@@ -33,8 +17,8 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "No relevant PROTAC developments reported.",
-          "url": null
+          "text": "Ofichem — PROTACs — Early-phase API development — Expanded non-GMP capabilities and added expertise via Uppsala site acquisition",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55369796/ofichem-unites-brands-under-single-cdmo-pharmaceutical-supplier"
         }
       ]
     },
@@ -42,8 +26,8 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "No relevant companies identified.",
-          "url": null
+          "text": "Ofichem: Unifying business units under a single trading name to simplify engagement and strengthen its position as a European CDMO partner with expanded PROTAC manufacturing capabilities.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55369796/ofichem-unites-brands-under-single-cdmo-pharmaceutical-supplier"
         }
       ]
     },
@@ -51,8 +35,8 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "No relevant clinical data identified.",
-          "url": null
+          "text": "PROTACs — Small-molecule degradation modality — Early-phase API development — Added expertise via Uppsala facility acquisition for non-GMP capabilities.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55369796/ofichem-unites-brands-under-single-cdmo-pharmaceutical-supplier"
         }
       ]
     },
@@ -60,8 +44,12 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "No relevant business developments reported.",
-          "url": null
+          "text": "Ofichem acquired a site in Uppsala, Sweden from Meribel Pharma Solutions in 2025 to expand PROTAC and small-molecule API capabilities.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55369796/ofichem-unites-brands-under-single-cdmo-pharmaceutical-supplier"
+        },
+        {
+          "text": "Ofichem acquired Avivia in 2025 to expand pharmaceutical development services and formulation expertise.",
+          "url": "https://pharmamanufacturing.com/industry-news/news/55369796/ofichem-unites-brands-under-single-cdmo-pharmaceutical-supplier"
         }
       ]
     }
