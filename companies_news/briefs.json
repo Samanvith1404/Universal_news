@@ -1,23 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 67,
-    "items_extracted": 2,
+    "articles_used": 11,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-04-10 07:52:57"
+    "generated_at": "2026-04-13 08:07:48"
   },
-  "news": [
-    {
-      "company": "Cartherics",
-      "modality": "gene editing",
-      "news": "Cartherics and Catalent expanded their commercial license agreement to utilize a Catalent cGMP-compliant induced pluripotent stem cell (iPSC) line for the manufacture of CAR-NK cell therapies. The partnership supports the development of CTH-401, an iPSC-derived CAR-NK product, with FDA approval already granted for the use of the licensed iPSC line as the starting cell material.",
-      "url": "https://www.catalent.com/catalent-news/cartherics-and-catalent-expand-commercial-license-agreement/"
-    },
-    {
-      "company": "Généthon",
-      "modality": "gene editing",
-      "news": "Généthon scientists published a study in Molecular Therapy detailing a CRISPR/Cas9 strategy to increase utrophin expression in Duchenne Muscular Dystrophy (DMD). By using gene editing to deactivate a Let7c microRNA binding site, the team successfully boosted utrophin levels in human DMD cells and murine models, offering a potential universal therapeutic approach independent of specific DMD mutations.",
-      "url": "https://www.genethon.fr/crispr-cas9-genethon-devoile-une-strategie-innovante-pour-augmenter-lutrophine-dans-la-myopathie-de-duchenne/"
-    }
-  ]
+  "news": []
 }
