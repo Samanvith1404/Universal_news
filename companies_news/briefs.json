@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 11,
-    "items_extracted": 0,
+    "articles_used": 19,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-04-13 08:07:48"
+    "generated_at": "2026-04-14 07:43:22"
   },
-  "news": []
+  "news": [
+    {
+      "company": "OXB",
+      "modality": "gene editing",
+      "news": "OXB launched a fast-track offering for AAV and lentiviral vector platforms to accelerate viral vector development and manufacture. The new service aims to reduce the timeline to GMP manufacturing by up to nine months for biotechs utilizing these vectors.",
+      "url": "https://oxb.com/news/oxb-launches-fast-track-offering-for-aav-and-lentiviral-vector-platforms-accelerating-viral-vector-development-and-manufacture/"
+    }
+  ]
 }
