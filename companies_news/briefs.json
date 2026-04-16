@@ -1,17 +1,29 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 19,
-    "items_extracted": 1,
+    "articles_used": 32,
+    "items_extracted": 3,
     "items_dropped": 0,
-    "generated_at": "2026-04-14 07:43:22"
+    "generated_at": "2026-04-16 07:42:26"
   },
   "news": [
     {
-      "company": "OXB",
+      "company": "Astellas",
       "modality": "gene editing",
-      "news": "OXB launched a fast-track offering for AAV and lentiviral vector platforms to accelerate viral vector development and manufacture. The new service aims to reduce the timeline to GMP manufacturing by up to nine months for biotechs utilizing these vectors.",
-      "url": "https://oxb.com/news/oxb-launches-fast-track-offering-for-aav-and-lentiviral-vector-platforms-accelerating-viral-vector-development-and-manufacture/"
+      "news": "Astellas announced the first patient has been dosed in a Phase 3 registrational study of setidegrasib (ASP3082), a novel KRAS G12D-targeted protein degrader, for the treatment of metastatic pancreatic ductal adenocarcinoma. This marks the first protein degrader targeting a KRAS mutation to enter Phase 3 development.",
+      "url": "https://newsroom.astellas.com/2026-04-15-astellas-doses-first-patient-in-phase-3-study-of-setidegrasib-for-kras-g12d-mutated-metastatic-pancreatic-ductal-adenocarcinoma"
+    },
+    {
+      "company": "STORM Therapeutics",
+      "modality": "gene editing",
+      "news": "STORM Therapeutics secured $56 million in Series C financing and announced the dosing of the first patient in a Phase 2 monotherapy trial of STC-15, a first-in-class METTL3 inhibitor, for select sarcoma indications. The funding will support the advancement of this RNA epigenetics therapy.",
+      "url": "https://www.stormtherapeutics.com/news/press-releases/storm-therapeutics-secures-56-million-series-c-financing-and-doses-first-patient-in-phase-2-sarcoma-trial-of-stc-15/"
+    },
+    {
+      "company": "Hinge Bio",
+      "modality": "bispecific antibodies",
+      "news": "Hinge Bio announced the first subject dosed in a Phase 1 clinical trial of HB2198, a novel multispecific antibody (GEM-DIMER) targeting both CD19 and CD20 with enhanced dual Fc domains for treating autoimmune diseases like Systemic Lupus Erythematosus. A separate Phase 1 trial in SLE patients is also open to screening.",
+      "url": "https://hingebio.com/2026/04/hinge-bio-announces-first-subject-dosed-in-phase-1-trial-of-hb2198-a-novel-b-cell-depleting-agent-for-treating-autoimmune-disease/"
     }
   ]
 }
