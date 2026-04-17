@@ -5336,11 +5336,6 @@
         "score": 39
       },
       {
-        "url": "https://www.alsglobal.com/en/news-and-media-Global#content1",
-        "anchor_text": "Pharmaceutical & healthcare",
-        "score": 39
-      },
-      {
         "url": "https://www.alsglobal.com/en/fuel-and-def-testing",
         "anchor_text": "Fuel & DEF testing",
         "score": 38
@@ -9841,6 +9836,11 @@
         "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
         "anchor_text": "Read More »",
         "score": 131
+      },
+      {
+        "url": "https://insilicominds.com/passage-of-senate-bill-s-5002-fda-modernization-act-2-0-relating-to-animal-testing/",
+        "anchor_text": "Read More »",
+        "score": 98
       },
       {
         "url": "https://insilicominds.com/fda-model-integrated-evidence-mie-industry-meeting-pilot-program-for-generic-drugs/",
@@ -14383,6 +14383,11 @@
         "score": 31
       },
       {
+        "url": "https://ikpknowledgepark.com/press-releases/",
+        "anchor_text": "Press Releases",
+        "score": 30
+      },
+      {
         "url": "https://ikpknowledgepark.com/privacy-policy/",
         "anchor_text": "Privacy Policy",
         "score": 30
@@ -17953,6 +17958,11 @@
         "score": 80
       },
       {
+        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=5735119a-8539-47b8-be5e-e51c3c533511",
+        "anchor_text": "DRAGEN v4.5 supports Illumina's new TruPath Genome and 5-base assays, drives insights across germline, oncology, and multiomic workflows",
+        "score": 80
+      },
+      {
         "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=a6de4a6d-a68c-44e9-9575-b3dcb0a82838",
         "anchor_text": "Illumina and the Center for Data-Driven Discovery in Biomedicine bring genomic data and scalable software to the fight against pediatric cancer and rare disease",
         "score": 80
@@ -17970,11 +17980,6 @@
       {
         "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=b2e86a1f-27d4-4a32-b234-68c86b42cf52",
         "anchor_text": "Illumina and Labcorp expand collaboration to broaden access to precision oncology testing",
-        "score": 80
-      },
-      {
-        "url": "https://www.illumina.com/company/news-center/press-releases/press-release-details.html?newsid=eab14a66-d3f9-4dca-afe9-df71e4235f37",
-        "anchor_text": "Illumina advances preventive genomics through strategic consortium with Veritas Genetics",
         "score": 80
       },
       {
@@ -20791,6 +20796,11 @@
         "score": 125
       },
       {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-leader-in-the-forrester-wave-for-ocm-services",
+        "anchor_text": "EY named a Leader in The Forrester Wave™ for OCM Services",
+        "score": 125
+      },
+      {
         "url": "https://www.ey.com/en_gl/insights/banking-capital-markets/how-can-reimagining-todays-workforce-help-banks-shape-their-future",
         "anchor_text": "How can reimagining today's workforce help banks shape their future?By focusing on four bold imperatives, banks can differentiate in the competition for top talent and drive higher returns on people investments.09 Sep 2025",
         "score": 124
@@ -22189,11 +22199,6 @@
         "url": "https://www.ey.com/en_iq",
         "anchor_text": "IraqEnglish",
         "score": 8
-      },
-      {
-        "url": "https://www.ey.com/en_ie",
-        "anchor_text": "IrelandEnglish",
-        "score": 8
       }
     ]
   },
@@ -22564,9 +22569,9 @@
         "score": 85
       },
       {
-        "url": "https://rxpropellant.com/rx-propellant-100m-life-sciences-campus-genome-valley/",
-        "anchor_text": "Rx Propellant announces US$ 100 Mn investment to develop an integrated large-format life sciences campus in Genome Valley, Hyderabad",
-        "score": 69
+        "url": "https://rxpropellant.com/why-science-needs-infrastructure-built-for-research-not-offices/",
+        "anchor_text": "Why Science Needs Infrastructure Built for Research, Not Offices",
+        "score": 79
       },
       {
         "url": "https://rxpropellant.com/portfolio/navi-mumbai-research-nmr-district/ ",
@@ -26398,16 +26403,6 @@
         "score": 172
       },
       {
-        "url": "https://abbott.mediaroom.com/2025-12-06-University-of-Wisconsin-Wins-Abbott-and-Big-Tens-We-Give-Blood-Competition-as-Campaign-Donations-Surge-319-,-Helping-Save-Nearly-250,000-Lives",
-        "anchor_text": "University of Wisconsin Wins Abbott and Big Ten's 'We Give Blood' Competition as Campaign Donations Surge 319%, Helping Save Nearly 250,000 Lives",
-        "score": 166
-      },
-      {
-        "url": "https://abbott.mediaroom.com/2025-12-06-University-of-Wisconsin-Wins-Abbott-and-Big-Tens-We-Give-Blood-Competition-as-Campaign-Donations-Surge-319-,-Helping-Save-Nearly-250,000-Lives#assets_2429_124720-111",
-        "anchor_text": "Photos1",
-        "score": 166
-      },
-      {
         "url": "https://abbott.mediaroom.com/2026-04-09-New-survey-finds-most-Americans-believe-chronic-diseases-are-preventable,-but-only-1-in-4-feel-confident-in-how-to-care-for-their-health",
         "anchor_text": "New survey finds most Americans believe chronic diseases are preventable, but only 1 in 4 feel confident in how to care for their health",
         "score": 160
@@ -26481,6 +26476,16 @@
         "url": "https://abbott.mediaroom.com/2026-03-30-Abbott-expands-access-to-Precision-Oncology-portfolio-through-integration-with-Flatirons-OncoEMR-R-platform#assets_2429_124743-111",
         "anchor_text": "Photos1",
         "score": 131
+      },
+      {
+        "url": "https://abbott.mediaroom.com/2026-04-16-Abbott-Reports-First-Quarter-2026-Results-Updates-Guidance-to-Reflect-Acquisition-of-Exact-Sciences",
+        "anchor_text": "Abbott Reports First-Quarter 2026 Results; Updates Guidance to Reflect Acquisition of Exact Sciences",
+        "score": 123
+      },
+      {
+        "url": "https://abbott.mediaroom.com/2026-04-16-Abbott-Reports-First-Quarter-2026-Results-Updates-Guidance-to-Reflect-Acquisition-of-Exact-Sciences#assets_2429_124745-111",
+        "anchor_text": "Photos1",
+        "score": 123
       },
       {
         "url": "https://abbott.mediaroom.com/2026-01-22-Abbott-Reports-Fourth-Quarter-and-Full-Year-2025-Results-Issues-2026-Financial-Outlook",
@@ -29466,6 +29471,11 @@
         "score": 49
       },
       {
+        "url": "https://www.ppd.com/how-we-help/precision-medicine/",
+        "anchor_text": "Precision Medicine",
+        "score": 48
+      },
+      {
         "url": "https://www.ppd.com/our-solutions/ppd-laboratories/",
         "anchor_text": "PPD Laboratory ServicesShow submenu",
         "score": 48
@@ -31269,6 +31279,11 @@
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Announces-Preliminary-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 173
+      },
+      {
+        "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-to-Report-First-Quarter-2026-Financial-Results-on-May-7-2026/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 170
       },
       {
         "url": "https://investors.guardanthealth.com/press-releases/press-releases/2026/Guardant-Health-Announces-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635c4/default.aspx",
@@ -34488,6 +34503,11 @@
         "score": 103
       },
       {
+        "url": "https://www.edwards.com/newsroom/news/2026-04-16-edwards-lifesciences-to-host-earnings-conference-c-d70d6cd",
+        "anchor_text": "Read more",
+        "score": 100
+      },
+      {
         "url": "https://www.edwards.com/newsroom/news/2026-03-30-two-year-data-on-edwards-lifesciences--evoque-syst",
         "anchor_text": "Read more",
         "score": 92
@@ -34499,11 +34519,6 @@
       },
       {
         "url": "https://www.edwards.com/newsroom/news/2026-02-19-edwards-lifesciences-to-present-at-the-barclays-an",
-        "anchor_text": "Read more",
-        "score": 92
-      },
-      {
-        "url": "https://www.edwards.com/newsroom/news/2026-02-13-edwards-lifesciences-to-present-at-citi-s-2026-unp",
         "anchor_text": "Read more",
         "score": 92
       },
@@ -36524,14 +36539,14 @@
         "score": 59
       },
       {
+        "url": "https://www.foundationmedicine.com/press-release/saga-diagnostics-mrd-platform",
+        "anchor_text": "Foundation Medicine to Strengthen Monitoring Portfolio with SAGA Diagnostics’ Tumor-Informed Molecular Residual Disease (MRD) Platform",
+        "score": 58
+      },
+      {
         "url": "https://www.foundationmedicine.com/resource/billing-and-financial-assistance",
         "anchor_text": "Billing and Reimbursement Support",
         "score": 56
-      },
-      {
-        "url": "https://www.foundationmedicine.com/press-release/hereditary-germline-tests",
-        "anchor_text": "Foundation Medicine to Launch Hereditary Germline Tests, FoundationOne®Germline and FoundationOne®Germline More, in the United States Through a Partnership with Fulgent Genetics",
-        "score": 54
       },
       {
         "url": "https://www.foundationmedicine.com/info/about-our-products-and-services",
@@ -37862,7 +37877,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price317.00CHF0.00(0.00%)Today",
+        "anchor_text": "Share price313.50CHF0.00(0.00%)Today",
         "score": 20
       },
       {
@@ -40723,7 +40738,7 @@
       },
       {
         "url": "https://www.daiichisankyo.com/sustainability/our_workplace/employee_health/",
-        "anchor_text": "Workplace Health, Safety & Welfare",
+        "anchor_text": "Health and Safety of Employees",
         "score": 54
       },
       {
@@ -42425,7 +42440,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -43050,7 +43065,7 @@
         "score": 136
       },
       {
-        "url": "https://ir.beonemedicines.com/media/custom-news/996381cb-8f58-4329-910f-96b542389a37/assets/740302c6-d016-492c-9526-6ee94638c39a/2025_AR_en.pdf?disposition=inline",
+        "url": "https://ir.beonemedicines.com/media/custom-news/8f001215-1e65-4531-ae0b-e456c9e975d5/assets/8fbd07fe-5cbd-4a00-a5be-2982937d5376/2025_AR_en.pdf?disposition=inline",
         "anchor_text": "2025 Interim Report",
         "score": 136
       },
@@ -44818,6 +44833,11 @@
         "score": 27
       },
       {
+        "url": "https://investors.alnylam.com/press-release?id=29781",
+        "anchor_text": "Alnylam to Webcast Conference Call Discussing First Quarter 2026 Financial Results",
+        "score": 26
+      },
+      {
         "url": "https://investors.alnylam.com/press-release?id=29746",
         "anchor_text": "New Data Presented at ACC.26 Further Support Benefits of Vutrisiran in ATTR-CM and Potential of Zilebesiran for Hypertension Management",
         "score": 26
@@ -44860,11 +44880,6 @@
       {
         "url": "https://investors.alnylam.com/press-release?id=29466",
         "anchor_text": "Alnylam to Invest $250 Million to Add Enzymatic Ligation Platform to U.S. Manufacturing Facility to Meet Growing Global Demand for RNAi Therapeutics",
-        "score": 26
-      },
-      {
-        "url": "https://investors.alnylam.com/press-release?id=29456",
-        "anchor_text": "Alnylam Announces Partial Repurchase of 1.00% Convertible Senior Notes Due 2027",
         "score": 26
       },
       {
@@ -45558,6 +45573,11 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
+      },
+      {
+        "url": "https://www.immunocore.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -50896,11 +50916,6 @@
         "score": 63
       },
       {
-        "url": "https://www.catalent.com/events/american-biomanufacturing-summit-2026/",
-        "anchor_text": "American Biomanufacturing Summit 2026",
-        "score": 62
-      },
-      {
         "url": "https://www.catalent.com/events/healthy-food-ingredients-oem-2026/",
         "anchor_text": "Health Food Ingredients & OEM Exhibition Tokyo-2026",
         "score": 58
@@ -50921,23 +50936,28 @@
         "score": 46
       },
       {
-        "url": "https://www.catalent.com/events/2026-crbe-east-summit/",
-        "anchor_text": "2026 CRBE Summit East",
-        "score": 46
-      },
-      {
         "url": "https://www.catalent.com/events/vitafoods-europe-2026/",
         "anchor_text": "Vitafoods Europe 2026",
         "score": 46
       },
       {
-        "url": "https://www.catalent.com/events/excipient-world-2026/",
-        "anchor_text": "Excipient World 2026",
-        "score": 45
+        "url": "https://www.catalent.com/events/2026-crbe-east-summit/",
+        "anchor_text": "2026 CRBE Summit East",
+        "score": 46
       },
       {
         "url": "https://www.catalent.com/events/cog-new-england-2026/",
         "anchor_text": "COG New England 2026",
+        "score": 45
+      },
+      {
+        "url": "https://www.catalent.com/events/asgct-annual-meeting/",
+        "anchor_text": "ASGCT Annual Meeting",
+        "score": 45
+      },
+      {
+        "url": "https://www.catalent.com/events/excipient-world-2026/",
+        "anchor_text": "Excipient World 2026",
         "score": 45
       },
       {
@@ -50976,13 +50996,13 @@
         "score": 42
       },
       {
-        "url": "https://www.catalent.com/events/pdd-workshop-2026/",
-        "anchor_text": "PDD Workshop 2026",
+        "url": "https://www.catalent.com/events/in-cosmetics-2026/",
+        "anchor_text": "In cosmetics 2026",
         "score": 42
       },
       {
-        "url": "https://www.catalent.com/events/in-cosmetics-2026/",
-        "anchor_text": "In cosmetics 2026",
+        "url": "https://www.catalent.com/events/pdd-workshop-2026/",
+        "anchor_text": "PDD Workshop 2026",
         "score": 42
       },
       {
@@ -50994,11 +51014,6 @@
         "url": "https://www.catalent.com/events/tides-usa-2026/",
         "anchor_text": "TIDES USA 2026",
         "score": 39
-      },
-      {
-        "url": "https://www.catalent.com/events/pegs-boston/",
-        "anchor_text": "PEGS Boston",
-        "score": 36
       },
       {
         "url": "https://www.catalent.com/about-us/overview/",
@@ -53381,6 +53396,11 @@
         "score": 80
       },
       {
+        "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260417_1.html",
+        "anchor_text": "17 APR 2026NewCorporateOtsuka Pharmaceutical Receives Judges' Special Award  at MAFF's 10th Shokuiku Activity Awards \"MoguMogu Town\" App Recognized for Promoting Food and Nutrition Education",
+        "score": 80
+      },
+      {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260401_1.html",
         "anchor_text": "1 APR 2026CorporateOtsuka Pharmaceutical Recognized as a \"Food and Nutrition Education Practice Excellent Corporation 2026\" by the MAFFLeveraging Proprietary Expertise and Services to Promote Health through Nutrition",
         "score": 80
@@ -54119,11 +54139,6 @@
         "url": "https://www.otsuka.co.jp/en/philosophy/otsuka-stories/",
         "anchor_text": "Otsuka Story",
         "score": 48
-      },
-      {
-        "url": "https://www.otsuka.co.jp/en/company/global-expansion/",
-        "anchor_text": "Original Global Development",
-        "score": 47
       },
       {
         "url": "https://www.otsuka.co.jp/en/research-and-development/",
@@ -59654,8 +59669,8 @@
         "score": 31
       },
       {
-        "url": "https://ir.discmedicine.com/news-releases#main-menu",
-        "anchor_text": "Skip to main navigation",
+        "url": "https://ir.discmedicine.com/news-releases#lfg-main-content",
+        "anchor_text": "Skip to content",
         "score": 26
       },
       {
@@ -59680,13 +59695,13 @@
     "press_url": "https://ir.intracellulartherapies.com/press-releases",
     "candidate_links": [
       {
-        "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Barclays-28th-Annual-Global-Healthcare-Conference/default.aspx",
-        "anchor_text": "See details(opens in new window)",
-        "score": 200
-      },
-      {
         "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Announces-64th-Consecutive-Year-of-Dividend-Increase-Raises-Quarterly-Dividend-by-3-1/default.aspx",
         "anchor_text": "Read article",
+        "score": 193
+      },
+      {
+        "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Bank-of-America-2026-Healthcare-Conference/default.aspx",
+        "anchor_text": "See details(opens in new window)",
         "score": 193
       },
       {
@@ -62397,6 +62412,732 @@
       {
         "url": "https://ir.mindmed.co/",
         "anchor_text": "Definium Therapeutics",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Mirati Therapeutics",
+    "press_url": "https://ir.mirati.com/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources/psoriasis-around-the-world.html",
+        "anchor_text": "Psoriasis around the world",
+        "score": 125
+      },
+      {
+        "url": "https://ir.mirati.com/life-and-science/news-and-perspectives/c2c4c-2024-raises-millions-for-global-cancer-research.html",
+        "anchor_text": "United across 30 nations for a cause",
+        "score": 114
+      },
+      {
+        "url": "https://ir.mirati.com/healthcare-providers/doctorx-unscripted-bold-conversations-about-patient-driven-science.html",
+        "anchor_text": "DoctoRx Unscripted",
+        "score": 107
+      },
+      {
+        "url": "https://ir.mirati.com/life-and-science/people/personal-experience-inspires-development-new-medicines.html",
+        "anchor_text": "Voices from R&D: personal experience inspires the development of new medicines",
+        "score": 100
+      },
+      {
+        "url": "https://ir.mirati.com/investors/global-strategic-license-and-collaboration-agreement-with-systimmune.html",
+        "anchor_text": "Learn More",
+        "score": 98
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/clinical-trials-and-research/disclosure-commitment.html",
+        "anchor_text": "Disclosure commitment",
+        "score": 97
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion/people-and-business-resource-groups.html",
+        "anchor_text": "Resource groups",
+        "score": 97
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/patient-resources-by-condition/immunology-resources.html",
+        "anchor_text": "Immunology patient resources",
+        "score": 96
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/independent-research/data-sharing-request-process.html",
+        "anchor_text": "Data sharing request process",
+        "score": 96
+      },
+      {
+        "url": "https://ir.mirati.com/healthcare-providers/time-back-campaign-honoring-oncologists-in-cancer-care.html",
+        "anchor_text": "Time Back",
+        "score": 95
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/independent-research/competitive-research-grants.html",
+        "anchor_text": "Areas of interest & research grants",
+        "score": 95
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion/diversity-and-inclusion-report.html",
+        "anchor_text": "Global inclusion and diversity report",
+        "score": 92
+      },
+      {
+        "url": "https://ir.mirati.com/healthcare-providers/early-patient-access-to-investigational-medicine.html",
+        "anchor_text": "Learn about pre-approval access",
+        "score": 89
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/our-r-and-d-team/research-publications.html",
+        "anchor_text": "Research publications",
+        "score": 85
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/risk-evaluation-and-mitigation-strategies.html",
+        "anchor_text": "Risk evaluation and mitigation strategies (REMS)",
+        "score": 84
+      },
+      {
+        "url": "https://ir.mirati.com/business-development/science-and-technology-areas-of-interest.html",
+        "anchor_text": "Areas of interest",
+        "score": 81
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/car-t-cell-therapy-patient-resources.html",
+        "anchor_text": "CAR T cell therapy patient resources",
+        "score": 79
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/responsibility/position-on-key-issues/generics.html",
+        "anchor_text": "Our position on generic drugs",
+        "score": 79
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-company/doing-business-with-us-as-a-supplier.html",
+        "anchor_text": "Doing business with us as a supplier",
+        "score": 79
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/responsibility/position-on-key-issues/pricing.html",
+        "anchor_text": "Our position on drug pricing",
+        "score": 78
+      },
+      {
+        "url": "https://ir.mirati.com/investors/stock-information/investment-return-calculator.html",
+        "anchor_text": "Investment return calculator",
+        "score": 78
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/get-help-paying-for-your-medicines.html",
+        "anchor_text": "Get help paying for your medicines",
+        "score": 77
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/responsibility/bristol-myers-squibb-foundation.html",
+        "anchor_text": "The Bristol Myers Squibb Foundation",
+        "score": 77
+      },
+      {
+        "url": "https://ir.mirati.com/life-and-science/science/predictive-molecule-invention.html",
+        "anchor_text": "Science Firsthand: Predicting new possibilities in drug discovery",
+        "score": 76
+      },
+      {
+        "url": "https://ir.mirati.com/investors/investor-contacts/investor-alerts-subscribe.html",
+        "anchor_text": "Investor alerts",
+        "score": 75
+      },
+      {
+        "url": "https://ir.mirati.com/investors/shareholder-services/cost-basis-calculator.html",
+        "anchor_text": "Cost basis calculator",
+        "score": 74
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/patient-resources-by-condition.html",
+        "anchor_text": "Patient resources",
+        "score": 73
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/clinical-trials-and-research.html",
+        "anchor_text": "Clinical trials & research",
+        "score": 73
+      },
+      {
+        "url": "https://ir.mirati.com/media/press-releases/press-release-alerts-subscribe.html",
+        "anchor_text": "Press release alerts",
+        "score": 73
+      },
+      {
+        "url": "https://ir.mirati.com/investors/financial-reporting/quarterly-results.html",
+        "anchor_text": "Quarterly results",
+        "score": 69
+      },
+      {
+        "url": "https://ir.mirati.com/investors/celgene-acquisition-investor-resources.html",
+        "anchor_text": "Acquisition-related information for Celgene shareholders",
+        "score": 68
+      },
+      {
+        "url": "https://ir.mirati.com/media/media-library/scientific-media-resources.html",
+        "anchor_text": "Scientific media resources",
+        "score": 68
+      },
+      {
+        "url": "https://ir.mirati.com/media/media-library/disease-state-infographics.html",
+        "anchor_text": "Disease state resources",
+        "score": 68
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/responsibility/position-on-key-issues.html",
+        "anchor_text": "Our positions",
+        "score": 68
+      },
+      {
+        "url": "https://ir.mirati.com/investors/shareholder-services/shareholder-faq.html",
+        "anchor_text": "Learn More",
+        "score": 68
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/translational-medicine.html",
+        "anchor_text": "Translational medicine",
+        "score": 67
+      },
+      {
+        "url": "https://ir.mirati.com/business-development/partnering-leadership-team.html",
+        "anchor_text": "Business development leadership team",
+        "score": 67
+      },
+      {
+        "url": "https://ir.mirati.com/investors/financial-reporting/annual-reports.html",
+        "anchor_text": "View past annual reports",
+        "score": 66
+      },
+      {
+        "url": "https://ir.mirati.com/investors/stock-information/dividend-history.html",
+        "anchor_text": "Dividend history",
+        "score": 66
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/plain-language-summary.html",
+        "anchor_text": "Plain language summaries of clinical trial results",
+        "score": 65
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/independent-research.html",
+        "anchor_text": "Independent research",
+        "score": 65
+      },
+      {
+        "url": "https://ir.mirati.com/investors/shareholder-services/mirati-faqs.html",
+        "anchor_text": "Learn More",
+        "score": 64
+      },
+      {
+        "url": "https://ir.mirati.com/healthcare-providers/post-study-drug-access.html",
+        "anchor_text": "Learn about post study drug access",
+        "score": 63
+      },
+      {
+        "url": "https://ir.mirati.com/investors/financial-reporting/sec-filings.html",
+        "anchor_text": "SEC filings",
+        "score": 63
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-company/worldwide-facilities.html",
+        "anchor_text": "Worldwide locations",
+        "score": 63
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-company/global-patient-week.html",
+        "anchor_text": "Global Patient Week",
+        "score": 62
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/survivorship-today.html",
+        "anchor_text": "Survivorship Today",
+        "score": 61
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/our-r-and-d-team.html",
+        "anchor_text": "",
+        "score": 61
+      },
+      {
+        "url": "https://ir.mirati.com/media/media-library/corporate-resources.html",
+        "anchor_text": "Corporate resources",
+        "score": 61
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/in-the-pipeline.html",
+        "anchor_text": "Our R&D pipeline",
+        "score": 60
+      },
+      {
+        "url": "https://ir.mirati.com/business-development/why-partner-with-us.html",
+        "anchor_text": "Why partner with us",
+        "score": 60
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/areas-of-focus.html",
+        "anchor_text": "Areas of focus",
+        "score": 59
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners/patient-safety.html",
+        "anchor_text": "Patient safety",
+        "score": 59
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/global-diversity-and-inclusion.html",
+        "anchor_text": "Global Inclusion",
+        "score": 59
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-company/our-technologies.html",
+        "anchor_text": "Our technologies",
+        "score": 59
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-company/history-timeline.html",
+        "anchor_text": "Our history",
+        "score": 59
+      },
+      {
+        "url": "https://ir.mirati.com/healthcare-providers/champions-in-care.html",
+        "anchor_text": "Champions in Care",
+        "score": 58
+      },
+      {
+        "url": "https://ir.mirati.com/business-development/existing-partners.html",
+        "anchor_text": "Our partnerships",
+        "score": 58
+      },
+      {
+        "url": "https://ir.mirati.com/business-development/early-innovation.html",
+        "anchor_text": "Early innovation at BMS",
+        "score": 57
+      },
+      {
+        "url": "https://ir.mirati.com/business-development/begin-discussion.html",
+        "anchor_text": "Contact Business Development",
+        "score": 57
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers/our-medicines.html",
+        "anchor_text": "Our medicines",
+        "score": 56
+      },
+      {
+        "url": "https://ir.mirati.com/investors/events-and-presentations.html",
+        "anchor_text": "View all",
+        "score": 54
+      },
+      {
+        "url": "https://ir.mirati.com/investors/shareholder-services.html",
+        "anchor_text": "Buy shares",
+        "score": 50
+      },
+      {
+        "url": "https://ir.mirati.com/investors/shareholder-services.html#faq",
+        "anchor_text": "Read FAQs for BMY shareholders",
+        "score": 50
+      },
+      {
+        "url": "https://ir.mirati.com/investors/financial-reporting.html",
+        "anchor_text": "Financial reporting",
+        "score": 49
+      },
+      {
+        "url": "https://ir.mirati.com/life-and-science/all-articles.html",
+        "anchor_text": "View all",
+        "score": 49
+      },
+      {
+        "url": "https://ir.mirati.com/investors/stock-information.html",
+        "anchor_text": "Stock information",
+        "score": 47
+      },
+      {
+        "url": "https://ir.mirati.com/investors/investor-contacts.html",
+        "anchor_text": "Investor contacts",
+        "score": 47
+      },
+      {
+        "url": "https://ir.mirati.com/investors/analyst-coverage.html",
+        "anchor_text": "Analyst coverage",
+        "score": 46
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/working-at-bms.html",
+        "anchor_text": "Working at BMS",
+        "score": 43
+      },
+      {
+        "url": "https://ir.mirati.com/forward-looking-statement.html",
+        "anchor_text": "Forward-looking statement",
+        "score": 43
+      },
+      {
+        "url": "https://ir.mirati.com/researchers-and-partners.html",
+        "anchor_text": "Researchers",
+        "score": 42
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-science.html",
+        "anchor_text": "Our science",
+        "score": 40
+      },
+      {
+        "url": "https://ir.mirati.com/patient-and-caregivers.html",
+        "anchor_text": "Patients & caregivers",
+        "score": 40
+      },
+      {
+        "url": "https://ir.mirati.com/media/press-releases.html",
+        "anchor_text": "View more",
+        "score": 40
+      },
+      {
+        "url": "https://ir.mirati.com/media/media-contacts.html",
+        "anchor_text": "Media contacts",
+        "score": 40
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-company.html",
+        "anchor_text": "Our company",
+        "score": 40
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/contact-us.html",
+        "anchor_text": "Contact us",
+        "score": 39
+      },
+      {
+        "url": "https://ir.mirati.com/media/media-library.html",
+        "anchor_text": "Media library",
+        "score": 39
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/leadership.html",
+        "anchor_text": "Leadership",
+        "score": 39
+      },
+      {
+        "url": "https://ir.mirati.com/about-us/our-impact.html",
+        "anchor_text": "Our impact",
+        "score": 39
+      },
+      {
+        "url": "https://ir.mirati.com/healthcare-providers.html",
+        "anchor_text": "Healthcare providers",
+        "score": 38
+      },
+      {
+        "url": "https://ir.mirati.com/business-development.html",
+        "anchor_text": "Business development",
+        "score": 38
+      },
+      {
+        "url": "https://ir.mirati.com/life-and-science.html",
+        "anchor_text": "Our stories",
+        "score": 34
+      },
+      {
+        "url": "https://ir.mirati.com/privacy-policy.html",
+        "anchor_text": "Privacy notice center",
+        "score": 32
+      },
+      {
+        "url": "https://ir.mirati.com/other-markets.html",
+        "anchor_text": "Distributor\t\t\t\t\t\t\t\t\t\tMarkets",
+        "score": 31
+      },
+      {
+        "url": "https://ir.mirati.com/legal-notice.html",
+        "anchor_text": "Legal notice",
+        "score": 30
+      },
+      {
+        "url": "https://ir.mirati.com/press-releases#main-content",
+        "anchor_text": "Skip to main content",
+        "score": 27
+      },
+      {
+        "url": "https://ir.mirati.com/press-releases",
+        "anchor_text": "Your privacy choices",
+        "score": 27
+      },
+      {
+        "url": "https://ir.mirati.com/about-us.html",
+        "anchor_text": "About us",
+        "score": 26
+      },
+      {
+        "url": "https://ir.mirati.com/site-map.html",
+        "anchor_text": "Sitemap",
+        "score": 26
+      },
+      {
+        "url": "https://ir.mirati.com/trademarks.html",
+        "anchor_text": "Trademarks",
+        "score": 18
+      },
+      {
+        "url": "https://ir.mirati.com/investors.html",
+        "anchor_text": "Investors",
+        "score": 17
+      },
+      {
+        "url": "https://ir.mirati.com/media.html",
+        "anchor_text": "News & media",
+        "score": 13
+      },
+      {
+        "url": "https://ir.mirati.com/ca/en",
+        "anchor_text": "English",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/ca/fr",
+        "anchor_text": "French",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/th/en",
+        "anchor_text": "English",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/th/th",
+        "anchor_text": "Thai",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/be/nl",
+        "anchor_text": "Dutch",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/be/fr",
+        "anchor_text": "French",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/nl/en",
+        "anchor_text": "English",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/ch/fr",
+        "anchor_text": "French",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/sa/en",
+        "anchor_text": "English",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/sa/ar",
+        "anchor_text": "Arabic",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/ae/en",
+        "anchor_text": "English",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/ae/ar",
+        "anchor_text": "Arabic",
+        "score": 10
+      },
+      {
+        "url": "https://ir.mirati.com/ar",
+        "anchor_text": "Spanish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/br",
+        "anchor_text": "Portuguese",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/cl",
+        "anchor_text": "Spanish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/co",
+        "anchor_text": "Spanish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/mx",
+        "anchor_text": "Spanish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/pe",
+        "anchor_text": "Spanish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/au",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/cn",
+        "anchor_text": "Simplified\t\t\t\t\t\t\t\t\t\tChinese",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/in",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/jp",
+        "anchor_text": "Japanese",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/kr",
+        "anchor_text": "Korean",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/nz",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/sg",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/tw",
+        "anchor_text": "Traditional\t\t\t\t\t\t\t\t\t\tChinese",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/at",
+        "anchor_text": "German",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/be",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/cz",
+        "anchor_text": "Czech",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/dk",
+        "anchor_text": "Danish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/fi",
+        "anchor_text": "Finnish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/fr",
+        "anchor_text": "French",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/de",
+        "anchor_text": "German",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/gr",
+        "anchor_text": "Greek",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/hu",
+        "anchor_text": "Hungarian",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/ie",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/it",
+        "anchor_text": "Italian",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/lu",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/nl",
+        "anchor_text": "Dutch",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/no",
+        "anchor_text": "Norwegian",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/pl",
+        "anchor_text": "Polish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/pt",
+        "anchor_text": "Portuguese",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/ro",
+        "anchor_text": "Romanian",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/es",
+        "anchor_text": "Spanish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/se",
+        "anchor_text": "Swedish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/ch",
+        "anchor_text": "German",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/gb",
+        "anchor_text": "English",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/il",
+        "anchor_text": "Hebrew",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/tr",
+        "anchor_text": "Turkish",
+        "score": 5
+      },
+      {
+        "url": "https://ir.mirati.com/",
+        "anchor_text": "Home",
         "score": 3
       }
     ]
@@ -68323,16 +69064,6 @@
         "score": 45
       },
       {
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000bR6aSYAS",
-        "anchor_text": "BOSTON AreaApr 16, 2026",
-        "score": 45
-      },
-      {
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm?register=701OO00000bR6aSYAS",
-        "anchor_text": "Register",
-        "score": 45
-      },
-      {
         "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000bRmclYAC",
         "anchor_text": "PHILADELPHIA AreaJun 04, 2026",
         "score": 45
@@ -68340,6 +69071,11 @@
       {
         "url": "https://www.chemcomp.com/en/Workshops-North_America.htm?register=701OO00000bRmclYAC",
         "anchor_text": "Register",
+        "score": 45
+      },
+      {
+        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000bR6aSYAS",
+        "anchor_text": "Workshop  |  BOSTON Area",
         "score": 45
       },
       {
@@ -68355,11 +69091,6 @@
       {
         "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000bRV4FYAW",
         "anchor_text": "Workshop  |  SAN DIEGO Area",
-        "score": 45
-      },
-      {
-        "url": "https://www.chemcomp.com/en/Workshops-North_America.htm#701OO00000bRZfZYAW",
-        "anchor_text": "Workshop  |  SAN FRANCISCO Area",
         "score": 45
       },
       {
@@ -68619,11 +69350,6 @@
     "press_url": "https://www.biosolveit.de/company/news/",
     "candidate_links": [
       {
-        "url": "https://www.biosolveit.de/2025/08/21/new-paper-out-a-benchmark-set-of-bioactive-molecules-for-diversity-analysis-of-compound-libraries-and-combinatorial-chemical-spaces/",
-        "anchor_text": "Read on",
-        "score": 189
-      },
-      {
         "url": "https://www.biosolveit.de/2025/09/08/workshop-in-boston-the-trillion-compound-workshop-biosolveit-x-enamine-featuring-molecular-glue-case-study/",
         "anchor_text": "Read on",
         "score": 164
@@ -68654,11 +69380,6 @@
         "score": 124
       },
       {
-        "url": "https://www.biosolveit.de/2025/08/08/join-us-in-honoring-matthias-rarey-herman-skolnik-award-recipient/",
-        "anchor_text": "Read on",
-        "score": 123
-      },
-      {
         "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
         "anchor_text": "Read on",
         "score": 114
@@ -68684,11 +69405,6 @@
         "score": 110
       },
       {
-        "url": "https://www.biosolveit.de/2025/08/13/last-call-to-join-our-free-lunch-workshop-in-durham/",
-        "anchor_text": "Read on",
-        "score": 109
-      },
-      {
         "url": "https://www.biosolveit.de/2026/04/08/two-projects-win-scientific-challenge-spring-2025/",
         "anchor_text": "Read on",
         "score": 107
@@ -68702,11 +69418,6 @@
         "url": "https://www.biosolveit.de/2026/02/10/seesar-15-apollo-decode-activity-gain-insights/",
         "anchor_text": "Read on",
         "score": 104
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/08/27/chemical-space-exploration-with-enamine-porto/",
-        "anchor_text": "Read on",
-        "score": 103
       },
       {
         "url": "https://www.biosolveit.de/2026/04/09/the-95-billion-update-access-the-real-space/",
@@ -68762,16 +69473,6 @@
         "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/08/25/biosolveit-day-2025/",
-        "anchor_text": "Read on",
-        "score": 77
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/08/27/synple-space/",
-        "anchor_text": "Read on",
-        "score": 70
       },
       {
         "url": "https://www.biosolveit.de/drug-discovery-solutions/chemical-space-generation/",
@@ -69471,7 +70172,7 @@
         "score": 101
       },
       {
-        "url": "https://www.3ds.com/careers/jobs/Press-Relations-Communications-Manager-m-f-d-EuroCentral-546646",
+        "url": "https://www.3ds.com/careers/jobs/press-relations-communications-manager-m-f-d-eurocentral-546646",
         "anchor_text": "Press Relations &…",
         "score": 93
       },
@@ -76456,59 +77157,109 @@
     "press_url": "https://crinetics.com/news-events/?filter=press-releases",
     "candidate_links": [
       {
-        "url": "https://crinetics.com/crinetics-announces-strong-palsonify-launch-execution-and-positive-results-for-concurrent-androstenedione-lowering-and-glucocorticoid-dose-reduction-in-phase-2-trial-of-atumelnant-for-congenital-adren/",
+        "url": "https://crinetics.com/press-releases/crinetics-announces-strong-palsonify-launch-execution-and-positive-results-for-concurrent-androstenedione-lowering-and-glucocorticoid-dose-reduction-in-phase-2-trial-of-atumelnant-for-congenital-adren/",
         "anchor_text": "READ MORE",
-        "score": 216
+        "score": 233
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-announces-submission-of-marketing-authorization-application-in-brazil-for-palsonify-paltusotine-in-acromegaly/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-submission-of-marketing-authorization-application-in-brazil-for-palsonify-paltusotine-in-acromegaly/",
         "anchor_text": "READ MORE",
-        "score": 151
+        "score": 168
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-reports-fourth-quarter-and-full-year-2025-financial-results-and-provides-business-update/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-reports-fourth-quarter-and-full-year-2025-financial-results-and-provides-business-update/",
         "anchor_text": "READ MORE",
-        "score": 130
+        "score": 147
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-report-fourth-quarter-and-full-year-2025-financial-results-on-february-26-2026/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-fourth-quarter-and-full-year-2025-financial-results-on-february-26-2026/",
         "anchor_text": "READ MORE",
+        "score": 140
+      },
+      {
+        "url": "https://crinetics.com/press-releases/crinetics-initiates-phase-2-3-pediatric-trial-evaluating-atumelnant-in-congenital-adrenal-hyperplasia-cah/",
+        "anchor_text": "READ MORE",
+        "score": 138
+      },
+      {
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-january-2026-inducement-grants-under-nasdaq-listing-rule-5635c4/",
+        "anchor_text": "READ MORE",
+        "score": 132
+      },
+      {
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-presentation-at-the-44th-annual-j-p-morgan-healthcare-conference/",
+        "anchor_text": "Webcast: Crinetics Pharmaceuticals Presentation at the 44th Annual J.P. Morgan Healthcare Conference",
         "score": 123
       },
       {
-        "url": "https://crinetics.com/crinetics-initiates-phase-2-3-pediatric-trial-evaluating-atumelnant-in-congenital-adrenal-hyperplasia-cah/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
         "anchor_text": "READ MORE",
-        "score": 121
+        "score": 119
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-announces-january-2026-inducement-grants-under-nasdaq-listing-rule-5635c4/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-participate-in-two-upcoming-investor-conferences-in-march/",
         "anchor_text": "READ MORE",
-        "score": 115
+        "score": 119
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-pricing-of-public-offering-of-common-stock-2/",
         "anchor_text": "READ MORE",
-        "score": 102
+        "score": 113
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-to-participate-in-two-upcoming-investor-conferences-in-march/",
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-proposed-public-offering-of-common-stock-4/",
         "anchor_text": "READ MORE",
-        "score": 102
+        "score": 111
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-announces-pricing-of-public-offering-of-common-stock-2/",
-        "anchor_text": "READ MORE",
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-fourth-quarter-2025-financial-results/",
+        "anchor_text": "Webcast: Crinetics to Report Fourth Quarter and Full Year 2025 Financial Results",
+        "score": 106
+      },
+      {
+        "url": "https://crinetics.com/events/fda-approval-of-palsonify-paltusotine-for-the-treatment-of-adults-with-acromegaly/",
+        "anchor_text": "FDA Approval of PALSONIFY™ (paltusotine) for the Treatment of Adults with Acromegaly",
+        "score": 106
+      },
+      {
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-second-quarter-2025-financial-results/",
+        "anchor_text": "Webcast: Crinetics Pharmaceuticals to Report Second Quarter 2025 Financial Results",
+        "score": 106
+      },
+      {
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results/",
+        "anchor_text": "VIEW DETAILS",
+        "score": 105
+      },
+      {
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-third-quarter-2025-financial-results/",
+        "anchor_text": "Webcast: Crinetics Pharmaceuticals to Report Third Quarter 2025 Financial Results",
+        "score": 105
+      },
+      {
+        "url": "https://crinetics.com/events/crinetics-to-participate-in-td-cowen-46-annual-health-care-conference-2/",
+        "anchor_text": "Crinetics to Participate in TD Cowen 46 Annual Health Care Conference",
         "score": 96
       },
       {
-        "url": "https://crinetics.com/crinetics-pharmaceuticals-announces-proposed-public-offering-of-common-stock-4/",
-        "anchor_text": "READ MORE",
-        "score": 94
+        "url": "https://crinetics.com/events/crinetics-pharmaceuticals-2025-annual-meeting-of-stockholders/",
+        "anchor_text": "Crinetics Pharmaceuticals 2025 Annual Meeting of Stockholders",
+        "score": 86
+      },
+      {
+        "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-corporate-update/",
+        "anchor_text": "Webcast: Crinetics Pharmaceuticals Corporate Update",
+        "score": 75
       },
       {
         "url": "https://crinetics.com/contact/charitable-contributions-sponsorships/",
         "anchor_text": "Charitable Contributions & Sponsorships",
         "score": 63
+      },
+      {
+        "url": "https://crinetics.com/events/crinetics-pharmaceuticals-2025-rd-day/",
+        "anchor_text": "Crinetics Pharmaceuticals 2025 R&D Day",
+        "score": 62
       },
       {
         "url": "https://crinetics.com/pipeline/atumelnant-oral-acth-antagonist/",
@@ -76544,21 +77295,6 @@
         "url": "https://crinetics.com/our-scientific-approach/",
         "anchor_text": "Our Approach",
         "score": 39
-      },
-      {
-        "url": "https://crinetics.com/news-events/page/24/?filter=press-releases",
-        "anchor_text": "24",
-        "score": 39
-      },
-      {
-        "url": "https://crinetics.com/news-events/page/2/?filter=press-releases",
-        "anchor_text": "Next »",
-        "score": 38
-      },
-      {
-        "url": "https://crinetics.com/news-events/page/3/?filter=press-releases",
-        "anchor_text": "3",
-        "score": 38
       },
       {
         "url": "https://crinetics.com/featured-perspectives/",
@@ -76618,6 +77354,16 @@
       {
         "url": "https://crinetics.com/news-events/?filter=events",
         "anchor_text": "Events",
+        "score": 27
+      },
+      {
+        "url": "https://crinetics.com/news-events/?filter=press-releases&paged=2",
+        "anchor_text": "",
+        "score": 27
+      },
+      {
+        "url": "https://crinetics.com/news-events/?filter=events&paged=2",
+        "anchor_text": "",
         "score": 27
       },
       {
@@ -84129,11 +84875,6 @@
         "score": 23
       },
       {
-        "url": "https://www.merckgroup.com/en/worldwide.html",
-        "anchor_text": "Locations in North America",
-        "score": 22
-      },
-      {
         "url": "https://www.merckgroup.com/en/expertise.html",
         "anchor_text": "Expertise",
         "score": 22
@@ -84141,6 +84882,11 @@
       {
         "url": "https://www.merckgroup.com/en/investors.html",
         "anchor_text": "Investor Relations",
+        "score": 22
+      },
+      {
+        "url": "https://www.merckgroup.com/en/worldwide.html",
+        "anchor_text": "Locations in North America",
         "score": 22
       },
       {
@@ -84323,11 +85069,6 @@
   {
     "company": "Tango Therapeutics",
     "press_url": "https://ir.tangotx.com/press-releases",
-    "candidate_links": []
-  },
-  {
-    "company": "Mirati Therapeutics",
-    "press_url": "https://ir.mirati.com/press-releases",
     "candidate_links": []
   },
   {
