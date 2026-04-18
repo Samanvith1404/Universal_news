@@ -98228,5 +98228,243 @@
         "score": 27,
         "date_added": "2026-04-17",
         "article_like": true
+    },
+    {
+        "company": "Medtronic",
+        "url": "https://news.medtronic.com/during-an-altaviva-implant-the-patient-talked-about-lunch-that-was-the-point-newsroom",
+        "score": 98,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "EY-Parthenon",
+        "url": "https://www.ey.com/en_gl/people/laura-furness",
+        "score": 43,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/x-axis-at-the-intersection-of-science-and-infrastructure/",
+        "score": 72,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/category/newsletter/newsletter-a/",
+        "score": 52,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/category/newsletter/",
+        "score": 27,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "Rx Propellant",
+        "url": "https://rxpropellant.com/insights#resource_25",
+        "score": 11,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Granules India",
+        "url": "https://granulesindia.com/sustainability/",
+        "score": 20,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-04-17-New-data-at-AACR-2026-demonstrate-advancements-in-Cancerguard-R-Multi-Cancer-Early-Detection-Test",
+        "score": 121,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Abbott Laboratories",
+        "url": "https://abbott.mediaroom.com/2026-04-17-New-data-at-AACR-2026-demonstrate-advancements-in-Cancerguard-R-Multi-Cancer-Early-Detection-Test#assets_2429_124746-111",
+        "score": 121,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "WuXi Biologics",
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-recognized-by-morningstar-sustainalytics-as-industry-and-regional-esg-leader-for-sixth-year/",
+        "score": 138,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Siemens Healthineers",
+        "url": "https://www.siemens-healthineers.com/perspectives/shaping-clinical-ux",
+        "score": 47,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-precision-oncology-alliance-welcomes-ucsf-helen-diller-family-comprehensive-cancer-center/",
+        "score": 136,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Caris Life Sciences",
+        "url": "https://www.carislifesciences.com/news/?query-0-page=52#caris-query-filter",
+        "score": 10,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Gilead Sciences",
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer",
+        "score": 172,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Schr\u00f6dinger",
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635c4-870a86116/default.aspx",
+        "score": 171,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "ICON plc",
+        "url": "https://www.iconplc.com/news-events/events/webinars/insights-first-human-study-design-oligonucleotides",
+        "score": 97,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights",
+        "score": 103,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/orchestrated-analytics/next-best",
+        "score": 102,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/pricing-and-market-access",
+        "score": 93,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/orchestrated-analytics",
+        "score": 90,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/patient-engagement-and-support",
+        "score": 75,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/brand-and-portfolio-strategy",
+        "score": 73,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics",
+        "score": 65,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "IQVIA",
+        "url": "https://www.iqvia.com/solutions/commercialization/hcp-engagement",
+        "score": 59,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-neurona-therapeutics-advancing-its-innovative-leadership-in-epilepsy-through-regenerative-science",
+        "score": 163,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "UCB",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/acquisition-of-own-shares-44",
+        "score": 79,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Agenus",
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-Phase-II-Data-Demonstrating-Immune-Reprogramming-and-Durable-Survival-with-Botensilimab-Balstilimab-and-agenT-797-in-PD-1-Refractory-Gastroesophageal-Cancer/default.aspx",
+        "score": 253,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "OpenEye Scientific",
+        "url": "https://www.eyesopen.com/relative-binding-free-energy",
+        "score": 41,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Dassault Systemes BIOVIA",
+        "url": "https://www.3ds.com/careers/jobs/pr-communications-specialist-nam-547757",
+        "score": 69,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Accent Therapeutics",
+        "url": "https://accenttx.com/news-events/accent-therapeutics-presents-data-reinforcing-therapeutic-potential-of-novel-kif18a-inhibitor-atx-295-at-the-2026-american-association-for-cancer-research-annual-meeting/",
+        "score": 199,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/rochester-regional-health-bringing-joy-back-to-medicine-video",
+        "score": 81,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Abridge",
+        "url": "https://www.abridge.com/blog/abridge-forbes-ai-50-2026",
+        "score": 45,
+        "date_added": "2026-04-18",
+        "article_like": true
+    },
+    {
+        "company": "Deep Genomics",
+        "url": "https://www.deepgenomics.com/biofm-platform/",
+        "score": 30,
+        "date_added": "2026-04-18",
+        "article_like": false
+    },
+    {
+        "company": "Deep Genomics",
+        "url": "https://www.deepgenomics.com/team/",
+        "score": 10,
+        "date_added": "2026-04-18",
+        "article_like": false
     }
 ]

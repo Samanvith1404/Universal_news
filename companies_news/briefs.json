@@ -1,10 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 31,
-    "items_extracted": 0,
+    "articles_used": 17,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-04-17 07:43:03"
+    "generated_at": "2026-04-18 07:21:15"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Gilead Sciences",
+      "modality": "gene editing",
+      "news": "Gilead Sciences received all required regulatory approvals for its acquisition of Arcellx, a company developing anitocabtagene autoleucel (anito-cel), a gene-edited CAR-T cell therapy. The tender offer for Arcellx shares has been extended to April 27, 2026, with a purchase price of $115.00 per share plus a contingent value right.",
+      "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer"
+    },
+    {
+      "company": "UCB",
+      "modality": "gene editing",
+      "news": "UCB announced a definitive agreement to acquire Neurona Therapeutics for an upfront payment of $650 million and up to $500 million in milestones. The deal includes NRTX-1001, a regenerative pluripotent stem cell therapy currently in Phase I/II trials for drug-resistant mesial temporal lobe epilepsy, which utilizes cell engineering to restore neural circuitry.",
+      "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-to-acquire-neurona-therapeutics-advancing-its-innovative-leadership-in-epilepsy-through-regenerative-science"
+    }
+  ]
 }
