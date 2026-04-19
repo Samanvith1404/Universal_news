@@ -98466,5 +98466,40 @@
         "score": 10,
         "date_added": "2026-04-18",
         "article_like": false
+    },
+    {
+        "company": "Sanofi",
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
+        "score": 107,
+        "date_added": "2026-04-19",
+        "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases/press-releases?item=610",
+        "score": 44,
+        "date_added": "2026-04-19",
+        "article_like": true
+    },
+    {
+        "company": "Novavax",
+        "url": "https://ir.novavax.com/press-releases/press-releases?item=610&asPDF=1",
+        "score": 44,
+        "date_added": "2026-04-19",
+        "article_like": true
+    },
+    {
+        "company": "Compass Pathways",
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Commends-White-House-Executive-Order-to-Accelerate-Research-and-Access-for-Psychedelic-Treatments/default.aspx",
+        "score": 212,
+        "date_added": "2026-04-19",
+        "article_like": false
+    },
+    {
+        "company": "10x Genomics",
+        "url": "https://investors.10xgenomics.com/news/news-details/2026/10x-Genomics-Introduces-Atera-a-New-Platform-to-Redefine-How-Biology-is-Measured-and-Understood/default.aspx",
+        "score": 177,
+        "date_added": "2026-04-19",
+        "article_like": false
     }
 ]
