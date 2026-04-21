@@ -1,10 +1,29 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 9,
-    "items_extracted": 0,
+    "articles_used": 32,
+    "items_extracted": 3,
     "items_dropped": 0,
-    "generated_at": "2026-04-20 08:00:49"
+    "generated_at": "2026-04-21 07:49:51"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Genentech",
+      "modality": "monoclonal antibodies",
+      "news": "The FDA accepted a supplemental Biologics License Application (sBLA) for Gazyva (obinutuzumab) for the treatment of systemic lupus erythematosus (SLE) based on Phase III ALLEGORY trial data showing significant disease activity reduction. A decision on approval is expected by December 2026.",
+      "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g"
+    },
+    {
+      "company": "Astellas Pharma",
+      "modality": "monoclonal antibodies",
+      "news": "The FDA granted Priority Review to a supplemental Biologics License Application (sBLA) for PADCEV (enfortumab vedotin) in combination with Keytruda (pembrolizumab) for perioperative treatment of muscle-invasive bladder cancer regardless of cisplatin eligibility. The PDUFA target date is August 17, 2026.",
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-grants-priority-review-sbla-padcevtm-keytrudar"
+    },
+    {
+      "company": "AstraZeneca",
+      "modality": "monoclonal antibodies",
+      "news": "AstraZeneca's Ultomiris (ravulizumab) met its primary endpoint in the Phase III I CAN trial, demonstrating a statistically significant and clinically meaningful reduction in proteinuria in adults with immunoglobulin A nephropathy (IgAN) at week 34. The company plans to seek accelerated approval in key markets.",
+      "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/i-can-phiii-interim-analysis-met-primary-endpoint.html"
+    }
+  ]
 }
