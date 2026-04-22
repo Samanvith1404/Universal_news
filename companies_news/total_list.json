@@ -4,6 +4,16 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -90,16 +100,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-16-06-00-00-3238527",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-12-06-30-00-3236866",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-10-14-00-56-3235419",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -1125,6 +1125,61 @@
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
+        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
+        "score": 219
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
+        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
+        "score": 201
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
+        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
+        "score": 156
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
+        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
+        "score": 155
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
+        "score": 152
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
+        "score": 147
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
+        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
+        "score": 145
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
+        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
+        "score": 144
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
+        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
+        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
+        "score": 143
+      },
+      {
+        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
+        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
+        "score": 122
+      },
       {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
@@ -5226,14 +5281,14 @@
         "score": 113
       },
       {
+        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-excavator-diesel-engine",
+        "anchor_text": "Excavator Diesel Engine",
+        "score": 113
+      },
+      {
         "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-crawler-tractor",
         "anchor_text": "Crawler Tractor",
         "score": 105
-      },
-      {
-        "url": "https://www.alsglobal.com/en/News-and-publications/2026/04/case-study-cone-crusher",
-        "anchor_text": "Cone Crusher",
-        "score": 102
       },
       {
         "url": "https://www.alsglobal.com/en/investor-relations/ASX-announcements-archive",
@@ -5642,49 +5697,9 @@
         "score": 160
       },
       {
-        "url": "https://www.veeva.com/resources/unilever-reckitt-estee-lauder-nestle-basf-and-evonik-to-speak-at-veevas-virtual-summit-for-consumer-goods-and-chemical-industries/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
-        "url": "https://www.veeva.com/resources/court-rejects-medidata-lawsuit-against-veeva-for-lack-of-evidence-blocks-medidatas-moves-to-limit-competition-and-employee-rights/",
-        "anchor_text": "Read Press Release",
-        "score": 157
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-research-finds-87-of-medtechs-lack-consistent-methods-to-share-product-information-across-global-regulatory-teams/%20",
-        "anchor_text": "Read Press Release",
-        "score": 153
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-first-customer-win-and-april-2024-availability-for-vault-crm-the-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 149
-      },
-      {
-        "url": "https://www.veeva.com/resources/st-cloud-state-university-and-veeva-partner-to-deliver-real-world-clinical-technology-experience-to-medtech-students/",
-        "anchor_text": "Read Press Release",
-        "score": 144
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/veeva-medtech-clinical-trials-report-signals-significant-opportunity-to-improve-data-delivery-and-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 143
-      },
-      {
-        "url": "https://www.veeva.com/resources/largest-ever-industry-report-reveals-video-meetings-3x-more-effective-and-companies-using-them-most-gain-advantage/",
-        "anchor_text": "Read Press Release",
-        "score": 142
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-esource-application-for-research-sites-to-eliminate-paper-and-streamline-clinical-trial-data-flow/",
         "anchor_text": "Read Press Release",
         "score": 141
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-pharma-adopts-veeva-vault-validation-management-for-digital-validation-execution-and-improved-efficiency/",
-        "anchor_text": "Read Press Release",
-        "score": 140
       },
       {
         "url": "https://www.veeva.com/resources/more-than-125-customers-worldwide-live-on-vault-crm-as-veeva-accelerates-the-industrys-agentic-transformation/",
@@ -5692,34 +5707,9 @@
         "score": 137
       },
       {
-        "url": "https://www.veeva.com/resources/minaris-regenerative-medicine-streamlining-contract-manufacturing-with-veeva-vault-quality-suite-applications/",
-        "anchor_text": "Read Press Release",
-        "score": 137
-      },
-      {
-        "url": "https://www.veeva.com/resources/boehringer-ingelheim-partners-with-veeva-to-advance-its-clinical-and-regulatory-operations-in-animal-health/",
-        "anchor_text": "Read Press Release",
-        "score": 135
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-sarah-cannon-research-institute-form-strategic-collaboration-to-advance-oncology-clinical-trials/",
         "anchor_text": "Read Press Release",
         "score": 134
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-2000-biopharma-leaders-come-together-at-veeva-rd-and-quality-summit-to-advance-drug-development/",
-        "anchor_text": "Read Press Release",
-        "score": 133
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-clinical-database-crosses-200-study-milestone-cuts-time-to-aggregate-and-clean-study-data-by-30-50/",
-        "anchor_text": "Read Press Release",
-        "score": 132
       },
       {
         "url": "https://www.veeva.com/resources/iqvia-and-veeva-announce-long-term-clinical-and-commercial-partnerships-and-resolution-of-all-disputes/",
@@ -5732,39 +5722,9 @@
         "score": 130
       },
       {
-        "url": "https://www.veeva.com/resources/new-batch-release-application-for-life-sciences-manufacturing-to-speed-time-to-market-and-reduce-cost/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/merck-kgaa-darmstadt-germany-partners-with-veeva-to-transform-medical-information-operations-globally/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-450-companies-adopt-veeva-vault-etmf-for-improved-trial-efficiency-and-inspection-readiness/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-commercial-summit-connects-nearly-1500-life-sciences-leaders-across-sales-medical-and-marketing/",
-        "anchor_text": "Learn More",
-        "score": 129
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-post-pandemic-hcp-access-nearing-80-in-key-specialties-driven-by-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 129
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-opendata-and-veeva-network-mdm-enable-coordinated-customer-engagement-for-boehringer-ingelheim/",
         "anchor_text": "Read Press Release",
         "score": 128
-      },
-      {
-        "url": "https://www.veeva.com/resources/biopharmas-boost-marketing-effectiveness-by-23-by-synchronizing-digital-media-with-field-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 127
       },
       {
         "url": "https://www.veeva.com/medtech/news/new-study-finds-88-of-medtechs-prioritizing-postmarket-quality-modernization-within-next-3-years",
@@ -5777,57 +5737,12 @@
         "score": 126
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-rim-driving-greater-speed-and-compliance-for-more-than-350-life-sciences-organizations/",
-        "anchor_text": "Read Press Release",
-        "score": 126
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-collaboration-with-global-biotech-to-further-accelerate-clinical-trial-innovation/",
         "anchor_text": "Read Press Release",
         "score": 125
       },
       {
-        "url": "https://www.veeva.com/resources/biopharma-leaders-come-together-at-veeva-commercial-summit-to-advance-customer-centric-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/southern-star-research-adopts-veeva-vault-etmf-and-veeva-vault-ctms-to-streamline-trial-processes/",
-        "anchor_text": "Read Press Release",
-        "score": 125
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-compass-modernizes-prescriber-data-with-new-approach-designed-for-todays-complex-therapies/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-pulse-reveals-digital-content-more-than-twice-as-effective-in-driving-promotional-response/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
-        "url": "https://www.veeva.com/medtech/resources/industrywide-survey-reveals-centralizing-regulatory-is-number-one-priority-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 124
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-environmental-monitoring-solution-to-modernize-quality-control-in-manufacturing/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/major-release-of-veeva-site-connect-streamlines-clinical-trial-execution-for-sites-and-sponsors/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/life-sciences-community-advances-toward-next-phase-of-innovation-at-veeva-rd-and-quality-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-crossix-introduces-new-products-to-advance-omnichannel-marketing-for-life-sciences-brands/",
         "anchor_text": "Read Press Release",
         "score": 123
       },
@@ -5837,32 +5752,12 @@
         "score": 122
       },
       {
-        "url": "https://www.veeva.com/resources/life-sciences-brands-reach-clinically-relevant-audiences-with-new-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 122
-      },
-      {
         "url": "https://www.veeva.com/resources/industry-research-finds-establishing-a-foundation-for-ai-is-top-priority-for-cpg-enterprises/",
         "anchor_text": "Read Press Release",
         "score": 120
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-cdb-application-to-streamline-aggregation-cleaning-and-transformation-of-clinical-data/",
-        "anchor_text": "Read Press Release",
-        "score": 120
-      },
-      {
         "url": "https://www.veeva.com/resources/aop-health-standardizes-on-veeva-industry-cloud-for-life-sciences-across-all-business-areas/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-pulse-findings-show-connected-engagement-creates-an-advantage-as-hcp-access-drops/",
-        "anchor_text": "Read Press Release",
-        "score": 119
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-link-workflow-a-no-code-platform-for-building-custom-workflow-applications/",
         "anchor_text": "Read Press Release",
         "score": 119
       },
@@ -5877,42 +5772,7 @@
         "score": 117
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-suite-to-unlock-greater-customer-centricity-with-launch-of-service-center/",
-        "anchor_text": "Learn More",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/top-biopharma-brands-reach-audiences-10x-more-qualified-with-veeva-crossix-prime-segments/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-becomes-first-life-sciences-training-solutions-provider-to-gain-iacet-accreditation/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/ani-pharmaceuticals-adopts-veeva-commercial-cloud-to-better-support-rare-disease-patients/",
-        "anchor_text": "Read Press Release",
-        "score": 117
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-gains-momentum-as-companies-unify-quality-assurance-and-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
-        "url": "https://www.veeva.com/resources/more-than-350-companies-increase-efficiency-and-compliance-with-veeva-training-solutions/",
-        "anchor_text": "Read Press Release",
-        "score": 116
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/report-reveals-70-of-medtechs-use-manual-processes-for-managing-content-and-claims/",
-        "anchor_text": "Read Press Release",
-        "score": 115
-      },
-      {
-        "url": "https://www.veeva.com/resources/new-veeva-vault-submissions-publishing-elearning-application-speeds-employee-onboarding/",
         "anchor_text": "Read Press Release",
         "score": 115
       },
@@ -5922,74 +5782,14 @@
         "score": 114
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-pulse-shows-doctors-opening-up-two-way-communications-doubles-digital-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-rd-and-quality-summit-brings-together-biopharma-leaders-to-accelerate-innovation/",
-        "anchor_text": "Read Press Release",
-        "score": 114
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-new-digital-hazard-analysis-and-critical-control-point-haccp-solution/",
         "anchor_text": "Read Press Release",
         "score": 113
       },
       {
-        "url": "https://www.veeva.com/resources/anthem-biosciences-launches-veeva-vault-quality-for-greater-efficiency-and-compliance/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/leo-pharma-connects-affiliates-with-veeva-vault-safety-to-transform-safety-operations/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-study-portal-and-veevaid-to-streamline-research-site-trial-execution/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/new-veeva-link-medtech-provides-real-time-data-to-optimize-scientific-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/global-cdmo-adare-pharma-solutions-harmonizing-quality-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 113
-      },
-      {
-        "url": "https://www.veeva.com/resources/lotus-clinical-research-expands-partnership-with-veeva-to-accelerate-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 112
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/medtech-industry-establishes-foundation-for-clinical-trials-with-veeva-medtech/",
         "anchor_text": "Read Press Release",
         "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-expands-relationship-with-accenture-to-help-customers-transition-to-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 111
-      },
-      {
-        "url": "https://www.veeva.com/resources/six-of-the-top-20-pharma-select-veeva-vault-edc-as-company-standard-for-new-trials/",
-        "anchor_text": "Learn More",
-        "score": 110
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/for-the-second-year-in-a-row-veeva-medtech-named-best-overall-medtech-software",
-        "anchor_text": "Read Press Release",
-        "score": 108
-      },
-      {
-        "url": "https://www.veeva.com/resources/vita-global-sciences-partners-with-veeva-to-streamline-clinical-data-management/",
-        "anchor_text": "Read Press Release",
-        "score": 107
       },
       {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-now-available-to-increase-productivity-and-customer-centricity/",
@@ -6002,32 +5802,12 @@
         "score": 106
       },
       {
-        "url": "https://www.veeva.com/resources/troy-animal-healthcare-strengthens-quality-operations-with-veeva-vault-quality/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
-        "url": "https://www.veeva.com/resources/ucb-and-veeva-collaborate-to-advance-the-patient-experience-in-clinical-trials/",
-        "anchor_text": "Read Press Release",
-        "score": 106
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/research-shows-medtechs-prioritizing-site-collaboration-and-data-quality/",
         "anchor_text": "Read Press Release",
         "score": 105
       },
       {
         "url": "https://www.veeva.com/resources/life-sciences-leaders-advance-unified-engagement-at-veeva-commercial-summit/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/targeted-pre-launch-scientific-outreach-drives-40-faster-treatment-adoption/",
-        "anchor_text": "Read Press Release",
-        "score": 103
-      },
-      {
-        "url": "https://www.veeva.com/resources/recipharm-harmonizes-its-global-quality-operations-with-veeva-vault-quality/",
         "anchor_text": "Read Press Release",
         "score": 103
       },
@@ -6052,47 +5832,12 @@
         "score": 100
       },
       {
-        "url": "https://www.veeva.com/resources/top-biopharma-commits-to-veeva-vault-crm-for-global-customer-engagement/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/leading-asia-pacific-biopharmas-power-digital-engagement-with-veeva-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-new-epro-application-for-faster-access-to-patient-data/",
-        "anchor_text": "Read Press Release",
-        "score": 99
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-pulse-data-shows-new-science-calls-for-more-connected-engagement/",
         "anchor_text": "Read Press Release",
         "score": 98
       },
       {
-        "url": "https://www.veeva.com/resources/new-service-center-in-veeva-vault-crm-suite-unifies-sales-and-service/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-completes-study-migrations-to-veeva-vault-edc-for-top-biopharma/",
-        "anchor_text": "Read Press Release",
-        "score": 97
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-statement-in-support-of-proposed-ftc-rule-to-ban-non-competes/",
-        "anchor_text": "Read Press Release",
-        "score": 95
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-and-zifo-partner-to-accelerate-quality-control-modernization/",
-        "anchor_text": "Read Press Release",
-        "score": 94
-      },
-      {
-        "url": "https://www.veeva.com/resources/40-cros-select-veeva-vault-ctms-to-drive-clinical-trial-operations/",
         "anchor_text": "Read Press Release",
         "score": 94
       },
@@ -6107,22 +5852,7 @@
         "score": 92
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-unveils-vault-crm-next-generation-of-crm-for-life-sciences/",
-        "anchor_text": "Read Press Release",
-        "score": 92
-      },
-      {
-        "url": "https://www.veeva.com/resources/modular-content-powers-omnichannel-engagement-at-speed-and-scale/",
-        "anchor_text": "Learn More",
-        "score": 92
-      },
-      {
         "url": "https://www.veeva.com/medtech/news/18-of-the-top-20-medtech-companies-partner-with-veeva-medtech",
-        "anchor_text": "Read Press Release",
-        "score": 91
-      },
-      {
-        "url": "https://www.veeva.com/resources/tigermed-advances-clinical-data-management-with-veeva-vault-edc/",
         "anchor_text": "Read Press Release",
         "score": 91
       },
@@ -6142,22 +5872,12 @@
         "score": 89
       },
       {
-        "url": "https://www.veeva.com/resources/now-available-veeva-compass-suite-of-commercial-data-products/",
-        "anchor_text": "Read Press Release",
-        "score": 89
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-ai-agents-to-be-released-across-all-veeva-applications/",
         "anchor_text": "Read Press Release",
         "score": 88
       },
       {
         "url": "https://www.veeva.com/resources/more-than-450-companies-drive-speed-to-market-with-veeva-rim/",
-        "anchor_text": "Read Press Release",
-        "score": 88
-      },
-      {
-        "url": "https://www.veeva.com/resources/bayer-commits-to-veeva-vault-crm-and-veeva-opendata-globally/",
         "anchor_text": "Read Press Release",
         "score": 88
       },
@@ -6172,39 +5892,9 @@
         "score": 87
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2024-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fourth-quarter-and-fiscal-year-2023-results/",
-        "anchor_text": "Read Press Release",
-        "score": 87
-      },
-      {
         "url": "https://www.veeva.com/resources/top-global-biopharmas-standardize-on-veeva-china-crm-suite/",
         "anchor_text": "Read Press Release",
         "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/kemwell-biopharma-drives-quality-excellence-with-veeva-qms/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-partners-with-sanofi-to-transform-its-quality-system/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/batavia-optimizes-global-qa-with-veeva-vault-quality-suite/",
-        "anchor_text": "Read Press Release",
-        "score": 86
-      },
-      {
-        "url": "https://www.veeva.com/resources/veranex-accelerates-clinical-trials-with-veeva-vault-cdms/",
-        "anchor_text": "Read Press Release",
-        "score": 85
       },
       {
         "url": "https://www.veeva.com/resources/veeva-and-biomarin-form-long-term-strategic-partnership/",
@@ -6217,57 +5907,12 @@
         "score": 82
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-business-consulting-expands-with-new-rd-services/",
-        "anchor_text": "Read Press Release",
-        "score": 82
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-lims-to-support-civica-rx-quality-control/",
-        "anchor_text": "Read Press Release",
-        "score": 81
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-vault-edc-surpasses-1000-study-start-milestone/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-and-merck-form-long-term-strategic-partnership/",
-        "anchor_text": "Read Press Release",
-        "score": 80
-      },
-      {
         "url": "https://www.veeva.com/resources/astellas-chooses-veeva-vault-crm-as-global-standard/",
         "anchor_text": "Read Press Release",
         "score": 79
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-vault-crm-now-available-for-all-new-customers/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-clinical-study-training-application/",
-        "anchor_text": "Read Press Release",
-        "score": 79
-      },
-      {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2026-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-second-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 78
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-second-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 78
       },
@@ -6288,26 +5933,6 @@
       },
       {
         "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2025-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-third-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2024-first-quarter-results/",
-        "anchor_text": "Read Press Release",
-        "score": 77
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-fiscal-2023-third-quarter-results/",
         "anchor_text": "Read Press Release",
         "score": 77
       },
@@ -6337,22 +5962,7 @@
         "score": 72
       },
       {
-        "url": "https://www.veeva.com/resources/veeva-introduces-veeva-vault-crm-for-medtech/",
-        "anchor_text": "Read Press Release",
-        "score": 72
-      },
-      {
         "url": "https://www.veeva.com/resources/gilead-sciences-commits-to-veeva-vault-crm/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-introduces-vault-basics-for-biotechs/",
-        "anchor_text": "Read Press Release",
-        "score": 70
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-announces-vault-crm-campaign-manager/",
         "anchor_text": "Read Press Release",
         "score": 70
       },
@@ -6384,11 +5994,6 @@
       {
         "url": "https://www.veeva.com/eu/life-science-digital-engagement-strategy/",
         "anchor_text": "Increase Omnichannel Impact",
-        "score": 61
-      },
-      {
-        "url": "https://www.veeva.com/resources/veeva-launches-ai-partner-program/",
-        "anchor_text": "Read Press Release",
         "score": 61
       },
       {
@@ -9096,6 +8701,742 @@
     ]
   },
   {
+    "company": "o2h Discovery",
+    "press_url": "https://o2h.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://o2h.com/ventures/o2h-are-working-with-new-boston-based-start-up-arrakis-supporting-discovery-efforts-and-making-the-seed-funding-stretch-further/",
+        "anchor_text": "o2h discovery are working with new Boston based start-up Arrakis, supporting discovery efforts and",
+        "score": 154
+      },
+      {
+        "url": "https://o2h.com/ventures/exonate-receives-wellcome-trust-funding-to-develop-eye-drop-treatment-for-wet-age-related-macular-degeneration-wet-amd/",
+        "anchor_text": "o2h group update: Exonate receives Wellcome Trust funding to develop eye drop treatment for wet ag",
+        "score": 145
+      },
+      {
+        "url": "https://o2h.com/press-release/neophore-closed-series-b-round-successfully-and-expands-its-drug-discovery-collaboration-with-o2h-discovery/",
+        "anchor_text": "Neophore closed £15.2m series B round successfully and expands its drug discovery collaboration w",
+        "score": 139
+      },
+      {
+        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/the-o2h-therapeutics-and-ai-fund-makes-investment-in-early-stage-biotechnology-company/",
+        "anchor_text": "The o2h Therapeutics and AI Fund makes investment in early stage biotechnology company",
+        "score": 139
+      },
+      {
+        "url": "https://o2h.com/ventures/investment-in-the-seed-round-of-phoremost-who-have-developed-a-next-generation-phenotypic-screening-platform/",
+        "anchor_text": "Investment in the seed round of Phoremost who have developed a next-generation phenotypic screenin",
+        "score": 135
+      },
+      {
+        "url": "https://o2h.com/ventures/orfan-biotech-a-company-dedicated-to-developing-small-molecules-for-the-treatment-of-primary-hyperoxaluria/",
+        "anchor_text": "Orfan Biotech, a company dedicated to developing small molecules for the treatment of Primary Hype",
+        "score": 133
+      },
+      {
+        "url": "https://o2h.com/discovery/press-release-phoremost-and-o2h-discovery-collaborate-to-progress-first-in-class-drug-discovery-programs/",
+        "anchor_text": "Press Release – PhoreMost and o2h discovery collaborate to progress first-in-class drug disc",
+        "score": 132
+      },
+      {
+        "url": "https://o2h.com/discovery/press-release-curza-and-o2h-discovery-announce-a-multi-fte-chemistry-collaboration-against-gram-negative/",
+        "anchor_text": "Press Release – Curza and o2h discovery announce a multi-FTE chemistry collaboration against",
+        "score": 132
+      },
+      {
+        "url": "https://o2h.com/ventures/arecor-secures-6m-investment-for-the-clinical-development-of-its-diabetes-speciality-pharma-portfolio/",
+        "anchor_text": "Arecor secures £6M investment for the clinical development of its diabetes speciality pharma port",
+        "score": 128
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-is-pleased-to-announce-a-10-fte-synthetic-chemistry-collaboration-with-heptares/",
+        "anchor_text": "o2h discovery is pleased to announce a 10 FTE Synthetic Chemistry collaboration with Heptares",
+        "score": 121
+      },
+      {
+        "url": "https://o2h.com/discovery/boosting-the-success-potential-of-promising-biotech-startups-the-o2h-kickstarter-competition/",
+        "anchor_text": "Boosting the success potential of promising Biotech Startups: the o2h kickstarter competition",
+        "score": 120
+      },
+      {
+        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/2-percent-off-the-initial-fee-for-o2h-therapeutics-and-ai-eis-fund/",
+        "anchor_text": "2% off the initial fee for The o2h Therapeutics and AI S/EIS Fund",
+        "score": 119
+      },
+      {
+        "url": "https://o2h.com/o2h-therapeutics-and-ai-s-eis-fund/press-release-the-o2h-therapeutics-fund-makes-its-first-investment/",
+        "anchor_text": "Press Release – The o2h Therapeutics Fund makes its first investment",
+        "score": 119
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-ventures-knowledge-intensive-human-health-eis-fund-invests-into-bivictrix-therapeutics/",
+        "anchor_text": "o2h Ventures ‘Knowledge Intensive Human Health EIS Fund’ invests into BiVictriX Therapeutics",
+        "score": 117
+      },
+      {
+        "url": "https://o2h.com/ventures/watch-o2h-ventures-ceo-sunil-shah-feature-in-the-british-business-bank-finance-guide-video/",
+        "anchor_text": "Watch o2h Ventures CEO Sunil Shah feature in the British Business Bank Finance Guide video",
+        "score": 117
+      },
+      {
+        "url": "https://o2h.com/discovery/lipid-nanoparticles-o2h-discovery-has-expertise-in-synthesizing-phospholipid-molecules/",
+        "anchor_text": "Lipid Nanoparticles: o2h discovery’s expertise in synthesizing phospholipid molecules to sup",
+        "score": 114
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-group-marks-20-years-with-the-7th-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h Group Marks 20 Years with the 7th o2h Collaborative Innovation Conference",
+        "score": 109
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-pleased-to-announce-multi-fte-expansion-with-cedilla-therapeutics/",
+        "anchor_text": "Cedilla Therapeutics and o2h discovery are pleased to announce multi FTE expansion to their synthe",
+        "score": 107
+      },
+      {
+        "url": "https://o2h.com/discovery/finalist-for-best-performing-rd-service-provider-of-the-year-at-on-awards-2024/",
+        "anchor_text": "Finalist for ‘Best Performing R&D Service Provider of the Year’ at ON Awards 2024",
+        "score": 106
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-discovery-is-in-the-finals-for-most-impactful-cro-at-obn-awards-2023/",
+        "anchor_text": "o2h discovery is in the finals for ‘Most Impactful CRO’ at OBN Awards 2023",
+        "score": 104
+      },
+      {
+        "url": "https://o2h.com/press-release/digital-brain-biomarker-company-monument-therapeutics-raises-2-6-million/",
+        "anchor_text": "Digital brain biomarker company Monument Therapeutics raises £2.6 million",
+        "score": 104
+      },
+      {
+        "url": "https://o2h.com/ventures/chemisty-in-the-cloudtm-the-worlds-first-app-to-project-manage-drug-discovery/",
+        "anchor_text": "Chemistry in the Cloud™ – The World’s First App To Project Manage Drug Discover",
+        "score": 104
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-expands-synthetic-chemistry-collaboration-with-sosei-heptares/",
+        "anchor_text": "o2h discovery expands synthetic chemistry collaboration with Sosei Heptares",
+        "score": 103
+      },
+      {
+        "url": "https://o2h.com/discovery/sunil-shah-ceo-o2h-discovery-wins-special-recognition-award-by-obn-uk-ltd/",
+        "anchor_text": "Sunil Shah, CEO, o2h discovery Wins Special Recognition Award by OBN UK Ltd",
+        "score": 101
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/sunil-shah-ceo-o2h-ventures-makes-it-to-final-in-the-ukbaa-awards-2019/",
+        "anchor_text": "Sunil Shah, CEO, o2h ventures, makes it to final in the UKBAA Awards 2019",
+        "score": 101
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-ventures-backed-in4derm-signed-an-option-and-licensing-agreement/",
+        "anchor_text": "o2h Ventures backed In4Derm Announces a Strategic Partnership with a Nasdaq listed biotech with a",
+        "score": 100
+      },
+      {
+        "url": "https://o2h.com/press-release/sunil-shah-wins-the-cambridge-independent-awards-as-ceo-of-the-year/",
+        "anchor_text": "Sunil Shah, CEO of o2h ventures, wins the Cambridge Independent Science and Technology Awards as C",
+        "score": 99
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/o2h-ventures-finalist-in-the-great-eis-25th-year-anniversary-awards/",
+        "anchor_text": "o2h Ventures makes it to the final in the Great EIS 25th Year Anniversary Awards",
+        "score": 98
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-technology-appoints-fiona-nielsen-as-chief-operations-officer/",
+        "anchor_text": "o2h Technology appoints serial entrepreneur Fiona Nielsen as Chief Operations Officer",
+        "score": 97
+      },
+      {
+        "url": "https://o2h.com/discovery/stingray-bio-and-o2h-discovery-collaborate-for-oncology-therapeutics/",
+        "anchor_text": "Stingray Bio and o2h discovery initiate a collaboration to develop the next-generation of oncology",
+        "score": 96
+      },
+      {
+        "url": "https://o2h.com/ventures/arecor-announces-license-agreement-with-global-pharmaceutical-company/",
+        "anchor_text": "Arecor Announces License Agreement with Global Pharmaceutical Company",
+        "score": 96
+      },
+      {
+        "url": "https://o2h.com/discovery/iota-pharmaceuticals-in-1-5m-window-consortium-tackling-glioblastoma/",
+        "anchor_text": "IOTA Pharmaceuticals in £1.5M WINDOW Consortium Tackling Glioblastoma",
+        "score": 96
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-co-work-lab-launches-worlds-first-influencer-tech-bootcamp/",
+        "anchor_text": "o2h co-work Lab Launches World’s First Influencer Tech Bootcamp",
+        "score": 94
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-ventures-limited-has-now-launched-the-o2h-therapeutics-eis-fund/",
+        "anchor_text": "o2h ventures limited has now launched the o2h therapeutics fund",
+        "score": 94
+      },
+      {
+        "url": "https://o2h.com/ventures/oxford-drug-design-recieves-over-8m-in-grant-and-equity-investment/",
+        "anchor_text": "Oxford Drug Design recieves over £8m in grant and equity investment",
+        "score": 93
+      },
+      {
+        "url": "https://o2h.com/discovery/dynamics-of-surface-plasmon-resonance-in-biological-applications/",
+        "anchor_text": "Understanding the Dynamics of Surface Plasmon Resonance (SPR) in Biological Applications",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/uncategorized/o2h-group-supporting-biotechbikerss-networking-ride-june2023/",
+        "anchor_text": "o2h group supporting BiotechBikers’s networking ride – June2023",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/events/o2hdiscovery-is-exhibiting-at-the-efmc-ismc-international-symposium/",
+        "anchor_text": "o2h discovery is exhibiting at the XXVII EFMC ISMC International Symposium on Medicinal Chemistry",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/events/finalists-in-the-cambridge-independent-science-and-tech-awards-2020/",
+        "anchor_text": "o2h group in the finals of Cambridge Independent Science and Tech Awards 2020",
+        "score": 92
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-discovery-launches-the-o2h-kickstarter-competition-3-0/",
+        "anchor_text": "o2h discovery launches ‘the o2h kickstarter competition’ to support Israeli early stag",
+        "score": 90
+      },
+      {
+        "url": "https://o2h.com/community/o2h-volunteers-visit-jeevan-dhara-old-age-home-ahmedabad-india/",
+        "anchor_text": "o2h community volunteers visit “Jeevan Dhara” – Old age home, Ahmedabad, India.",
+        "score": 90
+      },
+      {
+        "url": "https://o2h.com/discovery/chamelogk-assay-unveiling-chameleonicity-for-protac-molecules/",
+        "anchor_text": "ChamelogK Assay: Unveiling Chameleonicity for Protac Molecules",
+        "score": 89
+      },
+      {
+        "url": "https://o2h.com/topics/drug-discovery/o2h-kickstarter-5-0-for-early-stage-usa-biotech/",
+        "anchor_text": "o2h kickstarter 5.0 for early stage USA biotech",
+        "score": 89
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/o2h-ventures-finalist-tax-efficiency-awards-investmentweek/",
+        "anchor_text": "o2h ventures makes it to the finals in the Tax Efficiency Awards",
+        "score": 89
+      },
+      {
+        "url": "https://o2h.com/topics/art/biotech-bikers-special-edition-with-o2h-group-july-august/",
+        "anchor_text": "Biotech Bikers Special Edition with o2h group – July & August 2023",
+        "score": 88
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/3rd-o2h-collaborative-innovation-conference/",
+        "anchor_text": "Delighted to Announce the 3rd o2h group collaborative innovation conference",
+        "score": 88
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-announces-expanded-chemistry-collaboration-with-heptares/",
+        "anchor_text": "o2h discovery Announces Expanded Chemistry Collaboration With Heptares",
+        "score": 88
+      },
+      {
+        "url": "https://o2h.com/discovery/empowering-targeted-protein-degradation-with-protac-service/",
+        "anchor_text": "“Empowering Targeted Protein Degradation with Protac Services: Unleashing the Power of E3 Li",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/discovery/citc-best-use-of-technology-award-in-pharma-industry-awards/",
+        "anchor_text": "CITC won the “Best Use of technology” award in Pharma Industry Awards UK",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/events/o2h-group-is-supporting-the-upcoming-biotech-bikers-event-2022/",
+        "anchor_text": "o2h group is supporting upcoming Biotech Bikers’ event Nov 2022",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/exonate-announces-collaboration-with-johnson-and-johnson/",
+        "anchor_text": "o2h ventures portfolio company Exonate announces collaboration with Johnson & Johnson",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/community/pleased-to-announce-the-13th-edition-of-o2h-womens-open-day/",
+        "anchor_text": "Pleased to Announce the 13th Edition of o2h Women’s Open Day",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/community/o2h-community-service-project-hiv-orphanage-ahmedabad-india/",
+        "anchor_text": "o2h community, Community Service Project, HIV Orphanage, Ahmedabad, India.",
+        "score": 87
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-launches-the-o2h-kickstarter-competition-4-0/",
+        "anchor_text": "o2h discovery launches the o2h kickstarter competition 4.0 to support Italian early stage biotechs",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/discovery/o2h-discovery-launches-the-o2h-kickstarter-competition-2-0/",
+        "anchor_text": "o2h discovery launches the o2h kickstarter competition 2.0 to support Australian early stage biote",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/press-release/acquires-40000-sq-ft-hauxton-meadows-site-in-cambridge/",
+        "anchor_text": "o2h group acquires 40,000 sq ft Hauxton Meadows site in Cambridge, UK with plans to develop state-",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/sunil-shah-o2h-ventures-wins-angel-investor-of-the-year/",
+        "anchor_text": "Sunil Shah, o2h ventures wins Angel Investor of the Year",
+        "score": 86
+      },
+      {
+        "url": "https://o2h.com/press-release/entrepreneur-prashant-shah-becomes-ned-at-one-nucleus/",
+        "anchor_text": "Entrepreneur Prashant Shah becomes NED at One Nucleus",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/therapeutics/fighting-coronavirus-an-update-on-remdesivir-by-gilead/",
+        "anchor_text": "Fighting Coronavirus – an update on Remdesivir by Gilead",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/community/completed-the-first-stage-of-its-tree-plantation-campaign/",
+        "anchor_text": "o2h community has completed the first stage of its campaign to plant 10,000 trees",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/ventures/stemnovate-secures-funding-from-angels-led-by-o2h-ventures/",
+        "anchor_text": "Stemnovate secures funding from angels led by o2h ventures",
+        "score": 85
+      },
+      {
+        "url": "https://o2h.com/co-work/prashant-shah-finalists-cambridge-independent-awards-2022/",
+        "anchor_text": "Prashant Shah, CEO of o2h co work labs and Co-Founder of o2h group shortlisted in the Cambridge In",
+        "score": 83
+      },
+      {
+        "url": "https://o2h.com/discovery/nilesh-dagia-coo-o2h-discovery-wins-the-go-beyond-award/",
+        "anchor_text": "Nilesh Dagia, COO, o2h discovery, wins the International Institute for Sustainable Labs (I2SL) Go",
+        "score": 83
+      },
+      {
+        "url": "https://o2h.com/press-release/launching-kickstarter-for-early-stage-usa-biotech/",
+        "anchor_text": "o2h discovery launches ‘o2h kickstarter competition 5.0’ to support American early stage biote",
+        "score": 81
+      },
+      {
+        "url": "https://o2h.com/events/o2h-discovery-exhibiting-3rd-rsc-ai-chemistry-symposium/",
+        "anchor_text": "o2h discovery is exhibiting at the 3rd RSC-BMCS / RSC-CICAG Artificial Intelligence in Chemistry s",
+        "score": 80
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/privitar-raises-40-million-series-b-funding-round/",
+        "anchor_text": "Privitar Raises $40 Million Series B Funding Round Led by Accel to Facilitate the Safe and Ethical",
+        "score": 80
+      },
+      {
+        "url": "https://o2h.com/community/o2h-community-the-ahmedabad-project-tree-plantation/",
+        "anchor_text": "o2h community collaborated with The Ahmedabad Project to plant over 2000 trees",
+        "score": 79
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-update-oxford-drug-design-secures-1-5m-financing/",
+        "anchor_text": "o2h ventures update:  Oxford Drug Design secures £1.5M financing",
+        "score": 79
+      },
+      {
+        "url": "https://o2h.com/discovery/data-sharing-made-easy-with-chemistry-in-the-cloud/",
+        "anchor_text": "Data sharing made easy with Chemistry in the Cloud (CITC)",
+        "score": 78
+      },
+      {
+        "url": "https://o2h.com/co-work/mill-scitech-park-pre-planning-application-submitted/",
+        "anchor_text": "Mill SciTech Park pre-planning application submitted",
+        "score": 78
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/o2h-invites-you-to-innovation-day/",
+        "anchor_text": "o2h group invites you to Innovation day",
+        "score": 78
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/award-for-excellence-in-adaptive-reuse-by-i2sl/",
+        "anchor_text": "o2h co-work labs wins the award for Excellence in Adaptive Reuse by I2SL",
+        "score": 77
+      },
+      {
+        "url": "https://o2h.com/press-release/o2h-group-acquires-heritage-hauxton-mill-site/",
+        "anchor_text": "Press release – o2h group acquires the 2.76 acre heritage Hauxton Mill site, Cambridge, UK w",
+        "score": 77
+      },
+      {
+        "url": "https://o2h.com/events/6th-edition-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h group hosts the 6th o2h Collaborative Innovation Conference",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/discovery/the-o2h-kickstarter-evaluation-committee-members/",
+        "anchor_text": "Meet the o2h kickstarter evaluation committee members…",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/events/5th-edition-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h group hosted 5th edition of the o2h Collaborative Innovation Conference in Ahmedabad",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/technology/biiah-wins-the-o2h-tech-kickstarter-competition/",
+        "anchor_text": "Biiah, a tech startup committed to improving people’s health through singing, wins the o2h t",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/technology/routezero-wins-o2h-tech-kickstarter-competition/",
+        "anchor_text": "RouteZero, a greentech startup committed to decarbonising business travel wins the o2h tech kickst",
+        "score": 76
+      },
+      {
+        "url": "https://o2h.com/discovery/how-o2h-kickstarter-empowering-biotech-startups/",
+        "anchor_text": "How o2h Kickstarter Is Empowering Early Stage Biotech Startups: Addressing Key Challenges Head-On",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/discovery/protai-wins-the-o2h-kickstarter-competition-3-0/",
+        "anchor_text": "Protai, a proteomics and AI-powered drug discovery startup wins the o2h kickstarter competition 3.",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/discovery/collaborating-for-first-in-class-drug-discovery/",
+        "anchor_text": "ImmuNext and o2h discovery collaborate to progress first-in-class drug discovery programs",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/therapeutics/impacting-covid19-opportunities-for-chemists/",
+        "anchor_text": "Impacting COVID-19 – Opportunities for Chemists",
+        "score": 75
+      },
+      {
+        "url": "https://o2h.com/discovery/kuano-limited-wins-o2h-kickstarter-competition/",
+        "anchor_text": "Kuano Limited, a quantum simulation led biotech company wins o2h discovery kick-starter competitio",
+        "score": 74
+      },
+      {
+        "url": "https://o2h.com/discovery/attending-the-33rd-medicinal-chemistry-meeting/",
+        "anchor_text": "Claudio Dagostin will be representing o2h discovery at the 33rd Medicinal Chemistry Meeting",
+        "score": 74
+      },
+      {
+        "url": "https://o2h.com/events/o2h-launches-first-ever-cambridge-wide-open-day/",
+        "anchor_text": "We are delighted to launch the first ever Cambridge Wide Open Day to drive inclusive collaboration",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/events/the-5th-o2h-collaborative-innovation-conference/",
+        "anchor_text": "o2h group announces the 5th o2h collaborative innovation conference 2023",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/events/o2h-discovery-exhibiting-at-drug-discovery-2021/",
+        "anchor_text": "o2h discovery is exhibiting at the ElRIG UK’s annual conference Drug Discovery 2021",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/team-ventures/in4derm-enters-in-an-exclusive-agreement/",
+        "anchor_text": "o2h Ventures backed In4Derm enters into an exclusive license agreement with VYNE Therapeutics",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/ventures/o2h-ventures-makes-investment-in-small-pharma/",
+        "anchor_text": "o2h ventures Makes an Investment in Small Pharma",
+        "score": 72
+      },
+      {
+        "url": "https://o2h.com/events/sponsoring-and-exhibiting-at-the-3rd-mmcs-2022/",
+        "anchor_text": "o2h discovery is sponsoring and exhibiting at the 3rd Molecules Medicinal Chemistry Symposium R",
+        "score": 71
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/worlds-first-influencer-biotech-bootcamp/",
+        "anchor_text": "o2h co-work Labs Launches the World’s First Influencer Biotech Bootcamp…",
+        "score": 71
+      },
+      {
+        "url": "https://o2h.com/o2h-ventures/o2h-ventures-sunil-shah-the-sunday-times/",
+        "anchor_text": "Q&A with Angel Investor Sunil Shah | The Sunday Times",
+        "score": 71
+      },
+      {
+        "url": "https://o2h.com/discovery/citc-finalist-in-pharma-industry-awards-uk/",
+        "anchor_text": "CITCᵀᴹ – Finalist in Pharma Industry Awards UK 2023",
+        "score": 70
+      },
+      {
+        "url": "https://o2h.com/discovery/psylo-wins-o2h-kickstarter-competition-2-0/",
+        "anchor_text": "Psylo, a biotech company developing next-gen drugs for psychiatric disorders wins o2h kickstarter",
+        "score": 70
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/o2h-innovation-day-teaser/",
+        "anchor_text": "o2h group Innovation day teaser",
+        "score": 70
+      },
+      {
+        "url": "https://o2h.com/ventures/human-health-seis-fund-invests-into-sanome/",
+        "anchor_text": "o2h Ventures “Human Health SEIS Fund” Invests into Sanome…",
+        "score": 69
+      },
+      {
+        "url": "https://o2h.com/events/supporting-biotechbikers-networking-event-uk/",
+        "anchor_text": "o2h group is supporting the upcoming BiotechBikers’ networking event in The UK",
+        "score": 69
+      },
+      {
+        "url": "https://o2h.com/ventures/exonate-receives-uk-angel-investment-award/",
+        "anchor_text": "Exonate receives UK Angel Investment Award",
+        "score": 69
+      },
+      {
+        "url": "https://o2h.com/discovery/azadyne-wins-o2h-kickstarter-competition/",
+        "anchor_text": "Azadyne, a biotech startup targeting autoimmune disease wins o2h discovery kickstarter competition",
+        "score": 68
+      },
+      {
+        "url": "https://o2h.com/events/sci-rsc-22nd-medicinal-chemistry-symposium/",
+        "anchor_text": "o2h discovery is participating in the SCI-RSC 22nd Medicinal Chemistry Symposium",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/discovery/kickstarter-newsletter-chaitime-webinar/",
+        "anchor_text": "o2h Kickstarter Newsletter: Chaitime Webinar",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/events/exhibiting-at-the-rsc-bmcs-2022-conference/",
+        "anchor_text": "o2h discovery is exhibiting at the 8th RSC-BMCS Fragment-based Drug Discovery Meeting – 2022",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/press-release/knowledge-intensive-eis-fund-launch/",
+        "anchor_text": "o2h ventures launches the first HMRC approved knowledge intensive EIS fund focused on UK biotech t",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/ventures/metrion-biosciences-closes-funding-round/",
+        "anchor_text": "Metrion Biosciences Closes Funding Round- o2h Ventures",
+        "score": 67
+      },
+      {
+        "url": "https://o2h.com/ventures/makes-it-to-the-finals-eisa-awards-2021/",
+        "anchor_text": "o2h Ventures makes it to the finals in the EISA Awards 2021…",
+        "score": 66
+      },
+      {
+        "url": "https://o2h.com/press-release/launching-cambridge-wide-open-day/",
+        "anchor_text": "‘UK science powerhouse’ opens its doors for the Cambridge Wide Open Day & Tour",
+        "score": 65
+      },
+      {
+        "url": "https://o2h.com/events/o2h-to-attend-these-upcoming-conferences/",
+        "anchor_text": "o2h group to attend these upcoming conferences",
+        "score": 65
+      },
+      {
+        "url": "https://o2h.com/community/o2h-group-planted-ten-thousand-trees/",
+        "anchor_text": "Press Release – o2h group accomplished its goal of planting ten thousand trees",
+        "score": 64
+      },
+      {
+        "url": "https://o2h.com/events/biotechbikers-millscitechpark-aug-2022/",
+        "anchor_text": "o2h group is supporting the upcoming Biotech Bikers’ event 2022",
+        "score": 63
+      },
+      {
+        "url": "https://o2h.com/ventures/fireside-chat-with-sir-mene-pangalos/",
+        "anchor_text": "o2h Ventures is hosting Jingle Chai – A Fireside Chat with Sir Mene Pangalos",
+        "score": 63
+      },
+      {
+        "url": "https://o2h.com/press-release/first-cambridge-wide-open-day/",
+        "anchor_text": "First Cambridge Open Day is city-wide success for tech firms and local community",
+        "score": 61
+      },
+      {
+        "url": "https://o2h.com/8th-collaborative-innovation-conference-2026/",
+        "anchor_text": "Innovation Conference 2026",
+        "score": 60
+      },
+      {
+        "url": "https://o2h.com/events/biotechbikers-millscitechpark-2022/",
+        "anchor_text": "o2h group is supporting the BiotechBikers’ event 2022",
+        "score": 59
+      },
+      {
+        "url": "https://o2h.com/events/the-o2h-innovation-conference-2019/",
+        "anchor_text": "The o2h Innovation Conference 2019 14th March at Courtyard by Marriott, Ahmedabad",
+        "score": 59
+      },
+      {
+        "url": "https://o2h.com/discovery/kickstarter-competition-launch/",
+        "anchor_text": "o2h discovery launches the o2h kickstarter competition to support early stage biotechs’",
+        "score": 58
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/influencer-biotech-bootcamp/",
+        "anchor_text": "o2h co work labs Hosted the World’s First Influencer Biotech Bootcamp…",
+        "score": 58
+      },
+      {
+        "url": "https://o2h.com/discovery/chemistry-process-optimization/",
+        "anchor_text": "Chemistry Process Optimization – an inevitable parameter for the developmental phase of the drug",
+        "score": 58
+      },
+      {
+        "url": "https://o2h.com/discovery/targeted-protein-degradation/",
+        "anchor_text": "Targeted Protein Degradation/PROTAC Services: Revolutionizing the drug discovery approach with PRO",
+        "score": 56
+      },
+      {
+        "url": "https://o2h.com/careers/woman-in-science-and-tech/",
+        "anchor_text": "Women in science and tech",
+        "score": 51
+      },
+      {
+        "url": "https://o2h.com/discovery/protac-services-biology/",
+        "anchor_text": "PROTAC – o2h discovery’s biology expertise",
+        "score": 51
+      },
+      {
+        "url": "https://o2h.com/careers/recruitment-and-training/",
+        "anchor_text": "Recruitment & training",
+        "score": 50
+      },
+      {
+        "url": "https://o2h.com/o2h-events-and-conferences/904-2/",
+        "anchor_text": "We are celebrating o2h Collaborative Innovation Conference, Ahmedabad 2018 at 15th March 2018",
+        "score": 50
+      },
+      {
+        "url": "https://o2h.com/ventures/happy-10th-birthday-o2h/",
+        "anchor_text": "Happy 10th Birthday o2h group",
+        "score": 50
+      },
+      {
+        "url": "https://o2h.com/o2h-kickstarter-innovate-america/",
+        "anchor_text": "o2h Kickstarter: Innovate America",
+        "score": 48
+      },
+      {
+        "url": "https://o2h.com/the-o2h-kickstarter-competition/",
+        "anchor_text": "o2h Kickstarter: Global",
+        "score": 47
+      },
+      {
+        "url": "https://o2h.com/events/o2h-group-kindness-day/",
+        "anchor_text": "o2h group announces Kindness Day in memory of Shabu Thomas",
+        "score": 47
+      },
+      {
+        "url": "https://o2h.com/o2h-discovery-platinum-partner/",
+        "anchor_text": "o2h Discovery Platinum Partner",
+        "score": 46
+      },
+      {
+        "url": "https://o2h.com/events/bia-gala-dinner-2022/",
+        "anchor_text": "o2h group is attending BIA Gala Dinner 2022",
+        "score": 45
+      },
+      {
+        "url": "https://o2h.com/events/second-kindness-day/",
+        "anchor_text": "o2h group is observing Kindness Day in memory of Shabu Thomas",
+        "score": 44
+      },
+      {
+        "url": "https://o2h.com/exhibiting-attending-events/",
+        "anchor_text": "events",
+        "score": 43
+      },
+      {
+        "url": "https://o2h.com/careers/culture-values/",
+        "anchor_text": "o2h group culture, people and values",
+        "score": 40
+      },
+      {
+        "url": "https://o2h.com/lipid-nanoparticles/",
+        "anchor_text": "Lipid-nanoparticles",
+        "score": 35
+      },
+      {
+        "url": "https://o2h.com/cookies-policy/",
+        "anchor_text": "Cookies Policy",
+        "score": 30
+      },
+      {
+        "url": "https://o2h.com/privacy-policy/",
+        "anchor_text": "Privacy Policy",
+        "score": 30
+      },
+      {
+        "url": "https://o2h.com/co-work-labs/",
+        "anchor_text": "co-work labs",
+        "score": 28
+      },
+      {
+        "url": "https://o2h.com/csr-policy/",
+        "anchor_text": "CSR Policy",
+        "score": 26
+      },
+      {
+        "url": "https://o2h.com/therapeutics/",
+        "anchor_text": "Therapeutics",
+        "score": 18
+      },
+      {
+        "url": "https://o2h.com/technology/",
+        "anchor_text": "Technology",
+        "score": 16
+      },
+      {
+        "url": "https://o2h.com/community/",
+        "anchor_text": "Community",
+        "score": 15
+      },
+      {
+        "url": "https://o2h.com/discovery/",
+        "anchor_text": "Discovery",
+        "score": 15
+      },
+      {
+        "url": "https://o2h.com/chaitime/",
+        "anchor_text": "o2h Chaitime",
+        "score": 14
+      },
+      {
+        "url": "https://o2h.com/contact/",
+        "anchor_text": "contact",
+        "score": 13
+      },
+      {
+        "url": "https://o2h.com/about/",
+        "anchor_text": "about",
+        "score": 11
+      },
+      {
+        "url": "https://o2h.com/news/",
+        "anchor_text": "news",
+        "score": 10
+      },
+      {
+        "url": "https://o2h.com/team/",
+        "anchor_text": "team",
+        "score": 10
+      },
+      {
+        "url": "https://o2h.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "AdametNext",
     "press_url": "https://adametnext.com/blog/",
     "candidate_links": [
@@ -11428,6 +11769,11 @@
     "press_url": "https://www.instem.com/blog/press-releases/",
     "candidate_links": [
       {
+        "url": "https://www.instem.com/d-wise-appoints-2x-ceo-ex-labcorp-head-of-software-solutions-to-drive-next-phase-of-strategy-growth/",
+        "anchor_text": "Read more",
+        "score": 115
+      },
+      {
         "url": "https://www.instem.com/instem-taps-ex-novartis-head-of-emerging-technologies-to-put-science-behind-practical-ai-and-nams/",
         "anchor_text": "Read more",
         "score": 113
@@ -11584,7 +11930,7 @@
       },
       {
         "url": "https://www.instem.com/climbs-innovation-continues-at-instem/",
-        "anchor_text": "Read more",
+        "anchor_text": "Read Now",
         "score": 53
       },
       {
@@ -13534,6 +13880,213 @@
       },
       {
         "url": "https://fumex.com",
+        "anchor_text": "",
+        "score": 0
+      }
+    ]
+  },
+  {
+    "company": "Pharmace Research Laboratory Pvt Ltd",
+    "press_url": "https://www.pharmaceresearch.com/public/news-event/list",
+    "candidate_links": [
+      {
+        "url": "https://www.pharmaceresearch.com/public/news/events/499ea885-0951-4947-aa86-1ea54da129bc",
+        "anchor_text": "Read More",
+        "score": 74
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/click-chemistry",
+        "anchor_text": "Click Chemistry",
+        "score": 67
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/protacs",
+        "anchor_text": "PROTACs",
+        "score": 59
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/dubtacs",
+        "anchor_text": "DUBTACs",
+        "score": 59
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/dacs",
+        "anchor_text": "DACs",
+        "score": 56
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/chemical-biology/adc",
+        "anchor_text": "ADC",
+        "score": 55
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/medicinal-chemistry",
+        "anchor_text": "Medicinal Chemistry",
+        "score": 52
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/services/organic-chemistry",
+        "anchor_text": "Organic Chemistry",
+        "score": 50
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/product-category/a",
+        "anchor_text": "Products",
+        "score": 42
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/news-event/list",
+        "anchor_text": "News and Events",
+        "score": 39
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/company-overview",
+        "anchor_text": "About Us",
+        "score": 38
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/contactus",
+        "anchor_text": "Contact Us",
+        "score": 21
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/careers",
+        "anchor_text": "Careers",
+        "score": 19
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public/team",
+        "anchor_text": "Our Team",
+        "score": 16
+      },
+      {
+        "url": "https://www.pharmaceresearch.com/public",
+        "anchor_text": "Home",
+        "score": 9
+      }
+    ]
+  },
+  {
+    "company": "Akshar Global Clinical Research Pvt. Ltd.",
+    "press_url": "https://agcro.com/insights/",
+    "candidate_links": [
+      {
+        "url": "https://agcro.com/4th-annual-pharma-innovation-tech-congress-2024/",
+        "anchor_text": "4th Annual Pharma Innovation Tech Congress 2024",
+        "score": 63
+      },
+      {
+        "url": "https://agcro.com/exciting-developments-in-alzheimers-research/",
+        "anchor_text": "Read more",
+        "score": 60
+      },
+      {
+        "url": "https://agcro.com/meet-us-at-36th-pharmacovigilance-india-2024/",
+        "anchor_text": "Meet Us at 36th Pharmacovigilance India 2024",
+        "score": 60
+      },
+      {
+        "url": "https://agcro.com/post-market-surveillance-pms-in-oncology/",
+        "anchor_text": "Read more",
+        "score": 56
+      },
+      {
+        "url": "https://agcro.com/amd-and-its-diagnostic-method/",
+        "anchor_text": "Read more",
+        "score": 45
+      },
+      {
+        "url": "https://agcro.com/dia-india-annual-meeting-2025/",
+        "anchor_text": "DIA India Annual Meeting 2025",
+        "score": 45
+      },
+      {
+        "url": "https://agcro.com/15th-annual-clinical-trials/",
+        "anchor_text": "15th Annual Clinical Trials",
+        "score": 43
+      },
+      {
+        "url": "https://agcro.com/18th-iscr-annual-conference/",
+        "anchor_text": "18th ISCR Annual Conference",
+        "score": 43
+      },
+      {
+        "url": "https://agcro.com/join-us-at-cphi-milan-2024/",
+        "anchor_text": "Join Us at CPHI Milan 2024!",
+        "score": 42
+      },
+      {
+        "url": "https://agcro.com/nutricon-2024-conference/",
+        "anchor_text": "NutriCON-2024 Conference!!!",
+        "score": 40
+      },
+      {
+        "url": "https://agcro.com/risk-management-plans/",
+        "anchor_text": "18th ISCR Annual Conference",
+        "score": 37
+      },
+      {
+        "url": "https://agcro.com/happy-nutrition-week/",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://agcro.com/cphi-india-2025/",
+        "anchor_text": "CPHI India 2025",
+        "score": 31
+      },
+      {
+        "url": "https://agcro.com/therapeutic-areas",
+        "anchor_text": "Therapeutic Areas",
+        "score": 30
+      },
+      {
+        "url": "https://agcro.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://agcro.com/about-us",
+        "anchor_text": "",
+        "score": 21
+      },
+      {
+        "url": "https://agcro.com/differentiators",
+        "anchor_text": "Differentiators",
+        "score": 18
+      },
+      {
+        "url": "https://agcro.com/facilities",
+        "anchor_text": "Facilities",
+        "score": 13
+      },
+      {
+        "url": "https://agcro.com/services",
+        "anchor_text": "Core Services",
+        "score": 11
+      },
+      {
+        "url": "https://agcro.com/insights",
+        "anchor_text": "Insights",
+        "score": 11
+      },
+      {
+        "url": "https://agcro.com/partners",
+        "anchor_text": "Partners",
+        "score": 11
+      },
+      {
+        "url": "https://agcro.com/gout/",
+        "anchor_text": "Read more",
+        "score": 10
+      },
+      {
+        "url": "https://agcro.com/career",
+        "anchor_text": "Career",
+        "score": 9
+      },
+      {
+        "url": "https://agcro.com",
         "anchor_text": "",
         "score": 0
       }
@@ -16127,19 +16680,9 @@
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
       {
-        "url": "https://www.sailife.com/sai-life-sciences-agility-life-sciences-and-centrix-pharma-solutions-announce-an-integrated-cmc-partnership-to-accelerate-drug-development-for-innovators/",
-        "anchor_text": "Read more",
-        "score": 169
-      },
-      {
         "url": "https://www.sailife.com/mabtech-and-sai-life-sciences-announce-strategic-collaboration-to-advance-immunology-research-with-eyra-platform-at-sai-boston-site/",
         "anchor_text": "Read more",
         "score": 147
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
-        "anchor_text": "Read more",
-        "score": 132
       },
       {
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
@@ -16150,16 +16693,6 @@
         "url": "https://www.sailife.com/india-is-evolving-from-being-a-tactical-supplier-to-a-strategic-partner-to-global-pharma/",
         "anchor_text": "Read more",
         "score": 104
-      },
-      {
-        "url": "https://www.sailife.com/where-nature-inspires-innovation-university-of-kansas-prof-apurba-dutta-visits-sai/",
-        "anchor_text": "Read more",
-        "score": 98
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-set-to-double-process-rd-capacity-with-new-facility-in-hyderabad/",
-        "anchor_text": "Read more",
-        "score": 98
       },
       {
         "url": "https://www.sailife.com/sai-life-sciences-recognized-as-a-best-organization-for-women-bow-2026-by-et-edge/",
@@ -16175,11 +16708,6 @@
         "url": "https://www.sailife.com/kudikunta-lake-restoration-completed-marking-the-revival-of-an-urban-water-body/",
         "anchor_text": "Read more",
         "score": 95
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-becomes-a-signatory-to-the-un-womens-empowerment-principles/",
-        "anchor_text": "Read more",
-        "score": 93
       },
       {
         "url": "https://www.sailife.com/inside-sai-life-sciences-integrated-rd-campus-accelerating-drug-development/",
@@ -16228,11 +16756,6 @@
       },
       {
         "url": "https://www.sailife.com/ai-driven-retrosynthesis-integrated-into-discovery-chemistry/",
-        "anchor_text": "Read more",
-        "score": 76
-      },
-      {
-        "url": "https://www.sailife.com/sai-life-sciences-limited-sustains-growth-momentum-in-q2fy26/",
         "anchor_text": "Read more",
         "score": 76
       },
@@ -16407,7 +16930,7 @@
         "score": 21
       },
       {
-        "url": "https://www.sailife.com/news/page/5/?ajax=true",
+        "url": "https://www.sailife.com/news/page/4/?ajax=true",
         "anchor_text": "next page",
         "score": 21
       },
@@ -17911,7 +18434,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Remove my preference",
+        "anchor_text": "Share on Linkedin",
         "score": 39
       },
       {
@@ -20243,6 +20766,11 @@
         "score": 197
       },
       {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/04/genai-is-raising-the-stakes-in-managing-a-global-workforce-trust-and-speed-are-emerging-as-decisive-ey-research-finds",
+        "anchor_text": "GenAI is raising the stakes in managing a global workforce; trust and speed are emerging as decisive, EY research finds",
+        "score": 186
+      },
+      {
         "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-recognized-by-nvidia-for-outstanding-innovation-and-technical-excellence-as-well-as-leadership-in-physical-ai",
         "anchor_text": "Media alert: EY recognized by NVIDIA for outstanding innovation and technical excellence as well as leadership in physical AI",
         "score": 181
@@ -20271,11 +20799,6 @@
         "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-survey-autonomous-ai-is-no-longer-theoretical-as-adoption-grows-despite-ongoing-trust-concerns",
         "anchor_text": "EY survey: Autonomous AI is no longer theoretical as adoption grows despite ongoing trust concerns",
         "score": 166
-      },
-      {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/01/private-equity-deployment-reaches-usdollars905b-as-mega-deal-momentum-accelerates-ey-analysis",
-        "anchor_text": "Private equity deployment reaches US$905b as mega deal momentum accelerates: EY analysis",
-        "score": 162
       },
       {
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era",
@@ -21719,6 +22242,11 @@
     "press_url": "https://kpmg.com/xx/en/media.html",
     "candidate_links": [
       {
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-named-2026-google-cloud-partner-of-the-year-for-global-industry-solutions-breakthrough.html",
+        "anchor_text": "",
+        "score": 181
+      },
+      {
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/global-vc-investment-surges-to-record-330-9-billion-dollar-in-q1-26.html",
         "anchor_text": "",
         "score": 157
@@ -21737,11 +22265,6 @@
         "url": "https://kpmg.com/content/experience-fragments/kpmgpublic/xx/en/site/rfp-form-location-selector-overlay/master.html",
         "anchor_text": "Submit RFP",
         "score": 124
-      },
-      {
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/03/kpmg-global-ai-pulse-survey.html",
-        "anchor_text": "",
-        "score": 117
       },
       {
         "url": "https://kpmg.com/xx/en/what-we-do/industries/energy-natural-resources-chemicals.html",
@@ -22086,11 +22609,6 @@
         "score": 79
       },
       {
-        "url": "https://rxpropellant.com/x-axis-at-the-intersection-of-science-and-infrastructure/",
-        "anchor_text": "X Axis",
-        "score": 72
-      },
-      {
         "url": "https://rxpropellant.com/portfolio/navi-mumbai-research-nmr-district/ ",
         "anchor_text": "",
         "score": 62
@@ -22211,9 +22729,9 @@
         "score": 30
       },
       {
-        "url": "https://rxpropellant.com/category/newsletter/",
-        "anchor_text": "Newsletter",
-        "score": 27
+        "url": "https://rxpropellant.com/chem-expo/",
+        "anchor_text": "Chem Expo",
+        "score": 25
       },
       {
         "url": "https://rxpropellant.com/about-us/",
@@ -22293,11 +22811,6 @@
       {
         "url": "https://rxpropellant.com/insights#resource_3",
         "anchor_text": "Press",
-        "score": 11
-      },
-      {
-        "url": "https://rxpropellant.com/insights#resource_25",
-        "anchor_text": "Newsletter",
         "score": 11
       },
       {
@@ -23456,6 +23969,357 @@
     ]
   },
   {
+    "company": "Aurobindo Pharma",
+    "press_url": "https://www.aurobindo.com/media/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
+        "anchor_text": "Notice of Board Meetings",
+        "score": 106
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
+        "anchor_text": "Disclosures under Regulation 46 of the LODR",
+        "score": 102
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
+        "anchor_text": "General Meetings",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
+        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
+        "anchor_text": "Special window for lodgement of physical shares",
+        "score": 98
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 97
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
+        "anchor_text": "Supplier Code of Conduct",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
+        "anchor_text": "Appointment and Resignation of Directors",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
+        "anchor_text": "Registrar and Share Transfer Agent",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
+        "anchor_text": "Contact Details for Investor Grievance Redressal",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
+        "anchor_text": "Human Rights Policy",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
+        "anchor_text": "Related Party Transactions",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
+        "anchor_text": "Financials - Subsidiaries",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
+        "anchor_text": "Unpaid Dividend Account Details",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
+        "anchor_text": "Contact Details of KMPs",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 79
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
+        "anchor_text": "Results Announcements",
+        "score": 78
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 74
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
+        "anchor_text": "Scheme of Arrangements",
+        "score": 73
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
+        "anchor_text": "Sustainability Reports",
+        "score": 72
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
+        "anchor_text": "Financial Highlights",
+        "score": 71
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
+        "anchor_text": "Impact Assessment Reports - CSR Projects",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
+        "anchor_text": "Buyback of shares",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
+        "anchor_text": "Share Performance",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
+        "anchor_text": "IR Contacts",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
+        "anchor_text": "PEPFAR program",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
+        "anchor_text": "Dividend Record",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
+        "anchor_text": "Governance Policies",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 66
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
+        "anchor_text": "BMW Reports",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
+        "anchor_text": "Supply Chain Management",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 55
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
+        "anchor_text": "Key facts about HIV/AIDS",
+        "score": 51
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
+        "anchor_text": "Aurobindo Pharma Foundation",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
+        "anchor_text": "Access to Healthcare",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
+        "anchor_text": "Global Partners",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
+        "anchor_text": "Corporate Video",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
+        "anchor_text": "Annual Action Plan",
+        "score": 48
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
+        "anchor_text": "Annual Report",
+        "score": 47
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
+        "anchor_text": "Manufacturing",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
+        "anchor_text": "Gallery",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/overview",
+        "anchor_text": "Overview",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/products",
+        "anchor_text": "Products",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/growth-market",
+        "anchor_text": "Growth Markets",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
+        "anchor_text": "Gallery",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-policy",
+        "anchor_text": "CSR Policy",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
+        "anchor_text": "Life @ Aurobindo",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
+        "anchor_text": "About Us",
+        "score": 39
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/vision-mission",
+        "anchor_text": "Vision / Mission",
+        "score": 38
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/our-presence",
+        "anchor_text": "",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/apitoria",
+        "anchor_text": "Apitoria (API)",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/media/press-releases",
+        "anchor_text": "I Accept",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/curateq",
+        "anchor_text": "Curateq (Biosimilars) / Peptide",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/media/corporate-kit",
+        "anchor_text": "Corporate Kit",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/milestone",
+        "anchor_text": "Milestones",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/eugia",
+        "anchor_text": "Eugia (Speciality products)",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy#cookies",
+        "anchor_text": "Cookie policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/rd",
+        "anchor_text": "R&D",
+        "score": 26
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business",
+        "anchor_text": "Our Business",
+        "score": 25
+      },
+      {
+        "url": "https://www.aurobindo.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.aurobindo.com/sitemap.xml",
+        "anchor_text": "Site Map",
+        "score": 14
+      },
+      {
+        "url": "https://www.aurobindo.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.aurobindo.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.aurobindo.com/",
+        "anchor_text": "",
+        "score": 3
+      },
+      {
+        "url": "https://www.aurobindo.com",
+        "anchor_text": "Aurobindo Pharma Limited.",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Granules India",
     "press_url": "https://granulesindia.com/media/",
     "candidate_links": [
@@ -24199,9 +25063,9 @@
         "score": 153
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-and-zydus-sign-licensing-agreement-for-co-marketing-innovative-semaglutide-injection-in-india",
-        "anchor_text": "Lupin and Zydus Sign Licensing Agreement for Co-marketing Innovative Semaglutide Injection in India",
-        "score": 137
+        "url": "https://www.lupin.com/media/press-releases/lupin-launches-dapagliflozin-and-metformin-hydrochloride-extended-release-tablets-in-the-united-states",
+        "anchor_text": "Lupin Launches Dapagliflozin and Metformin Hydrochloride Extended-Release Tablets in the United States",
+        "score": 140
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-manufacturing-solutions-announces-expansion-of-manufacturing-facility-at-dabhasa-india",
@@ -26198,6 +27062,11 @@
         "url": "https://www.gsk.com/en-gb/investors/corporate-actions/consumer-healthcare-demerger/",
         "anchor_text": "Consumer Healthcare Demerger",
         "score": 84
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/innovation/our-leading-scientists/dr-christopher-austin/",
+        "anchor_text": "Dr Christopher Austin",
+        "score": 83
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/environment/health-system-sustainability/",
@@ -29986,11 +30855,6 @@
         "score": 137
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-announces-strategic-collaboration-agreement-with-merck-to-accelerate-ai-driven-precision-medicine/",
-        "anchor_text": "Tempus Announces Strategic Collaboration Agreement with Merck to Accelerate AI-Driven Precision Medicine",
-        "score": 132
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-launches-automated-active-follow-up-service-to-support-guideline-concordant-care/",
         "anchor_text": "Tempus Launches Automated “Active Follow-Up” Service to Support Guideline-Concordant Care",
         "score": 115
@@ -30004,6 +30868,11 @@
         "url": "https://www.tempus.com/news/pr/tempus-to-present-at-the-25th-annual-needham-virtual-healthcare-conference/",
         "anchor_text": "Tempus to Present at the 25th Annual Needham Virtual Healthcare Conference",
         "score": 102
+      },
+      {
+        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
+        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5",
+        "score": 90
       },
       {
         "url": "https://www.tempus.com/radiology/tempus-pixel-therapy-response-evaluation/",
@@ -30386,7 +31255,7 @@
         "score": 10
       },
       {
-        "url": "https://www.tempus.com/news/?_page=29",
+        "url": "https://www.tempus.com/news/?_page=30",
         "anchor_text": "",
         "score": 10
       },
@@ -31436,13 +32305,13 @@
         "score": 42
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/features/pf-ecr2026",
-        "anchor_text": "Siemens Healthineers at ECR 2026Learn more",
+        "url": "https://www.siemens-healthineers.com/press/features/pf-2026-q2",
+        "anchor_text": "Second-quarter results for fiscal year 2026Learn more",
         "score": 42
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/features/pf-hv-2026",
-        "anchor_text": "Siemens Healthineers Annual Shareholders' Meeting 2026Learn more",
+        "url": "https://www.siemens-healthineers.com/press/features/pf-ecr2026",
+        "anchor_text": "Siemens Healthineers at ECR 2026Learn more",
         "score": 42
       },
       {
@@ -34286,6 +35155,16 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15109/2026-04-21/genentechs-fenebrutinib-significantly-re",
+        "anchor_text": "Genentech’s Fenebrutinib Significantly Reduced Relapses Versus Standard of Care to Approximately One Every 17 Years in RMS",
+        "score": 99
+      },
+      {
+        "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces",
+        "anchor_text": "Genentech’s Enspryng (Satralizumab) Reduces Risk of Relapses by 68% Demonstrating Potential to Become First Treatment for MOGAD",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g",
         "anchor_text": "FDA Accepts Application for Genentech’s Gazyva for the Treatment of the Most Common Form of Lupus",
         "score": 99
@@ -34398,16 +35277,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15083/2025-10-17/genentechs-phase-iii-evera-data-showed-g",
         "anchor_text": "Genentech’s Phase III evERA Data Showed Giredestrant Significantly Improved Progression-Free Survival in People With ER-Positive Advanced Breast Cancer",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15082/2025-10-17/genentech-presents-new-phase-iii-pivotal",
-        "anchor_text": "Genentech Presents New Phase III Pivotal Data for Vamikibart in Uveitic Macular Edema (UME), a Serious Cause of Vision Loss",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15081/2025-10-16/genentech-expands-xofluza-access-and-aff",
-        "anchor_text": "Genentech Expands Xofluza®Access And Affordability For Upcoming Flu Season With Direct-To-Patient Launch",
         "score": 99
       },
       {
@@ -34960,6 +35829,11 @@
         "url": "https://investors.biomarin.com/news/news-details/2026/BioMarin-Announces-Closing-of-Private-Offering-of-Senior-Notes/default.aspx",
         "anchor_text": "Read More",
         "score": 144
+      },
+      {
+        "url": "https://investors.biomarin.com/news/news-details/2026/BioMarin-Announces-Board-Leadership-Transition/default.aspx",
+        "anchor_text": "Read More",
+        "score": 128
       },
       {
         "url": "https://investors.biomarin.com/governance/committee-composition/default.aspx",
@@ -35705,11 +36579,6 @@
         "score": 67
       },
       {
-        "url": "https://www.foundationmedicine.com/press-release/sumitomo-pharma-america-collaboration",
-        "anchor_text": "Foundation Medicine Collaborates with Sumitomo Pharma America to Advance Investigational Treatment for Patients with Acute Leukemia with NPM1 Mutations or KMT2A Rearrangements Using the FoundationOne®Heme Platform",
-        "score": 66
-      },
-      {
         "url": "https://www.foundationmedicine.com/medical-services/report-interpretation-and-support",
         "anchor_text": "Report Interpretation & Support",
         "score": 65
@@ -35782,6 +36651,11 @@
       {
         "url": "https://www.foundationmedicine.com/patient/cancer-biomarker-testing",
         "anchor_text": "About Biomarker Testing",
+        "score": 47
+      },
+      {
+        "url": "https://www.foundationmedicine.com/press-release/bms-expansion-mtap",
+        "anchor_text": "Foundation Medicine Expands Existing Collaboration with Bristol Myers Squibb to Develop a Next-Generation Sequencing Companion Diagnostic to Identify Patients with Homozygous MTAP Deletion",
         "score": 47
       },
       {
@@ -36116,11 +36990,6 @@
     "press_url": "https://www.pfizer.com/newsroom/press-releases",
     "candidate_links": [
       {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-braftovi-regimen-improves-progression-free-survival",
-        "anchor_text": "Pfizer’s BRAFTOVI Regimen Improves Progression-Free Survival in Metastatic Colorectal Cancer",
-        "score": 118
-      },
-      {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valneva-announce-lyme-disease-vaccine-candidate",
         "anchor_text": "Pfizer and Valneva Announce Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 VALOR Trial",
         "score": 117
@@ -36139,6 +37008,11 @@
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-invites-public-listen-webcast-pfizer-discussion-21",
         "anchor_text": "Pfizer Invites Public to Listen to Webcast of Pfizer Discussion at Healthcare Conference",
         "score": 116
+      },
+      {
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-showcases-oncology-innovation-and-next-generation",
+        "anchor_text": "Pfizer Showcases Oncology Innovation and Next-Generation Pipeline at ASCO 2026",
+        "score": 115
       },
       {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/talzenna-plus-xtandi-significantly-improves-radiographic",
@@ -36476,6 +37350,11 @@
         "score": 38
       },
       {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
+        "anchor_text": "Research and Pipeline",
+        "score": 38
+      },
+      {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22797]=22797",
         "anchor_text": "Prescription Medicines",
         "score": 38
@@ -36498,11 +37377,6 @@
       {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[22256]=22256",
         "anchor_text": "Finance",
-        "score": 38
-      },
-      {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
-        "anchor_text": "Research and Pipeline",
         "score": 38
       },
       {
@@ -36797,6 +37671,16 @@
         "score": 51
       },
       {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21c",
+        "anchor_text": "Roche’s fenebrutinib significantly reduced relapses versus standard of care to approximately one every 17 years in RMSApril 21, 2026",
+        "score": 51
+      },
+      {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-21b",
+        "anchor_text": "Roche’s ENSPRYNG (satralizumab) reduces risk of relapses by 68% demonstrating potential to become first treatment for MOGADApril 21, 2026",
+        "score": 51
+      },
+      {
         "url": "https://www.roche.com/solutions/focus-areas/haematology",
         "anchor_text": "Haematology",
         "score": 50
@@ -36849,16 +37733,6 @@
       {
         "url": "https://www.roche.com/media/releases/med-cor-2026-03-06",
         "anchor_text": "New England Journal of Medicine publishes phase III ALLEGORY data showing Roche’s Gazyva/Gazyvaro significantly reduces disease activity in the most common form of lupusMarch 06, 2026",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-03-05",
-        "anchor_text": "Roche announces positive Phase II results for petrelintide, an amylin analog developed for people living with overweight and obesityMarch 05, 2026",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-03-02",
-        "anchor_text": "[Ad hoc announcement pursuant to Art. 53 LR] Roche's fenebrutinib confirms its potential as first and only BTK inhibitor for relapsing and primary progressive MS in third positive Phase III study (FENhance 1)March 02, 2026",
         "score": 50
       },
       {
@@ -37068,7 +37942,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price320.90CHF0.00(0.00%)Today",
+        "anchor_text": "Share price317.20CHF0.00(0.00%)Today",
         "score": 20
       },
       {
@@ -37759,19 +38633,14 @@
         "score": 199
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/icotyde-icotrokinra-one-year-results-confirm-lasting-skin-clearance-and-favorable-safety-profile-in-once-daily-pill-for-plaque-psoriasis",
-        "anchor_text": "Read more",
-        "score": 181
-      },
-      {
-        "url": "https://www.jnj.com/media-center/press-releases/fda-approval-of-icotyde-icotrokinra-ushers-in-new-era-for-first-line-systemic-treatment-of-plaque-psoriasis-with-a-targeted-oral-peptide",
-        "anchor_text": "Read more",
-        "score": 181
-      },
-      {
         "url": "https://www.jnj.com/media-center/press-releases/inlexzo-gemcitabine-intravesical-system-assigned-permanent-billing-code-supporting-access-for-patients-with-certain-bladder-cancers",
         "anchor_text": "Read more",
         "score": 176
+      },
+      {
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-showcases-carto-powered-innovation-including-debut-of-cartosound-sonata-to-advance-arrhythmia-care-at-hrs-2026",
+        "anchor_text": "Read more",
+        "score": 171
       },
       {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-64th-consecutive-year-of-dividend-increase-raises-quarterly-dividend-by-3-1",
@@ -37787,6 +38656,11 @@
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
         "anchor_text": "Read more",
         "score": 144
+      },
+      {
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-2026-rbc-capital-markets-global-healthcare-conference",
+        "anchor_text": "Read more",
+        "score": 136
       },
       {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-bank-of-america-2026-healthcare-conference",
@@ -38877,6 +39751,21 @@
     "press_url": "https://www.gilead.com/media",
     "candidate_links": [
       {
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-acquire-tubulis-adding-potentially-best-in-class-antibody-drug-conjugate-and-next-generation-platform-to-further-strengthen-oncology-pipeline",
+        "anchor_text": "April 7, 2026Gilead to Acquire Tubulis Adding Potentially Best-in-Class Antibody-Drug Conjugate and Next Generation Platform to Further Strengthen Oncology Pipeline",
+        "score": 218
+      },
+      {
+        "url": "https://www.gilead.com/news/news-details/2026/pepfar-and-the-global-fund-make-additional-investment-in-gileads-lenacapavir-for-hiv-prevention-to-further-expand-access",
+        "anchor_text": "April 14, 2026PEPFAR and The Global Fund Make Additional Investment in Gilead’s Lenacapavir for HIV Prevention to Further Expand Access",
+        "score": 187
+      },
+      {
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-all-required-regulatory-approvals-for-the-acquisition-of-arcellx-and-extends-tender-offer",
+        "anchor_text": "April 17, 2026Gilead Receives All Required Regulatory Approvals for the Acquisition of Arcellx and Extends Tender Offer",
+        "score": 172
+      },
+      {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/toward-health-equity-for-black-people-impacted-by-tnbc",
         "anchor_text": "Toward Health Equity for Black People Impacted by TNBC",
         "score": 146
@@ -38949,6 +39838,11 @@
       {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/gilead-oncology-grant",
         "anchor_text": "Gilead Oncology Grant",
+        "score": 113
+      },
+      {
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-extends-tender-offer-to-acquire-arcellx",
+        "anchor_text": "April 1, 2026Gilead Extends Tender Offer to Acquire Arcellx",
         "score": 113
       },
       {
@@ -39202,11 +40096,6 @@
         "score": 65
       },
       {
-        "url": "https://www.gilead.com/responsibility/esg/esg-frameworks-and-reporting",
-        "anchor_text": "ESG Frameworks and Reporting",
-        "score": 64
-      },
-      {
         "url": "https://www.gilead.com/responsibility/inclusion-and-diversity/overview",
         "anchor_text": "Inclusion and Diversity",
         "score": 64
@@ -39384,16 +40273,6 @@
       {
         "url": "https://www.gilead.com/science/diversity-in-clinical-trials",
         "anchor_text": "Diversity in Clinical Trials",
-        "score": 51
-      },
-      {
-        "url": "https://www.gilead.com/responsibility/esg/esg-performance",
-        "anchor_text": "ESG Performance",
-        "score": 51
-      },
-      {
-        "url": "https://www.gilead.com/responsibility/esg/esg-focus-areas",
-        "anchor_text": "ESG Focus Areas",
         "score": 51
       },
       {
@@ -39575,11 +40454,6 @@
         "url": "https://www.gilead.com/company/us-locations",
         "anchor_text": "U.S. Locations",
         "score": 35
-      },
-      {
-        "url": "https://www.gilead.com/responsibility/esg/overview",
-        "anchor_text": "ESG",
-        "score": 34
       },
       {
         "url": "https://www.gilead.com/responsibility/sustainability",
@@ -44852,6 +45726,11 @@
         "score": 161
       },
       {
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-to-Announce-First-Quarter-2026-Financial-Results-on-May-5/default.aspx",
+        "anchor_text": "Read More",
+        "score": 160
+      },
+      {
         "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-to-Participate-in-Upcoming-Investor-Conferences/default.aspx",
         "anchor_text": "Read More",
         "score": 150
@@ -45034,6 +45913,16 @@
     "press_url": "https://insilico.com/news",
     "candidate_links": [
       {
+        "url": "https://insilico.com/news/vxuidy8ph1-insilico-medicine-announces-industrys-fi",
+        "anchor_text": "Insilico Medicine Announces Industry’s First Longevity Board to Accelerate AI-Driven Aging Research for Drug Discovery",
+        "score": 71
+      },
+      {
+        "url": "https://insilico.com/news/77g216v1e1-insilico-medicine-advances-ai-driven-tar",
+        "anchor_text": "Insilico Medicine Advances AI-Driven Target Discovery with Validated TargetPro–TargetBench Framework",
+        "score": 71
+      },
+      {
         "url": "https://insilico.com/news/bnj09h4811-pharmaai-spring-kickoff-2026-drive-the-f",
         "anchor_text": "Pharma.AI Spring Kickoff 2026: Drive the Future of Pharmaceutical Intelligence",
         "score": 71
@@ -45049,18 +45938,8 @@
         "score": 71
       },
       {
-        "url": "https://insilico.com/news/yayygle7n1-insilico-medicine-named-to-fast-companys",
-        "anchor_text": "Insilico Medicine named to Fast Company’s annual list of the world’s most innovative companies of 2026",
-        "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/99t6vd21h1-insilico-medicine-and-tenacia-biotechnol",
-        "anchor_text": "Insilico Medicine and Tenacia Biotechnology Expand AI-Driven CNS Collaboration with Deal Value Up to US$94.75 Million",
-        "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/ohz9ozx0t1-insilico-medicine-announces-2025-annual",
-        "anchor_text": "Insilico Medicine Announces 2025 Annual Results, Redefining Value Delivery in AI-Powered Drug Discovery",
+        "url": "https://insilico.com/news/z21rzi2mv1-insilico-medicine-showcases-preclinical",
+        "anchor_text": "Insilico Medicine Showcases Preclinical Breakthroughs for Four AI-Powered Oncology Pipelines at AACR Annual Meeting 2026",
         "score": 70
       },
       {
@@ -45392,6 +46271,11 @@
         "score": 31
       },
       {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+        "anchor_text": "News Releases",
+        "score": 30
+      },
+      {
         "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
         "anchor_text": "Skip to content",
         "score": 30
@@ -45414,11 +46298,6 @@
       {
         "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
         "anchor_text": "Media Highlights",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-        "anchor_text": "News Releases",
         "score": 30
       },
       {
@@ -45447,6 +46326,11 @@
         "score": 27
       },
       {
+        "url": "https://generatebiomedicines.com/terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 25
+      },
+      {
         "url": "https://generatebiomedicines.com/media-center",
         "anchor_text": "Media Center",
         "score": 25
@@ -45454,11 +46338,6 @@
       {
         "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
         "anchor_text": "1",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/terms-of-use",
-        "anchor_text": "Terms of Use",
         "score": 25
       },
       {
@@ -46226,6 +47105,16 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15109/2026-04-21/genentechs-fenebrutinib-significantly-re",
+        "anchor_text": "Genentech’s Fenebrutinib Significantly Reduced Relapses Versus Standard of Care to Approximately One Every 17 Years in RMS",
+        "score": 99
+      },
+      {
+        "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces",
+        "anchor_text": "Genentech’s Enspryng (Satralizumab) Reduces Risk of Relapses by 68% Demonstrating Potential to Become First Treatment for MOGAD",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15107/2026-04-20/fda-accepts-application-for-genentechs-g",
         "anchor_text": "FDA Accepts Application for Genentech’s Gazyva for the Treatment of the Most Common Form of Lupus",
         "score": 99
@@ -46338,16 +47227,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15083/2025-10-17/genentechs-phase-iii-evera-data-showed-g",
         "anchor_text": "Genentech’s Phase III evERA Data Showed Giredestrant Significantly Improved Progression-Free Survival in People With ER-Positive Advanced Breast Cancer",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15082/2025-10-17/genentech-presents-new-phase-iii-pivotal",
-        "anchor_text": "Genentech Presents New Phase III Pivotal Data for Vamikibart in Uveitic Macular Edema (UME), a Serious Cause of Vision Loss",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15081/2025-10-16/genentech-expands-xofluza-access-and-aff",
-        "anchor_text": "Genentech Expands Xofluza®Access And Affordability For Upcoming Flu Season With Direct-To-Patient Launch",
         "score": 99
       },
       {
@@ -50578,6 +51457,11 @@
         "score": 84
       },
       {
+        "url": "https://www.gsk.com/en-gb/innovation/our-leading-scientists/dr-christopher-austin/",
+        "anchor_text": "Dr Christopher Austin",
+        "score": 83
+      },
+      {
         "url": "https://www.gsk.com/en-gb/responsibility/environment/health-system-sustainability/",
         "anchor_text": "Health system sustainability",
         "score": 83
@@ -51670,9 +52554,9 @@
     "press_url": "https://www.ipsen.com/media-room/press-releases/",
     "candidate_links": [
       {
-        "url": "https://www.ipsen.com/press-release/ipsen-receives-positive-chmp-opinion-for-ojemda-for-the-treatment-as-monotherapy-of-children-with-relapsed-or-refractory-braf-altered-pediatric-low-grade-glioma-3246394/",
-        "anchor_text": "Ipsen receives positive CHMP opinion for Ojemda® for the treatment as monotherapy of children with relapsed or refractory BRAF-altered pediatric low-grade glioma",
-        "score": 200
+        "url": "https://www.ipsen.com/press-release/ojemda-approved-in-the-european-union-as-the-first-targeted-therapy-in-relapsed-or-refractory-pediatric-low-grade-glioma-regardless-of-braf-alteration-3278647/",
+        "anchor_text": "Ojemda® approved in the European Union as the first targeted therapy in relapsed or refractory pediatric low-grade glioma regardless of BRAF alteration",
+        "score": 190
       },
       {
         "url": "https://www.ipsen.com/press-release/ipsen-announces-that-beech-tree-has-obtained-an-exemption-from-the-obligation-to-submit-a-public-tender-offer-3267937/",
@@ -54054,6 +54938,11 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260422153000_1246.html?year=2026&category=",
+        "anchor_text": "Roche’s Announcement Regarding New Data of Enspryng for Myelin Oligodendrocyte Glycoprotein Antibody-associated Disease (MOGAD)",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260410170000_1241.html?year=2026&category=",
         "anchor_text": "Chugai Selected as “Digital Transformation Stocks (DX Stocks) 2026”",
         "score": 53
@@ -54426,6 +55315,11 @@
       {
         "url": "https://www.chugai-pharm.co.jp/english/innovation/",
         "anchor_text": "Innovation",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260422_eEnspryng_MOGAD.pdf&src=[%0],[%1]&rep=130,1246",
+        "anchor_text": "[PDF\n                            112KB]",
         "score": 26
       },
       {
@@ -55058,6 +55952,11 @@
       {
         "url": "https://www.ono-pharma.com/en/ir/stock/analyst",
         "anchor_text": "Analyst Coverage",
+        "score": 28
+      },
+      {
+        "url": "https://www.ono-pharma.com/en/news/20260422.html",
+        "anchor_text": "Apr.22.2026R & DOno Pharma Announces Upcoming Presentations at the ASCO 2026 Annual Meeting",
         "score": 28
       },
       {
@@ -58503,6 +59402,11 @@
     "press_url": "https://www.celltrion.com/en-us/company/media-center",
     "candidate_links": [
       {
+        "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4740",
+        "anchor_text": "Celltrion to present seven abstracts in inflammatory bowel disease (IBD) at 2026 Digestive Disease Week® (DDW)2026.04.22Seven abstracts accepted for presentation include data from long-term follow-up studies and a post-hoc analysis of the pivotal LIBERTY studies (LIBERTY-CD and LIBERTY-UC) of ZYMFENTRA® (infliximab-dyyb)Findings emphasize clinical decision-making in long-term management of inflammatory bowel disease (IBD), reinforcing Celltrion's commitment to elevating the standard of care and addressing unmet medical need in gastroenterology INCHEON, South Korea, April 21, 2026 Celltrion, Inc. today announced that seven abstracts will be presented at the 2026 Digestive Disease Week® (DDW) Annual Meeting, taking place May 2-5 in Chicago, Illinois. The oral and poster presentations will feature data including post-hoc analysis of its pivotal LIBERTY studies (LIBERTY-CD and LIBERTY-UC) of ZYMFENTRA®, the first and only FDA-approved subcutaneous infliximab. \"The findings provide additional evidence that disease control can be effectively recaptured with a convenient subcutaneous option, with the potential to advance the treatment paradigm for people living with Crohn's disease and ulcerative colitis,\" said Juby Jacob-Nara, Senior Vice President and Chief Medical Officer at Celltrion USA. \"The research Celltrion is presenting at DDW reflects our ongoing commitment to transforming IBD care through innovative therapies that improve patient outcomes.\" Celltrion is driving scientific discovery and expanding access to comprehensive clinical and real-world evidence to support informed treatment decisions in an increasingly complex and evolving IBD landscape. The details of Celltrion's abstracts are as follows: Abstract TitlePresentation DetailsAll times CTPROFILE 4-year follow-up shows that earlyeffective \"top-down\" therapy is associated withreduced long-term Crohn's disease complications Oral PresentationLate Breakers in IBDTuesday, May 5, 2026/ 10:00 AM –10:15 AM Randomised controlled trial of withdrawal ofthiopurines in patients with IBD switching fromintravenous to subcutaneous infliximab: Resultsof the MINIMISE study Oral PresentationIBD: Controlled Clinical Trials 2Tuesday, May 5, 2026/ 8:30 AM –8:45 AM Randomised controlled trial of continuedintravenous versus switching to subcutaneousinfliximab in inflammatory bowel disease: theSubcutaneous Infliximab Switch Study (SISS) Oral PresentationIBD: Controlled Clinical Trials 2Tuesday, May 5, 2026/ 8:00 AM–8:15 AM Comparison of effectiveness betweensubcutaneous infliximab as monotherapy orcombined with an immunosuppressant in patientswith Crohn's disease: interim results from theREMONO-CD study Oral Presentation #537Comparative Effectiveness in IBDSunday May 3, 2026 / 4:30PM –4:45PM Long-term effectiveness, safety, acceptability, andprogression of bowel damage of switching fromintravenous to subcutaneous infliximab inpatients with inflammatory bowel diseasestreated with intensified doses: The REMSWITCH-VLT study Oral PresentationAdvances in Medical Therapy of IBDTuesday, May 5, 2026/ 4:45 PM –5:00 PM Recapturing disease control with subcutaneousinfliximab after a drug holiday followingintravenous infliximab induction: A post hocanalysis of LIBERTY-CD and -UC studies Poster PresentationInflammatory Bowel Disease ePoster ShowcaseSunday, May 3, 2026/11:57 AM –12:03 PM Subcutaneous infliximab (CT-P13 SC) asmaintenance therapy for Crohn's disease in Japan:Safety and efficacy over 44 weeks ePoster (online only)  Notes to Editors: About ZYMFENTRA® (infliximab-dyyb) ZYMFENTRA® (infliximab-dyyb) is a prescription medicine used as an injection under the skin (subcutaneous injection) by adults for the maintenance treatment of moderately-to-severely active ulcerative colitis following treatment with an infliximab product given by intravenous infusion (IV), Moderately-to-severely active Crohn's disease following treatment with an infliximab product given by intravenous infusion (IV). ZYMFENTRA blocks the action of tumor necrosis factor-alpha (TNF-alpha), a protein that can be overproduced in response to certain diseases and cause the immune system to attack normal, healthy parts of the body. ZYMFENTRA was approved by the FDA through the Biologics License Application (BLA) under the 351 (a) pathway of the Public Health Service Act (a \"stand-alone\" BLA). ZYMFENTRA is considered a new biologic with a first-approved subcutaneous administration form and thus will be under patent protection for its dosage form by 2037 and for its route of administration by 2040. Indication and Important Safety Information ZYMFENTRA® is a prescription medicine indicated in adults for maintenance treatment of: Moderately-to-severely active Crohn's disease following treatment with an infliximab product administered intravenously.Moderately-to-severely active ulcerative colitis following treatment with an infliximab product administered intravenously. It is not known if ZYMFENTRA is safe and effective in children under 18 years of age. What is the most important information I should know about ZYMFENTRA? SERIOUS INFECTIONS Patients treated with ZYMFENTRA are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death. Discontinue ZYMFENTRA if a patient develops a serious infection or sepsis. Reported infections include: Active tuberculosis (TB), including reactivation of latent TB. Patients frequently presented with disseminated or extrapulmonary disease. Patients should be tested for latent TB before and during treatment with ZYMFENTRA. Treatment for latent infection should be initiated prior to treatment with ZYMFENTRA.Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis. Patients may present with disseminated, rather than localized, disease. Empiric anti-fungal therapy should be considered in patients at risk for invasive fungal infections who develop severe systemic illness.Bacterial, viral, and other infections due to opportunistic pathogens, including Legionella and Listeria. The risks and benefits of treatment with ZYMFENTRA should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection. Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ZYMFENTRA, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy. Risk of infection may be higher in patients greater than 65 years of age, patients with comorbid conditions and/or patients taking concomitant immunosuppressant therapy. In clinical trials, other serious infections observed in patients treated with infliximab included arthritis bacterial, pneumonia, and urinary tract infection. MALIGNANCIES Malignancies, some fatal, have been reported in children, adolescents, and young adults treated with TNF blockers, including infliximab products.Approximately half of these cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma. The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents. The malignancies occurred after a median of 30 months after the first dose of therapy. Most of the patients were receiving concomitant immunosuppressants. Post-marketing cases of hepatosplenic T-cell lymphoma, a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers, including infliximab products. These cases have had a very aggressive disease course and have been fatal. The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis, and most were in adolescent and young adult males. Almost all of these patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis. Carefully assess the risks and benefits of treatment with ZYMFENTRA, especially in these patient types. In clinical trials of all TNF blockers, more cases of malignancies were observed compared with controls and the expected rate in the general population. In clinical trials of some TNF blockers, including infliximab products, more cases of other malignancies were observed compared with controls. As the potential role of TNF blocker therapy in the development of malignancies is not known, caution should be exercised when considering treatment of patients with a current or a past history of malignancy. Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab products. Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer. CONTRAINDICATIONS ZYMFENTRA is contraindicated in patients with a previous severe hypersensitivity reaction to infliximab-dyyb, other infliximab products, any of the inactive ingredients of ZYMFENTRA or any murine proteins (severe hypersensitivity reactions have included anaphylaxis, hypotension and serum sickness). HEPATITIS B VIRUS REACTIVATION TNF blockers, including infliximab products, have been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic carriers. Some cases were fatal. Patients should be tested for HBV infection before initiating ZYMFENTRA. For patients who test positive, consult a physician with expertise in the treatment of hepatitis B. Exercise caution when prescribing ZYMFENTRA for patients identified as carriers of HBV and monitor closely for active HBV infection during and following termination of therapy with ZYMFENTRA. Discontinue ZYMFENTRA in patients who develop HBV reactivation and initiate antiviral therapy with appropriate supportive treatment. Exercise caution when considering resumption of ZYMFENTRA and monitor patients closely. HEPATOTOXICITY Hepatobiliary disorders, including acute liver failure, jaundice abnormal hepatic function, hepatic steatosis, hepatitis, hepatotoxicity, hyperbilirubinemia and non-alcoholic fatty liver, have been reported in patients receiving infliximab products post-marketing. Some cases were fatal or required liver transplant. Aminotransferase elevations were not noted prior to discovery of liver injury in many cases. Patients with symptoms or signs of liver dysfunction should be evaluated for evidence of liver injury. If jaundice and/or marked liver enzyme elevations (eg, ≥5 times the upper limit of normal) develop, ZYMFENTRA should be discontinued and a thorough investigation of the abnormality should be undertaken. CONGESTIVE HEART FAILURE Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers. Some cases had a fatal outcome. In several exploratory trials of other TNF blockers in the treatment of CHF, there were greater proportions of TNF-blocker-treated patients who had CHF exacerbations requiring hospitalization or increased mortality. ZYMFENTRA has not been studied in patients with a history of CHF and ZYMFENTRA should be used with caution in patients with CHF. HEMATOLOGIC REACTION Cases of leukopenia, neutropenia, thrombocytopenia and pancytopenia (some fatal) have been reported. The causal relationship to infliximab-product therapy remains unclear. Exercise caution in patients who have ongoing or a history of significant hematologic abnormalities. Advise patients to seek immediate medical attention if they develop signs and symptoms of blood dyscrasias or infection. Consider discontinuation of ZYMFENTRA in patients who develop significant hematologic abnormalities. HYPERSENSITIVITY AND OTHER ADMINISTRATION REACTIONS In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylaxis, hypotension and serum sickness) have been reported following administration of infliximab products. If an anaphylactic or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue ZYMFENTRA. INJECTION SITE REACTIONS In clinical studies, localized injection-site reactions were reported following administration of ZYMFENTRA. If a clinically significant injection-site reaction occurs, institute appropriate therapy and discontinue ZYMFENTRA. NEUROLOGIC REACTIONS Agents that inhibit TNF have been associated with central nervous system (CNS) manifestation of systemic vasculitis, seizure and new onset or exacerbation of CNS demyelinating disorders, including multiple sclerosis and optic neuritis and peripheral demyelinating disorders, including Guillain-Barré syndrome. Exercise caution when considering ZYMFENTRA in patients with these disorders and consider discontinuation if these disorders develop. RISK OF INFECTION WITH CONCURRENT ADMINISTRATION OF OTHER BIOLOGICS PRODUCTS Serious infections and neutropenia have been reported with concurrent use of ZYMFENTRA with other immunosuppressive biological products. The concurrent use of ZYMFENTRA with other immunosuppressive biological products used to treat UC and CD may increase the risk of infection and is not recommended. RISK OF ADDITIVE IMMUNOSUPPRESSIVE EFFECTS FROM PRIOR BIOLOGICAL PRODUCTS Consider the half-life and mode of action of prior biological products to avoid unintended additive immunosuppressive effects when initiating ZYMFENTRA. AUTOIMMUNITY Treatment with TNF blockers may result in the formation of autoantibodies and in the development of a lupus-like syndrome. Discontinue ZYMFENTRA treatment if symptoms of a lupus-like syndrome develop. VACCINATIONS AND USE OF LIVE VACCINES/THERAPEUTIC INFECTIOUS AGENTS Prior to initiating ZYMFENTRA, update vaccinations in accordance with current vaccination guidelines. Live vaccines or therapeutic infectious agents should not be given with ZYMFENTRA due to the possibility of clinical infections, including disseminated infections. At least a 6-month waiting period following birth is recommended before the administration of any live vaccine to infants exposed in utero to ZYMFENTRA. ADVERSE REACTIONS In clinical trials with ZYMFENTRA, the most common adverse reactions occurring in ≥3% of ZYMFENTRA-treated patients included site reactions, COVID-19, anemia, arthralgia, infection site reaction, increased alanine aminotransferase and abdominal pain for UC, and COVID-19, headache, upper respiratory tract infection, injection site reaction, diarrhea, increased blood creatine phosphokinase, arthralgia, increased alanine aminotransferase, hypertension, urinary tract infection, neutropenia, dizziness and leukopenia for CD. Please click for Full U.S. Prescribing Information. Globally, prescribing information varies; refer to the individual country product label for complete information.About Digestive Disease Week® Digestive Disease Week® (DDW) is the largest international gathering of physicians, researchers and academics in the fields of gastroenterology, hepatology, endoscopy and gastrointestinal surgery. Jointly sponsored by the American Association for the Study of Liver Diseases (AASLD), the American Gastroenterological Association (AGA), the American Society for Gastrointestinal Endoscopy (ASGE) and the Society for Surgery of the Alimentary Tract (SSAT), DDW is an in-person and online meeting from May 2-5, 2026. More information can be found at www.ddw.org About Celltrion, Inc. Celltrion is a leading biopharmaceutical company that specializes in researching, developing, manufacturing, marketing and sales of innovative therapeutics that improve people's lives worldwide. Celltrion is a pioneer in the biosimilar space, having launched the world's first monoclonal antibody biosimilar. Our global pharmaceutical portfolio addresses a range of therapeutic areas including immunology, oncology, hematology, ophthalmology and endocrinology. Beyond biosimilar products, we are committed to advancing our pipeline with novel drugs to push the boundaries of scientific innovation and deliver quality medicines. For more information, please visit our website www.celltrion.com/en-us. and stay updated with our latest news and events on our social media: LinkedIn, Instagram, X, and Facebook. About Celltrion USA Celltrion USA is Celltrion's U.S. subsidiary established in 2018. Headquartered in New Jersey, Celltrion USA is committed to expanding access to innovative biologics to improve care for U.S. patients. Celltrion's FDA-approved biosimilar products in immunology, oncology, hematology, and endocrinology include: INFLECTRA® (infliximab-dyyb), TRUXIMA® (rituximab-abbs), HERZUMA® (trastuzumab-pkrb), VEGZELMA® (bevacizumab-adcd), YUFLYMA®(adalimumab-aaty), AVTOZMA® (tocilizumab-anho), STEQEYMA® (ustekinumab-stba), STOBOCLO® (denosumab-bmwo), OSENVELT® (denosumab-bmwo), OMLYCLO® (omalizumab-igec), and EYDENZELT® (aflibercept-boav) as well as the novel biologic ZYMFENTRA® (infliximab-dyyb).Celltrion USA will continue to leverage Celltrion's unique heritage in biotechnology, supply chain excellence and best-in-class sales capabilities to improve access to high-quality biopharmaceuticals for U.S. patients. For more information, please visit www.celltrionusa.com and stay updated with our latest news and events on our social media: LinkedIn. FORWARD-LOOKING STATEMENT Certain information set forth in this press release contains statements related to our future business and financial performance and future events or developments involving Celltrion, Inc. and its subsidiaries that may constitute forward-looking statements under pertinent securities laws. This press release contains forward looking statements. These statements may be also identified by words such as \"prepares\", \"hopes to\", \"upcoming\", \"plans to\", \"aims to\", \"to be launched\", \"is preparing\", \"once gained\", \"could\", \"with the aim of\", \"may\", \"once identified\", \"will\", \"working towards\", \"is due\", \"become available\", \"has potential to\", \"anticipate\" the negative of these words or such other variations thereon or comparable terminology. In addition, our representatives may make oral forward-looking statements. Such statements are based on the current expectations and certain assumptions of Celltrion, Inc. and its subsidiaries' management, of which many are beyond its control. Forward-looking statements are provided to allow potential investors the opportunity to understand management's beliefs and opinions in respect of the future so that they may use such beliefs and opinions as one factor in evaluating an investment. These statements are not guarantees of future performance and undue reliance should not be placed on them. Such forward-looking statements necessarily involve known and unknown risks and uncertainties associated with the company's business, including the risk factors disclosed in its Annual Report and/or Quarterly Reports, which may cause actual performance and financial results in future periods to differ materially from any projections of future performance or results expressed or implied by such statements. Celltrion, Inc. and its subsidiaries undertake no obligation to update forward-looking statements if circumstances or management's estimates or opinions should change except as required by applicable securities laws. For further information please contact: Brendi Bluittbbluitt@jpa.com    +1 202-545-7722 SOURCE Celltrion",
+        "score": 66
+      },
+      {
         "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4671",
         "anchor_text": "Celltrion Announces KRW 1.2Tn Expansion of New DS Production Facilities in Songdo; Adds 180,000L of DS capacity, bringing total capacity to 570,000L2026.03.24Celltrion will add Plants 4 and 5 at its Songdo HQ with a total capacity of 180,000 liters, while also undertaking a 75,000-liter expansion at its U.S. manufacturing site.Celltrion’s total DS production capacity will be expanded to 571,000 liters, with the goal of achieving 100% internalization of DS production by 2031 and further cost reductions.Through the establishment of sustainable manufacturing infrastructure, Celltrion aims to strengthen cost competitiveness and supply stability, and build a foundation for its CMO business.Celltrion is also expanding DP manufacturing facilities in Songdo and Yesan, which is expected to enable approximately 90% internalization of its global DP supply.Celltrion plans to proactively respond to the expanding product portfolio and global demand, while actively considering securing additional manufacturing capacity if necessary. INCHEON, South Korea – Celltrion announced today that it plans to secure additional manufacturing capacity through a large-scale expansion investment exceeding KRW 1 trillion at its Songdo headquarters to respond to rapidly increasing global demand for its biologics portfolio and further strengthen its global manufacturing competitiveness. The expansion investment will be implemented in phases from this year through 2030 and will focus on expanding manufacturing infrastructure across the Songdo campus in Korea, the company’s production base in the U.S., and domestic business sites. This investment goes beyond expanding manufacturing capacity and is intended to establish a long-term growth foundation to support the reliable production and supply of next-generation biosimilars and innovative drug candidates currently under development, while enabling the expansion of the company’s global contract manufacturing (CMO) business. KRW 1.2Tn investment in the Songdo campus to construct Plants 4 and 5 with a total capacity of 180,000 liters to support pipeline products and CMO demand Celltrion will invest KRW 1.2265 trillion to construct Plants 4 and 5 with a combined capacity of 180,000 liters at its Songdo campus in Incheon, where the company’s headquarters are located. The new facilities will incorporate advanced automation systems and smart factory technologies, which are expected to maximize production efficiency and operational flexibility. This will enable a wide range of production capabilities, from small-batch, multi-product production to large-scale manufacturing, allowing the company to respond more rapidly to the production needs of its next-generation biosimilars and novel drugs to be launched in the future as well as its current key products. The planned facility expansion is intended to support the rapidly growing production demand of the company’s follow-on pipeline while proactively responding to increasing CMO requests. Branchburg facility in the U.S. to be expanded by 75,000 liters… total DS production capacity to reach 570,000 liters globally To further strengthen its competitiveness in the United States, Celltrion has finalized the scope of expansion of the manufacturing facility in Branchburg, New Jersey. The planned expansion has been increased from the originally proposed 66,000 liters to 75,000 liters, bringing the facility’s total production capacity for drug substances (DS) from the current 66,000 liters to 141,000 liters. As demand for local biologics manufacturing in the United States continues to grow rapidly, the Branchburg facility is expected to play a key role in supporting Celltrion’s supply of its products in the U.S. and expanding its CMO business. Once the facility expansions in Korea and overseas are completed, Celltrion’s DS production capacity will increase significantly from the current 316,000 liters to 571,000 liters. Upon completion of the expansion, Celltrion expects to achieve 100% internalization of DS production while realizing significant additional cost savings. Company-wide DP manufacturing expansion in Songdo and Yesan, aiming to raise DP production internalization to 90% In addition to strengthening its DS manufacturing capabilities, Celltrion is making broad investments to enhance its global competitiveness in drug product (DP) manufacturing. The new DP plant currently under construction at the Songdo campus has reached over 70% completion and is expected to be finished within this year, with commercial operations scheduled to begin next year. The facility will serve as a DP-only production plant and will be capable of producing up to 6.5 million liquid vials annually. Together with the existing DP line at Plant 2, which has a maximum annual output of 4 million vials, Celltrion will secure total DP capacity of approximately 10.5 million vials per year in Songdo alone. In addition, Celltrion has also finalized the site for a new DP manufacturing facility in Yesan Industrial Complex, Chungcheongnam-do, and plans to begin design work within this year. Once the Yesan DP facility is completed and the planned expansion of pre-filled syringe (PFS) manufacturing facilities by Celltrion Pharm is carried out, the company expects to internalize approximately 90% of its global DP supply volume, enabling substantial cost savings compared with overseas DP contract manufacturing. Meanwhile, Celltrion is conducting thorough reviews of safety management systems across all ongoing construction projects and will prioritize safety as the top priority in all expansion projects, including Plants 4 and 5. Responding with agility to surging global demand… “Additional manufacturing expansion may be considered, if necessary.” Through sequential domestic and overseas expansion investments, Celltrion plans to fully implement its global two-track manufacturing strategy and maximize its market responsiveness to rapidly changing economic conditions. Domestic manufacturing facilities will enhance production internalization and improve cost efficiency, strengthening competitiveness in global tenders and driving revenue growth in markets outside the United States. For its part, the U.S. manufacturing site will serve as a local supply hub for Celltrion’s products and CMO production, thereby proactively mitigating potential trade risks such as tariffs while enhancing local profitability. “This investment will enable the company to respond swiftly to rapidly growing global demand for biologics while significantly improving profitability through strengthened cost competitiveness and supply stability,” a Celltrion official said. “By establishing a comprehensive manufacturing infrastructure encompassing both innovative drugs and biosimilars as two key growth pillars, along with our expanding CMO business, Celltrion will take another step forward toward becoming a global top-tier biopharmaceutical company.” Looking ahead, Celltrion plans to actively consider securing additional manufacturing facilities in line with global market conditions and the launch of its pipeline products if necessary.",
         "score": 66
@@ -58510,11 +59414,6 @@
       {
         "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4649",
         "anchor_text": "Celltrion announces U.S. availability of AVTOZMA® (tocilizumab-anoh) subcutaneous (SC) formulation2026.03.17AVTOZMA® (tocilizumab-anoh) is among the first wave of tocilizumab biosimilars with both intravenous (IV) and subcutaneous (SC) formulations approved and commercially available in the United StatesThe launch of AVTOZMA SC further diversifies Celltrion's immunology portfolio beyond TNF-alpha and IL-12/23 inhibitors providing a broader range of treatment solutions for immune-mediated inflammatory diseases INCHEON, South Korea, March 16, 2026 - Celltrion, Inc. today announced that AVTOZMA® (tocilizumab-anoh) subcutaneous (SC) formulation is now commercially available to patients in the United States. With this launch, Celltrion's AVTOZMA becomes one of the first tocilizumab biosimilars to have both an intravenous (IV) and a SC formulation approved by the U.S. Food and Drug Administration (FDA) and available on the U.S. market. \"The introduction of AVTOZMA SC is a pivotal moment for Celltrion, underscoring our dedication to delivering effective, accessible and user-friendly therapies for patients with chronic inflammatory diseases,\" said Thomas Nusbickel, Chief Commercial Officer of Celltrion USA. \"By offering both IV and SC formulations, we aim to provide patients and healthcare professionals with greater flexibility in treatment decisions, while continuing to broaden our immunology portfolio with therapies that address diverse inflammatory pathways.\" The SC formulation of AVTOZMA is indicated for the treatment of rheumatoid arthritis (RA), giant cell arteritis (GCA), polyarticular juvenile idiopathic arthritis (PJIA) and systemic juvenile idiopathic arthritis (SJIA). AVTOZMA SC is available in a 162 mg/0.9 mL solution for injection in a single-dose prefilled syringe or a single-dose prefilled autoinjector, allowing patients the flexibility and convenience of administering their treatment at home. [1] Celltrion provides support to U.S. patients prescribed AVTOZMA through its patient support program, Celltrion CONNECT™. Celltrion CONNECT™ offers tailored support to its patients and caregivers with a full range of services including injection training, reimbursement assistance and educational resources to patients and healthcare professionals. Notes to Editors: About AVTOZMA® (CT-P47, tocilizumab-anoh)AVTOZMA® (tocilizumab-anoh), containing the active ingredient tocilizumab, is a recombinant humanized monoclonal antibody that acts as an interleukin 6 (IL-6) receptor antagonist. Based on data from the global Phase III clinical trial designed to evaluate the efficacy, pharmacokinetics (PK), safety, and immunogenicity of CT-P47 compared to reference tocilizumab, AVTOZMA received approval from the U.S. Food and Drug Administration (FDA) and European Commission (EC) in January and February 2025, respectively. In July 2025, the FDA approved an additional indication for the intravenous (IV) formulation of AVTOZMA for the treatment of cytokine release syndrome (CRS) in adult and pediatric patients aged two years and older. INDICATION AVTOZMA® (tocilizumab-anoh) IV is an interleukin-6 (IL-6) receptor antagonist indicated for treatment of: Rheumatoid Arthritis (RA): Adult patients with moderately to severely active RA who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs).Giant Cell Arteritis (GCA): Adult patients with GCA.Polyarticular Juvenile Idiopathic Arthritis (pJIA): Patients 2+ years-old with active pJIA.Systemic Juvenile Idiopathic Arthritis (sJIA): Patients 2+ years-old with active sJIA.Cytokine Release Syndrome (CRS): Adults and pediatric patients 2+ years-old with chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndromeCOVID-19: Hospitalized adult patients with COVID-19 who are receiving systemic corticosteroids and require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). AVTOZMA® (tocilizumab-anoh) SC is an interleukin-6 (IL-6) receptor antagonist indicated for treatment of: Rheumatoid Arthritis (RA): Adult patients with moderately to severely active RA who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs).Giant Cell Arteritis (GCA): Adult patients with GCA.Polyarticular Juvenile Idiopathic Arthritis (pJIA): Patients 2+ years-old with active pJIA.Systemic Juvenile Idiopathic Arthritis (sJIA): Patients 2+ years-old with active sJIA. IMPORTANT SAFETY INFORMATION WARNING: RISK OF SERIOUS INFECTIONS AVTOZMA® and other tocilizumab products may increase the risk of serious infections, potentially leading to hospitalization or death, especially in patients using concurrent immunosuppressants. If a serious infection develops, interrupt AVTOZMA until the infection is controlled. Reported infections include: Active tuberculosis (TB) which may present with pulmonary or extrapulmonary disease. Test for latent TB before and during treatment (except in COVID-19 patients) and treat latent infections before starting AVTOZMA.Invasive fungal infections: Such as candidiasis, aspergillosis, and pneumocystis, may present as disseminated rather than localized disease.Opportunistic infections, including bacterial, viral and other opportunistic pathogens. Monitor patients for signs of infection, including TB, during and after AVTOZMA treatment.Contraindications: Known hypersensitivity to tocilizumab products.Serious Infections. Serious and sometimes fatal infections have been reported with AVTOZMA. Do not use during active infections, including localized infections. Discontinue AVTOZMA if a serious infection occurs and resume only once controlled. Gastrointestinal (GI) Perforation. Gastrointestinal perforations, often linked to diverticulitis, have been reported with tocilizumab. Use AVTOZMA cautiously in high-risk patients and promptly evaluate new abdominal symptoms for early detection and management. Hepatoxicity. Monitor for hepatic injury signs. Avoid AVTOZMA if ALT/ AST >1.5x ULN (RA/GCA) or >10x ULN (COVID-19); discontinue if ALT/AST >5x ULN or symptoms of liver disease develop. Changes in Laboratory Parameters. Monitor neutrophils, platelets, liver enzymes, and lipids due to potential treatment-related changes; avoid initiating AVTOZMA in patients with critically low ANC or platelet counts. Immunosuppression. The impact of AVTOZMA on malignancy development is unknown, but it may increase risk as an immunosuppressant. Hypersensitivity Reactions, including anaphylaxis, and death, have occurred; administer IV infusions with anaphylaxis management support, discontinue permanently if reactions occur, and avoid use in patients with known hypersensitivity. Demyelinating Disorders. The impact of tocilizumab on demyelinating disorders is unknown, but rare cases were reported; monitor symptoms and use caution with preexisting or recent disorders. Active Hepatic Disease and Hepatic Impairment. Treatment with AVTOZMA is not recommended. Live Vaccines. Avoid concurrent use with AVTOZMA. Adverse Reactions (≥5%) include upper respiratory tract infections, nasopharyngitis, headache, hypertension, elevated ALT, and injection site reactions. For more information, see FullPrescribing Information. About Celltrion Celltrion is a leading biopharmaceutical company that specializes in researching, developing, manufacturing, marketing and sales of innovative therapeutics that improve people's lives worldwide. Celltrion is a pioneer in the biosimilar space, having launched the world's first monoclonal antibody biosimilar. Our global pharmaceutical portfolio addresses a range of therapeutic areas including immunology, oncology, hematology, ophthalmology and endocrinology. Beyond biosimilar products, we are committed to advancing our pipeline with novel drugs to push the boundaries of scientific innovation and deliver quality medicines. For more information, please visit our website www.celltrion.com/en-us and stay updated with our latest news and events on our social media - LinkedIn, Instagram, X, and Facebook. About Celltrion USA Celltrion USA is Celltrion's U.S. subsidiary established in 2018. Headquartered in New Jersey, Celltrion USA is committed to expanding access to innovative biologics to improve care for U.S. patients. Celltrion's FDA-approved biosimilar products in immunology, oncology, hematology, and endocrinology include: INFLECTRA® (infliximab-dyyb), TRUXIMA® (rituximab-abbs), HERZUMA® (trastuzumab-pkrb), VEGZELMA® (bevacizumab-adcd), YUFLYMA®(adalimumab-aaty), AVTOZMA® (tocilizumab-anho), STEQEYMA® (Ustekinumab-stba) STOBOCLO® (denosumab-bmwo), OSENVELT® (denosumab-bmwo), and OMLYCLO® (omalizumab-igec), as well as the novel biologic ZYMFENTRA® (infliximab-dyyb). Celltrion USA will continue to leverage Celltrion's unique heritage in biotechnology, supply chain excellence and best-in-class sales capabilities to improve access to high-quality biopharmaceuticals for U.S. patients. For more information, please visit www.celltrionusa.com and stay updated with our latest news and events on our social media - LinkedIn. FORWARD-LOOKING STATEMENT Certain information set forth in this press release contains statements related to our future business and financial performance and future events or developments involving Celltrion Inc. and its subsidiaries that may constitute forward-looking statements, under pertinent securities laws. This press release contains forward looking statements. These statements may be also identified by words such as \"prepares\", \"hopes to\", \"upcoming\", \"plans to\", \"aims to\", \"to be launched\", \"is preparing\", \"once gained\", \"could\", \"with the aim of\", \"may\", \"once identified\", \"will\", \"working towards\", \"is due\", \"become available\", \"has potential to\", \"anticipates\", the negative of these words or such other variations thereon or comparable terminology. In addition, our representatives may make oral forward-looking statements. Such statements are based on the current expectations and certain assumptions of Celltrion Inc. and its subsidiaries' management, of which many are beyond its control. Forward-looking statements are provided to allow potential investors the opportunity to understand management's beliefs and opinions in respect of the future so that they may use such beliefs and opinions as one factor in evaluating an investment. These statements are not guarantees of future performance and undue reliance should not be placed on them. Such forward-looking statements necessarily involve known and unknown risks and uncertainties associated with the company's business, including the risk factors disclosed in its Annual Report and/or Quarterly Reports, which may cause actual performance and financial results in future periods to differ materially from any projections of future performance or results expressed or implied by such statements. Celltrion Inc. and its subsidiaries undertake no obligation to update forward-looking statements if circumstances or management's estimates or opinions should change except as required by applicable securities laws. Trademarks AVTOZMA® is a registered trademark of Celltrion Inc.ACTEMRA® is a registered trademark of Chugai Pharmaceutical Co., Ltd.  References[1] AVTOZMA U.S. prescribing information (2025)For further information please contact: Brendi Bluittbbluitt@jpa.com  +1 202-545-7722SOURCE Celltrion",
-        "score": 66
-      },
-      {
-        "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4593",
-        "anchor_text": "Celltrion set to benefit from global biosimilar regulatory streamlining, driving economies of scale from development to manufacturing and direct sales2026.03.13- The FDA’s move to streamline PK testing and expand the use of non-U.S.-licensed comparator products is expected to reduce total clinical development costs by up to 25%.- Leveraging its internalized capabilities, Celltrion plans to expand its portfolio to include products targeting small and mid-sized markets, further strengthening economies of scale.- Celltrion plans to expand its biosimilar portfolio to 41 products by 2038, with the number of products under development expected to increase rapidly.- With capabilities spanning development, manufacturing and direct sales, Celltrion is well positioned to benefit from the regulatory changes. INCHEON, South Korea – Celltrion announced today that it will immediately incorporate newly announced global regulatory updates aimed at streamlining biosimilar development into its ongoing pipeline programs, with the goal of significantly reducing development costs and timelines. The company expects that the latest policy changes, combined with its expanding multi-product portfolio, will serve as a catalyst for achieving unprecedented economies of scale across its biosimilar business.The U.S. Food and Drug Administration (FDA) recently announced the fourth revision of the “New and Revised Draft Q&As on Biosimilar Development and the BPCI Act,” aimed at streamlining the biosimilar development process. The revised draft guidance recommends streamlining clinical pharmacokinetic (PK) testing typically conducted during Phase 1 trials when scientifically justified. One of the most notable revisions involves the relaxation of comparator product requirements. Previously, biosimilar developers seeking approval in the United States were required to conduct direct PK comparison studies using a U.S.-licensed reference product. Under the updated guidance, however, comparative clinical data generated using a comparator product approved outside the United States may also be accepted to support a demonstration of biosimilarity. This change is expected to significantly reduce development costs, particularly in the immuno-oncology field where reference biologics are extremely expensive. Celltrion maintains strong competitiveness in this area with multiple products currently under development. The company therefore expects this measure alone could reduce overall clinical development costs by up to 25%. When combined with the FDA’s draft guidance issued in October last year aimed at reducing or waiving certain Phase 3 clinical studies, the overall cost-saving effect across the development process is expected to increase further. Although the revised guidance remains in draft form, Celltrion believes it reflects the FDA’s latest perspective, and plans to immediately apply the updated regulatory approach to its ongoing development programs to significantly shorten development timelines and reduce costs. Even prior to the regulatory changes, Celltrion has maintained industry-leading cost competitiveness through its integrated capabilities spanning development, manufacturing and direct sales. With a direct sales network already established across most key markets and additional savings expected from reduced clinical and comparator product costs, this cost advantage is expected to strengthen further. Celltrion also views the regulatory streamlining not merely as a cost-reducing measure, but as a strategic lever to achieve larger economies of scale across its entire product portfolio. By reinvesting resources saved through streamlined clinical requirements into additional pipeline development, the company expects to accelerate the expansion of its mid- to long-term product portfolio, including products targeting small and mid-sized markets that were previously difficult to pursue due to high clinical development costs. Streamlined regulatory requirements for clinical data and approval procedures are elevating the importance of expertise in antibody analytics, comparability assessment and process development, thereby favorably positioning companies like Celltrion who possess robust early-stage development capabilities. Beyond the 11 biosimilar products currently marketed globally, Celltrion plans to expand its portfolio to 41 products by 2038. Through this expansion, the company expects to target a global market projected to exceed KRW 400 trillion, more than four times larger than the KRW 85 trillion addressable market recorded last year. Celltrion believes that the recent global trend toward regulatory streamlining could support a further expansion of its product development plans. Key disclosed pipeline programs include CT-P53 (Ocrevus biosimilar), CT-P55 (Cosentyx biosimilar), CT-P52 (Taltz biosimilar) in autoimmune diseases, as well as CT-P51 (Keytruda biosimilar) and CT-P44 (Darzalex biosimilar) in oncology. In addition, more than 20 additional pipeline programs remain undisclosed. Notably, Celltrion recently reduced Phase 3 clinical trial enrollment for CT-P55 from 375 patients to 153, reflecting the impact of regulatory streamlining and suggesting the potential for faster development timelines. “The global trend toward regulatory streamlining presents a significant opportunity for Celltrion, which possesses strong early-stage development capabilities, large-scale manufacturing capacity and a global direct sales network,” a Celltrion official said. “By reinvesting the cost savings to further expand our pipeline, we aim to achieve greater economies of scale and strengthen our cost competitiveness as we continue advancing toward becoming a leading global biopharmaceutical company.”",
         "score": 66
       },
       {
@@ -58755,6 +59654,11 @@
     "press_url": "https://ir.discmedicine.com/news-releases",
     "candidate_links": [
       {
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2",
+        "anchor_text": "Read More",
+        "score": 115
+      },
+      {
         "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-receives-complete-response-letter-fda-bitopertin",
         "anchor_text": "Read More",
         "score": 114
@@ -58876,9 +59780,14 @@
     "press_url": "https://ir.intracellulartherapies.com/press-releases",
     "candidate_links": [
       {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Announces-64th-Consecutive-Year-of-Dividend-Increase-Raises-Quarterly-Dividend-by-3-1/default.aspx",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-Showcases-CARTO-Powered-Innovation-Including-Debut-of-CARTOSOUND-SONATA-to-Advance-Arrhythmia-Care-at-HRS-2026/default.aspx",
         "anchor_text": "Read article",
-        "score": 193
+        "score": 218
+      },
+      {
+        "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-2026-RBC-Capital-Markets-Global-Healthcare-Conference/default.aspx",
+        "anchor_text": "See details(opens in new window)",
+        "score": 204
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Bank-of-America-2026-Healthcare-Conference/default.aspx",
@@ -58886,14 +59795,9 @@
         "score": 193
       },
       {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Participate-in-the-Bank-of-America-2026-Healthcare-Conference/default.aspx",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Participate-in-the-2026-RBC-Capital-Markets-Global-Healthcare-Conference/default.aspx",
         "anchor_text": "Read article",
-        "score": 172
-      },
-      {
-        "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-First-Quarter-2026-Earnings-Call/default.aspx",
-        "anchor_text": "See details(opens in new window)",
-        "score": 161
+        "score": 183
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-First-Quarter-2026-Earnings-Call",
@@ -59723,6 +60627,11 @@
         "score": 168
       },
       {
+        "url": "https://investors.karyopharm.com/2026-04-21-Karyopharms-Phase-3-SENTRY-Trial-in-Myelofibrosis-Selected-for-Late-Breaking-Oral-Presentation-at-ASCO-2026-Annual-Meeting",
+        "anchor_text": "Karyopharm's Phase 3 SENTRY Trial in Myelofibrosis Selected for Late-Breaking Oral Presentation at ASCO 2026 Annual Meeting",
+        "score": 146
+      },
+      {
         "url": "https://investors.karyopharm.com/2026-02-12-Karyopharm-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Highlights-Recent-Company-Progress",
         "anchor_text": "Karyopharm Reports Fourth Quarter and Full Year 2025 Financial Results and Highlights Recent Company Progress",
         "score": 133
@@ -59744,11 +60653,6 @@
       },
       {
         "url": "https://investors.karyopharm.com/2026-01-02-Karyopharm-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4",
-        "anchor_text": "Karyopharm Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-        "score": 108
-      },
-      {
-        "url": "https://investors.karyopharm.com/2025-12-01-Karyopharm-Therapeutics-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4",
         "anchor_text": "Karyopharm Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
         "score": 108
       },
@@ -60607,6 +61511,11 @@
         "score": 30
       },
       {
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7495",
+        "anchor_text": "Resolutions of the Annual General Meeting 2026 of Bavarian Nordic A/S",
+        "score": 30
+      },
+      {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7494",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
         "score": 30
@@ -60724,11 +61633,6 @@
       {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7397",
         "anchor_text": "Heidi Hunter Appointed New Vice Chair of the Board of Directors of Bavarian Nordic",
-        "score": 30
-      },
-      {
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7393",
-        "anchor_text": "Bavarian Nordic to Launch Share Buy-back Program of up to DKK 500 Million",
         "score": 30
       },
       {
@@ -61263,6 +62167,11 @@
         "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Commends-White-House-Executive-Order-to-Accelerate-Research-and-Access-for-Psychedelic-Treatments/default.aspx",
         "anchor_text": "Compass Pathways Commends White House Executive Order to Accelerate Research and Access for Psychedelic Treatments",
         "score": 212
+      },
+      {
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Collaborates-with-Osmind-to-Advance-Independent-Clinic-Readiness-for-Psychedelic-Treatments/default.aspx",
+        "anchor_text": "Compass Pathways Collaborates with Osmind to Advance Independent Clinic Readiness for Psychedelic Treatments",
+        "score": 206
       },
       {
         "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-U-S-Grant-Program-for-the-Creation-of-Post-Approval-COMP360-Provider-Training/default.aspx",
@@ -62393,9 +63302,19 @@
         "score": 197
       },
       {
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-to-Present-First-Phase-2-Botensilimab-Data-in-Advanced-Cutaneous-Melanoma-at-ASCO-2026/default.aspx",
+        "anchor_text": "Read More",
+        "score": 175
+      },
+      {
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-to-Provide-Fourth-Quarter-and-Year-end-2025-Financial-Report-and-Corporate-Update/default.aspx",
         "anchor_text": "Read More",
         "score": 170
+      },
+      {
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Names-BAP-Pharma-as-Exclusive-Global-Partner-for-BOTBAL-Access-Programs/default.aspx",
+        "anchor_text": "Read More",
+        "score": 160
       },
       {
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-to-Host-First-2026-Stakeholder-Webcast/default.aspx",
@@ -67012,9 +67931,9 @@
         "score": 124
       },
       {
-        "url": "https://enamine.net/news-press-releases/press-releases/recursion-and-enamine-release-new-ai-enabled-targeted-compound-libraries",
-        "anchor_text": "Recursion and Enamine Release New AI-Enabled Targeted Compound Libraries",
-        "score": 124
+        "url": "https://enamine.net/news-press-releases/press-releases/enamine-strengthens-its-sustainable-procurement-program-in-2026",
+        "anchor_text": "Enamine Strengthens Its Sustainable Procurement Program in 2026",
+        "score": 115
       },
       {
         "url": "https://enamine.net/news-press-releases/press-releases/peapod-bio-inc-and-enamine-ltd-announce-strategic-collaboration",
@@ -68541,11 +69460,6 @@
     "press_url": "https://www.biosolveit.de/company/news/",
     "candidate_links": [
       {
-        "url": "https://www.biosolveit.de/2025/09/08/workshop-in-boston-the-trillion-compound-workshop-biosolveit-x-enamine-featuring-molecular-glue-case-study/",
-        "anchor_text": "Read on",
-        "score": 164
-      },
-      {
         "url": "https://www.biosolveit.de/2026/02/25/introducing-savi-space-taking-the-step-after-enumeration-with-the-savi-space/",
         "anchor_text": "Read on",
         "score": 134
@@ -68566,21 +69480,6 @@
         "score": 128
       },
       {
-        "url": "https://www.biosolveit.de/2025/09/17/wuxis-galaxi-space-september-2025-expanded-to-26-billion-molecules/",
-        "anchor_text": "Read on",
-        "score": 124
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/09/23/enamines-real-space-september-2025-update-now-83-billion/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
         "url": "https://www.biosolveit.de/2025/12/09/emina-yekt-yilmaz-wins-scientific-challenge-winter-2024/",
         "anchor_text": "Read on",
         "score": 113
@@ -68599,11 +69498,6 @@
         "url": "https://www.biosolveit.de/2026/04/08/two-projects-win-scientific-challenge-spring-2025/",
         "anchor_text": "Read on",
         "score": 107
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/10/15/recordings-of-the-biosolveit-day-2025-available/",
-        "anchor_text": "Read on",
-        "score": 105
       },
       {
         "url": "https://www.biosolveit.de/2026/02/10/seesar-15-apollo-decode-activity-gain-insights/",
@@ -68632,11 +69526,6 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/02/09/scientific-challenge-spring-2026/",
-        "anchor_text": "Read on",
-        "score": 90
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/11/10/winter-2025-scientific-challenge/",
         "anchor_text": "Read on",
         "score": 90
       },
@@ -69789,6 +70678,11 @@
         "score": 71
       },
       {
+        "url": "https://www.abridge.com/blog/honorhealth-ai-enterprise-rollout",
+        "anchor_text": "Read more",
+        "score": 53
+      },
+      {
         "url": "https://www.abridge.com/reports/abridge-partnership-experience",
         "anchor_text": "Partnership Experience Guide",
         "score": 53
@@ -69796,11 +70690,6 @@
       {
         "url": "https://www.abridge.com/abridge-contextual-reasoning-engine",
         "anchor_text": "Contextual Reasoning Engine",
-        "score": 48
-      },
-      {
-        "url": "https://www.abridge.com/blog/abridge-integrates-nejm-jama",
-        "anchor_text": "Read more",
         "score": 48
       },
       {
@@ -70005,11 +70894,6 @@
         "score": 137
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-announces-strategic-collaboration-agreement-with-merck-to-accelerate-ai-driven-precision-medicine/",
-        "anchor_text": "Tempus Announces Strategic Collaboration Agreement with Merck to Accelerate AI-Driven Precision Medicine",
-        "score": 132
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-launches-automated-active-follow-up-service-to-support-guideline-concordant-care/",
         "anchor_text": "Tempus Launches Automated “Active Follow-Up” Service to Support Guideline-Concordant Care",
         "score": 115
@@ -70023,6 +70907,11 @@
         "url": "https://www.tempus.com/news/pr/tempus-to-present-at-the-25th-annual-needham-virtual-healthcare-conference/",
         "anchor_text": "Tempus to Present at the 25th Annual Needham Virtual Healthcare Conference",
         "score": 102
+      },
+      {
+        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
+        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5",
+        "score": 90
       },
       {
         "url": "https://www.tempus.com/radiology/tempus-pixel-therapy-response-evaluation/",
@@ -70405,7 +71294,7 @@
         "score": 10
       },
       {
-        "url": "https://www.tempus.com/news/?_page=29",
+        "url": "https://www.tempus.com/news/?_page=30",
         "anchor_text": "",
         "score": 10
       },
@@ -70889,6 +71778,11 @@
         "url": "https://grail.com/press-releases/benicomp-to-offer-grails-multi-cancer-early-detection-test-for-employee-health-screening/",
         "anchor_text": "BeniComp to Offer GRAIL’s Multi-Cancer Early Detection Test for Employee Health ScreeningView Press Release01/11/2024",
         "score": 121
+      },
+      {
+        "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
+        "anchor_text": "GRAIL to Present New Data From NHS-Galleri and PATHFINDER 2 at 2026 ASCO Annual MeetingView Press Release04/21/2026",
+        "score": 120
       },
       {
         "url": "https://grail.com/press-releases/grail-to-present-new-multi-cancer-early-detection-data-at-the-2023-asco-annual-meeting/",
@@ -72948,6 +73842,11 @@
         "url": "https://www.gsk.com/en-gb/investors/corporate-actions/consumer-healthcare-demerger/",
         "anchor_text": "Consumer Healthcare Demerger",
         "score": 84
+      },
+      {
+        "url": "https://www.gsk.com/en-gb/innovation/our-leading-scientists/dr-christopher-austin/",
+        "anchor_text": "Dr Christopher Austin",
+        "score": 83
       },
       {
         "url": "https://www.gsk.com/en-gb/responsibility/environment/health-system-sustainability/",
@@ -75374,6 +76273,16 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -75460,16 +76369,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-16-06-00-00-3238527",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-12-06-30-00-3236866",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-10-14-00-56-3235419",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -80221,6 +81120,11 @@
         "score": 121
       },
       {
+        "url": "https://grail.com/press-releases/grail-to-present-new-data-from-nhs-galleri-and-pathfinder-2-at-2026-asco-annual-meeting/",
+        "anchor_text": "GRAIL to Present New Data From NHS-Galleri and PATHFINDER 2 at 2026 ASCO Annual MeetingView Press Release04/21/2026",
+        "score": 120
+      },
+      {
         "url": "https://grail.com/press-releases/grail-to-present-new-multi-cancer-early-detection-data-at-the-2023-asco-annual-meeting/",
         "anchor_text": "Grail to Present New Multi-Cancer Early Detection Data at the 2023 ASCO Annual MeetingView Press Release05/22/2023",
         "score": 119
@@ -80918,6 +81822,16 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-18-10-00-00-3276558",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -81004,16 +81918,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-16-06-00-00-3238527",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-12-06-30-00-3236866",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-02-10-14-00-56-3235419",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -82625,23 +83529,8 @@
     "candidate_links": []
   },
   {
-    "company": "o2h Discovery",
-    "press_url": "https://o2h.com/news/",
-    "candidate_links": []
-  },
-  {
-    "company": "Pharmace Research Laboratory Pvt Ltd",
-    "press_url": "https://www.pharmaceresearch.com/public/news-event/list",
-    "candidate_links": []
-  },
-  {
     "company": "Simson Pharma Limited",
     "press_url": "https://www.simsonpharma.com/blog",
-    "candidate_links": []
-  },
-  {
-    "company": "Akshar Global Clinical Research Pvt. Ltd.",
-    "press_url": "https://agcro.com/insights/",
     "candidate_links": []
   },
   {
@@ -83137,357 +84026,6 @@
         "url": "https://www.cipla.com/",
         "anchor_text": "Our Presence",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Aurobindo Pharma",
-    "press_url": "https://www.aurobindo.com/media/press-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
-        "anchor_text": "Notice of Board Meetings",
-        "score": 106
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
-        "anchor_text": "Disclosures under Regulation 46 of the LODR",
-        "score": 102
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
-        "anchor_text": "General Meetings",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
-        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
-        "anchor_text": "Special window for lodgement of physical shares",
-        "score": 98
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 97
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
-        "anchor_text": "Supplier Code of Conduct",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
-        "anchor_text": "Appointment and Resignation of Directors",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
-        "anchor_text": "Registrar and Share Transfer Agent",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
-        "anchor_text": "Contact Details for Investor Grievance Redressal",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
-        "anchor_text": "Human Rights Policy",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
-        "anchor_text": "Related Party Transactions",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
-        "anchor_text": "Financials - Subsidiaries",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
-        "anchor_text": "Unpaid Dividend Account Details",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
-        "anchor_text": "Contact Details of KMPs",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 79
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
-        "anchor_text": "Results Announcements",
-        "score": 78
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 74
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
-        "anchor_text": "Scheme of Arrangements",
-        "score": 73
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
-        "anchor_text": "Sustainability Reports",
-        "score": 72
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
-        "anchor_text": "Financial Highlights",
-        "score": 71
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
-        "anchor_text": "Impact Assessment Reports - CSR Projects",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
-        "anchor_text": "Buyback of shares",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
-        "anchor_text": "Share Performance",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
-        "anchor_text": "IR Contacts",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
-        "anchor_text": "PEPFAR program",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
-        "anchor_text": "Dividend Record",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
-        "anchor_text": "Governance Policies",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 66
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
-        "anchor_text": "BMW Reports",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
-        "anchor_text": "Supply Chain Management",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 55
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
-        "anchor_text": "Key facts about HIV/AIDS",
-        "score": 51
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
-        "anchor_text": "Aurobindo Pharma Foundation",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
-        "anchor_text": "Access to Healthcare",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
-        "anchor_text": "Global Partners",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
-        "anchor_text": "Corporate Video",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
-        "anchor_text": "Annual Action Plan",
-        "score": 48
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
-        "anchor_text": "Annual Report",
-        "score": 47
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
-        "anchor_text": "Manufacturing",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
-        "anchor_text": "Gallery",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/overview",
-        "anchor_text": "Overview",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/products",
-        "anchor_text": "Products",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/growth-market",
-        "anchor_text": "Growth Markets",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
-        "anchor_text": "Gallery",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-policy",
-        "anchor_text": "CSR Policy",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
-        "anchor_text": "Life @ Aurobindo",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
-        "anchor_text": "About Us",
-        "score": 39
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/vision-mission",
-        "anchor_text": "Vision / Mission",
-        "score": 38
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/our-presence",
-        "anchor_text": "",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/apitoria",
-        "anchor_text": "Apitoria (API)",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/media/press-releases",
-        "anchor_text": "I Accept",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/curateq",
-        "anchor_text": "Curateq (Biosimilars) / Peptide",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/media/corporate-kit",
-        "anchor_text": "Corporate Kit",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/milestone",
-        "anchor_text": "Milestones",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/eugia",
-        "anchor_text": "Eugia (Speciality products)",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy#cookies",
-        "anchor_text": "Cookie policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/rd",
-        "anchor_text": "R&D",
-        "score": 26
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business",
-        "anchor_text": "Our Business",
-        "score": 25
-      },
-      {
-        "url": "https://www.aurobindo.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.aurobindo.com/sitemap.xml",
-        "anchor_text": "Site Map",
-        "score": 14
-      },
-      {
-        "url": "https://www.aurobindo.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.aurobindo.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.aurobindo.com/",
-        "anchor_text": "",
-        "score": 3
-      },
-      {
-        "url": "https://www.aurobindo.com",
-        "anchor_text": "Aurobindo Pharma Limited.",
-        "score": 0
       }
     ]
   },
