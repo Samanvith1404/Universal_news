@@ -1,27 +1,15 @@
 {
   "query": "protac",
-  "generated_at": "2026-04-17 06:58:02",
-  "article_count": 8,
+  "generated_at": "2026-04-22 06:48:12",
+  "article_count": 16,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "This month’s pharmaceutical intelligence landscape highlights significant advancements in protein degradation technologies, specifically molecular glue programs, alongside broader industry shifts in artificial intelligence and digital health. Neomorph secured $100 million in Series B funding to advance its molecular glue program, NEO-811, targeting ARNT degradation for kidney cancer treatment in Phase 1/2 trials. Concurrently, industry headlines indicate Gilead and Roche are expanding into protein degraders, signaling intensified competition in the degradation modality space. While these drug development milestones dominate the oncology sector, the broader healthcare ecosystem is simultaneously pivoting toward digital integration, with hospitals deploying AI chatbots to manage patient conversations. Regarding Proteolysis Targeting Chimeras specifically, the current corpus reveals a distinct absence of direct PROTAC developments, though Revolution Medicines is noted for pancreatic cancer data without explicit PROTAC classification. These parallel developments underscore a sector increasingly reliant on both novel molecular mechanisms and digital infrastructure to address complex therapeutic needs. Major players like Novo Nordisk are integrating AI across operations, and Regeneron is entering radiopharmaceuticals, further diversifying the therapeutic modalities under active development. The convergence of these technologies suggests a robust pipeline for next-generation therapeutics, though investor sentiment remains sensitive to clinical data nuances as seen in recent late-stage trial outcomes for other oncology assets.",
+      "paragraph": "This monthly intelligence brief, synthesized from the provided STAT News articles dated April 17, 2026, explicitly reports that no PROTAC-specific developments were identified within the source material. The available content focuses primarily on healthcare cybersecurity vulnerabilities, including AI-enabled cyberattacks and ransomware incidents affecting major hospital systems such as Brockton Hospital and Ascension. While Revolution Medicines is mentioned regarding KRAS drug results and Kyverna Therapeutics regarding cell therapy for stiff person syndrome, the text does not specify PROTAC mechanisms for these programs. Consequently, this briefing documents the absence of PROTAC pipeline updates while highlighting critical infrastructure risks like the Change Healthcare breach, which compromised 100 million records. These operational challenges may indirectly impact clinical trial data security and drug development timelines, though no direct PROTAC commercial or clinical milestones are recorded in the current dataset. Analysts should note that the provided articles prioritize health tech security over specific modalities like proteolysis targeting chimeras, limiting the ability to generate a standard PROTAC-focused intelligence summary from this specific input. The review confirms that while biopharmaceutical entities like Revolution Medicines are active, their PROTAC status remains unconfirmed in this text.",
       "sources": [
         {
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/",
-          "label": "Neomorph, Gilead, Roche"
-        },
-        {
-          "url": "https://statnews.com/2026/04/13/hospitals-launch-chatbots-creating-new-funnel-for-patients/",
-          "label": "Hartford HealthCare"
-        },
-        {
-          "url": "https://statnews.com/2026/04/11/stat-letters-to-editor-medical-school-nutrition-340b/",
-          "label": "Medical Education"
-        },
-        {
-          "url": "https://statnews.com/2026/04/11/sports-betting-addiction-compulsive-behavior-mental-health-men/",
-          "label": "Public Health"
+          "url": "https://statnews.com/2026/04/17/health-care-cybersecurity-ransomware-project-glasswing/",
+          "label": "STAT News"
         }
       ]
     },
@@ -29,16 +17,8 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Neomorph — NEO-811 — Kidney Cancer — Raised $100 million Series B to develop molecular glue drug targeting ARNT degradation",
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"
-        },
-        {
-          "text": "Gilead Sciences — Protein Degraders — Oncology — Industry headlines indicate expansion into protein degradation modalities",
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"
-        },
-        {
-          "text": "Roche — Protein Degraders — Oncology — Industry headlines indicate expansion into protein degradation modalities",
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"
+          "text": "No PROTAC-specific developments reported in the provided articles.",
+          "url": "https://statnews.com/2026/04/17/health-care-cybersecurity-ransomware-project-glasswing/"
         }
       ]
     },
@@ -46,12 +26,8 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Neomorph: Strategic objective to develop molecular glue drugs for undruggable proteins, associated with lead program NEO-811 targeting ARNT in kidney cancer.",
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"
-        },
-        {
-          "text": "Revolution Medicines: Strategic focus on pancreatic cancer treatment, associated with undisclosed pill candidate cited in sidebar summaries.",
-          "url": "https://statnews.com/2026/04/13/hospitals-launch-chatbots-creating-new-funnel-for-patients/"
+          "text": "No PROTAC-focused companies explicitly identified in the provided text.",
+          "url": "https://statnews.com/2026/04/17/health-care-cybersecurity-ransomware-project-glasswing/"
         }
       ]
     },
@@ -59,8 +35,8 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "NEO-811: Molecular glue mechanism forcibly pulling together proteins to tag targets for destruction, Phase 1/2 trial, patient population with kidney cancer, target ARNT protein.",
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"
+          "text": "No PROTAC clinical trial data explicitly reported.",
+          "url": "https://statnews.com/2026/04/17/health-care-cybersecurity-ransomware-project-glasswing/"
         }
       ]
     },
@@ -68,8 +44,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Neomorph raised a $100 million Series B round led by Deerfield Management, including investors such as Regeneron Ventures, Longwood Fund, and Alexandria Venture Investments.",
-          "url": "https://biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/"
+          "text": "No relevant business developments reported.",
+          "url": null
         }
       ]
     }
