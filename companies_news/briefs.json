@@ -1,23 +1,29 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 25,
-    "items_extracted": 2,
+    "articles_used": 145,
+    "items_extracted": 3,
     "items_dropped": 0,
-    "generated_at": "2026-04-22 07:43:41"
+    "generated_at": "2026-04-24 07:50:43"
   },
   "news": [
     {
-      "company": "Genentech",
-      "modality": "monoclonal antibodies",
-      "news": "Genentech announced positive Phase III METEOROID study results showing that Enspryng (satralizumab), an IL-6 receptor monoclonal antibody, reduced the risk of relapse by 68% in patients with myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). The data, presented at the 2026 American Academy of Neurology Annual Meeting, supports a regulatory submission to potentially secure the first approved treatment for this rare disease.",
-      "url": "https://www.gene.com/media/press-releases/15108/2026-04-21/genentechs-enspryng-satralizumab-reduces"
+      "company": "WuXi Biologics",
+      "modality": "bispecific antibodies",
+      "news": "WuXi Biologics received GMP certification from the South Korea Ministry of Food and Drug Safety (MFDS) for three facilities, enabling commercial manufacturing of a bispecific antibody therapeutic for biliary tract cancer.",
+      "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-south-korea-mfds-gmp-certification-to-enable-commercial-manufacturing-of-bispecific-antibody-therapeutics/"
     },
     {
-      "company": "Disc Medicine",
-      "modality": "monoclonal antibodies",
-      "news": "Disc Medicine announced that data from the RALLY-MF Phase 2 trial of DISC-0974, an investigational anti-hemojuvelin monoclonal antibody, will be presented as an oral abstract at the 2026 ASCO Annual Meeting. The study evaluates the agent's efficacy in treating anemia associated with myelofibrosis.",
-      "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-announces-oral-presentation-data-rally-mf-phase-2"
+      "company": "Roche",
+      "modality": "gene editing",
+      "news": "Roche announced the launch of an NVIDIA AI factory to accelerate the development of new therapeutics and diagnostics, leveraging advanced computational infrastructure to support its pipeline which includes gene-editing and other novel modalities.",
+      "url": "https://www.roche.com/media/releases/med-cor-2026-04-23"
+    },
+    {
+      "company": "Insilico Medicine",
+      "modality": "gene editing",
+      "news": "Insilico Medicine nominated ISM0387, its first UAE-based preclinical candidate and 30th AI-supported preclinical candidate overall, utilizing generative AI to design a novel PRMT5 inhibitor for glioblastoma.",
+      "url": "https://insilico.com/news/yxenmllx01-generative-ai-leap-insilico-medicine-nom"
     }
   ]
 }
