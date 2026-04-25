@@ -1,29 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 145,
-    "items_extracted": 3,
+    "articles_used": 18,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-04-24 07:50:43"
+    "generated_at": "2026-04-25 07:26:38"
   },
   "news": [
     {
-      "company": "WuXi Biologics",
-      "modality": "bispecific antibodies",
-      "news": "WuXi Biologics received GMP certification from the South Korea Ministry of Food and Drug Safety (MFDS) for three facilities, enabling commercial manufacturing of a bispecific antibody therapeutic for biliary tract cancer.",
-      "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-south-korea-mfds-gmp-certification-to-enable-commercial-manufacturing-of-bispecific-antibody-therapeutics/"
-    },
-    {
-      "company": "Roche",
+      "company": "Novartis",
       "modality": "gene editing",
-      "news": "Roche announced the launch of an NVIDIA AI factory to accelerate the development of new therapeutics and diagnostics, leveraging advanced computational infrastructure to support its pipeline which includes gene-editing and other novel modalities.",
-      "url": "https://www.roche.com/media/releases/med-cor-2026-04-23"
-    },
-    {
-      "company": "Insilico Medicine",
-      "modality": "gene editing",
-      "news": "Insilico Medicine nominated ISM0387, its first UAE-based preclinical candidate and 30th AI-supported preclinical candidate overall, utilizing generative AI to design a novel PRMT5 inhibitor for glioblastoma.",
-      "url": "https://insilico.com/news/yxenmllx01-generative-ai-leap-insilico-medicine-nom"
+      "news": "The European Medicines Agency's Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion recommending marketing authorization for Itvisma (intrathecal onasemnogene abeparvovec), a gene replacement therapy for spinal muscular atrophy (SMA) in patients aged two years and older.",
+      "url": "https://www.novartis.com/news/media-releases/novartis-receives-positive-chmp-opinion-itvisma-spinal-muscular-atrophy-sma"
     }
   ]
 }
