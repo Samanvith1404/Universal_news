@@ -1,10 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 16,
-    "items_extracted": 0,
+    "articles_used": 42,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-04-28 08:25:41"
+    "generated_at": "2026-04-29 08:16:34"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Gilead Sciences",
+      "modality": "gene editing",
+      "news": "Gilead Sciences completed the acquisition of Arcellx for approximately $7.8 billion to gain full control of anitocabtagene autoleucel (anito-cel), a BCMA-directed CAR T-cell therapy for multiple myeloma. The acquisition consolidates ownership to accelerate development and streamline decision-making ahead of the potential commercial launch of the cell therapy.",
+      "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-completes-acquisition-of-arcellx-ahead-of-potential-commercial-launch-of-anito-cel"
+    },
+    {
+      "company": "Affinia Therapeutics",
+      "modality": "gene editing",
+      "news": "Affinia Therapeutics announced it will present new preclinical data on AFTX-201, an investigational AAV gene therapy for BAG3-associated dilated cardiomyopathy, at the ASGCT 2026 Annual Meeting. The company highlighted that the FDA has accepted its IND application and granted Fast Track designation, while the EMA has granted Orphan Drug designation for the program.",
+      "url": "https://affiniatx.com/affinia-therapeutics-to-present-aftx-201-for-bag3-associated-dilated-cardiomyopathy-dcm-and-highlight-proprietary-capsid-engineering-and-manufacturing-data-at-the-american-society-of-gene-cell/"
+    }
+  ]
 }
