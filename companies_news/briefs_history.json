@@ -1,4 +1,45 @@
 {
+  "2026-04-30": {
+    "bispecific antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "bispecific antibodies",
+        "news": "Genentech will present extensive data at ARVO 2026 showcasing Vabysmo, the first bispecific antibody approved for the eye, with new real-world data confirming its potent retinal drying capabilities in wet AMD and DME.",
+        "url": "https://www.gene.com/media/press-releases/15111/2026-04-29/genentech-to-present-extensive-data-show",
+        "query": "gene editing"
+      },
+      {
+        "company": "Pfizer",
+        "modality": "bispecific antibodies",
+        "news": "Pfizer announced positive interim results from the Phase 3 MagnetisMM-5 trial for ELREXFIO (elranatamab), a BCMA-CD3 directed bispecific antibody, demonstrating a statistically significant improvement in progression-free survival for patients with relapsed or refractory multiple myeloma.",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizers-elrexfio-significantly-improves-progression-free",
+        "query": "gene editing"
+      },
+      {
+        "company": "Roche",
+        "modality": "bispecific antibodies",
+        "news": "Roche confirmed it will present data at ARVO 2026 highlighting Vabysmo, a bispecific antibody targeting Ang-2 and VEGF-A, which showed improved retinal anatomy in real-world clinical practice for nAMD and DME patients.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-30",
+        "query": "gene editing"
+      }
+    ],
+    "monoclonal antibodies": [
+      {
+        "company": "Genentech",
+        "modality": "monoclonal antibodies",
+        "news": "Genentech announced early data from the Phase 2 ALLUVIUM and BARDENAS trials for vamikibart, an investigational monoclonal antibody targeting IL-6, showing efficacy in treating diabetic macular edema.",
+        "url": "https://www.gene.com/media/press-releases/15111/2026-04-29/genentech-to-present-extensive-data-show",
+        "query": "gene editing"
+      },
+      {
+        "company": "Roche",
+        "modality": "monoclonal antibodies",
+        "news": "Roche announced it will present early results for vamikibart, an investigational intravitreal monoclonal antibody targeting IL-6, at ARVO 2026, highlighting its potential in treating uveitic macular edema and diabetic macular edema.",
+        "url": "https://www.roche.com/media/releases/med-cor-2026-04-30",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-04-29": {
     "gene editing": [
       {
