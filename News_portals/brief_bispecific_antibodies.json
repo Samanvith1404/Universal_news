@@ -1,23 +1,23 @@
 {
   "query": "protac",
-  "generated_at": "2026-05-02 07:03:29",
+  "generated_at": "2026-05-03 07:48:13",
   "article_count": 24,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "In May 2026, the pharmaceutical landscape achieved a historic milestone with the U.S. Food and Drug Administration’s approval of Arvinas’ Veppanu (vepdegestrant), the first proteolysis-targeting chimera (PROTAC) therapy to reach the market. Approved for metastatic, estrogen receptor-positive, HER2-negative breast cancer with ESR1 mutations, Veppanu functions as an estrogen receptor degrader, demonstrating superior efficacy in the Phase 3 VERITAC-2 trial with a median progression-free survival of 5 months compared to 2.1 months for fulvestrant. This regulatory success validates the clinical viability of targeted protein degradation beyond oncology, as evidenced by concurrent Phase 1 data for ARV-102 in Parkinson’s disease, which achieved over 50% LRRK2 degradation in cerebrospinal fluid. While Arvinas and Pfizer navigate commercialization strategies, including seeking third-party licensing partners for Veppanu, the approval establishes a critical precedent for protein degradation modalities addressing previously undruggable targets. The prescribing information mandates a 200 mg daily dosage and includes warnings for QTc prolongation, supported by the FDA-approved Guardant360 CDx companion diagnostic for patient selection. These developments collectively reinforce confidence in the PROTAC platform’s versatility across oncology and neurodegenerative indications, signaling a maturing therapeutic modality capable of delivering meaningful clinical impact for patients with limited treatment options.",
+      "paragraph": "The pharmaceutical landscape achieved a historic milestone with the U.S. Food and Drug Administration approval of Veppanu (vepdegestrant), the first proteolysis-targeting chimera (PROTAC) therapy to reach the market. Developed by Arvinas and Pfizer, Veppanu is indicated for adults with metastatic, estrogen receptor-positive, HER2-negative breast cancer harboring ESR1 mutations who have progressed following endocrine therapy. Regulatory validation was grounded in Phase 3 VERITAC-2 trial data, which demonstrated a median progression-free survival of 5 months compared to 2.1 months with fulvestrant, alongside an objective response rate of 19 percent versus 4 percent. Concurrently, Arvinas reported positive Phase 1 data for ARV-102, an oral PROTAC targeting LRRK2 in Parkinson’s disease, achieving greater than 50 percent LRRK2 degradation in cerebrospinal fluid. While the approval establishes the clinical viability of targeted protein degradation, Arvinas and Pfizer are actively seeking a third-party licensing partner to manage commercialization economics. The approval also included Guardant360 CDx as a companion diagnostic to identify eligible patients. These developments signify the transition of PROTAC technology from experimental modalities to approved therapeutics, although commercial execution challenges remain as the companies navigate the post-approval partnership landscape to maximize the drug’s potential in a competitive breast cancer treatment environment.",
       "sources": [
         {
           "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/",
-          "label": "Arvinas/Pfizer Veppanu"
+          "label": "Arvinas / Veppanu"
         },
         {
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html",
-          "label": "Arvinas"
+          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html",
+          "label": "Arvinas / ARV-102"
         },
         {
           "url": "https://cancernetwork.com/view/fda-approves-vepdegestrant-in-er-her2-esr1-mutated-breast-cancer",
-          "label": "Vepdegestrant"
+          "label": "CancerNetwork Vepdegestrant"
         }
       ]
     },
@@ -25,12 +25,12 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Arvinas — Veppanu (vepdegestrant) — ESR1m, ER+/HER2- Advanced Breast Cancer — FDA Approval (May 1, 2026)",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
+          "text": "Arvinas — Veppanu (vepdegestrant) — ESR1m, ER+/HER2- Advanced Breast Cancer — FDA Approval as first PROTAC",
+          "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"
         },
         {
-          "text": "Arvinas — ARV-102 — Parkinson’s Disease — Phase 1 Data (50%+ LRRK2 degradation in CSF)",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
+          "text": "Arvinas — ARV-102 — Parkinson’s Disease — Phase 1 Data showing >50% LRRK2 degradation in CSF",
+          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
         }
       ]
     },
@@ -39,11 +39,15 @@
       "points": [
         {
           "text": "Arvinas: Clinical-stage biotechnology pioneering PROTAC protein degrader platform for oncology and neurodegenerative diseases.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
+          "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"
         },
         {
-          "text": "Pfizer: Co-developer of Veppanu, seeking to license commercial rights to third party.",
+          "text": "Pfizer: Longstanding partnership partner with Arvinas for co-development and commercialization of Veppanu.",
           "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"
+        },
+        {
+          "text": "Guardant Health: Developer of Guardant360 CDx companion diagnostic approved for ESR1 mutation detection.",
+          "url": "https://cancernetwork.com/view/fda-approves-vepdegestrant-in-er-her2-esr1-mutated-breast-cancer"
         }
       ]
     },
@@ -51,12 +55,12 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Veppanu: PROTAC estrogen receptor degrader, Approved, ESR1 mutation subset, second-line treatment, Median PFS 5 months vs 2.1 months (fulvestrant), ORR 19% vs 4%.",
+          "text": "Veppanu: PROTAC estrogen receptor degrader, Phase 3 VERITAC-2 trial, median PFS 5 months vs 2.1 months (fulvestrant), ORR 19% vs 4%, HR 0.57.",
           "url": "https://cancernetwork.com/view/fda-approves-vepdegestrant-in-er-her2-esr1-mutated-breast-cancer"
         },
         {
-          "text": "ARV-102: PROTAC LRRK2 degrader, Phase 1, Parkinson’s patients, 50%+ LRRK2 reduction in CSF, reduced biomarkers (CD68, GPNMB).",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
+          "text": "ARV-102: PROTAC LRRK2 degrader, Phase 1 trial, Parkinson’s disease patients, >50% LRRK2 reduction in CSF at day 14 maintained through day 28, reduced CD68 and GPNMB biomarkers.",
+          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
         }
       ]
     },
@@ -64,7 +68,7 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Arvinas and Pfizer: Longstanding partnership, currently seeking third-party license for Veppanu commercialization.",
+          "text": "Arvinas and Pfizer: Seeking third-party licensing partner for Veppanu to split economics following FDA approval.",
           "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"
         }
       ]
