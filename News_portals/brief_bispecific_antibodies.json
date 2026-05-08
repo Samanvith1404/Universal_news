@@ -1,31 +1,19 @@
 {
   "query": "protac",
-  "generated_at": "2026-05-07 08:35:32",
-  "article_count": 36,
+  "generated_at": "2026-05-08 07:22:43",
+  "article_count": 24,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The pharmaceutical landscape achieved a historic milestone in May 2026 with the U.S. Food and Drug Administration approval of Veppanu (vepdegestrant), the first proteolysis-targeting chimera (PROTAC) therapy to reach the market. Developed by Arvinas in collaboration with Pfizer, this heterobifunctional estrogen receptor degrader is indicated for adults with metastatic, estrogen receptor-positive, HER2-negative breast cancer harboring ESR1 mutations who have progressed after endocrine therapy. Approval was predicated on pivotal Phase 3 VERITAC-2 trial data, demonstrating a statistically significant improvement in median progression-free survival of 5 months compared to 2.1 months with fulvestrant (Hazard Ratio 0.57), alongside the concurrent approval of the Guardant360 CDx companion diagnostic. While Arvinas and Pfizer jointly seek a third-party licensing partner to optimize commercialization economics, the company is simultaneously advancing its broader PROTAC portfolio, including ARV-102 for neurodegenerative disorders and ARV-806 for KRAS G12D-mutated cancers. Concurrently, clinical discourse at the 3rd Biennial Miami Precision Medicine Conference highlighted the expanding utility of targeted protein degradation in lymphoma, with experts noting BTK, BCL2, and BCL6 degraders are poised to displace autologous stem cell transplantation in diffuse large B-cell and mantle cell lymphomas, signaling a paradigm shift toward targeted protein degradation as a standard of care across oncology and neurodegenerative indications.",
+      "paragraph": "The proteolysis-targeting chimera (PROTAC) landscape is experiencing significant momentum, marked by regulatory milestones and evolving clinical strategies within oncology. Arvinas recently secured a landmark approval for its PROTAC protein degrader, signaling a pivotal shift in therapeutic modalities despite clinical benefits being narrower than initially projected. Concurrently, expert discourse at the 3rd Biennial Miami Precision Medicine Conference highlighted the integration of novel degraders into lymphoma care, specifically targeting BCL2, BCL6, BIRD-2, and BTK proteins. Craig H. Moskowitz, MD, noted that these degraders are approaching approval and represent a move away from traditional cytotoxic regimens and autologous stem cell transplantation in conditions like mantle cell lymphoma and diffuse large B-cell lymphoma. The field is transitioning toward molecularly defined interventions where PROTACs function alongside T-cell engagers and CAR T-cell therapy to de-escalate therapy while maintaining efficacy. This convergence of regulatory approval and clinical adoption underscores the growing validation of protein degradation as a viable mechanism for treating hematologic malignancies, positioning PROTACs as critical components in the future of precision oncology. Furthermore, the rise of these novel agents suggests a future where all lymphoma patients are sequenced upfront to define therapy based on tumor sequence, reducing the reliance on high-dose therapy.",
       "sources": [
         {
-          "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/",
-          "label": "Arvinas/Veppanu"
-        },
-        {
-          "url": "https://globenewswire.com/news-release/2026/05/05/3287471/0/en/arvinas-to-report-first-quarter-2026-financial-results-on-may-12-2026.html",
-          "label": "Arvinas"
-        },
-        {
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html",
-          "label": "Arvinas"
-        },
-        {
-          "url": "https://cancernetwork.com/view/fda-approves-vepdegestrant-in-er-her2-esr1-mutated-breast-cancer",
-          "label": "Vepdegestrant"
-        },
-        {
           "url": "https://cancernetwork.com/view/precision-medicine-and-the-slow-death-of-transplant-in-lymphoma",
-          "label": "PROTACs"
+          "label": "Craig H. Moskowitz / Lymphoma PROTACs"
+        },
+        {
+          "url": "https://pharmavoice.com/news/protein-degraders-gain-speed-arvinas-fda-approval/819149/",
+          "label": "Arvinas PROTAC Approval"
         }
       ]
     },
@@ -33,19 +21,11 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Arvinas — Veppanu — ER+/HER2- ESR1m Breast Cancer — FDA Approval as First PROTAC",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
+          "text": "Arvinas — PROTAC protein degrader — Oncology — Landmark FDA approval secured with narrower-than-expected clinical benefit noted.",
+          "url": "https://pharmavoice.com/news/protein-degraders-gain-speed-arvinas-fda-approval/819149/"
         },
         {
-          "text": "Arvinas — ARV-102 — Neurodegenerative (LRRK2) — Positive Phase 1 Data (>50% Degradation)",
-          "url": "https://globenewswire.com/news-release/2026/05/05/3287471/0/en/arvinas-to-report-first-quarter-2026-financial-results-on-may-12-2026.html"
-        },
-        {
-          "text": "Arvinas/Pfizer — Veppanu — Commercialization — Seeking Third-Party Licensing Partner",
-          "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"
-        },
-        {
-          "text": "Industry — PROTACs — Lymphoma — BTK/BCL2/BCL6 Degraders Displacing ASCT",
+          "text": "BTK, BCL2, BCL6, BIRD-2 degraders — Protein degradation — Lymphoma (MCL/DLBCL) — Emerging therapeutic class; BTK degraders closest to approval.",
           "url": "https://cancernetwork.com/view/precision-medicine-and-the-slow-death-of-transplant-in-lymphoma"
         }
       ]
@@ -54,20 +34,8 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Arvinas: Pioneering PROTAC platform with approved Veppanu and expanding pipeline (ARV-102, ARV-806).",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
-        },
-        {
-          "text": "Pfizer: Co-developer and partner seeking third-party commercialization rights for Veppanu.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
-        },
-        {
-          "text": "FDA: Granted approval for Veppanu and Guardant360 CDx companion diagnostic.",
-          "url": "https://cancernetwork.com/view/fda-approves-vepdegestrant-in-er-her2-esr1-mutated-breast-cancer"
-        },
-        {
-          "text": "Sylvester Comprehensive Cancer Center: Provided clinical insights on PROTACs in lymphoma via Dr. Craig H. Moskowitz.",
-          "url": "https://cancernetwork.com/view/precision-medicine-and-the-slow-death-of-transplant-in-lymphoma"
+          "text": "Arvinas: Secured landmark approval for PROTAC protein degrader, driving R&D momentum in the field.",
+          "url": "https://pharmavoice.com/news/protein-degraders-gain-speed-arvinas-fda-approval/819149/"
         }
       ]
     },
@@ -75,24 +43,16 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Veppanu: PROTAC ER degrader, Phase 3 VERITAC-2, ER+/HER2- ESR1m breast cancer, Median PFS 5mo vs 2.1mo (Fulvestrant), HR 0.57.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
-        },
-        {
-          "text": "ARV-102: LRRK2 degrader, Neurodegenerative (Parkinson's), Phase 1, >50% LRRK2 degradation in CSF.",
-          "url": "https://globenewswire.com/news-release/2026/05/05/3287471/0/en/arvinas-to-report-first-quarter-2026-financial-results-on-may-12-2026.html"
-        },
-        {
-          "text": "ARV-806: KRAS G12D degrader, Mutated cancers (pancreatic, colorectal, NSCLC), Clinical Development.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
-        },
-        {
-          "text": "PROTACs (Lymphoma): BTK/BCL2/BCL6 degraders, DLBCL/MCL, Potential to replace Autologous Stem Cell Transplantation.",
+          "text": "PROTACs — Degrader mechanism — Mantle Cell Lymphoma (MCL) and Diffuse Large B-cell Lymphoma (DLBCL) — Targeting BCL2, BCL6, BIRD-2, and BTK proteins; contributing to decline of autologous stem cell transplantation.",
           "url": "https://cancernetwork.com/view/precision-medicine-and-the-slow-death-of-transplant-in-lymphoma"
         },
         {
-          "text": "Guardant360 CDx: Companion diagnostic for ESR1 mutations.",
-          "url": "https://cancernetwork.com/view/fda-approves-vepdegestrant-in-er-her2-esr1-mutated-breast-cancer"
+          "text": "Arvinas PROTAC — Protein degrader — Oncology — Approval granted with narrower-than-expected clinical benefit noted.",
+          "url": "https://pharmavoice.com/news/protein-degraders-gain-speed-arvinas-fda-approval/819149/"
+        },
+        {
+          "text": "BTK degraders — Degrader mechanism — Lymphoma — Closest to approval among targeted agents.",
+          "url": "https://cancernetwork.com/view/precision-medicine-and-the-slow-death-of-transplant-in-lymphoma"
         }
       ]
     },
@@ -100,12 +60,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Arvinas and Pfizer announced a global collaboration in July 2021 for co-development and co-commercialization of vepdegestrant.",
-          "url": "https://globenewswire.com/news-release/2026/05/01/3286140/0/en/arvinas-announces-fda-approval-of-veppanu-vepdegestrant-for-the-treatment-of-esr1m-er-her2-advanced-breast-cancer.html"
-        },
-        {
-          "text": "Arvinas and Pfizer plan to jointly select a third-party partner for commercialization and potential further development of vepdegestrant.",
-          "url": "https://biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/"
+          "text": "No relevant business developments reported.",
+          "url": null
         }
       ]
     }
