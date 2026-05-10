@@ -103891,5 +103891,26 @@
         "score": 23,
         "date_added": "2026-05-09",
         "article_like": false
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202625.html",
+        "score": 57,
+        "date_added": "2026-05-10",
+        "article_like": true
+    },
+    {
+        "company": "Eisai",
+        "url": "https://www.eisai.com/news/2026/news202624.html",
+        "score": 57,
+        "date_added": "2026-05-10",
+        "article_like": true
+    },
+    {
+        "company": "Tune Therapeutics",
+        "url": "https://tunetx.com/tune-tune-therapeutics-announces-late-breaking-oral-presentation-for-tune-401-at-european-association-for-the-study-of-the-liver-congress-2026/",
+        "score": 158,
+        "date_added": "2026-05-10",
+        "article_like": true
     }
 ]
