@@ -546,6 +546,582 @@
     ]
   },
   {
+    "company": "Dr. Reddy's Laboratories",
+    "press_url": "https://www.drreddys.com/media/",
+    "candidate_links": [
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/apis-active-pharmaceutical-ingredients/",
+        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
+        "score": 90
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/environmental-sustainability/",
+        "anchor_text": "Environmental Sustainability",
+        "score": 89
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/apis-active-pharmaceutical-ingredients/",
+        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
+        "score": 86
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/dr-reddy-s-foundations/",
+        "anchor_text": "Dr Reddy’s Foundations",
+        "score": 84
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/commitment-to-the-planet/",
+        "anchor_text": "Commitment to the Planet",
+        "score": 82
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/code-of-business-conduct-and-ethics-cobe/",
+        "anchor_text": "Code of Business Conduct and Ethics (COBE)",
+        "score": 81
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/other-stock-exchange-intimations/",
+        "anchor_text": "Other Stock Exchange Intimations",
+        "score": 80
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/37th-annual-general-meeting/",
+        "anchor_text": "37th Annual General Meeting",
+        "score": 77
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/differentiated-formulations/",
+        "anchor_text": "Differentiated Formulations",
+        "score": 75
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/change-makers/",
+        "anchor_text": "Change Makers",
+        "score": 74
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/carbon-footprint/",
+        "anchor_text": "Carbon Footprint",
+        "score": 74
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/healthcare-professionals/",
+        "anchor_text": "Healthcare Professionals",
+        "score": 73
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/our-approach/",
+        "anchor_text": "Our Approach",
+        "score": 73
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/proprietary-products/",
+        "anchor_text": "Proprietary Products",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/livelihoods/",
+        "anchor_text": "Livelihoods",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/investor-meeting-details/",
+        "anchor_text": "Investor Meeting Details",
+        "score": 72
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/healthcare/",
+        "anchor_text": "Healthcare",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/statutory-communication/",
+        "anchor_text": "Statutory Communication",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/shareholder-information/",
+        "anchor_text": "Shareholder Information",
+        "score": 71
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/education/",
+        "anchor_text": "Education",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/partners/",
+        "anchor_text": "Partners",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/shareholder-s-contacts/",
+        "anchor_text": "Shareholder’s Contacts",
+        "score": 70
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/humans-of-dr-reddy-s/",
+        "anchor_text": "Humans of Dr. Reddy’s",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/initiatives/",
+        "anchor_text": "Initiatives",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/corporate-governance-reports/",
+        "anchor_text": "Corporate Governance Reports",
+        "score": 69
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/information-to-stakeholders/",
+        "anchor_text": "Information to Stakeholders",
+        "score": 68
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/quarterly-reports/",
+        "anchor_text": "Quarterly Reports",
+        "score": 67
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/life-at-drreddys/",
+        "anchor_text": "Life at Dr.Reddy's",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/internal-control-systems/",
+        "anchor_text": "Internal Control Systems",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/investor-handbook/",
+        "anchor_text": "Investor Handbook",
+        "score": 65
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/over-the-counter/",
+        "anchor_text": "Over-the-counter",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/annual-reports/",
+        "anchor_text": "Annual Reports",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/committees-of-the-board/",
+        "anchor_text": "Committees of the Board",
+        "score": 64
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-heritage/an-unfinished-agenda/",
+        "anchor_text": "An Unfinished Agenda",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/sustainability/",
+        "anchor_text": "Sustainability",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/share-transfer-information/",
+        "anchor_text": "Share Transfer Information",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/policies-and-documents/",
+        "anchor_text": "Policies and Documents",
+        "score": 63
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/unpaid-unclaimed-dividend/",
+        "anchor_text": "Unpaid & Unclaimed Dividend",
+        "score": 62
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/biologics/",
+        "anchor_text": "Biologics",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/sec-filings/",
+        "anchor_text": "SEC Filings",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/reports-and-filings/moa-and-aoa/",
+        "anchor_text": "MoA and AoA",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/compliance-with-nyse/",
+        "anchor_text": "Compliance with NYSE",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/credit-rating/",
+        "anchor_text": "Credit Rating",
+        "score": 61
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/development-streams/generics/",
+        "anchor_text": "Generics",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/equity-dividend-history/",
+        "anchor_text": "Equity & Dividend History",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/governance/ombudsperson-policy/",
+        "anchor_text": "Ombudsperson Policy",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/investors/investor-services/amalgamation/",
+        "anchor_text": "Amalgamation",
+        "score": 60
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/leadership/board-of-directors/",
+        "anchor_text": "Board Of Directors",
+        "score": 59
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/leadership/management-council/",
+        "anchor_text": "Management Council",
+        "score": 59
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/biologics/",
+        "anchor_text": "Biologics",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-people-and-our-citizenship/patients/",
+        "anchor_text": "Patients",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/investors/presentations/earnings-call/",
+        "anchor_text": "Earnings Call",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/shareholding-pattern/",
+        "anchor_text": "Shareholding Pattern",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-employees-respond-covid19/",
+        "anchor_text": "our employees respond covid19",
+        "score": 57
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/generics/",
+        "anchor_text": "Generics",
+        "score": 56
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/our-heritage/our-founder/",
+        "anchor_text": "Our Founder",
+        "score": 54
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/analyst-coverage/",
+        "anchor_text": "Analyst Coverage",
+        "score": 53
+      },
+      {
+        "url": "https://www.drreddys.com/partners/login-for-current-partners/",
+        "anchor_text": "Login for Current Partners",
+        "score": 53
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/stock-updates/",
+        "anchor_text": "Stock Updates",
+        "score": 50
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/about-us/milestones/",
+        "anchor_text": "Milestones",
+        "score": 49
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/research-philosophy/",
+        "anchor_text": "Research Philosophy",
+        "score": 49
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/therapeutic-focus/",
+        "anchor_text": "Therapeutic Focus",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/share-price/",
+        "anchor_text": "Share Price",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/medical-information/",
+        "anchor_text": "Medical Information",
+        "score": 48
+      },
+      {
+        "url": "https://www.drreddys.com/investors/presentations/presentations/",
+        "anchor_text": "Presentations",
+        "score": 47
+      },
+      {
+        "url": "https://www.drreddys.com/partners/prospective-partners/",
+        "anchor_text": "Prospective Partners",
+        "score": 47
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/business-focus/",
+        "anchor_text": "Our Products",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/media/dr-reddys-in-the-news/",
+        "anchor_text": "Dr. Reddy's in the news",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/global-locations/",
+        "anchor_text": "Global Locations",
+        "score": 45
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/featured-stories/",
+        "anchor_text": "Featured Stories",
+        "score": 44
+      },
+      {
+        "url": "https://www.drreddys.com/our-science/capabilities/",
+        "anchor_text": "Capabilities",
+        "score": 42
+      },
+      {
+        "url": "https://www.drreddys.com/partners/post-an-enquiry/",
+        "anchor_text": "Post an Enquiry",
+        "score": 42
+      },
+      {
+        "url": "https://www.drreddys.com/contact-us/key-contacts/",
+        "anchor_text": "Key Contacts",
+        "score": 41
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/who-we-are/",
+        "anchor_text": "Who We Are",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/our-products/quality/",
+        "anchor_text": "Quality",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/media/press-releases/",
+        "anchor_text": "Press Releases",
+        "score": 38
+      },
+      {
+        "url": "https://www.drreddys.com/our-story/about-us/",
+        "anchor_text": "Our Story",
+        "score": 36
+      },
+      {
+        "url": "https://www.drreddys.com/investors/shares/buyback/",
+        "anchor_text": "Buyback",
+        "score": 34
+      },
+      {
+        "url": "https://www.drreddys.com/media/media-kit/",
+        "anchor_text": "Media Kit",
+        "score": 33
+      },
+      {
+        "url": "https://www.drreddys.com/cookie-policy.aspx",
+        "anchor_text": "Cookie Policy.",
+        "score": 31
+      },
+      {
+        "url": "https://www.drreddys.com/united-states/",
+        "anchor_text": "United States",
+        "score": 29
+      },
+      {
+        "url": "https://www.drreddys.com/south-africa/",
+        "anchor_text": "South Africa",
+        "score": 28
+      },
+      {
+        "url": "https://www.drreddys.com/new-zealand/",
+        "anchor_text": "New Zealand",
+        "score": 27
+      },
+      {
+        "url": "https://www.drreddys.com/privacy-policy",
+        "anchor_text": "Privacy Notice",
+        "score": 27
+      },
+      {
+        "url": "https://www.drreddys.com/cookie-policy",
+        "anchor_text": "Cookie Policy",
+        "score": 26
+      },
+      {
+        "url": "https://www.drreddys.com/terms-of-use",
+        "anchor_text": "Terms Of Use",
+        "score": 25
+      },
+      {
+        "url": "https://www.drreddys.com/accessibility",
+        "anchor_text": "Accessibility",
+        "score": 16
+      },
+      {
+        "url": "https://www.drreddys.com/australia/",
+        "anchor_text": "Australia",
+        "score": 15
+      },
+      {
+        "url": "https://www.drreddys.com/search.aspx",
+        "anchor_text": "",
+        "score": 14
+      },
+      {
+        "url": "https://www.drreddys.com/germany/",
+        "anchor_text": "Germany",
+        "score": 13
+      },
+      {
+        "url": "https://www.drreddys.com/canada/",
+        "anchor_text": "Canada",
+        "score": 12
+      },
+      {
+        "url": "https://www.drreddys.com/russia/",
+        "anchor_text": "Russia",
+        "score": 12
+      },
+      {
+        "url": "https://www.drreddys.com/china/",
+        "anchor_text": "China",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/india/",
+        "anchor_text": "India",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2022",
+        "anchor_text": "2022",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2021",
+        "anchor_text": "2021",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2020",
+        "anchor_text": "2020",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2019",
+        "anchor_text": "2019",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2018",
+        "anchor_text": "2018",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2017",
+        "anchor_text": "2017",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2016",
+        "anchor_text": "2016",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2015",
+        "anchor_text": "2015",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2014",
+        "anchor_text": "2014",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2013",
+        "anchor_text": "2013",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2012",
+        "anchor_text": "2012",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2011",
+        "anchor_text": "2011",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2010",
+        "anchor_text": "2010",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2009",
+        "anchor_text": "2009",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2008",
+        "anchor_text": "2008",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2007",
+        "anchor_text": "2007",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2006",
+        "anchor_text": "2006",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2005",
+        "anchor_text": "2005",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/media/?year=2001",
+        "anchor_text": "2001",
+        "score": 11
+      },
+      {
+        "url": "https://www.drreddys.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
@@ -7050,6 +7626,127 @@
     ]
   },
   {
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
+        "anchor_text": "subscribe",
+        "score": 58
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
+        "anchor_text": "Clinical Conversations",
+        "score": 45
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/identifying-threats/",
+        "anchor_text": "Identifying Threats",
+        "score": 42
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
+        "anchor_text": "Life in Atomic Resolution",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
+        "anchor_text": "New on ThermoFisher.com",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
+        "anchor_text": "Ask a Scientist",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
+        "anchor_text": "Life in the Lab",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/contact-us/",
+        "anchor_text": "Contact",
+        "score": 33
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/about-us/",
+        "anchor_text": "About Us",
+        "score": 31
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/behindthebench/",
+        "anchor_text": "Behind the Bench",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/semiconductors/",
+        "anchor_text": "Illuminating Semiconductors",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/biotechnology/",
+        "anchor_text": "Biotech at Scale",
+        "score": 26
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/connectedlab/",
+        "anchor_text": "The Connected Lab",
+        "score": 25
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/analyteguru/",
+        "anchor_text": "AnalyteGuru",
+        "score": 24
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/oempowered/",
+        "anchor_text": "OEMpowered",
+        "score": 23
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/materials/",
+        "anchor_text": "Advancing Materials",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/locations/",
+        "anchor_text": "Locations",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 20
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/mining/",
+        "anchor_text": "Advancing Mining",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/metals/",
+        "anchor_text": "Analyzing Metals",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/food/",
+        "anchor_text": "Examining Food",
+        "score": 17
+      },
+      {
+        "url": "https://www.thermofisher.com/",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 3
+      },
+      {
+        "url": "https://www.thermofisher.com",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Gland Pharma Limited",
     "press_url": "https://glandpharma.com/resource/news",
     "candidate_links": [
@@ -9540,6 +10237,862 @@
         "url": "https://sequelglobal.com/faq",
         "anchor_text": "FAQs",
         "score": 6
+      }
+    ]
+  },
+  {
+    "company": "SCIEX",
+    "press_url": "https://sciex.com/about-us/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-5500-lc-ms-ms-system-qtrap-ready",
+        "anchor_text": "5500+ system",
+        "score": 111
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/remote-instrument-optimization-and-calibration",
+        "anchor_text": "Remote Instrument Optimization and Calibration",
+        "score": 102
+      },
+      {
+        "url": "https://sciex.com/products/ion-mobility-spectrometry/selexion-differential-mobility-separation-device",
+        "anchor_text": "SelexION device",
+        "score": 100
+      },
+      {
+        "url": "https://sciex.com/products/capillary-electrophoresis/cesi-8000-plus-esi-ms-high-performance-system",
+        "anchor_text": "CESI 8000 Plus system",
+        "score": 97
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/lc-ms-hardware-plans/protect-plus-plan",
+        "anchor_text": "Protect Plus plan",
+        "score": 96
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-7500-plus-system",
+        "anchor_text": "",
+        "score": 95
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems/triple-quad-6500plus-system",
+        "anchor_text": "Triple Quad 6500+ system",
+        "score": 94
+      },
+      {
+        "url": "https://sciex.com/products/capillary-electrophoresis/pa-800-plus-pharmaceutical-analysis-system",
+        "anchor_text": "",
+        "score": 94
+      },
+      {
+        "url": "https://sciex.com/applications/food-and-beverage-testing/quality-assurance-and-quality-control",
+        "anchor_text": "Quality assurance and quality controlRobust LC-MS/MS solutions for ensuring food safety and regulatory compliance in QA/QC processes",
+        "score": 93
+      },
+      {
+        "url": "https://sciex.com/products/in-vitro-diagnostics/medical-devices/4500md-mass-spectrometer",
+        "anchor_text": "4500MD system",
+        "score": 89
+      },
+      {
+        "url": "https://sciex.com/applications/environmental-testing/industrial-and-agrochemical-analysis",
+        "anchor_text": "Industrial and agrochemical analysisRobust LC-MS/MS technology for in-depth analysis in agrochemical and crop science research",
+        "score": 88
+      },
+      {
+        "url": "https://sciex.com/applications/forensics-testing/cannabinoid-analysis-and-potency-testing",
+        "anchor_text": "Cannabinoid analysis and potency testingPrecision LC-MS/MS methods for accurate cannabinoid potency testing and forensic analysis.",
+        "score": 88
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/intabio-zt-system-service-plan",
+        "anchor_text": "Intabio ZT system service plans",
+        "score": 86
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/statusscope-remote-monitoring",
+        "anchor_text": "StatusScope remote monitoring",
+        "score": 85
+      },
+      {
+        "url": "https://sciex.com/applications/environmental-testing/contaminants-of-emerging-concern",
+        "anchor_text": "Emerging pollutantsLC-MS/MS-driven analysis of diverse environmental contaminants for in-depth ecological and health impact studies",
+        "score": 84
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtrap-systems/qtrap-6500plus-system",
+        "anchor_text": "QTRAP 6500+ system",
+        "score": 82
+      },
+      {
+        "url": "https://sciex.com/applications/environmental-testing/water-and-waste-water-analysis",
+        "anchor_text": "Water and wastewater analysisMass spectrometry-driven water analysis for sensitive detection of pollutants in drinking and wastewater",
+        "score": 82
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtof-systems/x-series-qtof-systems",
+        "anchor_text": "X500 family",
+        "score": 81
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/cell-and-gene-therapy-analysis",
+        "anchor_text": "GenomicsInnovative analytical solutions for advancing gene therapy and next-generation vaccine development",
+        "score": 81
+      },
+      {
+        "url": "https://sciex.com/applications/food-and-beverage-testing/food-authenticity-testing",
+        "anchor_text": "Food authenticity testingTesting solutions to protect food integrity and safety against adulteration and contamination",
+        "score": 81
+      },
+      {
+        "url": "https://sciex.com/applications/biomedical-and-omics-research/extraordinary-science",
+        "anchor_text": "Extraordinary scienceDiscover groundbreaking science performed by biomedical and omics researchers using the ZenoTOF 7600 system",
+        "score": 81
+      },
+      {
+        "url": "https://sciex.com/legal-pages/organizational-model-and-code-of-ethics-d-lgs-231-2001",
+        "anchor_text": "Organizational Model and Code of Ethics D.Lgs 231/2001",
+        "score": 81
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtof-systems/zenotof-7600-system",
+        "anchor_text": "",
+        "score": 79
+      },
+      {
+        "url": "https://sciex.com/products/in-vitro-diagnostics/medical-devices/citrine-system",
+        "anchor_text": "Citrine system",
+        "score": 79
+      },
+      {
+        "url": "https://sciex.com/applications/environmental-testing/the-exposome-and-exposomics",
+        "anchor_text": "ExposomeHigh-resolution accurate mass spectrometry for comprehensive study of environmental impact on human health",
+        "score": 79
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtrap-systems/qtrap-4500-system",
+        "anchor_text": "QTRAP 4500 system",
+        "score": 78
+      },
+      {
+        "url": "https://sciex.com/products/hplc-products/microlc-products/micro-hplc-columns",
+        "anchor_text": "Micro HPLC columns",
+        "score": 77
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/clinical-service-plan",
+        "anchor_text": "Clinical service plans",
+        "score": 77
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtof-systems/7600-plus-system",
+        "anchor_text": "",
+        "score": 76
+      },
+      {
+        "url": "https://sciex.com/support/professional-lab-services/lab-optimization-services",
+        "anchor_text": "Lab optimization",
+        "score": 76
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/lc-ms-hardware-plans",
+        "anchor_text": "LC-MS service plans",
+        "score": 76
+      },
+      {
+        "url": "https://sciex.com/Hidden/landing-pages/sciex-now-learning-hub-elearning-paths",
+        "anchor_text": "",
+        "score": 76
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/oligonucleotide-analysis",
+        "anchor_text": "Oligonucleotide analysisBreak new ground in oligonucleotide analysis with precision solutions for advanced nucleic acid research",
+        "score": 75
+      },
+      {
+        "url": "https://sciex.com/applications/environmental-testing/pfas-analysis-solutions",
+        "anchor_text": "PFAS analysisTrace-level detection and quantification of PFAS chemicals in and beyond water testing",
+        "score": 75
+      },
+      {
+        "url": "https://sciex.com/applications/food-and-beverage-testing/food-safety-testing",
+        "anchor_text": "Food safety testingOur quantitation workflows empower residue testing laboratories worldwide to meet and exceed the rigorous standards established by food safety regulatory authorities, every day.",
+        "score": 75
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/drug-discovery-research",
+        "anchor_text": "Drug discovery researchAccelerate drug discovery with integrated LC-MS solutions, providing high-quality data for confident decision-making",
+        "score": 74
+      },
+      {
+        "url": "https://sciex.com/support/professional-lab-services/customized-lab-training",
+        "anchor_text": "On-site customized trainingTailored on-site training by SCIEX experts to address specific lab challenges and optimize operations",
+        "score": 74
+      },
+      {
+        "url": "https://sciex.com/support/professional-lab-services/lab-compliance-services",
+        "anchor_text": "Compliance services",
+        "score": 74
+      },
+      {
+        "url": "https://sciex.com/support/professional-lab-services/lab-relocation-services",
+        "anchor_text": "Relocation services",
+        "score": 74
+      },
+      {
+        "url": "https://sciex.com/support/software-support/analyst-software-end-of-support",
+        "anchor_text": "",
+        "score": 73
+      },
+      {
+        "url": "https://sciex.com/applications/biomedical-and-omics-research/metabolomics",
+        "anchor_text": "MetabolomicsIntegrated LC-MS solutions for exploring metabolomics and its role in disease and precision medicine",
+        "score": 72
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/ce-service-plans",
+        "anchor_text": "CE service plans",
+        "score": 72
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtof-systems/8600-system",
+        "anchor_text": "ZenoTOF 8600 system",
+        "score": 71
+      },
+      {
+        "url": "https://sciex.com/products/software/mass-spectrometry-software-solutions",
+        "anchor_text": "Instrument control software",
+        "score": 71
+      },
+      {
+        "url": "https://sciex.com/products/software/mass-spectrometry-software-solutions#workflow-module",
+        "anchor_text": "Workflow module software",
+        "score": 71
+      },
+      {
+        "url": "https://sciex.com/products/software/mass-spectrometry-software-solutions#application-module",
+        "anchor_text": "Application module software",
+        "score": 71
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/bioanalysis-and-dmpk",
+        "anchor_text": "Bioanalysis and DMPKEnhance drug metabolism and pharmacokinetics research with robust LC-MS solutions and intuitive software",
+        "score": 71
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/protein-therapeutics",
+        "anchor_text": "Protein therapeuticsTailored analytical strategies for complex protein therapeutics, enhancing understanding and helping to ensure quality and safety",
+        "score": 71
+      },
+      {
+        "url": "https://sciex.com/applications/biomedical-and-omics-research/proteomics",
+        "anchor_text": "ProteomicsAdvanced LC-MS/MS techniques for comprehensive protein analysis and impactful biological insights",
+        "score": 70
+      },
+      {
+        "url": "https://sciex.com/applications/biomedical-and-omics-research/lipidomics",
+        "anchor_text": "LipidomicsSpecialized mass spectrometry solutions for detailed lipidome analysis in critical biological processes",
+        "score": 70
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support/visual-assist",
+        "anchor_text": "Visual Assist",
+        "score": 69
+      },
+      {
+        "url": "https://sciex.com/events/ondemand-webinars/sciex-summit-on-demand-2025",
+        "anchor_text": "",
+        "score": 69
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/impurity-analysis",
+        "anchor_text": "Impurity analysisCompliant-ready impurity analysis solutions with sensitive LC-MS systems and comprehensive software support",
+        "score": 68
+      },
+      {
+        "url": "https://sciex.com/applications/forensics-testing/forensic-toxicology",
+        "anchor_text": "Forensic toxicologyTailored LC-MS/MS solutions for complex drug testing and toxicological analysis in forensic laboratories",
+        "score": 67
+      },
+      {
+        "url": "https://sciex.com/support/tech-regulatory/declaration-of-conformance",
+        "anchor_text": "Declaration of conformance",
+        "score": 67
+      },
+      {
+        "url": "https://sciex.com/products/capillary-electrophoresis/p-ace-mdq-plus",
+        "anchor_text": "P/ACE MDQ Plus system",
+        "score": 66
+      },
+      {
+        "url": "https://sciex.com/support/professional-lab-services/software-and-it",
+        "anchor_text": "Software and IT services",
+        "score": 66
+      },
+      {
+        "url": "https://sciex.com/products/capillary-electrophoresis/biophase-8800",
+        "anchor_text": "",
+        "score": 65
+      },
+      {
+        "url": "https://sciex.com/support/software-support/software-support-policy",
+        "anchor_text": "Software support policy",
+        "score": 65
+      },
+      {
+        "url": "https://sciex.com/products/consumables/dna-20kb-plasmid-linear-kit",
+        "anchor_text": "",
+        "score": 65
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/triple-quad-systems",
+        "anchor_text": "Triple Quad systems",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/products/integrated-solutions/intabio-zt-system",
+        "anchor_text": "",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/products/software/artificial-intelligence-quant",
+        "anchor_text": "AI Quantitation software",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma/mrna-research",
+        "anchor_text": "mRNA-LNP researchInnovative solutions for mRNA-LNP therapeutics and vaccines, enabling efficient and in-depth genetic medicine development",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/applications/cannabis-testing/pesticide-testing",
+        "anchor_text": "Pesticide TestingInnovative technology to enhance pesticide analysis and meet regulatory requirements",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/applications/cannabis-testing/mycotoxin-testing",
+        "anchor_text": "Mycotoxin TestingLC-MS/MS tried and tested cannabis solutions for accurate trace-level analysis in complex matrices",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/support/tech-regulatory/certificate-of-analysis",
+        "anchor_text": "Certificates of analysis",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/support/software-support/premium-access-content",
+        "anchor_text": "Premium access content",
+        "score": 64
+      },
+      {
+        "url": "https://sciex.com/products/in-vitro-diagnostics/medical-devices",
+        "anchor_text": "Clinical diagnostics",
+        "score": 62
+      },
+      {
+        "url": "https://sciex.com/products/software/biologics-explorer-software",
+        "anchor_text": "Biologics Explorer software",
+        "score": 62
+      },
+      {
+        "url": "https://sciex.com/Hidden/landing-pages/food-compendium-volume-4",
+        "anchor_text": "",
+        "score": 62
+      },
+      {
+        "url": "https://sciex.com/applications/forensics-testing/doping-control",
+        "anchor_text": "Doping controlAdvanced mass spectrometry solutions for rigorous, sensitive doping substance detection in sports",
+        "score": 62
+      },
+      {
+        "url": "https://sciex.com/products/software/molecule-profiler-software",
+        "anchor_text": "Molecule Profiler software",
+        "score": 61
+      },
+      {
+        "url": "https://sciex.com/education/grant-support/academic-partnership",
+        "anchor_text": "Academic partnership program",
+        "score": 61
+      },
+      {
+        "url": "https://sciex.com/education/clinical-mass-spec-knowledge-center",
+        "anchor_text": "Clinical Knowledge CenterMaximize your SCIEX clinical instruments' efficiency with a wealth of learning resources and expert insights",
+        "score": 60
+      },
+      {
+        "url": "https://sciex.com/applications/forensics-testing/tox-chat-box",
+        "anchor_text": "",
+        "score": 60
+      },
+      {
+        "url": "https://sciex.com/support/software-support/software-downloads",
+        "anchor_text": "Software downloads",
+        "score": 60
+      },
+      {
+        "url": "https://sciex.com/products/integrated-solutions/echo-ms-plus",
+        "anchor_text": "",
+        "score": 59
+      },
+      {
+        "url": "https://sciex.com/applications/clinical/clinical-diagnostics",
+        "anchor_text": "Clinical diagnosticsAdvanced MS-based diagnostics for comprehensive disease understanding and personalized medicine, supporting modern clinical laboratories",
+        "score": 59
+      },
+      {
+        "url": "https://sciex.com/support/tech-regulatory/safety-data-sheets",
+        "anchor_text": "Safety data sheets",
+        "score": 59
+      },
+      {
+        "url": "https://sciex.com/support/training/learning-manager-overview",
+        "anchor_text": "Learning ManagerStreamlined training management for staff competency, offering refreshed content and robust learning tools",
+        "score": 59
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtrap-systems",
+        "anchor_text": "QTRAP systems",
+        "score": 58
+      },
+      {
+        "url": "https://sciex.com/education/grant-support/academic-partners",
+        "anchor_text": "Academic partners",
+        "score": 58
+      },
+      {
+        "url": "https://sciex.com/Hidden/landing-pages/sciex-sustainability",
+        "anchor_text": "Sustainability",
+        "score": 58
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers/qtof-systems",
+        "anchor_text": "QTOF systems",
+        "score": 57
+      },
+      {
+        "url": "https://sciex.com/support/software-support/sw-support-plns",
+        "anchor_text": "Software support plans",
+        "score": 57
+      },
+      {
+        "url": "https://sciex.com/applications/biomedical-and-omics-research",
+        "anchor_text": "View all Biomedical and omics research",
+        "score": 57
+      },
+      {
+        "url": "https://sciex.com/applications/clinical/clinical-research",
+        "anchor_text": "Clinical researchEnhance clinical research with sensitive MS techniques for biomarker discovery and personalized treatment development",
+        "score": 56
+      },
+      {
+        "url": "https://sciex.com/landing-pages/citrine-system-compendium2",
+        "anchor_text": "",
+        "score": 55
+      },
+      {
+        "url": "https://sciex.com/products/software/analyst-tf-software",
+        "anchor_text": "Analyst TF software",
+        "score": 54
+      },
+      {
+        "url": "https://sciex.com/products/software/multiquant-software",
+        "anchor_text": "MultiQuant software",
+        "score": 54
+      },
+      {
+        "url": "https://sciex.com/applications/food-and-beverage-testing",
+        "anchor_text": "Food and beverage",
+        "score": 53
+      },
+      {
+        "url": "https://sciex.com/support/instrument-service-and-support",
+        "anchor_text": "View all Instrument service plans",
+        "score": 53
+      },
+      {
+        "url": "https://sciex.com/products/software/sciex-os-software",
+        "anchor_text": "",
+        "score": 52
+      },
+      {
+        "url": "https://sciex.com/about-us/echo-ms-center-of-excellence",
+        "anchor_text": "Echo® MS Center of Excellence",
+        "score": 52
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/in-the-news",
+        "anchor_text": "In the news",
+        "score": 52
+      },
+      {
+        "url": "https://sciex.com/products/software/analyst-software",
+        "anchor_text": "Analyst software",
+        "score": 51
+      },
+      {
+        "url": "https://sciex.com/products/software/partner-software",
+        "anchor_text": "Software partners",
+        "score": 51
+      },
+      {
+        "url": "https://sciex.com/products/hplc-products/exionlc-ae",
+        "anchor_text": "",
+        "score": 50
+      },
+      {
+        "url": "https://sciex.com/support/training/success-programs",
+        "anchor_text": "Success Programs at Your SiteCustomized LC-MS and CE training programs designed to meet your lab's specific needs and goals",
+        "score": 50
+      },
+      {
+        "url": "https://sciex.com/products/capillary-electrophoresis",
+        "anchor_text": "Capillary electrophoresis",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/products/hplc-products/exionlc-2",
+        "anchor_text": "ExionLC 2.0 system",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/support/sciex-now-feature-requests",
+        "anchor_text": "New feature request",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/applications/environmental-testing",
+        "anchor_text": "Environmental",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/products/ion-mobility-spectrometry",
+        "anchor_text": "Ion mobility",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/applications/life-science-research",
+        "anchor_text": "Life science research",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/Hidden/legal-pages/cookie-notice",
+        "anchor_text": "Cookie Notice",
+        "score": 49
+      },
+      {
+        "url": "https://sciex.com/applications/pharma-and-biopharma",
+        "anchor_text": "Pharma and biopharma",
+        "score": 48
+      },
+      {
+        "url": "https://sciex.com/support/training/course-catalog",
+        "anchor_text": "Course catalogAccess over 100 eLearnings and instructor-led courses for in-depth training in mass spectrometry",
+        "score": 48
+      },
+      {
+        "url": "https://sciex.com/support/professional-lab-services",
+        "anchor_text": "Professional services",
+        "score": 48
+      },
+      {
+        "url": "https://sciex.com/legal-pages/do-not-sell-my-data",
+        "anchor_text": "Do\n                  Not  Sell My Data",
+        "score": 46
+      },
+      {
+        "url": "https://sciex.com/applications/forensics-testing",
+        "anchor_text": "Forensic testing",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/form-pages/request-information",
+        "anchor_text": "Request information",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2026",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2025",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2024",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2023",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2022",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2021",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2020",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases/2019",
+        "anchor_text": "View press releases",
+        "score": 45
+      },
+      {
+        "url": "https://sciex.com/products/integrated-solutions",
+        "anchor_text": "Integrated solutions",
+        "score": 44
+      },
+      {
+        "url": "https://sciex.com/applications/cannabis-testing",
+        "anchor_text": "View all cannabis testing",
+        "score": 44
+      },
+      {
+        "url": "https://sciex.com/support/manage-my-instruments",
+        "anchor_text": "Manage my instruments",
+        "score": 44
+      },
+      {
+        "url": "https://sciex.com/about-us/executive-management",
+        "anchor_text": "Executive management",
+        "score": 44
+      },
+      {
+        "url": "https://sciex.com/legal-pages/legal-information",
+        "anchor_text": "Legal\n                  Info",
+        "score": 44
+      },
+      {
+        "url": "https://sciex.com/products/mass-spectrometers",
+        "anchor_text": "Mass spectrometers",
+        "score": 42
+      },
+      {
+        "url": "https://sciex.com/events/pfas-summit-part-III",
+        "anchor_text": "",
+        "score": 42
+      },
+      {
+        "url": "https://sciex.com/support/registered-software",
+        "anchor_text": "Manage my software",
+        "score": 42
+      },
+      {
+        "url": "https://sciex.com/form-pages/product-request",
+        "anchor_text": "Request a quote",
+        "score": 41
+      },
+      {
+        "url": "https://sciex.com/support/search-online-help",
+        "anchor_text": "Get online help",
+        "score": 41
+      },
+      {
+        "url": "https://sciex.com/support/customer-documents",
+        "anchor_text": "Product guides",
+        "score": 41
+      },
+      {
+        "url": "https://sciex.com/about-us/customer-profiles",
+        "anchor_text": "Customer profiles",
+        "score": 41
+      },
+      {
+        "url": "https://sciex.com/legal-pages/privacy-policy",
+        "anchor_text": "Privacy\n                  Policy",
+        "score": 41
+      },
+      {
+        "url": "https://sciex.com/products/spectral-library",
+        "anchor_text": "Spectral libraries",
+        "score": 40
+      },
+      {
+        "url": "https://sciex.com/support/activate-software",
+        "anchor_text": "Software activation",
+        "score": 40
+      },
+      {
+        "url": "https://sciex.com/support/software-support",
+        "anchor_text": "View all Software service plans",
+        "score": 39
+      },
+      {
+        "url": "https://sciex.com/support/my-notifications",
+        "anchor_text": "My notifications",
+        "score": 39
+      },
+      {
+        "url": "https://sciex.com/about-us/press-releases",
+        "anchor_text": "Cookies Settings",
+        "score": 38
+      },
+      {
+        "url": "https://sciex.com/support/request-support",
+        "anchor_text": "Request support",
+        "score": 38
+      },
+      {
+        "url": "https://sciex.com/support/tech-regulatory",
+        "anchor_text": "Technical documents",
+        "score": 38
+      },
+      {
+        "url": "https://sciex.com/education/grant-support",
+        "anchor_text": "View all Grant writing support",
+        "score": 38
+      },
+      {
+        "url": "https://sciex.com/stories/thought-leaders",
+        "anchor_text": "Thought leaders",
+        "score": 38
+      },
+      {
+        "url": "https://sciex.com/support/create-account",
+        "anchor_text": "Register",
+        "score": 37
+      },
+      {
+        "url": "https://sciex.com/products/hplc-products",
+        "anchor_text": "Front-end HPLC MS",
+        "score": 37
+      },
+      {
+        "url": "https://sciex.com/support/support-cases",
+        "anchor_text": "Online support",
+        "score": 36
+      },
+      {
+        "url": "https://sciex.com/about-us/our-history",
+        "anchor_text": "Our history",
+        "score": 35
+      },
+      {
+        "url": "https://sciex.com/about-us/whitepapers",
+        "anchor_text": "Our favorite papers",
+        "score": 35
+      },
+      {
+        "url": "https://sciex.com/products/ion-sources",
+        "anchor_text": "Ion sources",
+        "score": 35
+      },
+      {
+        "url": "https://sciex.com/about-us/contact-us",
+        "anchor_text": "Contact",
+        "score": 34
+      },
+      {
+        "url": "https://sciex.com/products/software/oneomics",
+        "anchor_text": "OneOmics suite",
+        "score": 33
+      },
+      {
+        "url": "https://sciex.com/supplemental/eProcurement",
+        "anchor_text": "eCommerce and eProcurement solutionsRequest your catalog today, and our team will be in touch to assist you further",
+        "score": 30
+      },
+      {
+        "url": "https://sciex.com/resource-library",
+        "anchor_text": "Resource library",
+        "score": 29
+      },
+      {
+        "url": "https://sciex.com/resource-library?view=knowledge%20base%20articles",
+        "anchor_text": "Resource library",
+        "score": 29
+      },
+      {
+        "url": "https://sciex.com/applications/clinical",
+        "anchor_text": "Clinical",
+        "score": 26
+      },
+      {
+        "url": "https://sciex.com/products/accessories",
+        "anchor_text": "AccessoriesThoughtfully designed accessories that are aligned with your goals for precise molecular detection and quantitation",
+        "score": 25
+      },
+      {
+        "url": "https://sciex.com/products/consumables",
+        "anchor_text": "Consumables",
+        "score": 25
+      },
+      {
+        "url": "https://sciex.com/products/software",
+        "anchor_text": "Software",
+        "score": 22
+      },
+      {
+        "url": "https://sciex.com/products/methods",
+        "anchor_text": "LC-MS methods",
+        "score": 21
+      },
+      {
+        "url": "https://sciex.com/support/training",
+        "anchor_text": "Training",
+        "score": 21
+      },
+      {
+        "url": "https://sciex.com/about-us",
+        "anchor_text": "About SCIEX",
+        "score": 21
+      },
+      {
+        "url": "https://sciex.com/about-us#about-sciex",
+        "anchor_text": "About SCIEX",
+        "score": 21
+      },
+      {
+        "url": "https://sciex.com/support/profile",
+        "anchor_text": "My profile",
+        "score": 20
+      },
+      {
+        "url": "https://sciex.com/stories/topics",
+        "anchor_text": "Topics",
+        "score": 19
+      },
+      {
+        "url": "https://sciex.com/applications",
+        "anchor_text": "View all Applications",
+        "score": 15
+      },
+      {
+        "url": "https://sciex.com/products",
+        "anchor_text": "View all Products",
+        "score": 11
+      },
+      {
+        "url": "https://sciex.com/support",
+        "anchor_text": "Support",
+        "score": 10
+      },
+      {
+        "url": "https://sciex.com/stories",
+        "anchor_text": "SCIEX stories",
+        "score": 10
+      },
+      {
+        "url": "https://sciex.com/events",
+        "anchor_text": "Events",
+        "score": 9
+      },
+      {
+        "url": "https://sciex.com/",
+        "anchor_text": "",
+        "score": 3
       }
     ]
   },
@@ -17792,7 +19345,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Remove my preference",
         "score": 39
       },
       {
@@ -20134,14 +21687,14 @@
         "score": 168
       },
       {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-survey-autonomous-ai-is-no-longer-theoretical-as-adoption-grows-despite-ongoing-trust-concerns",
-        "anchor_text": "EY survey: Autonomous AI is no longer theoretical as adoption grows despite ongoing trust concerns",
-        "score": 166
-      },
-      {
         "url": "https://www.ey.com/en_gl/newsroom/2026/05/geopolitics-tops-the-ceo-agenda-as-leaders-tighten-focus-on-profitability-ai-and-strategic-deals",
         "anchor_text": "Geopolitics tops the CEO agenda as leaders tighten focus on profitability, AI and strategic deals",
         "score": 165
+      },
+      {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/05/ey-report-ai-is-reshaping-consumer-products-selection-accelerating-brand-consideration-risk",
+        "anchor_text": "EY report: AI is reshaping consumer products selection, accelerating brand consideration risk",
+        "score": 160
       },
       {
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-launches-enterprise-scale-agentic-ai-to-redefine-the-audit-experience-for-the-ai-era",
@@ -20919,6 +22472,11 @@
         "score": 42
       },
       {
+        "url": "https://www.ey.com/en_gl/people/gigi-o-brien",
+        "anchor_text": "Gigi O’Brien",
+        "score": 42
+      },
+      {
         "url": "https://www.ey.com/en_gl/people/sarah-graham",
         "anchor_text": "Sarah Graham",
         "score": 42
@@ -21587,11 +23145,6 @@
         "url": "https://www.ey.com/en_jm",
         "anchor_text": "JamaicaEnglish",
         "score": 8
-      },
-      {
-        "url": "https://www.ey.com/en_jp",
-        "anchor_text": "JapanEnglish",
-        "score": 8
       }
     ]
   },
@@ -21962,14 +23515,19 @@
         "score": 62
       },
       {
-        "url": "https://rxpropellant.com/designing-labs-for-the-unknown/",
-        "anchor_text": "Designing Labs for the Unknown",
-        "score": 46
+        "url": "https://rxpropellant.com/made-in-india-trusted-by-the-world/",
+        "anchor_text": "Made in India, Trusted by the World",
+        "score": 50
       },
       {
         "url": "https://rxpropellant.com/bio-international-convention/",
         "anchor_text": "Bio International Convention",
         "score": 44
+      },
+      {
+        "url": "https://rxpropellant.com/2026/05/",
+        "anchor_text": "May 2026",
+        "score": 40
       },
       {
         "url": "https://rxpropellant.com/2026/04/",
@@ -26192,14 +27750,14 @@
         "score": 178
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "anchor_text": "11 May 2026GSK enters exclusive collaboration with SBP Group, a market leader in hepatology in China, to accelerate bepirovirsen at launchBepirovirsen is a potential first-in-class treatment for chronic hepatitis B, under priority regulatory review in China",
+        "score": 174
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/linerixibat-accepted-for-priority-review-in-china-for-cholestatic-pruritus-in-patients-with-primary-biliary-cholangitis/",
-        "anchor_text": "26 February 2026Linerixibat accepted for priority review in China for cholestatic pruritus in patients with primary biliary cholangitisSubmission based on data from positive GLISTEN phase III trial",
-        "score": 168
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -37360,7 +38918,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price315.30CHF- 3.00(-0.94%)Today",
+        "anchor_text": "Share price315.40CHF+ 0.10(+0.03%)Today",
         "score": 20
       },
       {
@@ -40115,11 +41673,6 @@
         "score": 60
       },
       {
-        "url": "https://www.daiichisankyo.com/about_us/mission-strength/our_workplace/",
-        "anchor_text": "Our Workplace",
-        "score": 59
-      },
-      {
         "url": "https://www.daiichisankyo.com/sustainability/performance-reports/news/",
         "anchor_text": "Sustainability Topics",
         "score": 59
@@ -40183,11 +41736,6 @@
         "url": "https://www.daiichisankyo.com/sustainability/stakeholder_engagement/patients/",
         "anchor_text": "With Healthcare Professionals",
         "score": 56
-      },
-      {
-        "url": "https://www.daiichisankyo.com/about_us/mission-strength/strengths/",
-        "anchor_text": "Our Strengths",
-        "score": 55
       },
       {
         "url": "https://www.daiichisankyo.com/about_us/governance/criteria_for_independence/",
@@ -41527,6 +43075,16 @@
       {
         "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3353.html",
         "anchor_text": "Differences Between Consolidated Results for Fiscal 2016 and Fiscal 2015",
+        "score": 51
+      },
+      {
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3352.html",
+        "anchor_text": "Daiichi Sankyo Announces “Partial Amendment to the Articles of Incorporation” and “Election of a candidate for Member of the Audit and Supervisory Board”",
+        "score": 51
+      },
+      {
+        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3354.html",
+        "anchor_text": "Daiichi Sankyo Initiates ENVISAGE-TAVI AF Study Investigating Once-Daily Lixiana® (edoxaban) in Patients with Atrial Fibrillation Undergoing Transcatheter Aortic Valve Implantation",
         "score": 51
       }
     ]
@@ -49339,11 +50897,6 @@
         "score": 45
       },
       {
-        "url": "https://www.catalent.com/events/isct-annual-meeting/",
-        "anchor_text": "ISCT Annual Meeting",
-        "score": 44
-      },
-      {
         "url": "https://www.catalent.com/our-locations/asia-pacific/",
         "anchor_text": "Asia Pacific",
         "score": 44
@@ -49364,13 +50917,13 @@
         "score": 40
       },
       {
-        "url": "https://www.catalent.com/events/bos-basel-2026/",
-        "anchor_text": "BOS Basel 2026",
+        "url": "https://www.catalent.com/events/tides-usa-2026/",
+        "anchor_text": "TIDES USA 2026",
         "score": 39
       },
       {
-        "url": "https://www.catalent.com/events/tides-usa-2026/",
-        "anchor_text": "TIDES USA 2026",
+        "url": "https://www.catalent.com/events/bos-basel-2026/",
+        "anchor_text": "BOS Basel 2026",
         "score": 39
       },
       {
@@ -49555,14 +51108,14 @@
         "score": 178
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "anchor_text": "11 May 2026GSK enters exclusive collaboration with SBP Group, a market leader in hepatology in China, to accelerate bepirovirsen at launchBepirovirsen is a potential first-in-class treatment for chronic hepatitis B, under priority regulatory review in China",
+        "score": 174
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/linerixibat-accepted-for-priority-review-in-china-for-cholestatic-pruritus-in-patients-with-primary-biliary-cholangitis/",
-        "anchor_text": "26 February 2026Linerixibat accepted for priority review in China for cholestatic pruritus in patients with primary biliary cholangitisSubmission based on data from positive GLISTEN phase III trial",
-        "score": 168
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -54507,6 +56060,11 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260511153000_1251.html?year=2026&category=",
+        "anchor_text": "Chugai’s Pharmaceutical Packaging Leveraging Proprietary Technologies Wins the “WorldStar Winner 2026” at the “WorldStar Global Packaging Awards 2026” from the World Packaging Organization",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260424170002_1247.html?year=2026&category=",
         "anchor_text": "Chugai Announces 2026 1st Quarter Results",
         "score": 53
@@ -54909,6 +56467,11 @@
       {
         "url": "https://www.chugai-pharm.co.jp/english/innovation/",
         "anchor_text": "Innovation",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260511_eWorldStarAwards.pdf&src=[%0],[%1]&rep=130,1251",
+        "anchor_text": "[PDF\n                            379KB]",
         "score": 26
       },
       {
@@ -59398,8 +60961,8 @@
         "score": 31
       },
       {
-        "url": "https://ir.discmedicine.com/news-releases#main-menu",
-        "anchor_text": "Skip to main navigation",
+        "url": "https://ir.discmedicine.com/news-releases#lfg-main-content",
+        "anchor_text": "Skip to content",
         "score": 26
       },
       {
@@ -61155,6 +62718,11 @@
         "score": 30
       },
       {
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7515",
+        "anchor_text": "Bavarian Nordic – Completion of Share Buy-Back Program",
+        "score": 30
+      },
+      {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7512",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
         "score": 30
@@ -61272,11 +62840,6 @@
       {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7424",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
-        "score": 30
-      },
-      {
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7403",
-        "anchor_text": "Bavarian Nordic Launches Planned Share Buy-Back Program",
         "score": 30
       },
       {
@@ -65394,6 +66957,11 @@
         "score": 124
       },
       {
+        "url": "https://www.genethon.fr/asgct-2026-genethon-affirme-son-leadership-scientifique-avec-21-communications-dont-8-presentations-orales/",
+        "anchor_text": "(plus)",
+        "score": 122
+      },
+      {
         "url": "https://www.genethon.fr/nouvelles-avancees-dans-le-traitement-de-la-sla-la-banque-dadn-de-genethon-impliquee-dans-lessai-mirocals/",
         "anchor_text": "(plus)",
         "score": 121
@@ -65617,11 +67185,6 @@
         "url": "https://www.genethon.fr/notre-science/nos-equipes/",
         "anchor_text": "Nos équipes de recherche et plateformes",
         "score": 43
-      },
-      {
-        "url": "https://www.genethon.fr/gnt0004-ou-en-est-on/",
-        "anchor_text": "(plus)",
-        "score": 36
       },
       {
         "url": "https://www.genethon.fr/newsroom/actualites/page/2",
@@ -69219,21 +70782,6 @@
         "score": 128
       },
       {
-        "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/09/23/enamines-real-space-september-2025-update-now-83-billion/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/09/emina-yekt-yilmaz-wins-scientific-challenge-winter-2024/",
-        "anchor_text": "Read on",
-        "score": 113
-      },
-      {
         "url": "https://www.biosolveit.de/2026/03/30/uk-qsar-2026-abstract-and-full-programme-now-avaliable/",
         "anchor_text": "Read on",
         "score": 112
@@ -69247,11 +70795,6 @@
         "url": "https://www.biosolveit.de/2026/04/08/two-projects-win-scientific-challenge-spring-2025/",
         "anchor_text": "Read on",
         "score": 107
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/10/15/recordings-of-the-biosolveit-day-2025-available/",
-        "anchor_text": "Read on",
-        "score": 105
       },
       {
         "url": "https://www.biosolveit.de/2026/02/10/seesar-15-apollo-decode-activity-gain-insights/",
@@ -69284,11 +70827,6 @@
         "score": 90
       },
       {
-        "url": "https://www.biosolveit.de/2025/11/10/winter-2025-scientific-challenge/",
-        "anchor_text": "Read on",
-        "score": 90
-      },
-      {
         "url": "https://www.biosolveit.de/2026/01/19/tool-of-the-month-spacelight/",
         "anchor_text": "Read on",
         "score": 86
@@ -69310,11 +70848,6 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/04/29/tool-of-the-month-flexx/",
-        "anchor_text": "Read on",
-        "score": 81
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
       },
@@ -70021,14 +71554,14 @@
         "score": 93
       },
       {
-        "url": "https://www.3ds.com/products/biovia/materials-studio/chemicals-catalysts",
-        "anchor_text": "Chemicals & Catalysts",
-        "score": 71
-      },
-      {
         "url": "https://www.3ds.com/careers/jobs/pr-communications-specialist-nam-547757",
         "anchor_text": "PR & Communications…",
         "score": 69
+      },
+      {
+        "url": "https://www.3ds.com/products/biovia/all-products",
+        "anchor_text": "All Products",
+        "score": 45
       },
       {
         "url": "https://www.3ds.com/newsroom/search",
@@ -73111,14 +74644,14 @@
         "score": 109
       },
       {
-        "url": "https://www.nuclera.com/nuclera-expands-global-reach-with-new-distribution-partners-across-apac-and-middle-east/",
-        "anchor_text": "Company AnnouncementsGeneral NewsNuclera Expands Global Footprint with New Distribution Partnerships Across APAC and the Middle EastMay 6, 2025",
-        "score": 103
-      },
-      {
         "url": "https://www.nuclera.com/nuclera-launches-gpcr-focused-nanodisc-panel-to-streamline-membrane-protein-production/",
         "anchor_text": "Company AnnouncementsGeneral NewsNuclera launches GPCR-focused nanodisc panel to streamline membrane protein productionMarch 30, 2026",
         "score": 102
+      },
+      {
+        "url": "https://www.nuclera.com/nuclera-launches-antibody-triage-service-to-advance-ai-driven-antibody-discovery/",
+        "anchor_text": "Company AnnouncementsNuclera launches antibody triage service to advance AI-driven antibody discoveryMay 11, 2026",
+        "score": 96
       },
       {
         "url": "https://www.nuclera.com/nuclera-eprotein-discovery-system-installed-at-leading-universities-in-taiwan/",
@@ -73149,11 +74682,6 @@
         "url": "https://www.nuclera.com/company/corporate-social-responsibility/",
         "anchor_text": "Corporate Social Responsibility",
         "score": 57
-      },
-      {
-        "url": "https://www.nuclera.com/event-webinar/pegs_boston_us/",
-        "anchor_text": "PEGS Boston:Join us for talks on AI-driven antibody screening and automated GPCR expression.",
-        "score": 46
       },
       {
         "url": "https://www.nuclera.com/faster-route-functional-gpcrs/",
@@ -73408,14 +74936,14 @@
         "score": 178
       },
       {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-exclusive-collaboration-with-sbp-group-a-market-leader-in-hepatology-in-china-to-accelerate-bepirovirsen-at-launch/",
+        "anchor_text": "11 May 2026GSK enters exclusive collaboration with SBP Group, a market leader in hepatology in China, to accelerate bepirovirsen at launchBepirovirsen is a potential first-in-class treatment for chronic hepatitis B, under priority regulatory review in China",
+        "score": 174
+      },
+      {
         "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-accepted-for-regulatory-review-in-china-as-a-potential-first-in-class-functional-cure-for-chronic-hepatitis-b/",
         "anchor_text": "30 March 2026Bepirovirsen accepted for regulatory review in China as a potential first-in-class functional cure for chronic hepatitis BSubmission supported by statistically significant and clinically meaningful functional cure rates in pivotal Phase III B-Well trials",
         "score": 171
-      },
-      {
-        "url": "https://www.gsk.com/en-gb/media/press-releases/linerixibat-accepted-for-priority-review-in-china-for-cholestatic-pruritus-in-patients-with-primary-biliary-cholangitis/",
-        "anchor_text": "26 February 2026Linerixibat accepted for priority review in China for cholestatic pruritus in patients with primary biliary cholangitisSubmission based on data from positive GLISTEN phase III trial",
-        "score": 168
       },
       {
         "url": "https://www.gsk.com/en-gb/careers/experienced-professionals/research-and-development/chemical-manufacturing-and-controls-cmc-medicine-development-and-supply-mds/",
@@ -81758,11 +83286,6 @@
     ]
   },
   {
-    "company": "Dr. Reddy's Laboratories",
-    "press_url": "https://www.drreddys.com/media/",
-    "candidate_links": []
-  },
-  {
     "company": "Tata Consultancy Services",
     "press_url": "https://www.tcs.com/newsroom",
     "candidate_links": []
@@ -81775,16 +83298,6 @@
   {
     "company": "Lonza",
     "press_url": "https://www.lonza.com/news",
-    "candidate_links": []
-  },
-  {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
-    "candidate_links": []
-  },
-  {
-    "company": "SCIEX",
-    "press_url": "https://sciex.com/about-us/press-releases",
     "candidate_links": []
   },
   {
