@@ -1126,86 +1126,6 @@
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
       {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-positive-topline-phase-3-results-for-subcutaneous-tepezza-in-adults-living-with-moderate-to-severe-active-thyroid-eye-disease",
-        "anchor_text": "AMGEN ANNOUNCES POSITIVE TOPLINE PHASE 3 RESULTS FOR SUBCUTANEOUS TEPEZZA® IN ADULTS LIVING WITH MODERATE-TO-SEVERE ACTIVE THYROID EYE DISEASE",
-        "score": 219
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/repatha-cuts-risk-of-first-major-cardiovascular-events-by-31-in-highrisk-patients-without-known-significant-atherosclerosis",
-        "anchor_text": "REPATHA® CUTS RISK OF FIRST MAJOR CARDIOVASCULAR EVENTS BY 31% IN HIGH-RISK PATIENTS WITHOUT KNOWN SIGNIFICANT ATHEROSCLEROSIS",
-        "score": 201
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-announces-additional-300-million-us-manufacturing-investment-totaling-nearly-2-billion-over-the-last-year",
-        "anchor_text": "AMGEN ANNOUNCES ADDITIONAL $300 MILLION U.S. MANUFACTURING INVESTMENT, TOTALING NEARLY $2 BILLION OVER THE LAST YEAR",
-        "score": 189
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-retirement-of-david-m-reese-executive-vice-president-and-chief-technology-officer",
-        "anchor_text": "AMGEN ANNOUNCES RETIREMENT OF DAVID M. REESE, EXECUTIVE VICE PRESIDENT AND CHIEF TECHNOLOGY OFFICER",
-        "score": 175
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/05/amgen-to-present-at-the-bank-of-america-merrill-lynch-global-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE BANK OF AMERICA MERRILL LYNCH GLOBAL HEALTHCARE CONFERENCE",
-        "score": 160
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-announces-webcast-of-2025-fourth-quarter-and-full-year-financial-results",
-        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2025 FOURTH QUARTER AND FULL YEAR FINANCIAL RESULTS",
-        "score": 156
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/european-commission-approves-amgens-uplizna-for-generalized-myasthenia-gravis",
-        "anchor_text": "EUROPEAN COMMISSION APPROVES AMGEN'S UPLIZNA® FOR GENERALIZED MYASTHENIA GRAVIS",
-        "score": 155
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-to-present-at-the-leerink-partners-2026-global-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE LEERINK PARTNERS 2026 GLOBAL HEALTHCARE CONFERENCE",
-        "score": 152
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-to-present-at-the-44th-annual-j-p--morgan-healthcare-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
-        "score": 147
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-the-46th-annual-td-cowen-health-care-conference",
-        "anchor_text": "AMGEN TO PRESENT AT THE 46TH ANNUAL TD COWEN HEALTH CARE CONFERENCE",
-        "score": 145
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/01/amgen-acquires-dark-blue-therapeutics-bolstering-oncology-pipeline",
-        "anchor_text": "AMGEN ACQUIRES DARK BLUE THERAPEUTICS, BOLSTERING ONCOLOGY PIPELINE",
-        "score": 144
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-to-present-at-citis-2026-virtual-oncology-leadership-summit",
-        "anchor_text": "AMGEN TO PRESENT AT CITI'S 2026 VIRTUAL ONCOLOGY LEADERSHIP SUMMIT",
-        "score": 143
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/02/amgen-reports-fourth-quarter-and-full-year-2025-financial-results",
-        "anchor_text": "AMGEN REPORTS FOURTH QUARTER AND FULL YEAR 2025 FINANCIAL RESULTS",
-        "score": 143
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-announces-webcast-of-2026-first-quarter-financial-results",
-        "anchor_text": "AMGEN ANNOUNCES WEBCAST OF 2026 FIRST QUARTER FINANCIAL RESULTS",
-        "score": 141
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/04/amgen-reports-first-quarter-2026-financial-results",
-        "anchor_text": "AMGEN REPORTS FIRST QUARTER 2026 FINANCIAL RESULTS",
-        "score": 128
-      },
-      {
-        "url": "https://www.amgen.com/newsroom/press-releases/2026/03/amgen-announces-2026-second-quarter-dividend",
-        "anchor_text": "AMGEN ANNOUNCES 2026 SECOND QUARTER DIVIDEND",
-        "score": 122
-      },
-      {
         "url": "https://www.amgen.com/about/how-we-operate/policies-practices-and-disclosures/business-conduct/quality",
         "anchor_text": "Product Quality",
         "score": 101
@@ -1301,11 +1221,6 @@
         "score": 70
       },
       {
-        "url": "https://www.amgen.com/responsibility/2024-sustainability-highlights-report",
-        "anchor_text": "2024 Sustainability Highlights Report",
-        "score": 67
-      },
-      {
         "url": "https://www.amgen.com/responsibility/healthy-people/community-investment",
         "anchor_text": "Amgen Foundation and Community Investment",
         "score": 67
@@ -1338,6 +1253,11 @@
       {
         "url": "https://www.amgen.com/products/global-patient-safety/our-commitment",
         "anchor_text": "Our Commitment",
+        "score": 62
+      },
+      {
+        "url": "https://www.amgen.com/responsibility/sustainability-highlights-report",
+        "anchor_text": "2025 Sustainability Highlights Report",
         "score": 62
       },
       {
@@ -5651,6 +5571,11 @@
         "score": 15
       },
       {
+        "url": "https://www.alsglobal.com/sv/Sverige",
+        "anchor_text": "Sweden",
+        "score": 15
+      },
+      {
         "url": "https://www.alsglobal.com/tr/turkiye",
         "anchor_text": "Turkey",
         "score": 15
@@ -5668,11 +5593,6 @@
       {
         "url": "https://www.alsglobal.com/es/espana",
         "anchor_text": "Spain",
-        "score": 14
-      },
-      {
-        "url": "https://www.alsglobal.com/sv/sweden",
-        "anchor_text": "Sweden",
         "score": 14
       },
       {
@@ -5792,6 +5712,11 @@
         "score": 122
       },
       {
+        "url": "https://www.veeva.com/medtech/news/smithnephew-establishes-unified-quality-foundation-worldwide-with-veeva-quality-cloud/%20",
+        "anchor_text": "Read Press Release",
+        "score": 121
+      },
+      {
         "url": "https://www.veeva.com/resources/industry-research-finds-establishing-a-foundation-for-ai-is-top-priority-for-cpg-enterprises/",
         "anchor_text": "Read Press Release",
         "score": 120
@@ -5853,11 +5778,6 @@
       },
       {
         "url": "https://www.veeva.com/resources/13-of-the-top-20-biopharmas-standardize-globally-on-veeva-link-key-people/",
-        "anchor_text": "Read Press Release",
-        "score": 101
-      },
-      {
-        "url": "https://www.veeva.com/medtech/news/veeva-vault-qms-adds-field-actions-and-recall-management-for-medtech/",
         "anchor_text": "Read Press Release",
         "score": 101
       },
@@ -6803,6 +6723,11 @@
         "score": 106
       },
       {
+        "url": "https://www.sartorius.com/en/company/newsroom/blog/our-journey-in-china-celebrating-30-years-and-beyond-1778650",
+        "anchor_text": "",
+        "score": 106
+      },
+      {
         "url": "https://www.sartorius.com/en/company/newsroom/corporate-news/sartorius-releases-annual-report-for-2025-1796528",
         "anchor_text": "Sartorius releases Annual Report for 2025Read Media Release",
         "score": 105
@@ -6816,11 +6741,6 @@
         "url": "https://www.sartorius.com/en/applications/biopharmaceutical-manufacturing/process-intensification",
         "anchor_text": "It's Time to Intensify Your Process",
         "score": 90
-      },
-      {
-        "url": "https://www.sartorius.com/en/company/newsroom/blog/people-at-sartorius-xindao-mao-1772022",
-        "anchor_text": "",
-        "score": 84
       },
       {
         "url": "https://www.sartorius.com/en/company/sartorius-ag-investor-relations/shareholders-meeting",
@@ -9908,12 +9828,12 @@
         "score": 153
       },
       {
-        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
+        "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
         "anchor_text": "Read More »",
         "score": 131
       },
       {
-        "url": "https://insilicominds.com/fda-launches-general-principles-of-model-integrated-evidence-mie-industry-meeting-pilot-for-generic-drug-applicants/",
+        "url": "https://insilicominds.com/fda-works-through-ich-to-support-global-drug-development-creating-harmonized-technical-standards-through-guidelines/",
         "anchor_text": "Read More »",
         "score": 131
       },
@@ -16546,31 +16466,6 @@
         "score": 54
       },
       {
-        "url": "https://www.olympus-global.com/news/2026/nr02982.html",
-        "anchor_text": "Mar. 11, 2026MedicalOlympus Launches Next-Generation Surgical Imaging Platform in U.S.",
-        "score": 54
-      },
-      {
-        "url": "https://www.olympus-global.com/news/2026/nr02981.html",
-        "anchor_text": "Mar. 09, 2026HROlympus Appoints Denise Lane as Chief Officer of Inclusion to Accelerate Inclusion Priorities Worldwide",
-        "score": 54
-      },
-      {
-        "url": "https://www.olympus-global.com/news/2026/an02977.html",
-        "anchor_text": "Mar. 02, 2026CorporateSharing the Importance of Screening Through the Experience of a Colorectal Cancer Survivor — A “True to Life” Story",
-        "score": 54
-      },
-      {
-        "url": "https://www.olympus-global.com/news/2026/an02974.html",
-        "anchor_text": "Feb. 25, 2026CorporateI Feel Like I Got a Second Chance\": An Engineer’s Journey with Bronchial Valves — A “True to Life” Story",
-        "score": 54
-      },
-      {
-        "url": "https://www.olympus-global.com/news/2026/nr02972.html",
-        "anchor_text": "Feb. 25, 2026MedicalOlympus Announces Pediatric Use Indication for Two Single-Use Bronchoscopes",
-        "score": 54
-      },
-      {
         "url": "https://www.olympus-global.com/ir/data/investor-events.html?page=ir",
         "anchor_text": "Investor Events",
         "score": 45
@@ -16598,6 +16493,11 @@
       {
         "url": "https://www.olympus-global.com/technology/olympusmuseum/?page=technology_zuikodoh",
         "anchor_text": "Olympus Museum",
+        "score": 32
+      },
+      {
+        "url": "https://www.olympus-global.com/ir/data/brief/2026.html?page=ir",
+        "anchor_text": "May. 12, 2026IRFinancial Results for Fiscal Year 2026",
         "score": 32
       },
       {
@@ -17566,11 +17466,6 @@
     "press_url": "https://www.sailife.com/news",
     "candidate_links": [
       {
-        "url": "https://www.sailife.com/sai-life-sciences-agility-life-sciences-and-centrix-pharma-solutions-announce-an-integrated-cmc-partnership-to-accelerate-drug-development-for-innovators/",
-        "anchor_text": "Read more",
-        "score": 169
-      },
-      {
         "url": "https://www.sailife.com/mabtech-and-sai-life-sciences-announce-strategic-collaboration-to-advance-immunology-research-with-eyra-platform-at-sai-boston-site/",
         "anchor_text": "Read more",
         "score": 147
@@ -17579,6 +17474,11 @@
         "url": "https://www.sailife.com/sai-life-sciences-launches-child-safety-awareness-program-in-government-schools-in-hyderabad-with-sankalp-foundation/",
         "anchor_text": "Read more",
         "score": 132
+      },
+      {
+        "url": "https://www.sailife.com/sai-life-sciences-becomes-first-indian-crdmo-with-a-site-powered-by-100-renewable-energy/",
+        "anchor_text": "Read more",
+        "score": 104
       },
       {
         "url": "https://www.sailife.com/pushing-boundaries-in-organic-chemistry-iisc-prof-santanu-mukherjee-at-sai-life-sciences/",
@@ -18734,6 +18634,11 @@
     "press_url": "https://www.illumina.com/company/news-center.html",
     "candidate_links": [
       {
+        "url": "https://www.illumina.com/company/news-center/feature-articles/how-illumina-employees-work-to-move-healthcare-toward-precision-.html",
+        "anchor_text": "How Illumina employees work to move healthcare toward precision medicine",
+        "score": 125
+      },
+      {
         "url": "https://www.illumina.com/company/news-center/feature-articles/when-accuracy-matters--how-multiomics-helps-separate-malignant-a.html",
         "anchor_text": "Multiomics help separate malignant and benign tumors in tricky ovarian cases",
         "score": 125
@@ -18792,11 +18697,6 @@
         "url": "https://www.illumina.com/systems/sequencing-platforms/novaseq-x-plus/applications/broad-sequencing.html",
         "anchor_text": "Learn more",
         "score": 99
-      },
-      {
-        "url": "https://www.illumina.com/company/news-center/feature-articles/The-Sequence-video-podcast-episode-01.html",
-        "anchor_text": "The Sequence podcast EP1: Inside the global genomics leader",
-        "score": 98
       },
       {
         "url": "https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/stranded-mrna-prep.html",
@@ -19345,7 +19245,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Remove my preference",
+        "anchor_text": "Share on Linkedin",
         "score": 39
       },
       {
@@ -19385,7 +19285,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "Privacy Policy",
         "score": 33
       },
       {
@@ -19770,6 +19670,11 @@
         "score": 65
       },
       {
+        "url": "https://www.agilisium.com/context-ai/clinical/protocol-digitization-agent",
+        "anchor_text": "Protocol Digitization Agent",
+        "score": 64
+      },
+      {
         "url": "https://www.agilisium.com/services/life-sciences/digital-trial-operations",
         "anchor_text": "Digital Trial Operations",
         "score": 64
@@ -19885,6 +19790,11 @@
         "score": 59
       },
       {
+        "url": "https://www.agilisium.com/context-ai/commercial/value-dossier-agent",
+        "anchor_text": "Value-dossier-agent",
+        "score": 58
+      },
+      {
         "url": "https://www.agilisium.com/context-ai/research/target-identification",
         "anchor_text": "Target Identification Agent",
         "score": 58
@@ -19893,6 +19803,11 @@
         "url": "https://www.agilisium.com/services/engineering/ lean-qms-automation",
         "anchor_text": "Lean QMS & Automation",
         "score": 58
+      },
+      {
+        "url": "https://www.agilisium.com/autonomous-agents/field-force-effectivness",
+        "anchor_text": "Field Force EffectivnessMaximize field force efficiency and impact",
+        "score": 57
       },
       {
         "url": "https://www.agilisium.com/services/life-sciences/entity-management",
@@ -19907,11 +19822,6 @@
       {
         "url": "https://www.agilisium.com/tech-enablement/generative-ai-as-a-service",
         "anchor_text": "Gen AI as a ServiceEmpowering enterprises with AI-driven solutions",
-        "score": 57
-      },
-      {
-        "url": "https://www.agilisium.com/autonomous-agents/field-force-effectivness",
-        "anchor_text": "Field Force EffectivnessMaximize field force efficiency and impact",
         "score": 57
       },
       {
@@ -23158,14 +23068,14 @@
         "score": 181
       },
       {
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/ai-adoption-in-finance-doubles-but-assurance-readiness-determines-who-wins.html",
+        "anchor_text": "",
+        "score": 164
+      },
+      {
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/global-vc-investment-surges-to-record-330-9-billion-dollar-in-q1-26.html",
         "anchor_text": "",
         "score": 157
-      },
-      {
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-and-insead-launch-global-ai-board-governance-principles.html",
-        "anchor_text": "",
-        "score": 150
       },
       {
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/05/kpmg-expands-global-alliance-partnership-with-service-now.html",
@@ -31033,6 +30943,11 @@
         "score": 33
       },
       {
+        "url": "https://www.labcorp.com/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
+        "score": 33
+      },
+      {
         "url": "https://www.labcorp.com/compliance/ethics/slavery",
         "anchor_text": "Combatting Modern Slavery and Human Trafficking Statement",
         "score": 32
@@ -37114,9 +37029,9 @@
         "score": 155
       },
       {
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-precision-oncology-alliance-welcomes-ucsf-helen-diller-family-comprehensive-cancer-center/",
-        "anchor_text": "Read more: Caris Precision Oncology Alliance Welcomes UCSF Helen Diller Family Comprehensive Cancer Center",
-        "score": 136
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-publishes-study-showing-whole-exome-measurement-of-tumor-mutational-burden-results/",
+        "anchor_text": "Read more: Caris Life Sciences Publishes Study Showing Whole Exome Measurement of Tumor Mutational Burden Results in Increased Overall Survival Compared to Estimates from Targeted Gene Panels",
+        "score": 143
       },
       {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-submits-application-to-nysdoh-for-caris-assure-blood-based-testing-authorization/",
@@ -37524,8 +37439,8 @@
         "score": 10
       },
       {
-        "url": "https://www.carislifesciences.com/news/?query-0-page=52#caris-query-filter",
-        "anchor_text": "52",
+        "url": "https://www.carislifesciences.com/news/?query-0-page=53#caris-query-filter",
+        "anchor_text": "53",
         "score": 10
       },
       {
@@ -38672,6 +38587,11 @@
         "score": 50
       },
       {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-05-12",
+        "anchor_text": "Roche receives CE mark for new blood test to detect Alzheimer's pathology: Elecsys® plasma phosphorylated-tau 217 (pTau217)May 12, 2026",
+        "score": 50
+      },
+      {
         "url": "https://www.roche.com/media/releases/med-cor-2026-05-07",
         "anchor_text": "Roche enters into a definitive merger agreement to acquire PathAI to transform AI-driven diagnosticsMay 07, 2026",
         "score": 50
@@ -38704,11 +38624,6 @@
       {
         "url": "https://www.roche.com/media/releases/med-cor-2026-03-23",
         "anchor_text": "Roche inaugurates new research home for the Institute of Human Biology, pioneering human model systems to accelerate drug discovery and developmentMarch 23, 2026DE",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-03-16",
-        "anchor_text": "Roche launches NVIDIA AI factory to accelerate the development of new therapeutics and diagnostics solutionsMarch 16, 2026",
         "score": 50
       },
       {
@@ -38918,7 +38833,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price315.40CHF+ 0.10(+0.03%)Today",
+        "anchor_text": "Share price317.00CHF- 2.40(-0.75%)Today",
         "score": 20
       },
       {
@@ -39404,7 +39319,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Set Preferences",
+        "anchor_text": "Select Preferences",
         "score": 47
       },
       {
@@ -39629,24 +39544,24 @@
         "score": 178
       },
       {
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reinforces-its-leadership-in-advancing-neuropsychiatry-with-new-portfolio-and-pipeline-data-at-apa-and-ascp",
+        "anchor_text": "Read more",
+        "score": 168
+      },
+      {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-announces-pivotal-clinical-study-results-for-a-new-soft-tissue-surgical-robotic-system",
         "anchor_text": "Read more",
         "score": 147
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-statement-on-investigational-programs-in-large-b-cell-lymphoma",
+        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-participate-in-the-goldman-sachs-47th-annual-global-healthcare-conference",
         "anchor_text": "Read more",
-        "score": 123
+        "score": 137
       },
       {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-to-present-new-data-spanning-vision-portfolio-at-arvo-2026",
         "anchor_text": "Read more",
         "score": 119
-      },
-      {
-        "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-appoints-ryan-koors-as-vice-president-investor-relations",
-        "anchor_text": "Read more",
-        "score": 117
       },
       {
         "url": "https://www.jnj.com/media-center/press-releases/stelara-pediatric-crohns-disease-fda-approval-j-j-statement",
@@ -41618,6 +41533,11 @@
         "score": 67
       },
       {
+        "url": "https://www.daiichisankyo.com/about_us/mission-strength/vision/our_strategy/",
+        "anchor_text": "Our Strategy",
+        "score": 67
+      },
+      {
         "url": "https://www.daiichisankyo.com/sustainability/the_environment/eco-efficiency/",
         "anchor_text": "Biodiversity",
         "score": 65
@@ -41693,11 +41613,6 @@
         "score": 58
       },
       {
-        "url": "https://www.daiichisankyo.com/about_us/mission-strength/top_message/",
-        "anchor_text": "Message from Top Management",
-        "score": 57
-      },
-      {
         "url": "https://www.daiichisankyo.com/sustainability/the_environment/climate_strategy/",
         "anchor_text": "Climate Change",
         "score": 57
@@ -41710,6 +41625,11 @@
       {
         "url": "https://www.daiichisankyo.com/sustainability/stakeholder_engagement/community/",
         "anchor_text": "With Local Communities",
+        "score": 57
+      },
+      {
+        "url": "https://www.daiichisankyo.com/about_us/mission-strength/top_message/",
+        "anchor_text": "Message from Top Management",
         "score": 57
       },
       {
@@ -43080,11 +43000,6 @@
       {
         "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3352.html",
         "anchor_text": "Daiichi Sankyo Announces “Partial Amendment to the Articles of Incorporation” and “Election of a candidate for Member of the Audit and Supervisory Board”",
-        "score": 51
-      },
-      {
-        "url": "https://www.daiichisankyo.com/media/press_release/detail/index_3354.html",
-        "anchor_text": "Daiichi Sankyo Initiates ENVISAGE-TAVI AF Study Investigating Once-Daily Lixiana® (edoxaban) in Patients with Atrial Fibrillation Undergoing Transcatheter Aortic Valve Implantation",
         "score": 51
       }
     ]
@@ -45648,7 +45563,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "privacy policy",
+        "anchor_text": "Privacy & cookie policy",
         "score": 38
       },
       {
@@ -45844,6 +45759,11 @@
         "score": 27
       },
       {
+        "url": "https://investors.alnylam.com/press-release?id=29841",
+        "anchor_text": "New Data Analyses Presented at Heart Failure 2026 Demonstrate Robust and Consistent Clinical Benefit of Vutrisiran as a First-Line Treatment Option Across ATTR-CM Patient Populations, Including Patients with a High Disease Burden",
+        "score": 26
+      },
+      {
         "url": "https://investors.alnylam.com/press-release?id=29831",
         "anchor_text": "Alnylam to Webcast Presentations at Upcoming Investor Conferences",
         "score": 26
@@ -45886,11 +45806,6 @@
       {
         "url": "https://investors.alnylam.com/press-release?id=29551",
         "anchor_text": "Alnylam Pharmaceuticals Reports Fourth Quarter and Full Year 2025 Financial Results and Highlights Recent Period Progress",
-        "score": 26
-      },
-      {
-        "url": "https://investors.alnylam.com/press-release?id=29536",
-        "anchor_text": "Alnylam to Webcast Conference Call Discussing Fourth Quarter and Full Year 2025 Financial Results",
         "score": 26
       },
       {
@@ -46604,11 +46519,6 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
-      },
-      {
-        "url": "https://www.immunocore.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -47383,6 +47293,11 @@
         "score": 125
       },
       {
+        "url": "https://www.abcellera.com/news/abcellera-reports-q1-2026-business-results-announces-positive-interim-phase-1-clinical-data-for-abcl635",
+        "anchor_text": "Read article",
+        "score": 123
+      },
+      {
         "url": "https://www.abcellera.com/news/abcellera-to-present-at-the-44th-annual-j-p-morgan-healthcare-conference-on-january-14-2026",
         "anchor_text": "Read article",
         "score": 111
@@ -47421,11 +47336,6 @@
         "url": "https://www.abcellera.com/policies-commitments",
         "anchor_text": "Policies & Commitments",
         "score": 33
-      },
-      {
-        "url": "https://www.abcellera.com/news/pegs-eu-2025",
-        "anchor_text": "Read article",
-        "score": 32
       },
       {
         "url": "https://www.abcellera.com/current-openings",
@@ -47543,8 +47453,8 @@
         "score": 7
       },
       {
-        "url": "https://www.abcellera.com/news?f36088d5_page=29",
-        "anchor_text": "29",
+        "url": "https://www.abcellera.com/news?f36088d5_page=30",
+        "anchor_text": "30",
         "score": 7
       },
       {
@@ -49876,6 +49786,11 @@
         "score": 156
       },
       {
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-board-of-directors-approves-2-billion-increase-in-share-repurchase-authorization",
+        "anchor_text": "Learn More",
+        "score": 147
+      },
+      {
         "url": "https://www.iqvia.com/newsroom/2026/02/iqvia-signs-agreement-to-acquire-drug-discovery-assets-from-charles-river-laboratories",
         "anchor_text": "Learn More",
         "score": 147
@@ -49899,11 +49814,6 @@
         "url": "https://www.iqvia.com/newsroom/2026/02/iqvia-and-duke-clinical-research-institute-announce-strategic-collaboration",
         "anchor_text": "Learn More",
         "score": 136
-      },
-      {
-        "url": "https://www.iqvia.com/newsroom/2026/01/iqvia-and-boehringer-ingelheim-announce-strategic-long-term-collaboration",
-        "anchor_text": "Learn More",
-        "score": 134
       },
       {
         "url": "https://www.iqvia.com/newsroom/2026/03/iqvia-ceo-to-speak-at-leerink-partners-2026-global-healthcare-conference",
@@ -50958,7 +50868,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Do Not Sell My Personal Information",
+        "anchor_text": "Cookies Settings",
         "score": 31
       },
       {
@@ -56812,7 +56722,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "More information",
         "score": 30
       },
       {
@@ -60881,6 +60791,11 @@
         "score": 112
       },
       {
+        "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-participate-upcoming-investor-conferences-8",
+        "anchor_text": "Read More",
+        "score": 109
+      },
+      {
         "url": "https://ir.discmedicine.com/news-releases/news-release-details/disc-medicine-participate-upcoming-investor-conferences-7",
         "anchor_text": "Read More",
         "score": 109
@@ -60987,14 +60902,9 @@
     "press_url": "https://ir.intracellulartherapies.com/press-releases",
     "candidate_links": [
       {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-investigational-co-antibody-therapy-JNJ-4804-shows-potential-to-raise-the-bar-for-clinical-efficacy-in-treating-refractory-inflammatory-bowel-disease/default.aspx",
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-reinforces-its-leadership-in-advancing-neuropsychiatry-with-new-portfolio-and-pipeline-data-at-APA-and-ASCP/default.aspx",
         "anchor_text": "Read article",
-        "score": 257
-      },
-      {
-        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-launches-Generation-Fine-a-New-Movement-Encouraging-Patients-to-Expect-More-from-Depression-Treatment-and-Aim-for-Remission/default.aspx",
-        "anchor_text": "Read article",
-        "score": 231
+        "score": 215
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-Bernsteins-42nd-Annual-Strategic-Decisions-Conference/default.aspx",
@@ -61005,6 +60915,11 @@
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-to-Participate-in-the-2026-RBC-Capital-Markets-Global-Healthcare-Conference/default.aspx",
         "anchor_text": "See details(opens in new window)",
         "score": 204
+      },
+      {
+        "url": "https://ir.intracellulartherapies.com/investor-news/news-details/2026/Johnson--Johnson-to-Participate-in-the-Goldman-Sachs-47th-Annual-Global-Healthcare-Conference/default.aspx",
+        "anchor_text": "Read article",
+        "score": 184
       },
       {
         "url": "https://ir.intracellulartherapies.com/events-and-presentations/events/event-details/2026/Johnson--Johnson-First-Quarter-2026-Earnings-Call",
@@ -61179,9 +61094,9 @@
     "press_url": "https://ir.proqr.com/press-releases",
     "candidate_links": [
       {
-        "url": "https://ir.proqr.com/press-releases/proqr-highlights-pipeline-expansion-and-multiple-upcoming-clinical-catalysts-at-investor-and-analyst-event",
-        "anchor_text": "Internal linkProQR Highlights Pipeline Expansion and Multiple Upcoming Clinical Catalysts at Investor and Analyst Event",
-        "score": 136
+        "url": "https://ir.proqr.com/press-releases/proqr-announces-multiple-upcoming-scientific-conference-presentations-highlighting-the-breadth-of-its-axiomertm-rna-editing-platform",
+        "anchor_text": "Internal linkProQR Announces Multiple Upcoming Scientific Conference Presentations Highlighting the Breadth of its Axiomer™ RNA Editing Platform",
+        "score": 162
       },
       {
         "url": "https://ir.proqr.com/press-releases/proqr-announces-nomination-of-dr-lykke-hinsch-gylvin-to-its-board-of-directors",
@@ -62577,6 +62492,11 @@
         "score": 27
       },
       {
+        "url": "https://ir.novavax.com/cookies-policy",
+        "anchor_text": "More information",
+        "score": 27
+      },
+      {
         "url": "https://ir.novavax.com/investor-hub",
         "anchor_text": "Investors hub",
         "score": 25
@@ -62718,6 +62638,11 @@
         "score": 30
       },
       {
+        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7516",
+        "anchor_text": "Bavarian Nordic Awarded Contract Options from the U.S. Government for Production and Supply of Freeze-dried Smallpox Vaccines",
+        "score": 30
+      },
+      {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7515",
         "anchor_text": "Bavarian Nordic – Completion of Share Buy-Back Program",
         "score": 30
@@ -62834,11 +62759,6 @@
       },
       {
         "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7427",
-        "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
-        "score": 30
-      },
-      {
-        "url": "http://www.bavarian-nordic.com/investor/news/news.aspx?news=7424",
         "anchor_text": "Bavarian Nordic – Transactions in Connection with Share Buy-Back Program",
         "score": 30
       },
@@ -64512,6 +64432,11 @@
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-2025-Results-BOTBAL-Advances-to-Phase-3-and-Early-Access-Programs-Expand-Globally-with-Initial-Revenues-Recognized/default.aspx",
         "anchor_text": "Read More",
         "score": 211
+      },
+      {
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-First-Quarter-2026-Financial-Results-and-Highlights-BOTBAL-Execution-Across-Global-Access-and-Phase-3-Development/default.aspx",
+        "anchor_text": "Read More",
+        "score": 210
       },
       {
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Triggers-First-20M-Contingent-Payment-Under-Zydus-Life-Sciences-Collaboration-to-Support-BOTBAL-Manufacturing-Needs/default.aspx",
@@ -68958,7 +68883,7 @@
       },
       {
         "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "More...",
+        "anchor_text": "Privacy Policy",
         "score": 27
       },
       {
@@ -70461,11 +70386,6 @@
         "score": 48
       },
       {
-        "url": "https://www.chemcomp.com/en/UGM-2026-Europe-Register.htm",
-        "anchor_text": "Register",
-        "score": 46
-      },
-      {
         "url": "https://www.chemcomp.com/en/Workshops-North_America.htm",
         "anchor_text": "See allNorth American Workshops",
         "score": 45
@@ -70782,6 +70702,21 @@
         "score": 128
       },
       {
+        "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
+        "anchor_text": "Read on",
+        "score": 114
+      },
+      {
+        "url": "https://www.biosolveit.de/2025/09/23/enamines-real-space-september-2025-update-now-83-billion/",
+        "anchor_text": "Read on",
+        "score": 114
+      },
+      {
+        "url": "https://www.biosolveit.de/2025/12/09/emina-yekt-yilmaz-wins-scientific-challenge-winter-2024/",
+        "anchor_text": "Read on",
+        "score": 113
+      },
+      {
         "url": "https://www.biosolveit.de/2026/03/30/uk-qsar-2026-abstract-and-full-programme-now-avaliable/",
         "anchor_text": "Read on",
         "score": 112
@@ -70795,6 +70730,11 @@
         "url": "https://www.biosolveit.de/2026/04/08/two-projects-win-scientific-challenge-spring-2025/",
         "anchor_text": "Read on",
         "score": 107
+      },
+      {
+        "url": "https://www.biosolveit.de/2025/10/15/recordings-of-the-biosolveit-day-2025-available/",
+        "anchor_text": "Read on",
+        "score": 105
       },
       {
         "url": "https://www.biosolveit.de/2026/02/10/seesar-15-apollo-decode-activity-gain-insights/",
@@ -70827,6 +70767,11 @@
         "score": 90
       },
       {
+        "url": "https://www.biosolveit.de/2025/11/10/winter-2025-scientific-challenge/",
+        "anchor_text": "Read on",
+        "score": 90
+      },
+      {
         "url": "https://www.biosolveit.de/2026/01/19/tool-of-the-month-spacelight/",
         "anchor_text": "Read on",
         "score": 86
@@ -70848,6 +70793,11 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/04/29/tool-of-the-month-flexx/",
+        "anchor_text": "Read on",
+        "score": 81
+      },
+      {
+        "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
       },
@@ -71168,6 +71118,11 @@
     "press_url": "https://chemaxon.com/news",
     "candidate_links": [
       {
+        "url": "https://chemaxon.com/services/early-development/regulatory-affairs-consulting/",
+        "anchor_text": "Regulatory StrategyOptimize your drug development strategy and achieve regulatory milestones with confidence.",
+        "score": 76
+      },
+      {
         "url": "https://chemaxon.com/software/quantitative-systems-pharmacology/",
         "anchor_text": "Certara IQ™Integrate biological and pharmacological insights to optimize drug efficacy and safety predictions",
         "score": 60
@@ -71276,11 +71231,6 @@
         "url": "https://chemaxon.com/legal/privacy-center/",
         "anchor_text": "Privacy policy",
         "score": 38
-      },
-      {
-        "url": "https://chemaxon.com/regulatory-science/",
-        "anchor_text": "Regulatory and Medical CommunicationsEnsure global compliance and impactful medical narratives with expert regulatory documentation and strategy.",
-        "score": 34
       },
       {
         "url": "https://chemaxon.com/simcyp-overview/",
@@ -74729,13 +74679,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
@@ -76873,268 +76823,108 @@
     "press_url": "https://www.almirall.com/media",
     "candidate_links": [
       {
-        "url": "https://www.almirall.com/newsroom/news/lebrikizumab-delivered-long-term-disease-control-for-up-to-four-years-in-patients-with-moderate-to-severe-atopic-dermatitis",
-        "anchor_text": "",
-        "score": 154
+        "url": "https://www.almirall.com/news-media/newsroom/uncommon-nature-thinking-differently-shape-future-medical-dermatology",
+        "anchor_text": "Uncommon by Nature Thinking: Differently to Shape the Future of Medical Dermatology",
+        "score": 106
       },
       {
-        "url": "https://www.almirall.com/newsroom/news/almirall-and-barcelona-supercomputing-center-expand-their-collaboration-to-accelerate-innovation-in-medical-dermatology",
-        "anchor_text": "",
-        "score": 150
+        "url": "https://www.almirall.com/news-media/newsroom/skin-academy-advancing-scientific-exchange-and-holistic-care-medical",
+        "anchor_text": "Skin Academy: Advancing Scientific Exchange and Holistic Care in Medical Dermatology",
+        "score": 105
       },
       {
-        "url": "https://www.almirall.com/newsroom/news/almirall-enters-collaboration-with-huaota-for-the-development-of-a-novel-monoclonal-antibody-in-medical-dermatology",
-        "anchor_text": "",
-        "score": 146
+        "url": "https://www.almirall.com/news-media/newsroom/2025-year-review-entering-era-sustained-growth",
+        "anchor_text": "2025 Year In Review: Entering An Era Of Sustained Growth",
+        "score": 83
       },
       {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/actinic-keratosis/about-actinic-keratosis",
-        "anchor_text": "Actinic keratosis",
-        "score": 100
+        "url": "https://www.almirall.com/dermatology/rare-skin-diseases/congenital-epidermolysis-bullosa",
+        "anchor_text": "Congenital epidermolysis bullosa",
+        "score": 80
       },
       {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/atopic-dermatitis/about-atopic-dermatitis",
-        "anchor_text": "Atopic dermatitis",
-        "score": 100
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/psoriasis/about-psoriasis",
-        "anchor_text": "Psoriasis",
-        "score": 84
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/hidradenitis-suppurativa",
-        "anchor_text": "Hidradenitis suppurativa",
-        "score": 81
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/rare-skin-diseases",
-        "anchor_text": "Rare skin diseases",
-        "score": 75
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/acne/about-acne",
-        "anchor_text": "Acne",
-        "score": 74
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/alopecia-areata",
-        "anchor_text": "Alopecia Areata",
+        "url": "https://www.almirall.com/news-media/newsroom/annual-general-shareholders-meeting",
+        "anchor_text": "Annual General Shareholders Meeting",
         "score": 72
       },
       {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/onychomycosis",
-        "anchor_text": "Onychomycosis",
-        "score": 70
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/skin-cancer",
-        "anchor_text": "Skin Cancer",
-        "score": 68
-      },
-      {
-        "url": "https://www.almirall.com/story/oscar-talks-about-his-experience-with-psoriasis",
-        "anchor_text": "",
-        "score": 68
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions/vitiligo",
-        "anchor_text": "Vitiligo",
-        "score": 65
-      },
-      {
-        "url": "https://www.almirall.com/our-expertise/r-d-at-almirall/r-d-collaboration",
-        "anchor_text": "R&D Collaboration",
-        "score": 64
-      },
-      {
-        "url": "https://www.almirall.com/our-expertise/r-d-at-almirall/clinical-trials",
-        "anchor_text": "Clinical Trials",
+        "url": "https://www.almirall.com/news-media/newsroom/financial-results-q1-2026",
+        "anchor_text": "Financial Results Q1 2026",
         "score": 62
       },
       {
-        "url": "https://www.almirall.com/investors/share-information/share-performance",
-        "anchor_text": "Share Performance",
-        "score": 62
-      },
-      {
-        "url": "https://www.almirall.com/your-health/more-than-skin/spasticity-in-ms",
-        "anchor_text": "Spasticity in MS",
-        "score": 60
-      },
-      {
-        "url": "https://www.almirall.com/your-health/more-than-skin/chronic-pain",
-        "anchor_text": "Chronic pain",
-        "score": 56
-      },
-      {
-        "url": "https://www.almirall.com/significants-events-up-to-8th-february-2020",
-        "anchor_text": "Significants Events up to 8th February 2020",
-        "score": 56
-      },
-      {
-        "url": "https://www.almirall.com/agreements-between-significant-shareholders",
-        "anchor_text": "Agreements between significant shareholders",
-        "score": 56
-      },
-      {
-        "url": "https://www.almirall.com/our-expertise/r-d-at-almirall/pipeline",
-        "anchor_text": "Pipeline",
-        "score": 55
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/skin-conditions",
-        "anchor_text": "View all skin conditions",
-        "score": 54
-      },
-      {
-        "url": "https://www.almirall.com/your-health/your-skin/types-of-skin",
-        "anchor_text": "Types of skin",
-        "score": 52
-      },
-      {
-        "url": "https://www.almirall.com/average-period-of-payments-to-suppliers",
-        "anchor_text": "Average period of payments to suppliers",
-        "score": 52
-      },
-      {
-        "url": "https://www.almirall.com/global-privacy-policy-interactions-hcp",
-        "anchor_text": "Privacy Policy HCPs",
+        "url": "https://www.almirall.com/dermatology/hidradenitis-suppurativa",
+        "anchor_text": "Hidradenitis suppurativa",
         "score": 51
       },
       {
-        "url": "https://www.almirall.com/your-health/your-skin/about-skin",
-        "anchor_text": "About skin",
-        "score": 49
-      },
-      {
-        "url": "https://www.almirall.com/your-health/commitment-to-patients",
-        "anchor_text": "Our commitment to patient associations",
-        "score": 49
-      },
-      {
-        "url": "https://www.almirall.com/shareholders-annual-general-meeting",
-        "anchor_text": "Shareholders Annual General Meeting",
-        "score": 48
-      },
-      {
-        "url": "https://www.almirall.com/corporate-governance-annual-reports",
-        "anchor_text": "Corporate Governance Annual reports and Remuneration of Directors reports",
-        "score": 48
-      },
-      {
-        "url": "https://www.almirall.com/our-expertise/our-disease-focus",
-        "anchor_text": "Our disease focus",
+        "url": "https://www.almirall.com/dermatology/keratinocyte-cancer",
+        "anchor_text": "Keratinocyte cancer",
         "score": 46
       },
       {
-        "url": "https://www.almirall.com/corporate-governance-presentation",
-        "anchor_text": "Corporate Governance Presentation",
-        "score": 46
+        "url": "https://www.almirall.com/dermatology/rare-skin-diseases",
+        "anchor_text": "Rare skin diseases",
+        "score": 45
       },
       {
-        "url": "https://www.almirall.com/our-purpose/our-noble-purpose",
-        "anchor_text": "Our Purpose",
+        "url": "https://www.almirall.com/dermatology/atopic-dermatitis",
+        "anchor_text": "Atopic dermatitis",
         "score": 44
       },
       {
-        "url": "https://www.almirall.com/our-expertise/r-d-at-almirall",
-        "anchor_text": "Overview",
+        "url": "https://www.almirall.com/dermatology/actinic-keratosis",
+        "anchor_text": "Actinic keratosis",
         "score": 44
       },
       {
-        "url": "https://www.almirall.com/investors/insider-information",
-        "anchor_text": "Insider Information",
-        "score": 44
+        "url": "https://www.almirall.com/innovation/rd-collaboration",
+        "anchor_text": "R&D Collaboration",
+        "score": 42
       },
       {
-        "url": "https://www.almirall.com/financial-results-and-accounts",
-        "anchor_text": "Financial results and accounts",
-        "score": 43
+        "url": "https://www.almirall.com/dermatology/alopecia-areata",
+        "anchor_text": "Alopecia areata",
+        "score": 42
       },
       {
-        "url": "https://www.almirall.com/your-health/more-than-skin",
-        "anchor_text": "Overview",
+        "url": "https://www.almirall.com/innovation/clinical-trials",
+        "anchor_text": "Clinical trials",
         "score": 41
       },
       {
-        "url": "https://www.almirall.com/our-expertise/our-products",
-        "anchor_text": "Our Products",
+        "url": "https://www.almirall.com/news-media/media-resources",
+        "anchor_text": "Go to multimedia",
         "score": 41
       },
       {
-        "url": "https://www.almirall.com/we-care/our-responsibility#SpeakUp",
-        "anchor_text": "Speak Up channel",
+        "url": "https://www.almirall.com/contact/report-side-effect",
+        "anchor_text": "Report a side effect",
         "score": 41
       },
       {
-        "url": "https://www.almirall.com/share-and-capital-structure",
-        "anchor_text": "Share and capital structure",
+        "url": "https://www.almirall.com/news-media/event-calendar",
+        "anchor_text": "Go to events, congresses and meetings",
         "score": 40
       },
       {
-        "url": "https://www.almirall.com/public-periodic-information",
-        "anchor_text": "Public Periodic Information",
-        "score": 40
-      },
-      {
-        "url": "https://www.almirall.com/our-expertise/partnering",
-        "anchor_text": "Partnering",
-        "score": 39
-      },
-      {
-        "url": "https://www.almirall.com/we-care/for-transparency",
-        "anchor_text": "Transparency",
-        "score": 39
-      },
-      {
-        "url": "https://www.almirall.com/investors/annual-repport",
-        "anchor_text": "Annual Reports",
-        "score": 39
-      },
-      {
-        "url": "https://www.almirall.com/investors/annual-reports",
-        "anchor_text": "Annual Report",
-        "score": 39
-      },
-      {
-        "url": "https://www.almirall.com/other-relevant-information",
-        "anchor_text": "Other Relevant Information",
-        "score": 39
-      },
-      {
-        "url": "https://www.almirall.com/corporate-presentations",
-        "anchor_text": "Corporate presentations",
+        "url": "https://www.almirall.com/healthcare-professional",
+        "anchor_text": "HC Professionals",
         "score": 36
       },
       {
-        "url": "https://www.almirall.com/media/media-library",
-        "anchor_text": "Go to multimedia",
+        "url": "https://www.almirall.com/investors/innovation/pipeline",
+        "anchor_text": "pipeline",
+        "score": 36
+      },
+      {
+        "url": "https://www.almirall.com/news-media/newsroom",
+        "anchor_text": "View all press releases",
         "score": 34
       },
       {
-        "url": "https://www.almirall.com/media/media-contact",
-        "anchor_text": "Media Contact",
-        "score": 34
-      },
-      {
-        "url": "https://www.almirall.com/we-care/principles",
-        "anchor_text": "Principles",
-        "score": 33
-      },
-      {
-        "url": "https://www.almirall.com/information-security",
-        "anchor_text": "Information Security",
-        "score": 33
-      },
-      {
-        "url": "https://www.almirall.com/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 33
-      },
-      {
-        "url": "https://www.almirall.com/report-a-side-effect",
-        "anchor_text": "Report a side effect",
+        "url": "https://www.almirall.com/news-media/contact",
+        "anchor_text": "contact us here",
         "score": 33
       },
       {
@@ -77143,79 +76933,34 @@
         "score": 33
       },
       {
-        "url": "https://www.almirall.com/we-care/patients",
-        "anchor_text": "Patients",
-        "score": 31
-      },
-      {
-        "url": "https://www.almirall.com/we-care/partners",
-        "anchor_text": "Partners",
-        "score": 31
-      },
-      {
-        "url": "https://www.almirall.com/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 31
-      },
-      {
-        "url": "https://www.almirall.com/corporate-policies",
-        "anchor_text": "Whistleblowing Policy",
-        "score": 31
-      },
-      {
-        "url": "https://www.almirall.com/home/contact-us#Contactar-reporting-side-effects",
-        "anchor_text": "Report a side effect",
-        "score": 30
-      },
-      {
-        "url": "https://www.almirall.com/home/contact-us",
-        "anchor_text": "Contact us",
-        "score": 30
-      },
-      {
-        "url": "https://www.almirall.com/board-commissions",
-        "anchor_text": "Board Commissions",
-        "score": 30
-      },
-      {
-        "url": "https://www.almirall.com/careers-menu-link",
-        "anchor_text": "Careers",
-        "score": 30
-      },
-      {
-        "url": "https://www.almirall.com/we-care/planet",
-        "anchor_text": "Planet",
-        "score": 29
-      },
-      {
-        "url": "https://www.almirall.com/we-care/people",
-        "anchor_text": "People",
-        "score": 29
-      },
-      {
-        "url": "https://www.almirall.com/media/about-us",
+        "url": "https://www.almirall.com/company/about-us",
         "anchor_text": "Learn more",
+        "score": 31
+      },
+      {
+        "url": "https://www.almirall.com/investors/reports/annual",
+        "anchor_text": "Go to Annual Reports",
+        "score": 31
+      },
+      {
+        "url": "https://www.almirall.com/privacy-policy-hcp",
+        "anchor_text": "Privacy Policy HCPs",
+        "score": 31
+      },
+      {
+        "url": "https://www.almirall.com/dermatology/onychomycosis",
+        "anchor_text": "Onychomycosis",
+        "score": 30
+      },
+      {
+        "url": "https://www.almirall.com/terms-conditions",
+        "anchor_text": "Terms and Conditions",
         "score": 29
       },
       {
-        "url": "https://www.almirall.com/analyst-coverage",
-        "anchor_text": "Analyst coverage",
-        "score": 29
-      },
-      {
-        "url": "https://www.almirall.com/management-board",
-        "anchor_text": "Management Board",
-        "score": 29
-      },
-      {
-        "url": "https://www.almirall.com/sanctuarysalon/patients",
-        "anchor_text": "Patients",
-        "score": 28
-      },
-      {
-        "url": "https://www.almirall.com/hc-professional",
-        "anchor_text": "HC Professionals",
-        "score": 28
+        "url": "https://www.almirall.com/company/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 27
       },
       {
         "url": "https://www.almirall.com/privacy-policy",
@@ -77223,83 +76968,83 @@
         "score": 27
       },
       {
-        "url": "https://www.almirall.com/our-expertise",
-        "anchor_text": "Our expertise",
+        "url": "https://www.almirall.com/innovation/partnering",
+        "anchor_text": "Partnering",
         "score": 26
       },
       {
-        "url": "https://www.almirall.com/takeover-bids",
-        "anchor_text": "Takeover bids",
+        "url": "https://www.almirall.com/dermatology/psoriasis",
+        "anchor_text": "Psoriasis",
         "score": 26
       },
       {
-        "url": "https://www.almirall.com/share-issues",
-        "anchor_text": "Share issues",
+        "url": "https://www.almirall.com/dermatology/vitiligo",
+        "anchor_text": "Vitiligo",
         "score": 25
       },
       {
-        "url": "https://www.almirall.com/our-purpose",
-        "anchor_text": "Our purpose",
+        "url": "https://www.almirall.com/terms-of-use",
+        "anchor_text": "Terms of use",
+        "score": 25
+      },
+      {
+        "url": "https://www.almirall.com/innovation/pipeline",
+        "anchor_text": "Pipeline",
         "score": 24
       },
       {
-        "url": "https://www.almirall.com/your-health",
-        "anchor_text": "Your health",
+        "url": "https://www.almirall.com/website-map",
+        "anchor_text": "Sitemap",
         "score": 24
       },
       {
-        "url": "https://www.almirall.com/debt-issues",
-        "anchor_text": "Debt issues",
-        "score": 24
-      },
-      {
-        "url": "https://www.almirall.com/investors/calendar",
-        "anchor_text": "Calendar",
+        "url": "https://www.almirall.com/news-media",
+        "anchor_text": "Media",
         "score": 23
       },
       {
-        "url": "https://www.almirall.com/media/newsroom",
-        "anchor_text": "View all press",
-        "score": 19
+        "url": "https://www.almirall.com/company/suppliers",
+        "anchor_text": "Our suppliers",
+        "score": 22
       },
       {
-        "url": "https://www.almirall.com/investors/news",
-        "anchor_text": "News",
-        "score": 19
+        "url": "https://www.almirall.com/company/integrity",
+        "anchor_text": "Integrity",
+        "score": 22
       },
       {
-        "url": "https://www.almirall.com/home/suppliers",
-        "anchor_text": "Suppliers",
-        "score": 19
+        "url": "https://www.almirall.com/company/locations",
+        "anchor_text": "Our locations",
+        "score": 22
       },
       {
-        "url": "https://www.almirall.com/sanctuarysalon",
-        "anchor_text": "Sanctuary Salon",
-        "score": 17
+        "url": "https://www.almirall.com/dermatology/acne",
+        "anchor_text": "Acne",
+        "score": 21
       },
       {
-        "url": "https://www.almirall.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
+        "url": "https://www.almirall.com/company/history",
+        "anchor_text": "Our History",
+        "score": 20
       },
       {
-        "url": "https://www.almirall.com/home/sitemap",
-        "anchor_text": "Site map",
-        "score": 17
+        "url": "https://www.almirall.com/company/purpose",
+        "anchor_text": "Our Purpose",
+        "score": 20
       },
       {
-        "url": "https://www.almirall.com/shareholdings",
-        "anchor_text": "Shareholdings",
+        "url": "https://www.almirall.com/company/faq",
+        "anchor_text": "Frequently asked questions",
         "score": 16
       },
       {
-        "url": "https://www.almirall.com/home/terms",
-        "anchor_text": "Terms of Service",
-        "score": 15
+        "url": "https://www.almirall.com/dermatology",
+        "anchor_text": "Dermatology",
+        "score": 14
       },
       {
-        "url": "https://www.almirall.com/ourhistory",
-        "anchor_text": "Almirall 80 years",
+        "url": "https://www.almirall.com/innovation",
+        "anchor_text": "Innovation",
         "score": 13
       },
       {
@@ -77313,18 +77058,18 @@
         "score": 12
       },
       {
-        "url": "https://www.almirall.com/dividends",
-        "anchor_text": "Dividends",
-        "score": 12
+        "url": "https://www.almirall.com/patients",
+        "anchor_text": "Patient",
+        "score": 11
       },
       {
-        "url": "https://www.almirall.com/factsheet",
-        "anchor_text": "Factsheet",
-        "score": 12
+        "url": "https://www.almirall.com/company",
+        "anchor_text": "Our Company",
+        "score": 10
       },
       {
-        "url": "https://www.almirall.com/stories",
-        "anchor_text": "Stories",
+        "url": "https://www.almirall.com/contact",
+        "anchor_text": "Contact",
         "score": 10
       },
       {
@@ -77333,18 +77078,8 @@
         "score": 10
       },
       {
-        "url": "https://www.almirall.com/media",
-        "anchor_text": "Media",
-        "score": 8
-      },
-      {
-        "url": "https://www.almirall.com/home",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
         "url": "https://www.almirall.com/",
-        "anchor_text": "",
+        "anchor_text": "Home",
         "score": 3
       }
     ]
@@ -79345,6 +79080,11 @@
         "url": "https://investor.omeros.com/news/news-details/2026/Omeros-Announces-Successful-Primate-Study-in-OncotoX-AML-Drug-Program-02-17-2026/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 162
+      },
+      {
+        "url": "https://investor.omeros.com/news/news-details/2026/Omeros-Corporation-to-Announce-First-Quarter-Financial-Results-on-May-13-2026/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 159
       },
       {
         "url": "https://investor.omeros.com/news/news-details/2026/Omeros-Corporation-Reports-Fourth-Quarter-and-Year-End-2025-Financial-Results/default.aspx",
