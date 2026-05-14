@@ -7510,568 +7510,123 @@
     ]
   },
   {
-    "company": "Solix Technologies, Inc.",
-    "press_url": "https://www.solix.com/company/news-events/press-releases/",
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
     "candidate_links": [
       {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-computer-arabia-forge-strategic-partnership-to-accelerate-enterprise-data-modernization-in-qatar/",
-        "anchor_text": "Read More",
-        "score": 176
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/registration-open-for-solixempower-2025-a-data-and-ai-governance-conference-with-university-of-california-san-diego/",
-        "anchor_text": "Read More",
-        "score": 172
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-strengthens-leadership-team-with-key-executive-appointments-to-accelerate-enterprise-ai-data-modernization/",
-        "anchor_text": "Read More",
-        "score": 169
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-inc-announces-general-availability-for-solix-enterprise-ai-a-fourth-generation-data-platform/",
-        "anchor_text": "Read More",
-        "score": 168
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-and-mindmap-technologies-announce-partnership-to-drive-enterprise-data-across-apac-singapore/",
-        "anchor_text": "Read More",
-        "score": 168
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-technologies-announces-key-leadership-appointments-and-promotions-to-accelerate-global-ai-driven-growth/",
-        "anchor_text": "Read More",
-        "score": 166
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-expands-into-japan-to-address-rising-data-compliance-pressures-under-appi-appoints-junichi-takayanagi/",
-        "anchor_text": "Read More",
-        "score": 164
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/solix-and-symbiosis-scei-smcw-partner-to-launch-center-of-excellence-for-new-drug-discovery-and-repurposing/",
-        "anchor_text": "Read More",
-        "score": 164
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/global-leaders-in-ai-data-management-and-governance-to-convene-at-solixempower-2025-in-san-diego/",
-        "anchor_text": "Read More",
-        "score": 153
-      },
-      {
-        "url": "https://www.solix.com/resources/lg/white-papers/enterprise-information-architecture-for-gen-ai-and-machine-learning/",
-        "anchor_text": "Enterprise Information Architecture for Gen AI and Machine Learning",
-        "score": 115
-      },
-      {
-        "url": "https://www.solix.com/resources/lg/white-papers/transforming-your-forgotten-data-into-ai-intelligence/",
-        "anchor_text": "The Rise Of Enterprise Intelligence",
-        "score": 101
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-accounting-and-finance/",
-        "anchor_text": "Accounting & Finance",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-financial-institutions/",
-        "anchor_text": "Financial Services",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/reimagining-the-enterprise-in-the-age-of-ai/",
-        "anchor_text": "Read More",
-        "score": 100
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-construction-industry/",
-        "anchor_text": "Construction",
-        "score": 99
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-legal-and-compliance/",
-        "anchor_text": "Legal & Compliance",
-        "score": 98
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-insurance-providers/",
-        "anchor_text": "Insurance",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive-for-finance-and-accounting/",
-        "anchor_text": "Cloud Archive - Finance",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-sales-and-marketing/",
-        "anchor_text": "Sales & Marketing",
-        "score": 97
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/content-services-for-human-resources/",
-        "anchor_text": "Human Resources",
-        "score": 93
-      },
-      {
-        "url": "https://www.solix.com/solutions/replace-ibm-infosphere-optim-with-solixcloud/",
-        "anchor_text": "Infosphere Optim Replace",
-        "score": 72
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/cloud-archive/",
-        "anchor_text": "Cloud Archive",
-        "score": 70
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/document-ai/",
-        "anchor_text": "Document AI",
-        "score": 68
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/15/",
-        "anchor_text": "15",
-        "score": 66
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/2/",
-        "anchor_text": "»",
-        "score": 65
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/page/3/",
-        "anchor_text": "3",
-        "score": 65
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-jd-edwards/",
-        "anchor_text": "JD Edwards",
-        "score": 64
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-peoplesoft/",
-        "anchor_text": "PeopleSoft",
-        "score": 64
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-data-archiving-solution/",
-        "anchor_text": "Enterprise Archiving",
-        "score": 61
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/pricing",
-        "anchor_text": "Pricing",
-        "score": 61
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-siebel/",
-        "anchor_text": "Siebel",
-        "score": 60
-      },
-      {
-        "url": "https://www.solix.com/solutions/microsoft-sql-database-archiving/",
-        "anchor_text": "MS-SQL",
-        "score": 60
-      },
-      {
-        "url": "https://www.solix.com/products/application-retirement-solution/",
-        "anchor_text": "Application Retirement",
+        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
+        "anchor_text": "subscribe",
         "score": 58
       },
       {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-baan/",
-        "anchor_text": "Baan",
-        "score": 58
-      },
-      {
-        "url": "https://www.solix.com/solutions/cloud-data-management-for-sap/",
-        "anchor_text": "SAP HANA",
-        "score": 57
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/#content",
-        "anchor_text": "Skip to content",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-content-services/",
-        "anchor_text": "Enterprise Content Services",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/press-releases/",
-        "anchor_text": "",
-        "score": 54
-      },
-      {
-        "url": "https://www.solix.com/products/solix-common-data-platform/",
-        "anchor_text": "Solix Common Data Platform (CDP)",
-        "score": 53
-      },
-      {
-        "url": "https://www.solix.com/partners/global-technology-partners/",
-        "anchor_text": "Global Technology Partners",
-        "score": 53
-      },
-      {
-        "url": "https://www.solix.com/solutions/sensitive-data-discovery/",
-        "anchor_text": "Sensitive Data Discovery",
-        "score": 52
-      },
-      {
-        "url": "https://www.solix.com/solutions/mysql-database-archiving/",
-        "anchor_text": "MySQL",
-        "score": 52
-      },
-      {
-        "url": "https://www.solix.com/solutions/oracle-ebusiness-suite/",
-        "anchor_text": "Oracle Database",
-        "score": 50
-      },
-      {
-        "url": "https://www.solix.com/solutions/ibm-zseries-mainframe/",
-        "anchor_text": "zSystems Mainframe",
-        "score": 49
-      },
-      {
-        "url": "https://www.solix.com/company/touch-a-life-foundation/",
-        "anchor_text": "Corporate Social Responsibility",
-        "score": 49
-      },
-      {
-        "url": "https://www.solix.com/products/consumer-data-privacy/",
-        "anchor_text": "Consumer Data Privacy",
-        "score": 48
-      },
-      {
-        "url": "https://www.solix.com/services/professional-services/",
-        "anchor_text": "Professional Services",
-        "score": 48
-      },
-      {
-        "url": "https://www.solix.com/partners/become-solix-partner/",
-        "anchor_text": "Become A Partner",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/partners/partner-portal-login/",
-        "anchor_text": "Partner Portal",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-archiving/",
-        "anchor_text": "DB2",
-        "score": 47
-      },
-      {
-        "url": "https://www.solix.com/services/assessment-services/",
-        "anchor_text": "Assessment Services",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/resources/on-demand-webinars/",
-        "anchor_text": "eBooks",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/events/",
-        "anchor_text": "Events",
-        "score": 46
-      },
-      {
-        "url": "https://www.solix.com/products/data-lake-solution/",
-        "anchor_text": "Enterprise Data Lake",
+        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
+        "anchor_text": "Clinical Conversations",
         "score": 45
       },
       {
-        "url": "https://www.solix.com/products/database-archiving/",
-        "anchor_text": "Database Archiving",
-        "score": 45
-      },
-      {
-        "url": "https://www.solix.com/partners/big-data-partners/",
-        "anchor_text": "Big Data Partners",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/company/investor-relations/",
-        "anchor_text": "Investor Relations",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/solutions/solix-eai-pharma/",
-        "anchor_text": "Pharma and Biotech",
-        "score": 44
-      },
-      {
-        "url": "https://www.solix.com/solutions/data-governance/",
-        "anchor_text": "Data Governance",
-        "score": 43
-      },
-      {
-        "url": "https://www.solix.com/products/email-archiving/",
-        "anchor_text": "Email Archiving",
+        "url": "https://www.thermofisher.com/blog/identifying-threats/",
+        "anchor_text": "Identifying Threats",
         "score": 42
       },
       {
-        "url": "https://www.solix.com/partners/partner-program/",
-        "anchor_text": "Distribution Partners",
-        "score": 42
-      },
-      {
-        "url": "https://www.solix.com/products/file-archiving/",
-        "anchor_text": "File Archiving",
-        "score": 41
-      },
-      {
-        "url": "https://www.solix.com/partners/cloud-partners/",
-        "anchor_text": "Cloud Partners / Hyperscalers",
-        "score": 41
-      },
-      {
-        "url": "https://www.solix.com/products/enterprise-ai/",
-        "anchor_text": "Enterprise AI",
+        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
+        "anchor_text": "Life in Atomic Resolution",
         "score": 40
       },
       {
-        "url": "https://www.solix.com/products/ai-governance/",
-        "anchor_text": "AI Governance",
+        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
+        "anchor_text": "New on ThermoFisher.com",
         "score": 40
       },
       {
-        "url": "https://www.solix.com/products/ai-healthcare/",
-        "anchor_text": "AI Healthcare",
-        "score": 40
+        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
+        "anchor_text": "Ask a Scientist",
+        "score": 38
       },
       {
-        "url": "https://www.solix.com/services/support-login/",
-        "anchor_text": "Support Portal",
-        "score": 40
+        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
+        "anchor_text": "Life in the Lab",
+        "score": 38
       },
       {
-        "url": "https://www.solix.com/resources/white-papers/",
-        "anchor_text": "White Papers",
-        "score": 40
+        "url": "https://www.thermofisher.com/blog/contact-us/",
+        "anchor_text": "Contact",
+        "score": 33
       },
       {
-        "url": "https://www.solix.com/resources/case-studies/",
-        "anchor_text": "Case Studies",
-        "score": 40
-      },
-      {
-        "url": "https://www.solix.com/company/contact-sales/",
-        "anchor_text": "Contact Sales",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/ai-warehouse/",
-        "anchor_text": "AI Warehouse",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/data-masking/",
-        "anchor_text": "Data Masking",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/partners/our-partners/",
-        "anchor_text": "Our Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/partners/oem-partners/",
-        "anchor_text": "OEM Partners",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/company/analyst-views/",
-        "anchor_text": "Analyst Views",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/products/request-demo/",
-        "anchor_text": "Request Demo",
-        "score": 39
-      },
-      {
-        "url": "https://www.solix.com/company/news-events/",
-        "anchor_text": "Newsroom",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/solutions/ia-for-ai/",
-        "anchor_text": "Information Architecture (IA) for AI",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/acceptable-use-policy/",
-        "anchor_text": "Acceptable Use Policy",
-        "score": 37
-      },
-      {
-        "url": "https://www.solix.com/company/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 36
-      },
-      {
-        "url": "https://www.solix.com/terms-and-conditions/",
-        "anchor_text": "Terms & Conditions",
-        "score": 36
-      },
-      {
-        "url": "https://www.solix.com/leadership-lessons/",
-        "anchor_text": "Leadership Lessons",
-        "score": 34
-      },
-      {
-        "url": "https://www.solix.com/solutions/manufacturing/",
-        "anchor_text": "Manufacturing",
+        "url": "https://www.thermofisher.com/blog/about-us/",
+        "anchor_text": "About Us",
         "score": 31
       },
       {
-        "url": "https://www.solix.com/privacy-policy/",
-        "anchor_text": "Privacy Policy",
-        "score": 30
-      },
-      {
-        "url": "https://www.solix.com/solutions/healthcare/",
-        "anchor_text": "Healthcare",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/solutions/government/",
-        "anchor_text": "Government",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/resources/datasheets/",
-        "anchor_text": "Datasheets",
-        "score": 28
-      },
-      {
-        "url": "https://www.solix.com/solutions/insurance/",
-        "anchor_text": "Insurance",
+        "url": "https://www.thermofisher.com/blog/behindthebench/",
+        "anchor_text": "Behind the Bench",
         "score": 27
       },
       {
-        "url": "https://www.solix.com/resources/podcasts/",
-        "anchor_text": "Podcasts",
+        "url": "https://www.thermofisher.com/blog/semiconductors/",
+        "anchor_text": "Illuminating Semiconductors",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/biotechnology/",
+        "anchor_text": "Biotech at Scale",
         "score": 26
       },
       {
-        "url": "https://www.solix.com/company/leadership/",
-        "anchor_text": "Leadership",
-        "score": 26
-      },
-      {
-        "url": "https://www.solix.com/solutions/banking/",
-        "anchor_text": "Banking",
+        "url": "https://www.thermofisher.com/blog/connectedlab/",
+        "anchor_text": "The Connected Lab",
         "score": 25
       },
       {
-        "url": "https://www.solix.com/solutions/finance/",
-        "anchor_text": "Finance",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/telecom/",
-        "anchor_text": "Telecom",
-        "score": 25
-      },
-      {
-        "url": "https://www.solix.com/solutions/retail/",
-        "anchor_text": "Retail",
+        "url": "https://www.thermofisher.com/blog/analyteguru/",
+        "anchor_text": "AnalyteGuru",
         "score": 24
       },
       {
-        "url": "https://www.solix.com/resources/ebooks/",
-        "anchor_text": "eBooks",
-        "score": 24
-      },
-      {
-        "url": "https://www.solix.com/company/careers/",
-        "anchor_text": "Careers",
+        "url": "https://www.thermofisher.com/blog/oempowered/",
+        "anchor_text": "OEMpowered",
         "score": 23
       },
       {
-        "url": "https://www.solix.com/solutions/",
-        "anchor_text": "Solutions",
-        "score": 15
+        "url": "https://www.thermofisher.com/blog/materials/",
+        "anchor_text": "Advancing Materials",
+        "score": 22
       },
       {
-        "url": "https://www.solix.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
+        "url": "https://www.thermofisher.com/blog/locations/",
+        "anchor_text": "Locations",
+        "score": 22
       },
       {
-        "url": "https://www.solix.com/products/",
-        "anchor_text": "Products",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/services/",
-        "anchor_text": "Services & Support",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/partners/",
-        "anchor_text": "Partners",
-        "score": 14
-      },
-      {
-        "url": "https://www.solix.com/company/",
-        "anchor_text": "Company",
-        "score": 13
-      },
-      {
-        "url": "https://www.solix.com/sitemap/",
+        "url": "https://www.thermofisher.com/blog/sitemap/",
         "anchor_text": "Sitemap",
-        "score": 13
+        "score": 20
       },
       {
-        "url": "https://www.solix.com/blog/",
-        "anchor_text": "Blogs",
-        "score": 10
+        "url": "https://www.thermofisher.com/blog/mining/",
+        "anchor_text": "Advancing Mining",
+        "score": 19
       },
       {
-        "url": "https://www.solix.com/pt/",
-        "anchor_text": "Português",
-        "score": 8
+        "url": "https://www.thermofisher.com/blog/metals/",
+        "anchor_text": "Analyzing Metals",
+        "score": 19
       },
       {
-        "url": "https://www.solix.com/it/",
-        "anchor_text": "Italiano",
-        "score": 8
+        "url": "https://www.thermofisher.com/blog/food/",
+        "anchor_text": "Examining Food",
+        "score": 17
       },
       {
-        "url": "https://www.solix.com/ko/",
-        "anchor_text": "한국어",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/ja/",
-        "anchor_text": "日本語",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/es/",
-        "anchor_text": "Español",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/de/",
-        "anchor_text": "Deutsch",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/fr/",
-        "anchor_text": "Français",
-        "score": 8
-      },
-      {
-        "url": "https://www.solix.com/",
-        "anchor_text": "English",
+        "url": "https://www.thermofisher.com/",
+        "anchor_text": "Thermo Fisher Scientific",
         "score": 3
+      },
+      {
+        "url": "https://www.thermofisher.com",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 0
       }
     ]
   },
@@ -12905,6 +12460,11 @@
         "score": 57
       },
       {
+        "url": "https://www.tredence.com/solution/agentic-process-automation-rapid",
+        "anchor_text": "Rapid",
+        "score": 56
+      },
+      {
         "url": "https://www.tredence.com/services/customer-experience-analytics",
         "anchor_text": "CX Analytics",
         "score": 53
@@ -13152,6 +12712,11 @@
       {
         "url": "https://www.tredence.com/newsroom",
         "anchor_text": "Company",
+        "score": 11
+      },
+      {
+        "url": "https://www.tredence.com/milkyway",
+        "anchor_text": "Milky Way",
         "score": 11
       },
       {
@@ -14533,6 +14098,11 @@
         "url": "https://www.simsonpharma.com/blog-details/stable-isotope-labelled-compounds-in-metabolism-and-analytical-tools",
         "anchor_text": "Stable Isotope Labelled Compounds in Metabolism and Analytical tools",
         "score": 96
+      },
+      {
+        "url": "https://www.simsonpharma.com/blog-details/what-are-pharmaceutical-reference-standards-and-why-do-they-matter",
+        "anchor_text": "What Are Pharmaceutical Reference Standards and Why Do They Matter?",
+        "score": 94
       },
       {
         "url": "https://www.simsonpharma.com/blog-details/understanding-api-impurity-standards-in-pharmaceutical-development",
@@ -21650,6 +21220,11 @@
         "score": 54
       },
       {
+        "url": "https://www.bcg.com/industries/retail/restaurant-industry",
+        "anchor_text": "Restaurant Industry",
+        "score": 54
+      },
+      {
         "url": "https://www.bcg.com/industries/urban-planning/real-estate",
         "anchor_text": "Real Estate",
         "score": 54
@@ -25224,497 +24799,6 @@
     ]
   },
   {
-    "company": "Cipla",
-    "press_url": "https://www.cipla.com/media-centre/media-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.cipla.com/cipla-launches-mumbais-first-breathefree-lung-wellness-center-indias-most-advanced-integrated-lung-diagnostics-facility",
-        "anchor_text": "Cipla launches Mumbai’s first Breathefree Lung Wellness Center, India’s Most  Advanced Integrated Lung Diagnostics Facility",
-        "score": 132
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-expands-us-respiratory-portfolio-approval-nintedanib-capsules-100mg",
-        "anchor_text": "Cipla Expands U.S. Respiratory Portfolio with Approval of Nintedanib Capsules (100mg & 150mg) for Idiopathic Pulmonary Fibrosis",
-        "score": 114
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-partners-immunoact-launch-talicabtagene-autoleucel-anti-cd19-car-t",
-        "anchor_text": "Cipla partners with ImmunoACT to launch talicabtagene autoleucel, an anti-CD19 CAR-T cell therapy for blood cancers in Africa",
-        "score": 113
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-foundation-partners-tata-iisc-medical-school-set-centre-pulmonary",
-        "anchor_text": "Cipla Foundation partners with Tata IISc Medical School to set up Centre for Pulmonary Medicine to Advance Respiratory Care & Research",
-        "score": 112
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
-        "anchor_text": "Cipla Receives U.S. FDA Approval for First AB-Rated Generic of Ventolin®  HFA",
-        "score": 108
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-strengthens-us-portfolio-launch-generic-saxendar-liraglutide",
-        "anchor_text": "Cipla strengthens US portfolio with the launch of generic Saxenda® (Liraglutide Injection) for weight management therapy",
-        "score": 107
-      },
-      {
-        "url": "https://www.cipla.com/press-releases-statements/cipla-celebrates-90-years-commemorative-amar-chitra-katha-comic",
-        "anchor_text": "Cipla celebrates 90 years with commemorative  Amar Chitra Katha comic",
-        "score": 104
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/community-wellbeing-initiatives",
-        "anchor_text": "Community Initiatives",
-        "score": 96
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/employees-wellbeing-initiatives",
-        "anchor_text": "Employee Initiatives",
-        "score": 96
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/paediatric-asthma",
-        "anchor_text": "Paediatric Asthma",
-        "score": 76
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/nebulization",
-        "anchor_text": "Nebulization",
-        "score": 71
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/asthma",
-        "anchor_text": "Asthma",
-        "score": 65
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/enhancing-access-and-affordability",
-        "anchor_text": "Enhancing Access and Affordability",
-        "score": 64
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/copd",
-        "anchor_text": "COPD",
-        "score": 63
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
-        "anchor_text": "Accelerated Community Well-being",
-        "score": 62
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors/committees-board-old",
-        "anchor_text": "Committees of the Board",
-        "score": 62
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/championing-climate-positivity",
-        "anchor_text": "Championing Climate Positivity",
-        "score": 60
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors/committees-board",
-        "anchor_text": "Committees of Board",
-        "score": 58
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory",
-        "anchor_text": "Respiratory",
-        "score": 56
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal_500",
-        "anchor_text": "Cipcal",
-        "score": 56
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax-l",
-        "anchor_text": "Easylax-L",
-        "score": 55
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/hiv-aids",
-        "anchor_text": "HIV/AIDS",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies/oncology",
-        "anchor_text": "Oncology",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax",
-        "anchor_text": "Easylax",
-        "score": 53
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive/dr-yk-hamied",
-        "anchor_text": "Scientist with a Heart- Dr. Y K Hamied",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal",
-        "anchor_text": "Cipcal",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/sustainability/raising-bar-governance",
-        "anchor_text": "Raising the Bar on Governance",
-        "score": 52
-      },
-      {
-        "url": "https://www.cipla.com/about-us/90-years-of-caring-for-life",
-        "anchor_text": "90 years of caring for life",
-        "score": 51
-      },
-      {
-        "url": "https://www.cipla.com/investors/intimation-stock-exchanges",
-        "anchor_text": "Intimation to stock Exchanges",
-        "score": 51
-      },
-      {
-        "url": "https://www.cipla.com/disclosures-under-regulation-46-lodr",
-        "anchor_text": "Disclosure under regulation 46 of SEBI",
-        "score": 49
-      },
-      {
-        "url": "https://www.cipla.com/about-us/milestones-and-awards-old",
-        "anchor_text": "Milestones and Awards",
-        "score": 49
-      },
-      {
-        "url": "https://www.cipla.com/board-directors/committees-board",
-        "anchor_text": "CSR Committee",
-        "score": 47
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-presentation",
-        "anchor_text": "Investor Presentation",
-        "score": 46
-      },
-      {
-        "url": "https://www.cipla.com/about-us/management-council-old",
-        "anchor_text": "Management Council",
-        "score": 46
-      },
-      {
-        "url": "https://www.cipla.com/about-us/milestones-and-awards",
-        "anchor_text": "Milestones and Awards",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/investors/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/caution-notice-recruitment-fraud",
-        "anchor_text": "Caution Notice - \"Recruitment Fraud\"",
-        "score": 45
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/cipla-generics",
-        "anchor_text": "Cipla Generics",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/investors/scheme-arrangement",
-        "anchor_text": "Scheme of Arrangement",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-resources",
-        "anchor_text": "Investor Resources",
-        "score": 43
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/media-releases#main-content",
-        "anchor_text": "Skip to main content",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/media-releases",
-        "anchor_text": "×",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/about-us/management-council",
-        "anchor_text": "Management Council",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/our-therapies",
-        "anchor_text": "Other Therapies",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/investors/quarterly-results",
-        "anchor_text": "Quarterly Results",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/investors/investor-contacts",
-        "anchor_text": "Investor Contact",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/careers/inclusion-diversity",
-        "anchor_text": "Diversity & Inclusion",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/about-us/onecipla-credo-old",
-        "anchor_text": "Our Credo",
-        "score": 42
-      },
-      {
-        "url": "https://www.cipla.com/careers/business-functions",
-        "anchor_text": "Business Functions",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/careers/holistic-wellbeing",
-        "anchor_text": "Holistic Wellbeing",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive-old",
-        "anchor_text": "Our History - Cipla Archives",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-terms-conditions",
-        "anchor_text": "Terms & Condition",
-        "score": 41
-      },
-      {
-        "url": "https://www.cipla.com/about-us/code-conduct-old",
-        "anchor_text": "Code of Conduct",
-        "score": 40
-      },
-      {
-        "url": "https://www.cipla.com/about-us/board-directors",
-        "anchor_text": "Board of Directors",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/investors/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/investors/unclaimed-data",
-        "anchor_text": "Unclaimed Data",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/careers/cipla-university",
-        "anchor_text": "Cipla University",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 39
-      },
-      {
-        "url": "https://www.cipla.com/about-us/onecipla-credo",
-        "anchor_text": "Our Credo",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/legacy-of-care-comic-book",
-        "anchor_text": "Legacy of Care | Comic Book",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
-        "anchor_text": "Cipla launches Ciposcillo® – A next-generation oscillometer  device for respiratory diagnostics",
-        "score": 38
-      },
-      {
-        "url": "https://www.cipla.com/about-us/manufacturing",
-        "anchor_text": "Manufacturing",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/about-us/cipla-archive",
-        "anchor_text": "Our History - Cipla Archives",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/australia",
-        "anchor_text": "Australia",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 37
-      },
-      {
-        "url": "https://www.cipla.com/about-us/code-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 36
-      },
-      {
-        "url": "https://www.cipla.com/careers/life-at-cipla",
-        "anchor_text": "Life at Cipla",
-        "score": 36
-      },
-      {
-        "url": "https://www.cipla.com/csr/cipla-foundation",
-        "anchor_text": "CSR-Cipla Foundation",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/about-us/quality-old",
-        "anchor_text": "Quality",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/chatbot-api-disclaimer",
-        "anchor_text": "Disclaimer",
-        "score": 35
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/brazil",
-        "anchor_text": "Brazil",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-presence/uganda",
-        "anchor_text": "Uganda",
-        "score": 34
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings/api",
-        "anchor_text": "API",
-        "score": 32
-      },
-      {
-        "url": "https://www.cipla.com/media-centre/news",
-        "anchor_text": "In the News",
-        "score": 32
-      },
-      {
-        "url": "https://www.cipla.com/about-us/quality",
-        "anchor_text": "Quality",
-        "score": 31
-      },
-      {
-        "url": "https://www.cipla.com/cipla-diagnostics",
-        "anchor_text": "Cipla Diagnostics",
-        "score": 30
-      },
-      {
-        "url": "https://www.cipla.com/cipla-malaysia",
-        "anchor_text": "Malaysia",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/cipla-srilanka",
-        "anchor_text": "Sri Lanka",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/privacy-policy",
-        "anchor_text": "More info",
-        "score": 27
-      },
-      {
-        "url": "https://www.cipla.com/cipla-morocco",
-        "anchor_text": "Morocco",
-        "score": 26
-      },
-      {
-        "url": "https://www.cipla.com/our-offerings",
-        "anchor_text": "Our Offerings",
-        "score": 26
-      },
-      {
-        "url": "https://www.cipla.com/about-us-old",
-        "anchor_text": "Cipla At a Glance",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/investors/disclaimer",
-        "anchor_text": "Disclaimer",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/media-centre",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://www.cipla.com/cipla-nepal",
-        "anchor_text": "Nepal",
-        "score": 24
-      },
-      {
-        "url": "https://www.cipla.com/covid-care",
-        "anchor_text": "Covid Care",
-        "score": 23
-      },
-      {
-        "url": "https://www.cipla.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.cipla.com/cipla-amr",
-        "anchor_text": "AMR",
-        "score": 22
-      },
-      {
-        "url": "https://www.cipla.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://www.cipla.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.cipla.com/dsafe.html",
-        "anchor_text": "Drug Safety Reporting",
-        "score": 13
-      },
-      {
-        "url": "https://www.cipla.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.cipla.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.cipla.com/sitemap",
-        "anchor_text": "Sitemap",
-        "score": 10
-      },
-      {
-        "url": "https://www.cipla.com/",
-        "anchor_text": "Our Presence",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Aurobindo Pharma",
     "press_url": "https://www.aurobindo.com/media/press-releases",
     "candidate_links": [
@@ -26824,13 +25908,13 @@
         "score": 140
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/how-india-s-pharma-sector-is-redefining-global-healthcare-with-technology-and-agility",
-        "anchor_text": "February 22, 2026How India’s Pharma Sector Is Redefining Global Healthcare with Technology and Agility",
-        "score": 121
-      },
-      {
         "url": "https://www.lupin.com/media/press-releases/lupin-foundation-inaugurates-two-ncd-corners-in-karauli-and-hindaun-rajasthan",
         "anchor_text": "Lupin Foundation Inaugurates Two NCD Corners in Karauli and Hindaun, Rajasthan",
+        "score": 115
+      },
+      {
+        "url": "https://www.lupin.com/media/perspectives/how-innovation-leads-to-impact-making-science-led-treatment-accessible-in-india",
+        "anchor_text": "May 13, 2026How Innovation Leads to Impact: Making Science-Led Treatment Accessible in India",
         "score": 115
       },
       {
@@ -26849,11 +25933,6 @@
         "score": 109
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-receives-tentative-approval-from-u-s-fda-for-sugammadex-injection",
-        "anchor_text": "Lupin Receives Tentative Approval from U.S. FDA for Sugammadex Injection",
-        "score": 109
-      },
-      {
         "url": "https://www.lupin.com/media/perspectives/why-continuous-learning-is-the-lifeblood-of-the-pharmaceutical-industry",
         "anchor_text": "April 16, 2026Why continuous learning is the lifeblood of the pharmaceutical industry",
         "score": 107
@@ -26862,6 +25941,11 @@
         "url": "https://www.lupin.com/media/perspectives/redrawing-the-biopharma-map-india-s-rise-in-the-biosimilars-era",
         "anchor_text": "March 10, 2026Redrawing the Biopharma Map: India’s Rise in the Biosimilars Era",
         "score": 99
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-u-s-fda-approval-for-famotidine-injection-usp",
+        "anchor_text": "Lupin Receives U.S. FDA Approval for Famotidine Injection, USP",
+        "score": 98
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-earns-great-place-to-work-certification-tm-for-2026-27",
@@ -29506,11 +28590,6 @@
     "press_url": "https://www.wuxibiologics.com/media",
     "candidate_links": [
       {
-        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-south-korea-mfds-gmp-certification-to-enable-commercial-manufacturing-of-bispecific-antibody-therapeutics/",
-        "anchor_text": "NewsApr. 23, 2026WuXi Biologics Receives South Korea MFDS GMP Certification to Enable Commercial Manufacturing of Bispecific Antibody Therapeutics",
-        "score": 161
-      },
-      {
         "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-chengdu-microbial-commercial-manufacturing-site-achieves-structural-completion-and-key-equipment-arrival/",
         "anchor_text": "NewsApr. 24, 2026WuXi Biologics Chengdu Microbial Commercial Manufacturing Site Achieves Structural Completion and Key Equipment Arrival",
         "score": 151
@@ -29519,6 +28598,11 @@
         "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-releases-2025-sustainability-report-advancing-sustainable-growth-and-improving-healthcare-access/",
         "anchor_text": "NewsApr. 29, 2026WuXi Biologics Releases 2025 Sustainability Report, Advancing Sustainable Growth and Improving Healthcare Access",
         "score": 143
+      },
+      {
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-included-in-2026-dow-jones-best-in-class-world-index-and-emerging-markets-index/",
+        "anchor_text": "NewsMay. 13, 2026WuXi Biologics Included in 2026 Dow Jones Best‑in‑Class World Index and Emerging Markets Index",
+        "score": 126
       },
       {
         "url": "https://www.wuxibiologics.com/production-systems/mammalian-derived-product-services/recombinant-proteins-enzymes-cytokines/",
@@ -31623,6 +30707,11 @@
         "score": 143
       },
       {
+        "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/articles/new-heart-health-guidelines-start-early-age-30-what-you-need-know.html",
+        "anchor_text": "Read moreRead More about New heart health guidelines start as early as age 30: What you need to know",
+        "score": 143
+      },
+      {
         "url": "https://www.labcorp.com/content/labcorp/us/en/education-events/press-releases/labcorp-and-epic-expand-collaboration-advance-diagnostic.html",
         "anchor_text": "Labcorp and Epic Expand Collaboration to Advance Diagnostic Integration across Hospitals and Health Systems",
         "score": 140
@@ -31850,6 +30939,11 @@
       {
         "url": "https://www.labcorp.com/modalities/vaccines/assays",
         "anchor_text": "Vaccines",
+        "score": 33
+      },
+      {
+        "url": "https://www.labcorp.com/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
         "score": 33
       },
       {
@@ -33575,11 +32669,6 @@
         "score": 54
       },
       {
-        "url": "https://www.gehealthcare.com/en-us/courses/clinical-education/ct",
-        "anchor_text": "Clinical Education",
-        "score": 54
-      },
-      {
         "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/specialties.html",
         "anchor_text": "Specialties",
         "score": 54
@@ -33682,6 +32771,11 @@
       {
         "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging",
         "anchor_text": "Molecular Imaging",
+        "score": 49
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/courses/clinical-education",
+        "anchor_text": "Clinical Education",
         "score": 49
       },
       {
@@ -38690,6 +37784,11 @@
         "score": 27
       },
       {
+        "url": "https://www.foundationmedicine.com/test/foundationonerpgx",
+        "anchor_text": "FoundationOne PGx",
+        "score": 27
+      },
+      {
         "url": "https://www.foundationmedicine.com/press-releases",
         "anchor_text": "Press Releases",
         "score": 27
@@ -38821,9 +37920,9 @@
         "score": 115
       },
       {
-        "url": "https://www.pfizer.com/news/press-release/press-release-detail/talzenna-plus-xtandi-significantly-improves-radiographic",
-        "anchor_text": "TALZENNA Plus XTANDI Significantly Improves Radiographic Progression-Free Survival in Metastatic Prostate Cancer",
-        "score": 115
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/european-commission-approves-pfizers-hympavzi-treatment",
+        "anchor_text": "European Commission Approves Pfizer’s HYMPAVZI for the Treatment of Adults and Adolescents with Hemophilia A or B With Inhibitors",
+        "score": 114
       },
       {
         "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-recommends-shareholders-reject-mini-tender-offer",
@@ -39161,6 +38260,11 @@
         "score": 38
       },
       {
+        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6441]=6441",
+        "anchor_text": "Medicines",
+        "score": 38
+      },
+      {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22795]=22795",
         "anchor_text": "Corporate",
         "score": 38
@@ -39178,11 +38282,6 @@
       {
         "url": "https://www.pfizer.com/newsroom/press-releases?field_media_asset_category_target_id[22798]=22798",
         "anchor_text": "Research and Pipeline",
-        "score": 38
-      },
-      {
-        "url": "https://www.pfizer.com/newsroom/press-releases?field_tags_target_id[6441]=6441",
-        "anchor_text": "Medicines",
         "score": 38
       },
       {
@@ -39738,7 +38837,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price323.20CHF+ 1.70(+0.53%)Today",
+        "anchor_text": "Share price320.00CHF- 1.50(-0.47%)Today",
         "score": 20
       },
       {
@@ -39848,14 +38947,14 @@
         "score": 150
       },
       {
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-imjudo-improves-pfs-in-early-liver-cancer.html",
-        "anchor_text": "Imfinzi plus Imjudo combined with lenvatinib and TACE demonstrated a statistically significant and clinically meaningful improvement in progression-free survival in embolisation-eligible unresectable liver cancer in EMERALD-3 Phase III trial02 April 2026",
-        "score": 150
-      },
-      {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/saphnelo-self-administration-approved-in-the-US.html",
         "anchor_text": "Saphnelo approved in the US for subcutaneous self-administration as a new autoinjector for the treatment of systemic lupus erythematosus27 April 2026",
         "score": 148
+      },
+      {
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-ev-improves-efs-os-in-bladder-cancer.html",
+        "anchor_text": "Perioperative Imfinzi plus neoadjuvant EV showed statistically significant and clinically meaningful improvements in event-free survival and overall survival in muscle-invasive bladder cancer in the Phase III VOLGA trial14 May 2026",
+        "score": 145
       },
       {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/third-tozorakimab-positive-phase-iii-in-copd.html",
@@ -41547,9 +40646,9 @@
         "score": 191
       },
       {
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-completes-acquisition-of-arcellx-ahead-of-potential-commercial-launch-of-anito-cel",
-        "anchor_text": "April 28, 2026Gilead Sciences Completes Acquisition of Arcellx Ahead of Potential Commercial Launch of Anito-cel",
-        "score": 165
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-to-present-new-data-advancing-care-in-pbc-and-viral-hepatitis-at-easl-2026",
+        "anchor_text": "May 13, 2026Gilead to Present New Data Advancing Care in PBC and Viral Hepatitis at EASL 2026",
+        "score": 148
       },
       {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/strategic-initiatives/toward-health-equity-for-black-people-impacted-by-tnbc",
@@ -42439,7 +41538,7 @@
       },
       {
         "url": "https://www.daiichisankyo.com/about_us/mission-strength/vision/our_strategy/",
-        "anchor_text": "Our Strategy",
+        "anchor_text": "Our StrategyNew",
         "score": 67
       },
       {
@@ -43919,6 +43018,11 @@
         "score": 175
       },
       {
+        "url": "https://newsroom.astellas.com/2026-05-14-astellas-submits-supplemental-new-drug-application-in-japan-for-padcev-plus-keytruda-in-cisplatin-eligible-patients-with-mibc",
+        "anchor_text": "Read moreabout Astellas Submits Supplemental New Drug Application in Japan for PADCEV™ (enfortumab vedotin) plus Keytruda®(pembrolizumab) in Cisplatin-Eligible Patients with Muscle-Invasive Bladder Cancer",
+        "score": 149
+      },
+      {
         "url": "https://newsroom.astellas.com/2026-04-27-notice-regarding-impairment-loss-and-extraordinary-losses-in-non-consolidated-financial-results-j-gaap",
         "anchor_text": "Read moreabout Notice Regarding Impairment Loss and Extraordinary Losses in Non-consolidated Financial Results(J-GAAP)",
         "score": 126
@@ -43927,11 +43031,6 @@
         "url": "https://newsroom.astellas.com/2026-04-27-astellas-announces-personnel-change",
         "anchor_text": "Read moreabout Astellas Announces Personnel Change",
         "score": 59
-      },
-      {
-        "url": "https://newsroom.astellas.com/2026-04-27-notice-of-nominees-for-directors",
-        "anchor_text": "Read moreabout Notice of Nominees for Directors",
-        "score": 56
       },
       {
         "url": "https://newsroom.astellas.com/media-library",
@@ -44004,8 +43103,8 @@
         "score": 7
       },
       {
-        "url": "https://newsroom.astellas.com/news?o=1340",
-        "anchor_text": "269",
+        "url": "https://newsroom.astellas.com/news?o=1345",
+        "anchor_text": "270",
         "score": 7
       },
       {
@@ -44276,7 +43375,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Press Releases",
+        "anchor_text": "Do not sell or share my personal information",
         "score": 41
       },
       {
@@ -44861,14 +43960,14 @@
         "score": 155
       },
       {
-        "url": "https://ir.beonemedicines.com/news/us-fda-grants-priority-review-to-sonrotoclax-for-the-treatment-of-relapsed-or-refractory-mantle/786f1dad-0c9f-492e-9fce-f9ceadd24989",
-        "anchor_text": "U.S. FDA Grants Priority Review to Sonrotoclax for the Treatment of Relapsed or Refractory Mantle Cell Lymphoma",
-        "score": 154
-      },
-      {
         "url": "https://ir.beonemedicines.com/news/beone-medicines-to-announce-fourth-quarter-and-full-year-2025-financial-results-on-february-26/05469328-ac68-408f-b6ac-07cfd0d1680c",
         "anchor_text": "BeOne Medicines to Announce Fourth Quarter and Full Year 2025 Financial Results on February 26",
         "score": 153
+      },
+      {
+        "url": "https://ir.beonemedicines.com/news/beone-medicines-beqalzitm-sonrotoclax-approved-by-us-fda-as-first-and-only-bcl2-inhibitor-for/a57256f1-5e36-427a-94c3-2b6be7f2bfb9",
+        "anchor_text": "BeOne Medicines’ BEQALZI™ (sonrotoclax) Approved by U.S. FDA as First and Only BCL2 Inhibitor for R/R Mantle Cell Lymphoma",
+        "score": 152
       },
       {
         "url": "https://ir.beonemedicines.com/news/sonrotoclax-data-at-ash-2025-confirm-foundational-potential-across-b-cell-malignancies/4c69168c-15f1-4af8-98f3-38d14b8d32cd",
@@ -47424,11 +46523,6 @@
         "url": "https://www.immunocore.com/clinical-trials",
         "anchor_text": "Clinical Trials",
         "score": 28
-      },
-      {
-        "url": "https://www.immunocore.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
       },
       {
         "url": "https://www.immunocore.com/science/publications",
@@ -50034,6 +49128,11 @@
     "press_url": "https://www.wuxiapptec.com/news/wuxi-news",
     "candidate_links": [
       {
+        "url": "https://www.wuxiapptec.com/news/media-coverage/qdm4rn5iitdfhuj3z31j996z",
+        "anchor_text": "How WuXi AppTec’s Integrated Platform Is...",
+        "score": 61
+      },
+      {
         "url": "https://www.wuxiapptec.com/news/wuxi-news/o11j18jj5dltcdtm9so5f4sk",
         "anchor_text": "Read more",
         "score": 56
@@ -50057,16 +49156,6 @@
         "url": "https://www.wuxiapptec.com/news/wuxi-news/frndj4ox39avbvzytgo4n0x0",
         "anchor_text": "Read more",
         "score": 56
-      },
-      {
-        "url": "https://www.wuxiapptec.com/news/wuxi-news/4361",
-        "anchor_text": "WuXi Advanced Therapies Expands Services to...",
-        "score": 36
-      },
-      {
-        "url": "https://www.wuxiapptec.com/news/wuxi-news/6025",
-        "anchor_text": "WuXi AppTec Revenue and Profit Achieved Steady...",
-        "score": 36
       },
       {
         "url": "https://www.wuxiapptec.com/news/media-coverage",
@@ -50210,6 +49299,11 @@
         "score": 97
       },
       {
+        "url": "https://www.iconplc.com/news-events/press-releases/icon-expands-us-early-phase-research-capabilities",
+        "anchor_text": "ICON expands US early phase research capabilities",
+        "score": 93
+      },
+      {
         "url": "https://www.iconplc.com/about/environmental-social-and-governance/governance/icon-suppliers",
         "anchor_text": "Suppliers",
         "score": 86
@@ -50223,11 +49317,6 @@
         "url": "https://www.iconplc.com/news-events/press-releases/icon-2025-global-biotech-survey",
         "anchor_text": "ICON 2025 global biotech survey",
         "score": 75
-      },
-      {
-        "url": "https://www.iconplc.com/news-events/press-releases/icon-announces-ceo-transition",
-        "anchor_text": "ICON announces CEO transition",
-        "score": 73
       },
       {
         "url": "https://www.iconplc.com/solutions/consulting/commercial-positioning-consulting",
@@ -50721,11 +49810,6 @@
         "score": 147
       },
       {
-        "url": "https://www.iqvia.com/newsroom/2026/02/iqvia-reports-fourth-quarter-and-full-year-2025-results-issues-full-year-2026-guidance",
-        "anchor_text": "Learn More",
-        "score": 147
-      },
-      {
         "url": "https://www.iqvia.com/solutions/commercialization/commercial-analytics/omnichannel-engagement-and-insights/patient-insights-for-hcp-engagement",
         "anchor_text": "Patient Insights for HCP Engagement",
         "score": 141
@@ -50764,6 +49848,11 @@
         "url": "https://www.iqvia.com/newsroom/2026/04/iqvia-to-announce-first-quarter-2026-results-on-may-5-2026",
         "anchor_text": "Learn More",
         "score": 119
+      },
+      {
+        "url": "https://www.iqvia.com/newsroom/2026/05/iqvia-and-kexing-biopharm-expand-strategic-collaboration",
+        "anchor_text": "Learn More",
+        "score": 117
       },
       {
         "url": "https://www.iqvia.com/solutions/real-world-evidence/health-data-apps-and-ai/ai-driven-patient-and-provider-profiling",
@@ -51642,11 +50731,6 @@
         "score": 187
       },
       {
-        "url": "https://www.catalent.com/catalent-news/catalent-announces-collaboration-with-galapagos-to-further-expand-galapagos-decentralized-car-t-manufacturing-network-in-the-u-s/",
-        "anchor_text": "Catalent Announces Collaboration with Galapagos to Further Expand Galapagos’ Decentralized CAR-T Manufacturing Network in the U.S.",
-        "score": 160
-      },
-      {
         "url": "https://www.catalent.com/catalent-news/catalent-debuts-new-corporate-brand-elevating-customer-service-excellence-by-championing-the-missions-that-matter/",
         "anchor_text": "Catalent Debuts New Corporate Brand, Elevating Customer Service Excellence by “Championing the Missions that Matter™”",
         "score": 145
@@ -51655,6 +50739,11 @@
         "url": "https://www.catalent.com/catalent-news/catalents-smartagadc-pipeline-and-new-enhanced-conjugates-offering-featured-at-16th-world-adc-san-diego/",
         "anchor_text": "Catalent’s SMARTag®ADC Pipeline and New Enhanced Conjugates Offering Featured at 16th World ADC San Diego",
         "score": 135
+      },
+      {
+        "url": "https://www.catalent.com/catalent-news/catalent-and-elpida-therapeutics-enter-strategic-partnership-for-late-phase-aav-manufacturing/",
+        "anchor_text": "Catalent and Elpida Therapeutics Enter Strategic Partnership for Late-Phase AAV Manufacturing",
+        "score": 125
       },
       {
         "url": "https://www.catalent.com/catalent-news/catalent-announces-opening-of-its-new-global-corporate-headquarters-in-tampa-florida/",
@@ -53290,6 +52379,11 @@
         "score": 149
       },
       {
+        "url": "https://www.ipsen.com/press-release/ipsen-unveils-corabotase-a-first-in-class-recombinant-neuroinhibitor-rni-at-the-scale-symposium-3294602/",
+        "anchor_text": "Ipsen unveils corabotase, a first-in-class recombinant neuroinhibitor, RNI™, at the SCALE Symposium",
+        "score": 135
+      },
+      {
         "url": "https://www.ipsen.com/press-release/ipsen-delivers-strong-sales-in-the-first-quarter-of-2026-and-confirms-its-full-year-guidance-3279554/",
         "anchor_text": "Ipsen delivers strong sales in the first quarter of 2026 and confirms its full-year guidance",
         "score": 132
@@ -53298,11 +52392,6 @@
         "url": "https://www.ipsen.com/press-release/ipsen-showcases-transformative-potential-of-early-immuno-oncology-pipeline-at-aacr-3257884/",
         "anchor_text": "Ipsen showcases transformative potential of early immuno-oncology pipeline at AACR",
         "score": 122
-      },
-      {
-        "url": "https://www.ipsen.com/press-release/ipsen-appoints-michelle-c-werner-as-evp-president-of-north-america-3254284/",
-        "anchor_text": "Ipsen appoints Michelle C. Werner as EVP, President of North America",
-        "score": 106
       },
       {
         "url": "https://www.ipsen.com/science/clinical-trials/find-a-clinical-trial/",
@@ -55218,6 +54307,11 @@
         "score": 75
       },
       {
+        "url": "https://www.shionogi.com/global/en/news/2026/05/20260514.html",
+        "anchor_text": "New England Journal of Medicine Publishes Shionogi Study Demonstrating Ensitrelvir Prevents COVID-19 Following Exposure",
+        "score": 74
+      },
+      {
         "url": "https://www.shionogi.com/global/en/news/2026/04/20260428.html",
         "anchor_text": "Shionogi Joins the World Economic Forum and Signs the Davos Compact on Antimicrobial Resistance - Contributing to the resolution of global healthcare challenges, including AMR, through international collaboration-",
         "score": 74
@@ -55679,6 +54773,11 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260514153000_1250.html?year=2026&category=",
+        "anchor_text": "Filing of Humanized Anti-CD20 Monoclonal Antibody Gazyva for Additional Indication of Idiopathic Nephrotic Syndrome",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260511153000_1251.html?year=2026&category=",
         "anchor_text": "Chugai’s Pharmaceutical Packaging Leveraging Proprietary Technologies Wins the “WorldStar Winner 2026” at the “WorldStar Global Packaging Awards 2026” from the World Packaging Organization",
         "score": 53
@@ -56086,6 +55185,11 @@
       {
         "url": "https://www.chugai-pharm.co.jp/english/innovation/",
         "anchor_text": "Innovation",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260514eGazyva_INS_NDA.pdf&src=[%0],[%1]&rep=130,1250",
+        "anchor_text": "[PDF\n                            160KB]",
         "score": 26
       },
       {
@@ -63050,6 +62154,11 @@
         "score": 188
       },
       {
+        "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-Announces-First-Quarter-2026-Financial-Results-and-Business-Highlights/default.aspx",
+        "anchor_text": "Compass Pathways Announces First Quarter 2026 Financial Results and Business Highlights",
+        "score": 185
+      },
+      {
         "url": "https://ir.compasspathways.com/News--Events-/news/news-details/2026/Compass-Pathways-to-Participate-in-Needham-Virtual-Psychedelics-Forum-on-April-27-2026/default.aspx",
         "anchor_text": "Compass Pathways to Participate in Needham Virtual Psychedelics Forum on April 27, 2026",
         "score": 184
@@ -67361,11 +66470,6 @@
     "press_url": "https://www.dotmatics.com/news/",
     "candidate_links": [
       {
-        "url": "https://www.dotmatics.com/news/u-s-news-and-world-report-how-ai-is-transforming-medicine-and-patient-care",
-        "anchor_text": "NewsU.S. News & World Report: How AI is Transforming Medicine and Patient Care",
-        "score": 94
-      },
-      {
         "url": "https://www.dotmatics.com/news/cio-inc-can-ai-finally-close-the-gap-between-science-and-software",
         "anchor_text": "NewsCIO.Inc: Can AI Finally Close the Gap Between Science and Software?",
         "score": 85
@@ -67487,7 +66591,7 @@
       },
       {
         "url": "https://www.dotmatics.com/news/introducing-luma-agent",
-        "anchor_text": "Dotmatics introduces Luma Agent: the AI co-scientist built on structured scientific dataRead More",
+        "anchor_text": "NewsDotmatics introduces Luma Agent: the AI co-scientist built on structured scientific data",
         "score": 42
       },
       {
@@ -70421,11 +69525,6 @@
         "score": 128
       },
       {
-        "url": "https://www.biosolveit.de/2026/05/13/hpsee-high-performance-docking-without-the-gpu-price-tag/",
-        "anchor_text": "HPSee: High-Performance Docking Without the GPU Price TagMay 13, 2026 08:44 CEST",
-        "score": 114
-      },
-      {
         "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
         "anchor_text": "Read on",
         "score": 114
@@ -70439,6 +69538,11 @@
         "url": "https://www.biosolveit.de/2026/03/30/uk-qsar-2026-abstract-and-full-programme-now-avaliable/",
         "anchor_text": "Read on",
         "score": 112
+      },
+      {
+        "url": "https://www.biosolveit.de/2026/05/13/summer-2026-scientific-challenge-deadline-approaching/",
+        "anchor_text": "ChallengeSummer 2026 Scientific Challenge Deadline ApproachingMay 13, 2026 10:54 CEST",
+        "score": 111
       },
       {
         "url": "https://www.biosolveit.de/2026/03/11/shafi-ullah-khan-wins-scientific-challenge-fall-2024/",
@@ -78826,6 +77930,11 @@
         "score": 155
       },
       {
+        "url": "https://investor.omeros.com/news/news-details/2026/Omeros-Corporation-Reports-First-Quarter-2026-Financial-Results/default.aspx",
+        "anchor_text": "Continue Reading",
+        "score": 145
+      },
+      {
         "url": "https://investor.omeros.com/news/news-details/2026/Omeros-Announces-First-Commercial-Sales-of-YARTEMLEA-01-27-2026/default.aspx",
         "anchor_text": "Continue Reading",
         "score": 145
@@ -82249,11 +81358,6 @@
         "url": "https://affiniatx.com/",
         "anchor_text": "",
         "score": 3
-      },
-      {
-        "url": "https://affiniatx.com",
-        "anchor_text": "",
-        "score": 0
       }
     ]
   },
@@ -82765,13 +81869,13 @@
     "candidate_links": []
   },
   {
-    "company": "Lonza",
-    "press_url": "https://www.lonza.com/news",
+    "company": "Solix Technologies, Inc.",
+    "press_url": "https://www.solix.com/company/news-events/press-releases/",
     "candidate_links": []
   },
   {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
+    "company": "Lonza",
+    "press_url": "https://www.lonza.com/news",
     "candidate_links": []
   },
   {
@@ -82788,6 +81892,497 @@
     "company": "Telangana Life Sciences",
     "press_url": "https://lifesciences.telangana.gov.in/news/",
     "candidate_links": []
+  },
+  {
+    "company": "Cipla",
+    "press_url": "https://www.cipla.com/media-centre/media-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.cipla.com/cipla-launches-mumbais-first-breathefree-lung-wellness-center-indias-most-advanced-integrated-lung-diagnostics-facility",
+        "anchor_text": "Cipla launches Mumbai’s first Breathefree Lung Wellness Center, India’s Most  Advanced Integrated Lung Diagnostics Facility",
+        "score": 132
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-expands-us-respiratory-portfolio-approval-nintedanib-capsules-100mg",
+        "anchor_text": "Cipla Expands U.S. Respiratory Portfolio with Approval of Nintedanib Capsules (100mg & 150mg) for Idiopathic Pulmonary Fibrosis",
+        "score": 114
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-partners-immunoact-launch-talicabtagene-autoleucel-anti-cd19-car-t",
+        "anchor_text": "Cipla partners with ImmunoACT to launch talicabtagene autoleucel, an anti-CD19 CAR-T cell therapy for blood cancers in Africa",
+        "score": 113
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-foundation-partners-tata-iisc-medical-school-set-centre-pulmonary",
+        "anchor_text": "Cipla Foundation partners with Tata IISc Medical School to set up Centre for Pulmonary Medicine to Advance Respiratory Care & Research",
+        "score": 112
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-receives-us-fda-approval-first-ab-rated-generic-ventolinr-hfa",
+        "anchor_text": "Cipla Receives U.S. FDA Approval for First AB-Rated Generic of Ventolin®  HFA",
+        "score": 108
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-strengthens-us-portfolio-launch-generic-saxendar-liraglutide",
+        "anchor_text": "Cipla strengthens US portfolio with the launch of generic Saxenda® (Liraglutide Injection) for weight management therapy",
+        "score": 107
+      },
+      {
+        "url": "https://www.cipla.com/press-releases-statements/cipla-celebrates-90-years-commemorative-amar-chitra-katha-comic",
+        "anchor_text": "Cipla celebrates 90 years with commemorative  Amar Chitra Katha comic",
+        "score": 104
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/community-wellbeing-initiatives",
+        "anchor_text": "Community Initiatives",
+        "score": 96
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing/employees-wellbeing-initiatives",
+        "anchor_text": "Employee Initiatives",
+        "score": 96
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/paediatric-asthma",
+        "anchor_text": "Paediatric Asthma",
+        "score": 76
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/nebulization",
+        "anchor_text": "Nebulization",
+        "score": 71
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/asthma",
+        "anchor_text": "Asthma",
+        "score": 65
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/enhancing-access-and-affordability",
+        "anchor_text": "Enhancing Access and Affordability",
+        "score": 64
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory/copd",
+        "anchor_text": "COPD",
+        "score": 63
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/accelerating-community-wellbeing",
+        "anchor_text": "Accelerated Community Well-being",
+        "score": 62
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors/committees-board-old",
+        "anchor_text": "Committees of the Board",
+        "score": 62
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/championing-climate-positivity",
+        "anchor_text": "Championing Climate Positivity",
+        "score": 60
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors/committees-board",
+        "anchor_text": "Committees of Board",
+        "score": 58
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/respiratory",
+        "anchor_text": "Respiratory",
+        "score": 56
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal_500",
+        "anchor_text": "Cipcal",
+        "score": 56
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax-l",
+        "anchor_text": "Easylax-L",
+        "score": 55
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/hiv-aids",
+        "anchor_text": "HIV/AIDS",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies/oncology",
+        "anchor_text": "Oncology",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/easylax",
+        "anchor_text": "Easylax",
+        "score": 53
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive/dr-yk-hamied",
+        "anchor_text": "Scientist with a Heart- Dr. Y K Hamied",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics/cipcal",
+        "anchor_text": "Cipcal",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/sustainability/raising-bar-governance",
+        "anchor_text": "Raising the Bar on Governance",
+        "score": 52
+      },
+      {
+        "url": "https://www.cipla.com/about-us/90-years-of-caring-for-life",
+        "anchor_text": "90 years of caring for life",
+        "score": 51
+      },
+      {
+        "url": "https://www.cipla.com/investors/intimation-stock-exchanges",
+        "anchor_text": "Intimation to stock Exchanges",
+        "score": 51
+      },
+      {
+        "url": "https://www.cipla.com/disclosures-under-regulation-46-lodr",
+        "anchor_text": "Disclosure under regulation 46 of SEBI",
+        "score": 49
+      },
+      {
+        "url": "https://www.cipla.com/about-us/milestones-and-awards-old",
+        "anchor_text": "Milestones and Awards",
+        "score": 49
+      },
+      {
+        "url": "https://www.cipla.com/board-directors/committees-board",
+        "anchor_text": "CSR Committee",
+        "score": 47
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-presentation",
+        "anchor_text": "Investor Presentation",
+        "score": 46
+      },
+      {
+        "url": "https://www.cipla.com/about-us/management-council-old",
+        "anchor_text": "Management Council",
+        "score": 46
+      },
+      {
+        "url": "https://www.cipla.com/about-us/milestones-and-awards",
+        "anchor_text": "Milestones and Awards",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/investors/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/caution-notice-recruitment-fraud",
+        "anchor_text": "Caution Notice - \"Recruitment Fraud\"",
+        "score": 45
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/cipla-generics",
+        "anchor_text": "Cipla Generics",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/investors/scheme-arrangement",
+        "anchor_text": "Scheme of Arrangement",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-resources",
+        "anchor_text": "Investor Resources",
+        "score": 43
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/media-releases#main-content",
+        "anchor_text": "Skip to main content",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/media-releases",
+        "anchor_text": "×",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/about-us/management-council",
+        "anchor_text": "Management Council",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/our-therapies",
+        "anchor_text": "Other Therapies",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/investors/quarterly-results",
+        "anchor_text": "Quarterly Results",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/investors/investor-contacts",
+        "anchor_text": "Investor Contact",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/careers/inclusion-diversity",
+        "anchor_text": "Diversity & Inclusion",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/about-us/onecipla-credo-old",
+        "anchor_text": "Our Credo",
+        "score": 42
+      },
+      {
+        "url": "https://www.cipla.com/careers/business-functions",
+        "anchor_text": "Business Functions",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/careers/holistic-wellbeing",
+        "anchor_text": "Holistic Wellbeing",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive-old",
+        "anchor_text": "Our History - Cipla Archives",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-terms-conditions",
+        "anchor_text": "Terms & Condition",
+        "score": 41
+      },
+      {
+        "url": "https://www.cipla.com/about-us/code-conduct-old",
+        "anchor_text": "Code of Conduct",
+        "score": 40
+      },
+      {
+        "url": "https://www.cipla.com/about-us/board-directors",
+        "anchor_text": "Board Of Directors",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/investors/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/investors/unclaimed-data",
+        "anchor_text": "Unclaimed Data",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/careers/cipla-university",
+        "anchor_text": "Cipla University",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 39
+      },
+      {
+        "url": "https://www.cipla.com/about-us/onecipla-credo",
+        "anchor_text": "Our Credo",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/legacy-of-care-comic-book",
+        "anchor_text": "Legacy of Care | Comic Book",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/cipla-launches-ciposcillo",
+        "anchor_text": "Cipla launches Ciposcillo® – A next-generation oscillometer  device for respiratory diagnostics",
+        "score": 38
+      },
+      {
+        "url": "https://www.cipla.com/about-us/manufacturing",
+        "anchor_text": "Manufacturing",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/about-us/cipla-archive",
+        "anchor_text": "Our History - Cipla Archives",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/australia",
+        "anchor_text": "Australia",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 37
+      },
+      {
+        "url": "https://www.cipla.com/about-us/code-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 36
+      },
+      {
+        "url": "https://www.cipla.com/careers/life-at-cipla",
+        "anchor_text": "Life at Cipla",
+        "score": 36
+      },
+      {
+        "url": "https://www.cipla.com/csr/cipla-foundation",
+        "anchor_text": "CSR-Cipla Foundation",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/about-us/quality-old",
+        "anchor_text": "Quality",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/chatbot-api-disclaimer",
+        "anchor_text": "Disclaimer",
+        "score": 35
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/brazil",
+        "anchor_text": "Brazil",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-presence/uganda",
+        "anchor_text": "Uganda",
+        "score": 34
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings/api",
+        "anchor_text": "API",
+        "score": 32
+      },
+      {
+        "url": "https://www.cipla.com/media-centre/news",
+        "anchor_text": "In the News",
+        "score": 32
+      },
+      {
+        "url": "https://www.cipla.com/about-us/quality",
+        "anchor_text": "Quality",
+        "score": 31
+      },
+      {
+        "url": "https://www.cipla.com/cipla-diagnostics",
+        "anchor_text": "Cipla Diagnostics",
+        "score": 30
+      },
+      {
+        "url": "https://www.cipla.com/cipla-malaysia",
+        "anchor_text": "Malaysia",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/cipla-srilanka",
+        "anchor_text": "Sri Lanka",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/privacy-policy",
+        "anchor_text": "More info",
+        "score": 27
+      },
+      {
+        "url": "https://www.cipla.com/cipla-morocco",
+        "anchor_text": "Morocco",
+        "score": 26
+      },
+      {
+        "url": "https://www.cipla.com/our-offerings",
+        "anchor_text": "Our Offerings",
+        "score": 26
+      },
+      {
+        "url": "https://www.cipla.com/investors/disclaimer",
+        "anchor_text": "Disclaimer",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/media-centre",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/about-us-old",
+        "anchor_text": "Cipla At a Glance",
+        "score": 25
+      },
+      {
+        "url": "https://www.cipla.com/cipla-nepal",
+        "anchor_text": "Nepal",
+        "score": 24
+      },
+      {
+        "url": "https://www.cipla.com/covid-care",
+        "anchor_text": "Covid Care",
+        "score": 23
+      },
+      {
+        "url": "https://www.cipla.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.cipla.com/cipla-amr",
+        "anchor_text": "AMR",
+        "score": 22
+      },
+      {
+        "url": "https://www.cipla.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://www.cipla.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.cipla.com/dsafe.html",
+        "anchor_text": "Drug Safety Reporting",
+        "score": 13
+      },
+      {
+        "url": "https://www.cipla.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.cipla.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.cipla.com/sitemap",
+        "anchor_text": "Sitemap",
+        "score": 10
+      },
+      {
+        "url": "https://www.cipla.com/",
+        "anchor_text": "Our Presence",
+        "score": 3
+      }
+    ]
   },
   {
     "company": "Medpace",
