@@ -546,582 +546,6 @@
     ]
   },
   {
-    "company": "Dr. Reddy's Laboratories",
-    "press_url": "https://www.drreddys.com/media/",
-    "candidate_links": [
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/apis-active-pharmaceutical-ingredients/",
-        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
-        "score": 90
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/environmental-sustainability/",
-        "anchor_text": "Environmental Sustainability",
-        "score": 89
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/apis-active-pharmaceutical-ingredients/",
-        "anchor_text": "APIs (Active Pharmaceutical Ingredients)",
-        "score": 86
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/dr-reddy-s-foundations/",
-        "anchor_text": "Dr Reddy’s Foundations",
-        "score": 84
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/commitment-to-the-planet/",
-        "anchor_text": "Commitment to the Planet",
-        "score": 82
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/code-of-business-conduct-and-ethics-cobe/",
-        "anchor_text": "Code of Business Conduct and Ethics (COBE)",
-        "score": 81
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/other-stock-exchange-intimations/",
-        "anchor_text": "Other Stock Exchange Intimations",
-        "score": 80
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/37th-annual-general-meeting/",
-        "anchor_text": "37th Annual General Meeting",
-        "score": 77
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/differentiated-formulations/",
-        "anchor_text": "Differentiated Formulations",
-        "score": 75
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/change-makers/",
-        "anchor_text": "Change Makers",
-        "score": 74
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/carbon-footprint/",
-        "anchor_text": "Carbon Footprint",
-        "score": 74
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/healthcare-professionals/",
-        "anchor_text": "Healthcare Professionals",
-        "score": 73
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/our-approach/",
-        "anchor_text": "Our Approach",
-        "score": 73
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/proprietary-products/",
-        "anchor_text": "Proprietary Products",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/livelihoods/",
-        "anchor_text": "Livelihoods",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/investor-meeting-details/",
-        "anchor_text": "Investor Meeting Details",
-        "score": 72
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/healthcare/",
-        "anchor_text": "Healthcare",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/statutory-communication/",
-        "anchor_text": "Statutory Communication",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/shareholder-information/",
-        "anchor_text": "Shareholder Information",
-        "score": 71
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/community/education/",
-        "anchor_text": "Education",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/affiliates/partners/",
-        "anchor_text": "Partners",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/shareholder-s-contacts/",
-        "anchor_text": "Shareholder’s Contacts",
-        "score": 70
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/humans-of-dr-reddy-s/",
-        "anchor_text": "Humans of Dr. Reddy’s",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/planet/initiatives/",
-        "anchor_text": "Initiatives",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/corporate-governance-reports/",
-        "anchor_text": "Corporate Governance Reports",
-        "score": 69
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/information-to-stakeholders/",
-        "anchor_text": "Information to Stakeholders",
-        "score": 68
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/quarterly-reports/",
-        "anchor_text": "Quarterly Reports",
-        "score": 67
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/life-at-drreddys/",
-        "anchor_text": "Life at Dr.Reddy's",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/internal-control-systems/",
-        "anchor_text": "Internal Control Systems",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/investor-handbook/",
-        "anchor_text": "Investor Handbook",
-        "score": 65
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/over-the-counter/",
-        "anchor_text": "Over-the-counter",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/annual-reports/",
-        "anchor_text": "Annual Reports",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/committees-of-the-board/",
-        "anchor_text": "Committees of the Board",
-        "score": 64
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-heritage/an-unfinished-agenda/",
-        "anchor_text": "An Unfinished Agenda",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/sustainability/",
-        "anchor_text": "Sustainability",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/share-transfer-information/",
-        "anchor_text": "Share Transfer Information",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/policies-and-documents/",
-        "anchor_text": "Policies and Documents",
-        "score": 63
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/unpaid-unclaimed-dividend/",
-        "anchor_text": "Unpaid & Unclaimed Dividend",
-        "score": 62
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/biologics/",
-        "anchor_text": "Biologics",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/sec-filings/",
-        "anchor_text": "SEC Filings",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/reports-and-filings/moa-and-aoa/",
-        "anchor_text": "MoA and AoA",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/compliance-with-nyse/",
-        "anchor_text": "Compliance with NYSE",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/credit-rating/",
-        "anchor_text": "Credit Rating",
-        "score": 61
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/development-streams/generics/",
-        "anchor_text": "Generics",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/equity-dividend-history/",
-        "anchor_text": "Equity & Dividend History",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/governance/ombudsperson-policy/",
-        "anchor_text": "Ombudsperson Policy",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/investors/investor-services/amalgamation/",
-        "anchor_text": "Amalgamation",
-        "score": 60
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/leadership/board-of-directors/",
-        "anchor_text": "Board Of Directors",
-        "score": 59
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/leadership/management-council/",
-        "anchor_text": "Management Council",
-        "score": 59
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/biologics/",
-        "anchor_text": "Biologics",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-people-and-our-citizenship/patients/",
-        "anchor_text": "Patients",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/investors/presentations/earnings-call/",
-        "anchor_text": "Earnings Call",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/shareholding-pattern/",
-        "anchor_text": "Shareholding Pattern",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-employees-respond-covid19/",
-        "anchor_text": "our employees respond covid19",
-        "score": 57
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/generics/",
-        "anchor_text": "Generics",
-        "score": 56
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/our-heritage/our-founder/",
-        "anchor_text": "Our Founder",
-        "score": 54
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/analyst-coverage/",
-        "anchor_text": "Analyst Coverage",
-        "score": 53
-      },
-      {
-        "url": "https://www.drreddys.com/partners/login-for-current-partners/",
-        "anchor_text": "Login for Current Partners",
-        "score": 53
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/stock-updates/",
-        "anchor_text": "Stock Updates",
-        "score": 50
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/about-us/milestones/",
-        "anchor_text": "Milestones",
-        "score": 49
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/research-philosophy/",
-        "anchor_text": "Research Philosophy",
-        "score": 49
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/therapeutic-focus/",
-        "anchor_text": "Therapeutic Focus",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/share-price/",
-        "anchor_text": "Share Price",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/medical-information/",
-        "anchor_text": "Medical Information",
-        "score": 48
-      },
-      {
-        "url": "https://www.drreddys.com/investors/presentations/presentations/",
-        "anchor_text": "Presentations",
-        "score": 47
-      },
-      {
-        "url": "https://www.drreddys.com/partners/prospective-partners/",
-        "anchor_text": "Prospective Partners",
-        "score": 47
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/business-focus/",
-        "anchor_text": "Our Products",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/media/dr-reddys-in-the-news/",
-        "anchor_text": "Dr. Reddy's in the news",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/global-locations/",
-        "anchor_text": "Global Locations",
-        "score": 45
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/featured-stories/",
-        "anchor_text": "Featured Stories",
-        "score": 44
-      },
-      {
-        "url": "https://www.drreddys.com/our-science/capabilities/",
-        "anchor_text": "Capabilities",
-        "score": 42
-      },
-      {
-        "url": "https://www.drreddys.com/partners/post-an-enquiry/",
-        "anchor_text": "Post an Enquiry",
-        "score": 42
-      },
-      {
-        "url": "https://www.drreddys.com/contact-us/key-contacts/",
-        "anchor_text": "Key Contacts",
-        "score": 41
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/who-we-are/",
-        "anchor_text": "Who We Are",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/our-products/quality/",
-        "anchor_text": "Quality",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/media/press-releases/",
-        "anchor_text": "Press Releases",
-        "score": 38
-      },
-      {
-        "url": "https://www.drreddys.com/our-story/about-us/",
-        "anchor_text": "Our Story",
-        "score": 36
-      },
-      {
-        "url": "https://www.drreddys.com/investors/shares/buyback/",
-        "anchor_text": "Buyback",
-        "score": 34
-      },
-      {
-        "url": "https://www.drreddys.com/media/media-kit/",
-        "anchor_text": "Media Kit",
-        "score": 33
-      },
-      {
-        "url": "https://www.drreddys.com/cookie-policy.aspx",
-        "anchor_text": "Cookie Policy.",
-        "score": 31
-      },
-      {
-        "url": "https://www.drreddys.com/united-states/",
-        "anchor_text": "United States",
-        "score": 29
-      },
-      {
-        "url": "https://www.drreddys.com/south-africa/",
-        "anchor_text": "South Africa",
-        "score": 28
-      },
-      {
-        "url": "https://www.drreddys.com/new-zealand/",
-        "anchor_text": "New Zealand",
-        "score": 27
-      },
-      {
-        "url": "https://www.drreddys.com/privacy-policy",
-        "anchor_text": "Privacy Notice",
-        "score": 27
-      },
-      {
-        "url": "https://www.drreddys.com/cookie-policy",
-        "anchor_text": "Cookie Policy",
-        "score": 26
-      },
-      {
-        "url": "https://www.drreddys.com/terms-of-use",
-        "anchor_text": "Terms Of Use",
-        "score": 25
-      },
-      {
-        "url": "https://www.drreddys.com/accessibility",
-        "anchor_text": "Accessibility",
-        "score": 16
-      },
-      {
-        "url": "https://www.drreddys.com/australia/",
-        "anchor_text": "Australia",
-        "score": 15
-      },
-      {
-        "url": "https://www.drreddys.com/search.aspx",
-        "anchor_text": "",
-        "score": 14
-      },
-      {
-        "url": "https://www.drreddys.com/germany/",
-        "anchor_text": "Germany",
-        "score": 13
-      },
-      {
-        "url": "https://www.drreddys.com/canada/",
-        "anchor_text": "Canada",
-        "score": 12
-      },
-      {
-        "url": "https://www.drreddys.com/russia/",
-        "anchor_text": "Russia",
-        "score": 12
-      },
-      {
-        "url": "https://www.drreddys.com/china/",
-        "anchor_text": "China",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/india/",
-        "anchor_text": "India",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2022",
-        "anchor_text": "2022",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2021",
-        "anchor_text": "2021",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2020",
-        "anchor_text": "2020",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2019",
-        "anchor_text": "2019",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2018",
-        "anchor_text": "2018",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2017",
-        "anchor_text": "2017",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2016",
-        "anchor_text": "2016",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2015",
-        "anchor_text": "2015",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2014",
-        "anchor_text": "2014",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2013",
-        "anchor_text": "2013",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2012",
-        "anchor_text": "2012",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2011",
-        "anchor_text": "2011",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2010",
-        "anchor_text": "2010",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2009",
-        "anchor_text": "2009",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2008",
-        "anchor_text": "2008",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2007",
-        "anchor_text": "2007",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2006",
-        "anchor_text": "2006",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2005",
-        "anchor_text": "2005",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/media/?year=2001",
-        "anchor_text": "2001",
-        "score": 11
-      },
-      {
-        "url": "https://www.drreddys.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Amgen",
     "press_url": "https://www.amgen.com/newsroom/press-releases",
     "candidate_links": [
@@ -6513,7 +5937,7 @@
       },
       {
         "url": "https://www.veeva.com/products/veeva-link/medical-insights/",
-        "anchor_text": "Veeva Medical InsightsAccelerate insights from capture to action",
+        "anchor_text": "Veeva Link Medical InsightsAccelerate insights from capture to action",
         "score": 56
       },
       {
@@ -7515,6 +6939,127 @@
     ]
   },
   {
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
+        "anchor_text": "subscribe",
+        "score": 58
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
+        "anchor_text": "Clinical Conversations",
+        "score": 45
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/identifying-threats/",
+        "anchor_text": "Identifying Threats",
+        "score": 42
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
+        "anchor_text": "Life in Atomic Resolution",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
+        "anchor_text": "New on ThermoFisher.com",
+        "score": 40
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
+        "anchor_text": "Ask a Scientist",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
+        "anchor_text": "Life in the Lab",
+        "score": 38
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/contact-us/",
+        "anchor_text": "Contact",
+        "score": 33
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/about-us/",
+        "anchor_text": "About Us",
+        "score": 31
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/behindthebench/",
+        "anchor_text": "Behind the Bench",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/semiconductors/",
+        "anchor_text": "Illuminating Semiconductors",
+        "score": 27
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/biotechnology/",
+        "anchor_text": "Biotech at Scale",
+        "score": 26
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/connectedlab/",
+        "anchor_text": "The Connected Lab",
+        "score": 25
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/analyteguru/",
+        "anchor_text": "AnalyteGuru",
+        "score": 24
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/oempowered/",
+        "anchor_text": "OEMpowered",
+        "score": 23
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/materials/",
+        "anchor_text": "Advancing Materials",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/locations/",
+        "anchor_text": "Locations",
+        "score": 22
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 20
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/mining/",
+        "anchor_text": "Advancing Mining",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/metals/",
+        "anchor_text": "Analyzing Metals",
+        "score": 19
+      },
+      {
+        "url": "https://www.thermofisher.com/blog/food/",
+        "anchor_text": "Examining Food",
+        "score": 17
+      },
+      {
+        "url": "https://www.thermofisher.com/",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 3
+      },
+      {
+        "url": "https://www.thermofisher.com",
+        "anchor_text": "Thermo Fisher Scientific",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Gland Pharma Limited",
     "press_url": "https://glandpharma.com/resource/news",
     "candidate_links": [
@@ -8369,132 +7914,6 @@
         "url": "https://www.birac.nic.in/cfp.php",
         "anchor_text": "Call for Proposal",
         "score": 10
-      }
-    ]
-  },
-  {
-    "company": "FocalCXM",
-    "press_url": "https://www.focalcxm.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.focalcxm.com/veeva-managed-services/",
-        "anchor_text": "Veeva Managed Services",
-        "score": 38
-      },
-      {
-        "url": "https://www.focalcxm.com/corporate-citizenship/",
-        "anchor_text": "Corporate Citizenship",
-        "score": 37
-      },
-      {
-        "url": "https://www.focalcxm.com/crm-managed-service/",
-        "anchor_text": "CRM Managed Services",
-        "score": 35
-      },
-      {
-        "url": "https://www.focalcxm.com/financial-services/",
-        "anchor_text": "Financial Services",
-        "score": 34
-      },
-      {
-        "url": "https://www.focalcxm.com/enterprise-search/",
-        "anchor_text": "Enterprise Search",
-        "score": 33
-      },
-      {
-        "url": "https://www.focalcxm.com/crm-blueprinting/",
-        "anchor_text": "CRM Blueprinting",
-        "score": 32
-      },
-      {
-        "url": "https://www.focalcxm.com/privacy-policy/",
-        "anchor_text": "Legal",
-        "score": 30
-      },
-      {
-        "url": "https://www.focalcxm.com/data-services/",
-        "anchor_text": "Data Services",
-        "score": 29
-      },
-      {
-        "url": "https://www.focalcxm.com/life-sciences/",
-        "anchor_text": "Life Sciences",
-        "score": 29
-      },
-      {
-        "url": "https://www.focalcxm.com/public-sector/",
-        "anchor_text": "Public Sector",
-        "score": 29
-      },
-      {
-        "url": "https://www.focalcxm.com/focal-events/",
-        "anchor_text": "Events",
-        "score": 28
-      },
-      {
-        "url": "https://www.focalcxm.com/case-studies/",
-        "anchor_text": "Case Studies",
-        "score": 28
-      },
-      {
-        "url": "https://www.focalcxm.com/b2b-rebates/",
-        "anchor_text": "B2B Rebates",
-        "score": 27
-      },
-      {
-        "url": "https://www.focalcxm.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://www.focalcxm.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://www.focalcxm.com/veeva-3/",
-        "anchor_text": "Veeva Services",
-        "score": 23
-      },
-      {
-        "url": "https://www.focalcxm.com/omnichannel/",
-        "anchor_text": "Omni Channel",
-        "score": 17
-      },
-      {
-        "url": "https://www.focalcxm.com/salesforce/",
-        "anchor_text": "SalesForce Services",
-        "score": 16
-      },
-      {
-        "url": "https://www.focalcxm.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
-      },
-      {
-        "url": "https://www.focalcxm.com/partners/",
-        "anchor_text": "Partners",
-        "score": 14
-      },
-      {
-        "url": "https://www.focalcxm.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://www.focalcxm.com/blogs/",
-        "anchor_text": "Blogs",
-        "score": 11
-      },
-      {
-        "url": "https://www.focalcxm.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
-        "url": "https://www.focalcxm.com/",
-        "anchor_text": "",
-        "score": 3
       }
     ]
   },
@@ -21444,6 +20863,11 @@
         "score": 10
       },
       {
+        "url": "https://www.bcg.com/answer",
+        "anchor_text": "Ask us a question",
+        "score": 9
+      },
+      {
         "url": "https://www.bcg.com/alumni",
         "anchor_text": "Alumni",
         "score": 9
@@ -24733,6 +24157,357 @@
     ]
   },
   {
+    "company": "Aurobindo Pharma",
+    "press_url": "https://www.aurobindo.com/media/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
+        "anchor_text": "Notice of Board Meetings",
+        "score": 106
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
+        "anchor_text": "Disclosures under Regulation 46 of the LODR",
+        "score": 102
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
+        "anchor_text": "General Meetings",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
+        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
+        "anchor_text": "Special window for lodgement of physical shares",
+        "score": 98
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 97
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
+        "anchor_text": "Supplier Code of Conduct",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
+        "anchor_text": "Appointment and Resignation of Directors",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
+        "anchor_text": "Registrar and Share Transfer Agent",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
+        "anchor_text": "Contact Details for Investor Grievance Redressal",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
+        "anchor_text": "Human Rights Policy",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
+        "anchor_text": "Related Party Transactions",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
+        "anchor_text": "Financials - Subsidiaries",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
+        "anchor_text": "Unpaid Dividend Account Details",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
+        "anchor_text": "Contact Details of KMPs",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 79
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
+        "anchor_text": "Results Announcements",
+        "score": 78
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 74
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
+        "anchor_text": "Scheme of Arrangements",
+        "score": 73
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
+        "anchor_text": "Sustainability Reports",
+        "score": 72
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
+        "anchor_text": "Financial Highlights",
+        "score": 71
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
+        "anchor_text": "Impact Assessment Reports - CSR Projects",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
+        "anchor_text": "Buyback of shares",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
+        "anchor_text": "Share Performance",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
+        "anchor_text": "IR Contacts",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
+        "anchor_text": "PEPFAR program",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
+        "anchor_text": "Dividend Record",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
+        "anchor_text": "Governance Policies",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 66
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
+        "anchor_text": "BMW Reports",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
+        "anchor_text": "Supply Chain Management",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 55
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
+        "anchor_text": "Key facts about HIV/AIDS",
+        "score": 51
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
+        "anchor_text": "Aurobindo Pharma Foundation",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
+        "anchor_text": "Access to Healthcare",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
+        "anchor_text": "Global Partners",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
+        "anchor_text": "Corporate Video",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
+        "anchor_text": "Annual Action Plan",
+        "score": 48
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
+        "anchor_text": "Annual Report",
+        "score": 47
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
+        "anchor_text": "Manufacturing",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
+        "anchor_text": "Gallery",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/overview",
+        "anchor_text": "Overview",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/products",
+        "anchor_text": "Products",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/growth-market",
+        "anchor_text": "Growth Markets",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
+        "anchor_text": "Gallery",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-policy",
+        "anchor_text": "CSR Policy",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
+        "anchor_text": "Life @ Aurobindo",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
+        "anchor_text": "About Us",
+        "score": 39
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/vision-mission",
+        "anchor_text": "Vision / Mission",
+        "score": 38
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/our-presence",
+        "anchor_text": "",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/apitoria",
+        "anchor_text": "Apitoria (API)",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/media/press-releases",
+        "anchor_text": "I Accept",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/curateq",
+        "anchor_text": "Curateq (Biosimilars) / Peptide",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/media/corporate-kit",
+        "anchor_text": "Corporate Kit",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/milestone",
+        "anchor_text": "Milestones",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/eugia",
+        "anchor_text": "Eugia (Speciality products)",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy#cookies",
+        "anchor_text": "Cookie policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/rd",
+        "anchor_text": "R&D",
+        "score": 26
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business",
+        "anchor_text": "Our Business",
+        "score": 25
+      },
+      {
+        "url": "https://www.aurobindo.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.aurobindo.com/sitemap.xml",
+        "anchor_text": "Site Map",
+        "score": 14
+      },
+      {
+        "url": "https://www.aurobindo.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.aurobindo.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.aurobindo.com/",
+        "anchor_text": "",
+        "score": 3
+      },
+      {
+        "url": "https://www.aurobindo.com",
+        "anchor_text": "Aurobindo Pharma Limited.",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Granules India",
     "press_url": "https://granulesindia.com/media/",
     "candidate_links": [
@@ -25486,11 +25261,6 @@
         "score": 120
       },
       {
-        "url": "https://www.lupin.com/media/press-releases/lupin-foundation-inaugurates-two-ncd-corners-in-karauli-and-hindaun-rajasthan",
-        "anchor_text": "Lupin Foundation Inaugurates Two NCD Corners in Karauli and Hindaun, Rajasthan",
-        "score": 115
-      },
-      {
         "url": "https://www.lupin.com/media/perspectives/how-innovation-leads-to-impact-making-science-led-treatment-accessible-in-india",
         "anchor_text": "May 13, 2026How Innovation Leads to Impact: Making Science-Led Treatment Accessible in India",
         "score": 115
@@ -25499,6 +25269,11 @@
         "url": "https://www.lupin.com/media/perspectives/integrating-esg-performance-into-long-term-capital-strategy-for-indian-pharma",
         "anchor_text": "March 13, 2026Integrating ESG Performance into Long-Term Capital Strategy for Indian Pharma",
         "score": 113
+      },
+      {
+        "url": "https://www.lupin.com/media/press-releases/lupin-receives-china-approval-for-oseltamivir-phosphate-oral-suspension",
+        "anchor_text": "Lupin Receives China Approval for Oseltamivir Phosphate Oral Suspension",
+        "score": 109
       },
       {
         "url": "https://www.lupin.com/media/press-releases/lupin-receives-u-s-fda-approval-for-glycerol-phenylbutyrate-oral-liquid",
@@ -31284,283 +31059,108 @@
     "candidate_links": [
       {
         "url": "https://www.tempus.com/news/pr/tempus-and-predicta-biosciences-announce-collaboration-to-expand-life-sciences-access-to-ultrasensitive-whole-genome-sequencing-assay-for-hematologic-malignancies-and-mrd-monitoring/",
-        "anchor_text": "Tempus and Predicta Biosciences Announce Collaboration to Expand Life Sciences Access to Ultrasensitive Whole-Genome Sequencing Assay for Hematologic Malignancies and MRD Monitoring",
+        "anchor_text": "Tempus and Predicta Biosciences Announce Collaboration to Expand Life Sciences Access to Ultrasensitive Whole-Genome Sequencing Assay for Hematologic Malignancies and MRD MonitoringTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and Predicta Biosciences, a precision oncology company developing novel diagnostic solutions for deep molecular characterization of hematologic malignancies with a focus on circulating tumor cells, today announced the commercial expansion of a co-branded whole-genome sequencing (WGS) assay, currently … Continued2026-04-15Press Release",
         "score": 209
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-launches-arteraai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
-        "anchor_text": "Tempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical Use",
-        "score": 196
+        "url": "https://www.tempus.com/news/pr/tempus-launches-artera-ai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
+        "anchor_text": "Tempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical UseTempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical Use2026-05-21Press Release",
+        "score": 197
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-expands-strategic-collaboration-with-bristol-myers-squibb-to-enhance-the-probability-of-success-across-clinical-development-programs-in-oncology-and-neuroscience/",
-        "anchor_text": "Tempus Expands Strategic Collaboration with Bristol Myers Squibb to Enhance the Probability of Success Across Clinical Development Programs In Oncology and Neuroscience",
+        "anchor_text": "Tempus Expands Strategic Collaboration with Bristol Myers Squibb to Enhance the Probability of Success Across Clinical Development Programs In Oncology and NeuroscienceTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced a new initiative with Bristol Myers Squibb (NYSE: BMY). This collaboration aims to leverage AI, multimodal real-world data and data science techniques to optimize clinical trial designs and enhance the Probability of Technical & Regulatory Success … Continued2026-05-14Press Release",
         "score": 196
       },
       {
-        "url": "https://www.tempus.com/resources/content/case-studies/tempus-next-pathways-unlocked-critical-insights-into-the-ansclc-patient-journey-with-bristol-myers-squibb-bms/",
-        "anchor_text": "Read case study",
-        "score": 162
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-announces-31-abstracts-for-presentation-at-the-american-association-for-cancer-research-annual-meeting-2026/",
-        "anchor_text": "Tempus Announces 31 Abstracts for Presentation at the American Association for Cancer Research Annual Meeting 2026",
-        "score": 142
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-named-to-times-list-of-the-10-most-influential-health-and-life-science-companies-of-2026/",
-        "anchor_text": "Tempus Named to TIME’s 10 Most Influential Health and Life Science Companies of 2026",
+        "anchor_text": "Tempus Named to TIME’s 10 Most Influential Health and Life Science Companies of 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company advancing precision medicine through the practical application of artificial intelligence, today announced it has been named to TIME’s 10 Most Influential Health and Life Science Companies of 2026. This inaugural TIME100 Companies: Industry Leaders list, an expansion of the TIME100 Most Influential Companies issue, recognizes the organizations … Continued2026-04-28Press Release",
         "score": 123
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-and-usc-announce-strategic-collaboration-to-accelerate-ai-driven-precision-medicine/",
-        "anchor_text": "Tempus and USC Announce Strategic Collaboration to Accelerate AI-Driven Precision Medicine",
+        "anchor_text": "Tempus and USC Announce Strategic Collaboration to Accelerate AI-Driven Precision MedicineTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and the Keck School of Medicine of USC and Keck Medicine of USC, today announced a multi-faceted collaboration aimed at transforming patient care and accelerating research through the power of data and AI. This collaboration is designed to … Continued2026-04-23Press Release",
         "score": 118
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-launches-automated-active-follow-up-service-to-support-guideline-concordant-care/",
-        "anchor_text": "Tempus Launches Automated “Active Follow-Up” Service to Support Guideline-Concordant Care",
-        "score": 115
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
-        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5",
+        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the first quarter ended March 31, 2026 on Tuesday, May 5, 2026. The company will host a conference call and live audio webcast at 4:30 p.m. ET to discuss the … Continued2026-04-21Press Release",
         "score": 90
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-to-host-inaugural-investor-day-on-may-29-2026/",
-        "anchor_text": "Tempus to Host Inaugural Investor Day on May 29, 2026",
+        "anchor_text": "Tempus to Host Inaugural Investor Day on May 29, 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced that the company will host an Investor Day on Friday, May 29, 2026. The event will start at 8:00 a.m. CT / 9:00 a.m. ET and will feature Tempus’ leadership team, including, Founder and CEO Eric … Continued2026-04-29Press Release",
         "score": 80
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/",
-        "anchor_text": "Tempus Reports First Quarter 2026 Results",
+        "anchor_text": "Tempus Reports First Quarter 2026 ResultsCHICAGO, May 5, 2026 — Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine and patient care, today reported financial results for the quarter ended March 31, 2026. Revenue of $348.1 million, up 36.1% year-over-year Diagnostics revenue of $261.1 million, representing 34.7% growth year-over-year, driven by Oncology … Continued2026-05-05Press Release",
         "score": 69
       },
       {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-therapy-response-evaluation/",
-        "anchor_text": "Tempus Pixel Therapy Response Evaluation",
-        "score": 68
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/oncology-care-gap-solutions/",
-        "anchor_text": "Care Gap Solutions",
+        "url": "https://www.tempus.com/solutions/next-for-oncology-life-sciences/",
+        "anchor_text": "Care Gap Intelligence",
         "score": 59
       },
       {
-        "url": "https://www.tempus.com/life-sciences/clinical-trial-enrollment/",
-        "anchor_text": "Clinical Trial Enrollment",
-        "score": 57
-      },
-      {
-        "url": "https://www.tempus.com/tempus-privacy-and-compliance-policies/",
-        "anchor_text": "Privacy and Compliance Policies",
+        "url": "https://www.tempus.com/solutions/clinical-trial-recruitment/",
+        "anchor_text": "Clinical Trial Recruitment",
         "score": 54
       },
       {
-        "url": "https://www.tempus.com/life-sciences/clinical-development/",
-        "anchor_text": "Clinical Development",
-        "score": 52
-      },
-      {
-        "url": "https://www.tempus.com/cardiology/care-pathway-solutions/",
-        "anchor_text": "Cardiology Care Pathway Solutions",
-        "score": 51
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/biological-modeling/",
-        "anchor_text": "Biological Modeling",
-        "score": 51
-      },
-      {
-        "url": "https://www.tempus.com/oncology/clinical-trial-matching/",
-        "anchor_text": "Clinical trial matching",
-        "score": 50
-      },
-      {
-        "url": "https://www.tempus.com/oncology/care-pathway-solutions/",
-        "anchor_text": "Oncology Care Pathway Solutions",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/neurology-psychiatry/tempus-pro/",
-        "anchor_text": "Tempus PRO™",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/commercialization/",
-        "anchor_text": "Commercialization",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/algorithmic-tests/",
-        "anchor_text": "AI-enabled Algorithms",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/foundation-models/",
-        "anchor_text": "Foundation Models",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/neurology-psychiatry/notetaker/",
-        "anchor_text": "Notetaker",
+        "url": "https://www.tempus.com/solutions/cdx-and-lab-services/",
+        "anchor_text": "CDx & Lab Services",
         "score": 48
       },
       {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-cardio/",
-        "anchor_text": "Tempus Pixel Cardio",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-breast/",
-        "anchor_text": "Tempus Pixel Breast",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/providers/data-collaborations/",
-        "anchor_text": "Data Collaborations",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/real-world-data/",
-        "anchor_text": "RWD & Tempus Lens",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/omics-solutions/",
-        "anchor_text": "Omics Solutions",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-lung/",
-        "anchor_text": "Tempus Pixel Lung",
+        "url": "https://www.tempus.com/solutions/digital-pathology/",
+        "anchor_text": "Pathology",
         "score": 45
       },
       {
-        "url": "https://www.tempus.com/oncology/genomic-profiling/",
-        "anchor_text": "Genomic Profiling",
-        "score": 44
-      },
-      {
-        "url": "https://www.tempus.com/oncology/algorithmic-tests/",
-        "anchor_text": "Algorithmic Tests",
-        "score": 44
-      },
-      {
-        "url": "https://www.tempus.com/resources/document-library/",
-        "anchor_text": "Document Library",
-        "score": 44
-      },
-      {
-        "url": "https://www.tempus.com/oncology/ehr-integration/",
-        "anchor_text": "EHR Integration",
-        "score": 42
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/sequencing/",
-        "anchor_text": "Sequencing",
-        "score": 42
-      },
-      {
-        "url": "https://www.tempus.com/resources/faqs-oncology/",
-        "anchor_text": "FAQ",
-        "score": 41
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/research/",
-        "anchor_text": "Research",
+        "url": "https://www.tempus.com/solutions/cro-services/",
+        "anchor_text": "CRO Services",
         "score": 40
       },
       {
-        "url": "https://www.tempus.com/life-sciences/compass/",
-        "anchor_text": "CRO Services",
+        "url": "https://www.tempus.com/patients-clinical-trials/",
+        "anchor_text": "Clinical Trials",
+        "score": 40
+      },
+      {
+        "url": "https://www.tempus.com/solutions/data-and-ai/",
+        "anchor_text": "Data & AI",
         "score": 39
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/studies/",
-        "anchor_text": "Tempus Studies",
-        "score": 39
-      },
-      {
-        "url": "https://www.tempus.com/oncology/tempus-plus/",
-        "anchor_text": "Tempus+",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/patients/neuro-psych/",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/about-us/our-history/",
-        "anchor_text": "Our History",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/about-us/tempus-tech/",
-        "anchor_text": "Our Technology",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/responsible-disclosure/",
-        "anchor_text": "Responsible Disclosure",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/oncology/tempus-one/",
-        "anchor_text": "Tempus One",
-        "score": 37
-      },
-      {
-        "url": "https://www.tempus.com/news/media-coverage/",
-        "anchor_text": "Media Coverage",
-        "score": 37
-      },
-      {
-        "url": "https://www.tempus.com/resources/media-kit/",
-        "anchor_text": "Media Library",
-        "score": 37
       },
       {
         "url": "https://www.tempus.com/neurology-psychiatry/",
-        "anchor_text": "Neurology & Psychiatry Overview",
+        "anchor_text": "Neurology & Psychiatry",
         "score": 36
       },
       {
-        "url": "https://www.tempus.com/cardiology/ecg-ai/",
-        "anchor_text": "ECG-AI",
+        "url": "https://www.tempus.com/patients-neuro-psych/",
+        "anchor_text": "Neurology & Psychiatry",
+        "score": 36
+      },
+      {
+        "url": "https://www.tempus.com/data-collaborations/",
+        "anchor_text": "Data Collaborations",
         "score": 35
       },
       {
-        "url": "https://www.tempus.com/life-sciences/cdx/",
-        "anchor_text": "Companion Diagnostics",
-        "score": 35
-      },
-      {
-        "url": "https://www.tempus.com/about-us/our-team/",
-        "anchor_text": "Our Team",
-        "score": 35
-      },
-      {
-        "url": "https://www.tempus.com/events/asco-2026/?srsltid=AfmBOoq7JaHYGPUNVi0MOBeXo8-NOryF-uCquvU_9YyIiN4KOFXi-ElN",
-        "anchor_text": "Learn more",
-        "score": 34
-      },
-      {
-        "url": "https://www.tempus.com/about-us/careers/",
-        "anchor_text": "Careers",
-        "score": 34
-      },
-      {
-        "url": "https://www.tempus.com/about-us/culture/",
-        "anchor_text": "Culture",
-        "score": 34
-      },
-      {
-        "url": "https://www.tempus.com/newsletter-signup/",
-        "anchor_text": "STAY INFORMED",
+        "url": "https://www.tempus.com/patients-oncology/",
+        "anchor_text": "Oncology",
         "score": 33
+      },
+      {
+        "url": "https://www.tempus.com/document-library/",
+        "anchor_text": "Document Library",
+        "score": 32
+      },
+      {
+        "url": "https://www.tempus.com/policy-center/",
+        "anchor_text": "Policy Center",
+        "score": 29
       },
       {
         "url": "https://www.tempus.com/life-sciences/",
@@ -31568,108 +31168,68 @@
         "score": 29
       },
       {
-        "url": "https://www.tempus.com/job-postings/",
-        "anchor_text": "View Job Postings",
-        "score": 28
-      },
-      {
-        "url": "https://www.tempus.com/terms-of-use/",
-        "anchor_text": "Terms of Use",
-        "score": 28
-      },
-      {
-        "url": "https://www.tempus.com/radiology/prostate/",
-        "anchor_text": "Tempus Pixel Prostate",
-        "score": 26
+        "url": "https://www.tempus.com/media-library/",
+        "anchor_text": "Media Library",
+        "score": 29
       },
       {
         "url": "https://www.tempus.com/contact-us/",
-        "anchor_text": "Contact Us",
+        "anchor_text": "CONTACT US",
         "score": 26
       },
       {
-        "url": "https://www.tempus.com/patients/oncology/",
-        "anchor_text": "Oncology",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#our-team",
+        "anchor_text": "Our Team",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/resources/content/",
-        "anchor_text": "All",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#our-tech",
+        "anchor_text": "Our Tech",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/resources/content/?filter-tag=providers",
-        "anchor_text": "Providers",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#culture",
+        "anchor_text": "Culture",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/resources/content/?filter-tag=life-sciences",
-        "anchor_text": "Life Sciences",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#careers",
+        "anchor_text": "Careers",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/news/partnerships/",
-        "anchor_text": "Additional Partnerships",
-        "score": 25
-      },
-      {
-        "url": "https://www.tempus.com/oncology/hub/",
-        "anchor_text": "Tempus Hub",
-        "score": 20
-      },
-      {
-        "url": "https://www.tempus.com/publications/",
-        "anchor_text": "All",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=oncology",
+        "url": "https://www.tempus.com/publications/?tags=oncology",
         "anchor_text": "Oncology",
         "score": 18
       },
       {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=neuro-psych",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=cardiology",
+        "url": "https://www.tempus.com/publications/?tags=cardiology",
         "anchor_text": "Cardiology",
         "score": 18
       },
       {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=infectious-disease",
-        "anchor_text": "Infectious Disease",
+        "url": "https://www.tempus.com/publications/?tags=neuro-psych",
+        "anchor_text": "Neurology & Psychiatry",
+        "score": 18
+      },
+      {
+        "url": "https://www.tempus.com/publications/",
+        "anchor_text": "All Publications",
         "score": 18
       },
       {
         "url": "https://www.tempus.com/cardiology/",
-        "anchor_text": "Cardiology Overview",
+        "anchor_text": "Cardiology",
         "score": 16
       },
       {
-        "url": "https://www.tempus.com/providers/",
-        "anchor_text": "Providers",
-        "score": 15
-      },
-      {
-        "url": "https://www.tempus.com/pathology/",
-        "anchor_text": "Digital Pathology",
-        "score": 15
-      },
-      {
         "url": "https://www.tempus.com/radiology/",
-        "anchor_text": "Radiology Overview",
-        "score": 15
-      },
-      {
-        "url": "https://www.tempus.com/resources/",
-        "anchor_text": "Resources",
+        "anchor_text": "Radiology",
         "score": 15
       },
       {
         "url": "https://www.tempus.com/oncology/",
-        "anchor_text": "Oncology Overview",
+        "anchor_text": "Oncology",
         "score": 14
       },
       {
@@ -31678,9 +31238,19 @@
         "score": 14
       },
       {
-        "url": "https://www.tempus.com/patients/",
-        "anchor_text": "Patients Overview",
-        "score": 14
+        "url": "https://www.tempus.com/content/?tags=providers",
+        "anchor_text": "For Providers",
+        "score": 13
+      },
+      {
+        "url": "https://www.tempus.com/content/?tags=life-sciences",
+        "anchor_text": "For Life Sciences",
+        "score": 13
+      },
+      {
+        "url": "https://www.tempus.com/content/",
+        "anchor_text": "All Content",
+        "score": 13
       },
       {
         "url": "https://www.tempus.com/privacy/",
@@ -31688,63 +31258,33 @@
         "score": 13
       },
       {
+        "url": "https://www.tempus.com/events/?libraryType=conference",
+        "anchor_text": "Conferences",
+        "score": 12
+      },
+      {
+        "url": "https://www.tempus.com/events/?libraryType=webinar",
+        "anchor_text": "Webinars",
+        "score": 12
+      },
+      {
         "url": "https://www.tempus.com/events/",
-        "anchor_text": "All",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/?filter=providers&post-search=",
-        "anchor_text": "Providers",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/?filter=life-sciences&post-search=",
-        "anchor_text": "Life Sciences",
+        "anchor_text": "All Events",
         "score": 12
       },
       {
         "url": "https://www.tempus.com/order/",
-        "anchor_text": "ORDER A TEST",
+        "anchor_text": "",
         "score": 11
       },
       {
         "url": "https://www.tempus.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/ttct/",
-        "anchor_text": "Clinical Trials",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=1",
-        "anchor_text": "1",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=2",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=3",
-        "anchor_text": "3",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=30",
-        "anchor_text": "",
+        "anchor_text": "Press Releases",
         "score": 10
       },
       {
         "url": "https://www.tempus.com/",
-        "anchor_text": "Tempus",
-        "score": 3
-      },
-      {
-        "url": "https://www.tempus.com/#tempusvision",
-        "anchor_text": "It's About Time",
+        "anchor_text": "",
         "score": 3
       }
     ]
@@ -32132,134 +31672,354 @@
     "press_url": "https://www.gehealthcare.com/newsroom",
     "candidate_links": [
       {
-        "url": "https://www.gehealthcare.com/-/media/GEHC/US/Files/Others/Home-Page/GE-HC-California-Transparency-Supply-Chains-Act-Stmt---WEB?_ga=2.229800540.1591284994.1745218866-506411479.1744646867",
-        "anchor_text": "California Transparency in Supply Chain Act",
-        "score": 124
-      },
-      {
         "url": "https://www.gehealthcare.com/-/jssmedia/gehc/us/files/privacy-policy/gehccaliforniaonlineprivacypolicyfinal.pdf?rev=9e64afdab36541088b97048ee5280743",
         "anchor_text": "California Privacy Policy",
         "score": 107
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/surgical-visualization-and-guidance/urology",
+        "url": "https://www.gehealthcare.com/en-us/products/imaging-applications/advanced-visualization-applications",
+        "anchor_text": "Advanced Visualization",
+        "score": 90
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/surgical-visualization-and-guidance/urology",
         "anchor_text": "Urology",
-        "score": 82
+        "score": 90
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/ultrasound-digital-solutions/digital-expert",
-        "anchor_text": "Digital Expert",
-        "score": 82
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging-agents/support/product-certificates",
+        "anchor_text": "Core Imaging (CI) Certification",
+        "score": 89
       },
       {
-        "url": "https://www.gehealthcare.com/products/goldseal-refurbished-imaging-and-ultrasound-systems",
-        "anchor_text": "Refurbished Systems",
-        "score": 75
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/ultrasound/surgical-visualization-and-guidance",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/surgical-visualization-and-guidance",
         "anchor_text": "Surgical Visualization and Guidance",
-        "score": 72
+        "score": 80
       },
       {
-        "url": "https://www.gehealthcare.com/services/patient-care-solutions/patient-care-solutions",
-        "anchor_text": "Critical care equipment services",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/about/email-preferences.html",
+        "anchor_text": "Email Preferences",
+        "score": 78
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/point-of-care-ultrasound/venue",
+        "anchor_text": "Point of Care | Venue",
+        "score": 77
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging-agents/pharma-services",
+        "anchor_text": "Pharma Services",
+        "score": 74
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/ultrasound-digital-solutions",
+        "anchor_text": "Ultrasound Digital & AI Solutions | Verisound",
+        "score": 73
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/skeye-cybersecurity",
+        "anchor_text": "Skeye Cybersecurity",
         "score": 71
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/ultrasound-digital-solutions",
-        "anchor_text": "Ultrasound Digital & AI Solutions | Verisound",
-        "score": 65
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/about/contact-us.html",
+        "anchor_text": "Contact Us",
+        "score": 71
       },
       {
-        "url": "https://www.gehealthcare.com/products/nuclear-imaging-agents/pharma-services",
-        "anchor_text": "Pharma Services",
+        "url": "https://www.gehealthcare.com/en-us/services/cybersecurity/product-cybersecurity",
+        "anchor_text": "Product Cybersecurity",
+        "score": 69
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/software/pacs-and-ai-orchestration",
+        "anchor_text": "PACS & AI Orchestration",
+        "score": 68
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/onwatch-predict",
+        "anchor_text": "Onwatch Predict",
+        "score": 67
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/ultrasound-transducers",
+        "anchor_text": "Disinfection of Ultrasound Probes",
+        "score": 67
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging/mim-software",
+        "anchor_text": "Post-processing",
         "score": 64
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/point-of-care-ultrasound",
-        "anchor_text": "Point of Care | Venue",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/handheld-ultrasound",
+        "anchor_text": "Handheld Ultrasound | Vscan",
+        "score": 64
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/advanced-visualization-platforms",
+        "anchor_text": "Advanced Visualization | AW",
+        "score": 64
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/breast-ultrasound",
+        "anchor_text": "Breast Ultrasound",
+        "score": 62
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/digital-solutions/tube-watch",
+        "anchor_text": "Tube Watch",
+        "score": 62
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/software/enterprise-imaging",
+        "anchor_text": "Enterprise Imaging (VNA) | Datalogue",
         "score": 61
       },
       {
-        "url": "https://www.gehealthcare.com/products/software/pacs-and-ai-orchestration",
-        "anchor_text": "PACS & AI Orchestration",
+        "url": "https://www.gehealthcare.com/en-us/products/goldseal-systems/oec-c-arms",
+        "anchor_text": "OEC C-arms",
+        "score": 61
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound-developer-program",
+        "anchor_text": "Ultrasound Developer Program",
         "score": 60
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/ultrasound-transducers",
-        "anchor_text": "Disinfection of Ultrasound Probes",
+        "url": "https://www.gehealthcare.com/en-us/products/software/genesis-solutions",
+        "anchor_text": "Genesis Solutions",
+        "score": 60
+      },
+      {
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/about/suppliers.html",
+        "anchor_text": "Suppliers",
+        "score": 60
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/radiography-and-fluoroscopy",
+        "anchor_text": "Radiography (X-ray)",
         "score": 59
       },
       {
-        "url": "https://www.gehealthcare.com/products/artificial-intelligence-solutions",
-        "anchor_text": "Artificial Intelligence",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/about/newsroom.html",
+        "anchor_text": "News and Press",
+        "score": 59
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/magnetic-resonance-imaging",
+        "anchor_text": "Magnetic Resonance Imaging",
+        "score": 58
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/pharmaceutical-diagnostics",
+        "anchor_text": "All Pharmaceutical Diagnostics",
+        "score": 58
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/bone-and-metabolic-health",
+        "anchor_text": "Bone & Metabolic Health",
         "score": 57
       },
       {
-        "url": "https://www.gehealthcare.com/products/molecular-imaging/mim-software",
-        "anchor_text": "Post-processing",
+        "url": "https://www.gehealthcare.com/en-us/products/software/command-center",
+        "anchor_text": "Hospital Operations | Command Centeropens in a new tab",
+        "score": 57
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/refresh-payment-solutions",
+        "anchor_text": "Refresh Financial Services",
+        "score": 57
+      },
+      {
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/insights/articles?speciality=news-trends",
+        "anchor_text": "GE HealthCare reports",
+        "score": 57
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging-agents",
+        "anchor_text": "Molecular Imaging Agents",
         "score": 56
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/handheld-ultrasound",
-        "anchor_text": "Handheld Ultrasound | Vscan",
+        "url": "https://www.gehealthcare.com/en-us/products/software/careintellect",
+        "anchor_text": "Integrated Care Applications | CareIntellect",
         "score": 56
       },
       {
-        "url": "https://www.gehealthcare.com/services/services/product-cybersecurity",
-        "anchor_text": "Product Cybersecurity",
-        "score": 56
+        "url": "https://www.gehealthcare.com/en-us/products/image-guiding-solutions",
+        "anchor_text": "Image Guiding Solutions",
+        "score": 55
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/breast-ultrasound",
-        "anchor_text": "Breast Ultrasound",
+        "url": "https://www.gehealthcare.com/en-us/products/patient-care-solutions",
+        "anchor_text": "All Patient Care Solutions",
         "score": 54
       },
       {
-        "url": "https://www.gehealthcare.com/products/software/enterprise-imaging",
-        "anchor_text": "Enterprise Imaging (VNA) | Datalogue",
+        "url": "https://www.gehealthcare.com/en-us/services/patient-care-solutions",
+        "anchor_text": "Critical care equipment services",
+        "score": 54
+      },
+      {
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en/specialties.html",
+        "anchor_text": "Specialties",
+        "score": 54
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/specialties/oncology-solutions",
+        "anchor_text": "Oncology",
         "score": 53
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound-developer-program",
-        "anchor_text": "Ultrasound Developer Program",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/versana",
+        "anchor_text": "Primary Care | Versana",
         "score": 52
       },
       {
-        "url": "https://www.gehealthcare.com/products/magnetic-resonance-imaging",
-        "anchor_text": "Magnetic Resonance Imaging",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/voluson",
+        "anchor_text": "Women's Health | Voluson",
+        "score": 52
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/maternal-infant-care",
+        "anchor_text": "Maternal & Infant Care",
+        "score": 52
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/clinical-accessories",
+        "anchor_text": "Clinical Accessories",
+        "score": 52
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/insights/leading-perspectives",
+        "anchor_text": "Leading Perspectivesopens in a new tab",
+        "score": 52
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/adverse-event-reporting",
+        "anchor_text": "Adverse Event Reporting",
+        "score": 52
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/computed-tomography",
+        "anchor_text": "Computed Tomography",
+        "score": 51
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/invasive-cardiology",
+        "anchor_text": "Invasive Cardiology",
+        "score": 51
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/anesthesia-delivery",
+        "anchor_text": "Anesthesia Solutions",
+        "score": 51
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/imaging-accessories",
+        "anchor_text": "Imaging Accessories",
+        "score": 51
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/predictive-services",
+        "anchor_text": "All Predictive Services",
+        "score": 51
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/expanded-access-policy",
+        "anchor_text": "Expanded Access Policy",
+        "score": 51
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/vivid",
+        "anchor_text": "Cardiovascular | Vivid",
         "score": 50
       },
       {
-        "url": "https://www.gehealthcare.com/products/pharmaceutical-diagnostics",
-        "anchor_text": "All Pharmaceutical Diagnostics",
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound/logiq",
+        "anchor_text": "General Imaging | LOGIQ",
         "score": 50
       },
       {
-        "url": "https://www.gehealthcare.com/services/mygehealthcare-experience",
-        "anchor_text": "MyGEHealthCare",
+        "url": "https://www.gehealthcare.com/en-us/products/patient-monitoring",
+        "anchor_text": "Patient Monitoring",
+        "score": 50
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/financial-services",
+        "anchor_text": "Healthcare Financial Services",
+        "score": 50
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/support/orders-and-invoices",
+        "anchor_text": "Orders and Invoices",
+        "score": 50
+      },
+      {
+        "url": "https://www.gehealthcare.com/productsecurity/portal-terms-of-use",
+        "anchor_text": "Portal Terms of Use",
+        "score": 50
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/molecular-imaging",
+        "anchor_text": "Molecular Imaging",
         "score": 49
       },
       {
-        "url": "https://www.gehealthcare.com/services/refresh-payment-solutions",
-        "anchor_text": "Refresh Financial Services",
+        "url": "https://www.gehealthcare.com/en-us/courses/clinical-education",
+        "anchor_text": "Clinical Education",
         "score": 49
       },
       {
-        "url": "https://www.gehealthcare.com/products/bone-and-metabolic-health",
-        "anchor_text": "Bone & Metabolic Health",
+        "url": "https://www.gehealthcare.com/en-us/courses/leadership-academy",
+        "anchor_text": "Professional Development",
         "score": 49
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/primary-care",
-        "anchor_text": "Primary Care | Versana",
+        "url": "https://www.gehealthcare.com/en-us/insights/inspiring-stories",
+        "anchor_text": "Inspiring Storiesopens in a new tab",
         "score": 49
       },
       {
-        "url": "https://www.gehealthcare.com/about/about-ge-healthcare-systems",
-        "anchor_text": "About GE HealthCare",
+        "url": "https://www.gehealthcare.com/en-us/about/community-engagement",
+        "anchor_text": "Community Engagement",
+        "score": 49
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/terms-and-conditions",
+        "anchor_text": "Terms and Conditions",
+        "score": 49
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/surgical-imaging",
+        "anchor_text": "Surgical Imaging",
         "score": 48
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/interoperability",
+        "anchor_text": "Interoperability",
+        "score": 48
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/our-economic-impact",
+        "anchor_text": "Our Economic Impact",
+        "score": 48
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/software/cvit",
+        "anchor_text": "Cardiology IT | Centricity",
+        "score": 47
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/productsecurity/products",
+        "anchor_text": "Security",
+        "score": 47
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/medical-affairs",
+        "anchor_text": "Medical Affairs - Pharmaceutical Diagnostics",
+        "score": 47
       },
       {
         "url": "https://www.gehealthcare.com/shop/apps-and-accessories/list?query=::category:eqpAccessories:eqpClassifyValue:MODALITY:category:accUltrasound",
@@ -32267,28 +32027,38 @@
         "score": 47
       },
       {
-        "url": "https://www.gehealthcare.com/products/image-guiding-solutions",
-        "anchor_text": "Image Guiding Solutions",
+        "url": "https://www.gehealthcare.com/en-us/about/latest-innovations",
+        "anchor_text": "Our Innovations",
         "score": 47
       },
       {
-        "url": "https://www.gehealthcare.com/products/advanced-visualization",
-        "anchor_text": "Advanced Visualization |AW",
+        "url": "https://www.gehealthcare.com/en-us/products/diagnostic-ecg",
+        "anchor_text": "Diagnostic ECG",
         "score": 46
       },
       {
-        "url": "https://www.gehealthcare.com/products/patient-care-solutions",
-        "anchor_text": "All Patient Care Solutions",
+        "url": "https://www.gehealthcare.com/en-us/products/contrast-media",
+        "anchor_text": "Contrast Media",
         "score": 46
       },
       {
-        "url": "https://www.gehealthcare.com/products/nuclear-imaging-agents",
-        "anchor_text": "Molecular Imaging Agents",
+        "url": "https://www.gehealthcare.com/en-us/services/mygehealthcare",
+        "anchor_text": "MyGEHealthCare",
         "score": 46
       },
       {
-        "url": "https://www.gehealthcare.com/specialties/oncology-solutions",
-        "anchor_text": "Oncology",
+        "url": "https://www.gehealthcare.com/en-us/about/suppliers/coupa",
+        "anchor_text": "Coupa",
+        "score": 46
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/cybersecurity",
+        "anchor_text": "All Cybersecurity",
+        "score": 45
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/specialties/cardiology",
+        "anchor_text": "Cardiology",
         "score": 45
       },
       {
@@ -32297,149 +32067,79 @@
         "score": 45
       },
       {
-        "url": "https://www.gehealthcare.com/products/anesthesia-solutions",
-        "anchor_text": "Anesthesia Solutions",
-        "score": 44
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/maternal-infant-care",
-        "anchor_text": "Maternal & Infant Care",
-        "score": 44
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/clinical-accessories",
-        "anchor_text": "Clinical Accessories",
-        "score": 44
-      },
-      {
-        "url": "https://www.gehealthcare.com/insights/leading-perspectives",
-        "anchor_text": "Leading Perspectives",
-        "score": 44
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/adverse-event-reporting",
-        "anchor_text": "Adverse Event Reporting",
-        "score": 44
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/computed-tomography",
-        "anchor_text": "Computed Tomography",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/fluoroscopy-systems",
-        "anchor_text": "Fluoroscopy",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/invasive-cardiology",
-        "anchor_text": "Invasive Cardiology",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/imaging-accessories",
-        "anchor_text": "Imaging Accessories",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/services/predictive-services",
-        "anchor_text": "All Predictive Services",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/services/skeye-cybersecurity",
-        "anchor_text": "Skeye Cybersecurity",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/education/clinical-education",
-        "anchor_text": "Clinical Education",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/education/technical-training",
-        "anchor_text": "Technical Training",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/Expanded-Access-Policy",
-        "anchor_text": "Expanded Access Policy",
-        "score": 43
-      },
-      {
-        "url": "https://www.gehealthcare.com/support/orders-and-invoices",
-        "anchor_text": "Orders and Invoices",
-        "score": 42
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/patient-monitoring",
-        "anchor_text": "Patient Monitoring",
-        "score": 42
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/community-engagement",
-        "anchor_text": "Community Engagement",
-        "score": 41
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/molecular-imaging",
-        "anchor_text": "Molecular Imaging",
-        "score": 41
-      },
-      {
-        "url": "https://www.gehealthcare.com/insights/inspiring-stories",
-        "anchor_text": "Inspiring Stories",
-        "score": 41
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/terms-and-conditions",
-        "anchor_text": "Terms and Conditions",
-        "score": 41
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/our-economic-impact",
-        "anchor_text": "Our Economic Impact",
-        "score": 40
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/surgical-imaging",
-        "anchor_text": "Surgical Imaging",
-        "score": 40
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/latest-innovations",
-        "anchor_text": "Our Innovations",
-        "score": 39
-      },
-      {
-        "url": "https://www.gehealthcare.com/services/onwatch-predict",
-        "anchor_text": "OnWatch Predict",
-        "score": 39
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/diagnostic-ecg",
-        "anchor_text": "Diagnostic ECG",
-        "score": 38
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/contrast-media",
-        "anchor_text": "Contrast Media",
-        "score": 38
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/software/careintellect",
-        "anchor_text": "Integrated Care Applications | CareIntellect",
-        "score": 38
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/email-preferences",
-        "anchor_text": "Email Preferences",
-        "score": 38
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/site-planning",
+        "url": "https://www.gehealthcare.com/en-us/support/site-planning",
         "anchor_text": "Site Planning",
+        "score": 44
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/imaging-360",
+        "anchor_text": "Imaging Operations | Imaging 360",
+        "score": 43
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/mammography",
+        "anchor_text": "Mammography",
+        "score": 43
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 43
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/ultrasound",
+        "anchor_text": "All Ultrasound",
+        "score": 42
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/software",
+        "anchor_text": "All Software and AI Solutions",
+        "score": 40
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/insights/articles",
+        "anchor_text": "Clinical insights",
+        "score": 40
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/products/imaging",
+        "anchor_text": "All Imaging",
+        "score": 39
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/contact-us",
+        "anchor_text": "Contact",
+        "score": 39
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/foundation",
+        "anchor_text": "Foundation",
+        "score": 39
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/compliance",
+        "anchor_text": "Compliance",
+        "score": 39
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/support/manuals",
+        "anchor_text": "Manuals & Documentsopens in a new tab",
+        "score": 38
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/suppliers",
+        "anchor_text": "Suppliers",
+        "score": 38
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/about/newsroom",
+        "anchor_text": "Newsroom",
         "score": 37
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/services/mtas",
+        "anchor_text": "Medical Technology Advanced Services",
+        "score": 36
       },
       {
         "url": "https://www.gehealthcare.com/products/web-ordering",
@@ -32447,74 +32147,44 @@
         "score": 36
       },
       {
-        "url": "https://www.gehealthcare.com/products/imaging-360",
-        "anchor_text": "Imaging Operations | Imaging 360",
+        "url": "https://www.gehealthcare.com/content/gehealthcare/us/en",
+        "anchor_text": "",
         "score": 35
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/voluson",
-        "anchor_text": "Women's Health | Voluson",
-        "score": 34
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/tube-watch",
-        "anchor_text": "Tube Watch",
-        "score": 34
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/ultrasound/vivid",
-        "anchor_text": "Cardiovascular | Vivid",
+        "url": "https://www.gehealthcare.com/en-us/about/ehs",
+        "anchor_text": "EHS",
         "score": 32
       },
       {
-        "url": "https://www.gehealthcare.com/products/ultrasound/logiq",
-        "anchor_text": "General Imaging | LOGIQ",
-        "score": 32
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.gehealthcare.com/financial-services",
-        "anchor_text": "Healthcare Financial Services",
-        "score": 31
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/interoperability",
-        "anchor_text": "Interoperability",
-        "score": 30
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/software/cvit",
-        "anchor_text": "Cardiology IT | Centricity",
+        "url": "https://www.gehealthcare.com/en-us/services",
+        "anchor_text": "All Services",
         "score": 29
       },
       {
-        "url": "https://www.gehealthcare.com/medical-affairs",
-        "anchor_text": "Medical Affairs - Pharmaceutical Diagnostics",
+        "url": "https://www.gehealthcare.com/productsecurity/products",
+        "anchor_text": "Product Security Portalopens in a new tab",
+        "score": 29
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/insights",
+        "anchor_text": "Explore our content collection",
+        "score": 29
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/register",
+        "anchor_text": "Register Now",
+        "score": 29
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/courses",
+        "anchor_text": "All Education",
         "score": 28
       },
       {
-        "url": "https://www.gehealthcare.com/ci-certs-search",
-        "anchor_text": "Core Imaging (CI) Certification",
+        "url": "https://www.gehealthcare.com/en-us/sitemap",
+        "anchor_text": "Sitemapopens in a new tab",
         "score": 28
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/suppliers/coupa",
-        "anchor_text": "Coupa",
-        "score": 28
-      },
-      {
-        "url": "https://www.gehealthcare.com/specialties/cardiology",
-        "anchor_text": "Cardiology",
-        "score": 27
-      },
-      {
-        "url": "https://www.gehealthcare.com/services/cybersecurity",
-        "anchor_text": "All Cybersecurity",
-        "score": 27
       },
       {
         "url": "https://www.gehealthcare.com/shop/education/list?query=::category:education&pageSize=12&currentPage=0",
@@ -32522,74 +32192,19 @@
         "score": 26
       },
       {
-        "url": "https://www.gehealthcare.com/about/sustainability",
-        "anchor_text": "Sustainability",
+        "url": "https://www.gehealthcare.com/en-us/about",
+        "anchor_text": "About Us",
+        "score": 26
+      },
+      {
+        "url": "https://www.gehealthcare.com/en-us/shop",
+        "anchor_text": "Shop All",
         "score": 25
       },
       {
-        "url": "https://www.gehealthcare.com/products/mammography",
-        "anchor_text": "Mammography",
-        "score": 25
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/radiography",
-        "anchor_text": "Radiography (X-ray)",
-        "score": 25
-      },
-      {
-        "url": "https://www.gehealthcare.com/productsecurity/home",
-        "anchor_text": "Security",
-        "score": 25
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/ultrasound",
-        "anchor_text": "All Ultrasound",
-        "score": 24
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/software",
-        "anchor_text": "All Software and AI Solutions",
-        "score": 22
-      },
-      {
-        "url": "https://www.gehealthcare.com/insights/articles?specialty=News+and+Trends&format=&take=9&skip=0&careArea=&topic=&modality=&sortBy=",
-        "anchor_text": "GE HealthCare reports",
-        "score": 22
-      },
-      {
-        "url": "https://www.gehealthcare.com/insights/articles",
-        "anchor_text": "Clinical insights",
-        "score": 22
-      },
-      {
-        "url": "https://www.gehealthcare.com/products/imaging",
-        "anchor_text": "All Imaging",
-        "score": 21
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/compliance",
-        "anchor_text": "Compliance",
-        "score": 21
-      },
-      {
-        "url": "https://www.gehealthcare.com/about/suppliers",
-        "anchor_text": "Suppliers",
-        "score": 20
-      },
-      {
-        "url": "https://www.gehealthcare.com/leadershipacademy",
-        "anchor_text": "Professional Development",
-        "score": 20
-      },
-      {
-        "url": "https://www.gehealthcare.com/support/manuals",
-        "anchor_text": "Manuals & Documents",
-        "score": 20
-      },
-      {
-        "url": "https://www.gehealthcare.com/api/v1/login",
+        "url": "https://www.gehealthcare.com/en-us/cart",
         "anchor_text": "",
-        "score": 19
+        "score": 25
       },
       {
         "url": "https://www.gehealthcare.com/shop/equipment",
@@ -32597,13 +32212,13 @@
         "score": 19
       },
       {
-        "url": "https://www.gehealthcare.com/about/newsroom",
-        "anchor_text": "News and Press",
+        "url": "https://www.gehealthcare.com/api/v1/login",
+        "anchor_text": "Sign In",
         "score": 19
       },
       {
-        "url": "https://www.gehealthcare.com/services/mtas",
-        "anchor_text": "Medical Technology Advanced Services",
+        "url": "https://www.gehealthcare.com/en-us",
+        "anchor_text": "",
         "score": 18
       },
       {
@@ -32612,64 +32227,14 @@
         "score": 17
       },
       {
-        "url": "https://www.gehealthcare.com/about/ehs",
-        "anchor_text": "EHS",
-        "score": 14
-      },
-      {
-        "url": "https://www.gehealthcare.com/specialties",
-        "anchor_text": "Specialties",
-        "score": 14
-      },
-      {
-        "url": "https://www.gehealthcare.com/foundation",
-        "anchor_text": "Foundation",
-        "score": 13
-      },
-      {
-        "url": "https://www.gehealthcare.com/education",
-        "anchor_text": "All Education",
-        "score": 12
-      },
-      {
-        "url": "https://www.gehealthcare.com/services",
-        "anchor_text": "All Services",
-        "score": 11
-      },
-      {
-        "url": "https://www.gehealthcare.com/security",
-        "anchor_text": "Product Security Portal",
-        "score": 11
-      },
-      {
-        "url": "https://www.gehealthcare.com/insights",
-        "anchor_text": "Explore our content collection",
-        "score": 11
-      },
-      {
         "url": "https://www.gehealthcare.com/newsroom",
         "anchor_text": "Cookie Consent Tool",
         "score": 11
       },
       {
-        "url": "https://www.gehealthcare.com/sitemap",
-        "anchor_text": "Sitemap",
-        "score": 10
-      },
-      {
-        "url": "https://www.gehealthcare.com/cart",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://www.gehealthcare.com/shop",
-        "anchor_text": "Shop All",
-        "score": 7
-      },
-      {
-        "url": "https://www.gehealthcare.com/",
-        "anchor_text": "click here",
-        "score": 3
+        "url": "https://www.gehealthcare.com/en",
+        "anchor_text": "Global GE HealthCare (EN)",
+        "score": 5
       }
     ]
   },
@@ -32728,11 +32293,6 @@
         "score": 54
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/releases/northwestern-medicine",
-        "anchor_text": "Learn more",
-        "score": 53
-      },
-      {
         "url": "https://www.siemens-healthineers.com/support-documentation/online-services",
         "anchor_text": "Online services",
         "score": 52
@@ -32768,11 +32328,6 @@
         "score": 48
       },
       {
-        "url": "https://www.siemens-healthineers.com/press/releases/new-artis-family",
-        "anchor_text": "Learn more",
-        "score": 48
-      },
-      {
         "url": "https://www.siemens-healthineers.com/business-opportunities/suppliers",
         "anchor_text": "Suppliers",
         "score": 47
@@ -32791,6 +32346,11 @@
         "url": "https://www.siemens-healthineers.com/support-documentation/ecommerce",
         "anchor_text": "eCommerce",
         "score": 46
+      },
+      {
+        "url": "https://www.siemens-healthineers.com/press/releases/ct-guided-pci",
+        "anchor_text": "Learn more",
+        "score": 45
       },
       {
         "url": "https://www.siemens-healthineers.com/corporate/digital-services-act",
@@ -32905,6 +32465,11 @@
       {
         "url": "https://www.siemens-healthineers.com/investor-relations",
         "anchor_text": "Investor Relations",
+        "score": 31
+      },
+      {
+        "url": "https://www.siemens-healthineers.com/press/releases/estro2026",
+        "anchor_text": "Learn more",
         "score": 31
       },
       {
@@ -36545,11 +36110,6 @@
         "score": 50
       },
       {
-        "url": "https://investor.exactsciences.com/en-us/corpnewsroom/media-contacts",
-        "anchor_text": "Press Contacts",
-        "score": 50
-      },
-      {
         "url": "https://investor.exactsciences.com/en-us/responsibility/abbott-fund",
         "anchor_text": "Abbott Fund",
         "score": 49
@@ -36611,7 +36171,7 @@
       },
       {
         "url": "https://investor.exactsciences.com/en-us/corpnewsroom",
-        "anchor_text": "Overview",
+        "anchor_text": "Newsroom",
         "score": 33
       },
       {
@@ -36686,11 +36246,6 @@
         "score": 127
       },
       {
-        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-at-bofa-and-goldman-sachs-conferences/",
-        "anchor_text": "Read more: Caris Life Sciences to Present at the BofA Securities 2026 Health Care Conference and the Goldman Sachs 47th Annual Global Healthcare Conference",
-        "score": 109
-      },
-      {
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-publishes-study-on-the-caris-lookback-program/",
         "anchor_text": "Read more: Caris Life Sciences Publishes Study on the Caris Lookback Program Demonstrating the Ongoing Clinical Value of Comprehensive Testing with Caris MI Cancer Seek",
         "score": 106
@@ -36704,6 +36259,11 @@
         "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-receives-moldx-approval-for-caris-chromoseq/",
         "anchor_text": "Read more: Caris Life Sciences Receives MolDX Approval for Caris ChromoSeq, Advancing Access to Comprehensive Genomic Profiling for Myeloid Malignancies",
         "score": 104
+      },
+      {
+        "url": "https://www.carislifesciences.com/about/news-and-media/caris-life-sciences-to-present-32-studies-at-asco-2026/",
+        "anchor_text": "Read more: Caris Life Sciences to Present 32 Studies at ASCO 2026 Highlighting Advances in Multi-omic Biomarker Research and Real-World Evidence",
+        "score": 95
       },
       {
         "url": "https://www.carislifesciences.com/privacy-website-policies/do-not-sell-or-share-my-personal-information/",
@@ -37262,11 +36822,6 @@
         "score": 41
       },
       {
-        "url": "https://www.foundationmedicine.com/press-release/mrd-test-ruo",
-        "anchor_text": "Foundation Medicine Launches Molecular Residual Disease (MRD) Test for Research Use in Early to Late-Stage Cancers Through its FlexOMx Lab™",
-        "score": 41
-      },
-      {
         "url": "https://www.foundationmedicine.com/test/foundationone-heme",
         "anchor_text": "FoundationOne Heme",
         "score": 38
@@ -37289,6 +36844,11 @@
       {
         "url": "https://www.foundationmedicine.com/patient/testing-process",
         "anchor_text": "Our Process",
+        "score": 38
+      },
+      {
+        "url": "https://www.foundationmedicine.com/press-release/asco-2026",
+        "anchor_text": "Foundation Medicine Showcases Innovation at 2026 ASCO® Annual Meeting",
         "score": 38
       },
       {
@@ -38485,7 +38045,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price334.00CHF+ 3.60(+1.09%)Today",
+        "anchor_text": "Share price334.50CHF+ 4.10(+1.24%)Today",
         "score": 20
       },
       {
@@ -38590,9 +38150,19 @@
         "score": 152
       },
       {
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/saphnelo-self-administration-approved-in-the-US.html",
-        "anchor_text": "Saphnelo approved in the US for subcutaneous self-administration as a new autoinjector for the treatment of systemic lupus erythematosus27 April 2026",
-        "score": 148
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/datroway-approved-in-us-for-1l-triple-negative-bc.html",
+        "anchor_text": "Datroway approved in the US as first TROP2-directed antibody drug conjugate for 1st-line treatment of patients with metastatic triple-negative breast cancer who are not PD-1/PD-L1 inhibitor candidates22 May 2026",
+        "score": 150
+      },
+      {
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-recommended-in-eu-for-her2-solid-tumours.html",
+        "anchor_text": "Enhertu recommended for approval in the EU by CHMP for patients with previously treated HER2-positive metastatic solid tumours22 May 2026",
+        "score": 149
+      },
+      {
+        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/camizestrant-recommended-for-breast-cancer-in-eu.html",
+        "anchor_text": "Camizestrant in combination with a CDK4/6 inhibitor recommended for approval in the EU by CHMP for 1st-line advanced ER-positive breast cancer22 May 2026",
+        "score": 149
       },
       {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/enhertu-approved-in-two-her2-early-bc-settings.html",
@@ -38615,19 +38185,9 @@
         "score": 143
       },
       {
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/breztri-approved-in-the-us-for-asthma.html",
-        "anchor_text": "Breztri approved in the US for asthma as first and only triple therapy for patients 12 years of age and older28 April 2026",
-        "score": 138
-      },
-      {
         "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/Baxdrostat-MNR-2026.html",
         "anchor_text": "Baxfendy approved in the US as the first and only aldosterone synthase inhibitor treatment for adults with hypertension18 May 2026",
         "score": 120
-      },
-      {
-        "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/q1-2026-results.html",
-        "anchor_text": "Q1 2026 results29 April 2026",
-        "score": 116
       },
       {
         "url": "https://www.astrazeneca.com/sustainability/climate-change/accelerating-transition-electric-vehicles.html",
@@ -38971,7 +38531,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Select Preferences",
+        "anchor_text": "Set Preferences",
         "score": 47
       },
       {
@@ -40113,6 +39673,11 @@
         "score": 158
       },
       {
+        "url": "https://news.abbvie.com/2026-05-22-AbbVie-Announces-Positive-CHMP-Opinion-for-MAVIRET-R-glecaprevir-pibrentasvir-for-the-Treatment-of-Acute-Hepatitis-C-Infection",
+        "anchor_text": "AbbVie Announces Positive CHMP Opinion for MAVIRET® (glecaprevir/pibrentasvir) for the Treatment of Acute Hepatitis C Infection",
+        "score": 150
+      },
+      {
         "url": "https://news.abbvie.com/2026-05-21-AbbVie-Announces-New-Data-at-ASCO-2026-Demonstrating-Breadth-and-Momentum-Across-its-Next-Generation-Oncology-Pipeline",
         "anchor_text": "AbbVie Announces New Data at ASCO 2026 Demonstrating Breadth and Momentum Across its Next-Generation Oncology Pipeline",
         "score": 142
@@ -40136,21 +39701,6 @@
         "url": "https://news.abbvie.com/2026-05-06-AbbVie-to-Present-at-the-Bank-of-America-Securities-Healthcare-Conference",
         "anchor_text": "AbbVie to Present at the Bank of America Securities Healthcare Conference",
         "score": 97
-      },
-      {
-        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus",
-        "anchor_text": "AbbVie Selects North Carolina for New $1.4 Billion Manufacturing Campus",
-        "score": 94
-      },
-      {
-        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus#assets_2429_124774-149",
-        "anchor_text": "Photos2",
-        "score": 94
-      },
-      {
-        "url": "https://news.abbvie.com/2026-04-22-AbbVie-Selects-North-Carolina-for-New-1-4-Billion-Manufacturing-Campus#assets_2429_124774-150",
-        "anchor_text": "Documents1",
-        "score": 94
       },
       {
         "url": "https://news.abbvie.com/2026-04-29-AbbVie-Reports-First-Quarter-2026-Financial-Results",
@@ -40284,9 +39834,14 @@
     "press_url": "https://www.gilead.com/media",
     "candidate_links": [
       {
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-sciences-and-world-health-organization-expand-collaboration-to-help-eliminate-visceral-leishmaniasis-a-fatal-parasitic-disease",
-        "anchor_text": "May 21, 2026Gilead Sciences and World Health Organization Expand Collaboration to Help Eliminate Visceral Leishmaniasis, a Fatal Parasitic Disease",
-        "score": 200
+        "url": "https://www.gilead.com/news/news-details/2026/gilead-receives-chmp-positive-opinion-for-trodelvy-in-first-line-metastatic-triple-negative-breast-cancer-for-patients-not-candidates-for-pd-l1-inhibitors",
+        "anchor_text": "May 22, 2026Gilead Receives CHMP Positive Opinion for Trodelvy® in First-Line Metastatic Triple-Negative Breast Cancer for Patients Not Candidates for PD-(L)1 Inhibitors",
+        "score": 221
+      },
+      {
+        "url": "https://www.gilead.com/news/news-details/2026/fda-grants-accelerated-approval-to-gileads-hepcludex-bulevirtide-gmod-the-first-and-only-approved-treatment-for-chronic-hepatitis-delta-virus-hdv",
+        "anchor_text": "May 22, 2026FDA Grants Accelerated Approval to Gilead’s Hepcludex® (bulevirtide-gmod), the First and Only Approved Treatment for Chronic Hepatitis Delta Virus (HDV)",
+        "score": 212
       },
       {
         "url": "https://www.gilead.com/news/news-details/2026/new-asco-and-eha-2026-data-demonstrate-gilead-and-kites-momentum-across-antibody-drug-conjugates-and-cell-therapy-in-oncology",
@@ -40357,11 +39912,6 @@
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/giving-in-north-america",
         "anchor_text": "Giving in North America",
         "score": 118
-      },
-      {
-        "url": "https://www.gilead.com/news/news-details/2026/gilead-prices-3-billion-of-senior-unsecured-notes",
-        "anchor_text": "May 14, 2026Gilead Prices $3 Billion of Senior Unsecured Notes",
-        "score": 116
       },
       {
         "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/terms-and-conditions",
@@ -46257,6 +45807,11 @@
         "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-to-Announce-Fourth-Quarter-and-Full-Year-2025-Financial-Results-on-February-25/default.aspx",
         "anchor_text": "Read More",
         "score": 181
+      },
+      {
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635c4-85660ca08/default.aspx",
+        "anchor_text": "Read More",
+        "score": 171
       },
       {
         "url": "https://ir.schrodinger.com/press-releases/news-details/2026/Schrdinger-Reports-Inducement-Grants-under-Nasdaq-Listing-Rule-5635c4-870a86116/default.aspx",
@@ -67996,392 +67551,6 @@
     ]
   },
   {
-    "company": "Cresset Group",
-    "press_url": "https://cresset-group.com/about/news/",
-    "candidate_links": [
-      {
-        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery-2/",
-        "anchor_text": "Read More",
-        "score": 145
-      },
-      {
-        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery/",
-        "anchor_text": "",
-        "score": 143
-      },
-      {
-        "url": "https://cresset-group.com/event/workshop-flare-designer-a-tool-to-guide-your-hit-and-lead-optimization/",
-        "anchor_text": "",
-        "score": 94
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-acquires-molab-ai-to-advance-digitization-of-drug-discovery/",
-        "anchor_text": "Read More",
-        "score": 90
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-discovery-accelerates-optimization-of-mettl3-inhibitor/",
-        "anchor_text": "",
-        "score": 85
-      },
-      {
-        "url": "https://cresset-group.com/event/alchemistry-workshop-on-free-energy-methods-in-drug-design/",
-        "anchor_text": "",
-        "score": 82
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/target-validation/",
-        "anchor_text": "Target Validation",
-        "score": 66
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/lead-optimization/",
-        "anchor_text": "Lead Optimization",
-        "score": 66
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-discovery/",
-        "anchor_text": "Hit Discovery",
-        "score": 62
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/computational-chemistry/",
-        "anchor_text": "Computational Chemistry",
-        "score": 61
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/hit-to-lead/",
-        "anchor_text": "Hit to Lead",
-        "score": 60
-      },
-      {
-        "url": "https://cresset-group.com/news/fep-in-2025-read-our-latest-blog-post/",
-        "anchor_text": "Read More",
-        "score": 60
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/medicinal-chemistry/",
-        "anchor_text": "Medicinal Chemistry",
-        "score": 57
-      },
-      {
-        "url": "https://cresset-group.com/event/drug-discovery-chemistry-usa-2026/",
-        "anchor_text": "",
-        "score": 57
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-september-2025/",
-        "anchor_text": "Read More",
-        "score": 56
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/academic-research/",
-        "anchor_text": "Academic Research",
-        "score": 55
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-december-2025/",
-        "anchor_text": "Read More",
-        "score": 55
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-october-2025/",
-        "anchor_text": "Read More",
-        "score": 54
-      },
-      {
-        "url": "https://cresset-group.com/about/global-locations-distributors/",
-        "anchor_text": "Locations & distributors",
-        "score": 53
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-august-2025/",
-        "anchor_text": "Read More",
-        "score": 53
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-july-2025/",
-        "anchor_text": "Read More",
-        "score": 51
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-june-2025/",
-        "anchor_text": "Read More",
-        "score": 51
-      },
-      {
-        "url": "https://cresset-group.com/news/cresset-newsletter-may-2025/",
-        "anchor_text": "Read More",
-        "score": 50
-      },
-      {
-        "url": "https://cresset-group.com/news/end-of-year-message-2025/",
-        "anchor_text": "Read More",
-        "score": 47
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-discovery-phase/",
-        "anchor_text": "By discovery phase",
-        "score": 46
-      },
-      {
-        "url": "https://cresset-group.com/science/your-trusted-partner/",
-        "anchor_text": "Your trusted partner",
-        "score": 46
-      },
-      {
-        "url": "https://cresset-group.com/software/discovery-services/",
-        "anchor_text": "Discovery Services",
-        "score": 45
-      },
-      {
-        "url": "https://cresset-group.com/about/responsible-business/",
-        "anchor_text": "Responsible business",
-        "score": 44
-      },
-      {
-        "url": "https://cresset-group.com/news/meet-the-new-cresset/",
-        "anchor_text": "",
-        "score": 43
-      },
-      {
-        "url": "https://cresset-group.com/software/methods-archive/",
-        "anchor_text": "Explore all methods and technologies",
-        "score": 42
-      },
-      {
-        "url": "https://cresset-group.com/support/product-releases/",
-        "anchor_text": "Product releases",
-        "score": 42
-      },
-      {
-        "url": "https://cresset-group.com/science/ai-technologies/",
-        "anchor_text": "AI technologies",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/",
-        "anchor_text": "All resources",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=webinar",
-        "anchor_text": "Webinars",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=publication",
-        "anchor_text": "Publications",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=citation",
-        "anchor_text": "Citations",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=whitepaper",
-        "anchor_text": "Whitepapers",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=case-study",
-        "anchor_text": "Case Studies",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/resources/all-resources/?_category=article",
-        "anchor_text": "Articles",
-        "score": 41
-      },
-      {
-        "url": "https://cresset-group.com/software/flare-connect/",
-        "anchor_text": "Flare™ Connect – Collaborative Design",
-        "score": 40
-      },
-      {
-        "url": "https://cresset-group.com/support/knowledge-base/",
-        "anchor_text": "Knowledge Base",
-        "score": 40
-      },
-      {
-        "url": "https://cresset-group.com/science/our-science/",
-        "anchor_text": "Our Science",
-        "score": 37
-      },
-      {
-        "url": "https://cresset-group.com/software/flare-fep/",
-        "anchor_text": "Flare™ FEP – Predict Binding Affinity",
-        "score": 36
-      },
-      {
-        "url": "https://cresset-group.com/solutions/by-user/",
-        "anchor_text": "By user group",
-        "score": 35
-      },
-      {
-        "url": "https://cresset-group.com/about/why-cresset/",
-        "anchor_text": "Why Cresset",
-        "score": 35
-      },
-      {
-        "url": "https://cresset-group.com/software/ai-adme/",
-        "anchor_text": "AI-Powered ADME model building",
-        "score": 34
-      },
-      {
-        "url": "https://cresset-group.com/about/contact-us/",
-        "anchor_text": "Request demo",
-        "score": 34
-      },
-      {
-        "url": "https://cresset-group.com/ai-terms/",
-        "anchor_text": "Additional terms for AI features",
-        "score": 24
-      },
-      {
-        "url": "https://cresset-group.com/about/news/10/",
-        "anchor_text": "Page10",
-        "score": 23
-      },
-      {
-        "url": "https://cresset-group.com/software/flare/",
-        "anchor_text": "Flare™ Drug Design Software",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/software/spark/",
-        "anchor_text": "Spark™ Scaffold Hopping Software",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/software/blaze/",
-        "anchor_text": "Blaze™ Virtual Screening Software",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/2/",
-        "anchor_text": "Next",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/3/",
-        "anchor_text": "Page3",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/4/",
-        "anchor_text": "Page4",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/5/",
-        "anchor_text": "Page5",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/6/",
-        "anchor_text": "Page6",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/7/",
-        "anchor_text": "Page7",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/8/",
-        "anchor_text": "Page8",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/news/9/",
-        "anchor_text": "Page9",
-        "score": 22
-      },
-      {
-        "url": "https://cresset-group.com/about/careers/",
-        "anchor_text": "Careers",
-        "score": 21
-      },
-      {
-        "url": "https://cresset-group.com/about/events/",
-        "anchor_text": "Events",
-        "score": 20
-      },
-      {
-        "url": "https://cresset-group.com/about/people/",
-        "anchor_text": "People",
-        "score": 20
-      },
-      {
-        "url": "https://cresset-group.com/about/news/#content",
-        "anchor_text": "Skip to content",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/about/news/",
-        "anchor_text": "News",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aopen%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6Im9wZW4ifQ%3D%3D",
-        "anchor_text": "",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/about/news/#elementor-action%3Aaction%3Doff_canvas%3Aclose%26settings%3DeyJpZCI6ImM3M2NlM2QiLCJkaXNwbGF5TW9kZSI6ImNsb3NlIn0%3D",
-        "anchor_text": "",
-        "score": 18
-      },
-      {
-        "url": "https://cresset-group.com/solutions/",
-        "anchor_text": "Solution areas",
-        "score": 15
-      },
-      {
-        "url": "https://cresset-group.com/resources/",
-        "anchor_text": "Resources",
-        "score": 15
-      },
-      {
-        "url": "https://cresset-group.com/subscribe/",
-        "anchor_text": "Subscribe",
-        "score": 15
-      },
-      {
-        "url": "https://cresset-group.com/software/",
-        "anchor_text": "Software & Services",
-        "score": 14
-      },
-      {
-        "url": "https://cresset-group.com/science/",
-        "anchor_text": "Science",
-        "score": 13
-      },
-      {
-        "url": "https://cresset-group.com/support/",
-        "anchor_text": "Support",
-        "score": 13
-      },
-      {
-        "url": "http://cresset-group.com/privacy/",
-        "anchor_text": "Privacy notice",
-        "score": 13
-      },
-      {
-        "url": "https://cresset-group.com/about/",
-        "anchor_text": "About",
-        "score": 11
-      },
-      {
-        "url": "https://cresset-group.com",
-        "anchor_text": "",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "OpenEye Scientific",
     "press_url": "https://www.eyesopen.com/news",
     "candidate_links": [
@@ -69173,11 +68342,6 @@
     "press_url": "https://www.biosolveit.de/company/news/",
     "candidate_links": [
       {
-        "url": "https://www.biosolveit.de/2025/09/08/workshop-in-boston-the-trillion-compound-workshop-biosolveit-x-enamine-featuring-molecular-glue-case-study/",
-        "anchor_text": "Read on",
-        "score": 164
-      },
-      {
         "url": "https://www.biosolveit.de/2026/04/29/whats-so-special-about-the-activity-spotter-detailed-insights-into-seesars-new-mode/",
         "anchor_text": "Read on",
         "score": 141
@@ -69203,17 +68367,7 @@
         "score": 128
       },
       {
-        "url": "https://www.biosolveit.de/2025/09/17/wuxis-galaxi-space-september-2025-expanded-to-26-billion-molecules/",
-        "anchor_text": "Read on",
-        "score": 124
-      },
-      {
         "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/09/23/enamines-real-space-september-2025-update-now-83-billion/",
         "anchor_text": "Read on",
         "score": 114
       },
@@ -69243,11 +68397,6 @@
         "score": 107
       },
       {
-        "url": "https://www.biosolveit.de/2025/10/15/recordings-of-the-biosolveit-day-2025-available/",
-        "anchor_text": "Read on",
-        "score": 105
-      },
-      {
         "url": "https://www.biosolveit.de/2026/05/21/vast-space-by-xtalpi-access-now-with-our-tools/",
         "anchor_text": "VAST™ Space by XtalPi – Access now with our toolsMay 21, 2026 10:42 CEST",
         "score": 104
@@ -69256,11 +68405,6 @@
         "url": "https://www.biosolveit.de/2026/02/10/seesar-15-apollo-decode-activity-gain-insights/",
         "anchor_text": "Read on",
         "score": 104
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/08/27/chemical-space-exploration-with-enamine-porto/",
-        "anchor_text": "Read on",
-        "score": 103
       },
       {
         "url": "https://www.biosolveit.de/2026/04/09/the-95-billion-update-access-the-real-space/",
@@ -69321,11 +68465,6 @@
         "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/08/27/synple-space/",
-        "anchor_text": "Read on",
-        "score": 70
       },
       {
         "url": "https://www.biosolveit.de/drug-discovery-solutions/chemical-space-generation/",
@@ -70633,283 +69772,108 @@
     "candidate_links": [
       {
         "url": "https://www.tempus.com/news/pr/tempus-and-predicta-biosciences-announce-collaboration-to-expand-life-sciences-access-to-ultrasensitive-whole-genome-sequencing-assay-for-hematologic-malignancies-and-mrd-monitoring/",
-        "anchor_text": "Tempus and Predicta Biosciences Announce Collaboration to Expand Life Sciences Access to Ultrasensitive Whole-Genome Sequencing Assay for Hematologic Malignancies and MRD Monitoring",
+        "anchor_text": "Tempus and Predicta Biosciences Announce Collaboration to Expand Life Sciences Access to Ultrasensitive Whole-Genome Sequencing Assay for Hematologic Malignancies and MRD MonitoringTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and Predicta Biosciences, a precision oncology company developing novel diagnostic solutions for deep molecular characterization of hematologic malignancies with a focus on circulating tumor cells, today announced the commercial expansion of a co-branded whole-genome sequencing (WGS) assay, currently … Continued2026-04-15Press Release",
         "score": 209
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-launches-arteraai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
-        "anchor_text": "Tempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical Use",
-        "score": 196
+        "url": "https://www.tempus.com/news/pr/tempus-launches-artera-ai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
+        "anchor_text": "Tempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical UseTempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical Use2026-05-21Press Release",
+        "score": 197
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-expands-strategic-collaboration-with-bristol-myers-squibb-to-enhance-the-probability-of-success-across-clinical-development-programs-in-oncology-and-neuroscience/",
-        "anchor_text": "Tempus Expands Strategic Collaboration with Bristol Myers Squibb to Enhance the Probability of Success Across Clinical Development Programs In Oncology and Neuroscience",
+        "anchor_text": "Tempus Expands Strategic Collaboration with Bristol Myers Squibb to Enhance the Probability of Success Across Clinical Development Programs In Oncology and NeuroscienceTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced a new initiative with Bristol Myers Squibb (NYSE: BMY). This collaboration aims to leverage AI, multimodal real-world data and data science techniques to optimize clinical trial designs and enhance the Probability of Technical & Regulatory Success … Continued2026-05-14Press Release",
         "score": 196
       },
       {
-        "url": "https://www.tempus.com/resources/content/case-studies/tempus-next-pathways-unlocked-critical-insights-into-the-ansclc-patient-journey-with-bristol-myers-squibb-bms/",
-        "anchor_text": "Read case study",
-        "score": 162
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-announces-31-abstracts-for-presentation-at-the-american-association-for-cancer-research-annual-meeting-2026/",
-        "anchor_text": "Tempus Announces 31 Abstracts for Presentation at the American Association for Cancer Research Annual Meeting 2026",
-        "score": 142
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-named-to-times-list-of-the-10-most-influential-health-and-life-science-companies-of-2026/",
-        "anchor_text": "Tempus Named to TIME’s 10 Most Influential Health and Life Science Companies of 2026",
+        "anchor_text": "Tempus Named to TIME’s 10 Most Influential Health and Life Science Companies of 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company advancing precision medicine through the practical application of artificial intelligence, today announced it has been named to TIME’s 10 Most Influential Health and Life Science Companies of 2026. This inaugural TIME100 Companies: Industry Leaders list, an expansion of the TIME100 Most Influential Companies issue, recognizes the organizations … Continued2026-04-28Press Release",
         "score": 123
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-and-usc-announce-strategic-collaboration-to-accelerate-ai-driven-precision-medicine/",
-        "anchor_text": "Tempus and USC Announce Strategic Collaboration to Accelerate AI-Driven Precision Medicine",
+        "anchor_text": "Tempus and USC Announce Strategic Collaboration to Accelerate AI-Driven Precision MedicineTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and the Keck School of Medicine of USC and Keck Medicine of USC, today announced a multi-faceted collaboration aimed at transforming patient care and accelerating research through the power of data and AI. This collaboration is designed to … Continued2026-04-23Press Release",
         "score": 118
       },
       {
-        "url": "https://www.tempus.com/news/pr/tempus-launches-automated-active-follow-up-service-to-support-guideline-concordant-care/",
-        "anchor_text": "Tempus Launches Automated “Active Follow-Up” Service to Support Guideline-Concordant Care",
-        "score": 115
-      },
-      {
         "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
-        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5",
+        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the first quarter ended March 31, 2026 on Tuesday, May 5, 2026. The company will host a conference call and live audio webcast at 4:30 p.m. ET to discuss the … Continued2026-04-21Press Release",
         "score": 90
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-to-host-inaugural-investor-day-on-may-29-2026/",
-        "anchor_text": "Tempus to Host Inaugural Investor Day on May 29, 2026",
+        "anchor_text": "Tempus to Host Inaugural Investor Day on May 29, 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced that the company will host an Investor Day on Friday, May 29, 2026. The event will start at 8:00 a.m. CT / 9:00 a.m. ET and will feature Tempus’ leadership team, including, Founder and CEO Eric … Continued2026-04-29Press Release",
         "score": 80
       },
       {
         "url": "https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/",
-        "anchor_text": "Tempus Reports First Quarter 2026 Results",
+        "anchor_text": "Tempus Reports First Quarter 2026 ResultsCHICAGO, May 5, 2026 — Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine and patient care, today reported financial results for the quarter ended March 31, 2026. Revenue of $348.1 million, up 36.1% year-over-year Diagnostics revenue of $261.1 million, representing 34.7% growth year-over-year, driven by Oncology … Continued2026-05-05Press Release",
         "score": 69
       },
       {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-therapy-response-evaluation/",
-        "anchor_text": "Tempus Pixel Therapy Response Evaluation",
-        "score": 68
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/oncology-care-gap-solutions/",
-        "anchor_text": "Care Gap Solutions",
+        "url": "https://www.tempus.com/solutions/next-for-oncology-life-sciences/",
+        "anchor_text": "Care Gap Intelligence",
         "score": 59
       },
       {
-        "url": "https://www.tempus.com/life-sciences/clinical-trial-enrollment/",
-        "anchor_text": "Clinical Trial Enrollment",
-        "score": 57
-      },
-      {
-        "url": "https://www.tempus.com/tempus-privacy-and-compliance-policies/",
-        "anchor_text": "Privacy and Compliance Policies",
+        "url": "https://www.tempus.com/solutions/clinical-trial-recruitment/",
+        "anchor_text": "Clinical Trial Recruitment",
         "score": 54
       },
       {
-        "url": "https://www.tempus.com/life-sciences/clinical-development/",
-        "anchor_text": "Clinical Development",
-        "score": 52
-      },
-      {
-        "url": "https://www.tempus.com/cardiology/care-pathway-solutions/",
-        "anchor_text": "Cardiology Care Pathway Solutions",
-        "score": 51
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/biological-modeling/",
-        "anchor_text": "Biological Modeling",
-        "score": 51
-      },
-      {
-        "url": "https://www.tempus.com/oncology/clinical-trial-matching/",
-        "anchor_text": "Clinical trial matching",
-        "score": 50
-      },
-      {
-        "url": "https://www.tempus.com/oncology/care-pathway-solutions/",
-        "anchor_text": "Oncology Care Pathway Solutions",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/neurology-psychiatry/tempus-pro/",
-        "anchor_text": "Tempus PRO™",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/commercialization/",
-        "anchor_text": "Commercialization",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/algorithmic-tests/",
-        "anchor_text": "AI-enabled Algorithms",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/foundation-models/",
-        "anchor_text": "Foundation Models",
-        "score": 49
-      },
-      {
-        "url": "https://www.tempus.com/neurology-psychiatry/notetaker/",
-        "anchor_text": "Notetaker",
+        "url": "https://www.tempus.com/solutions/cdx-and-lab-services/",
+        "anchor_text": "CDx & Lab Services",
         "score": 48
       },
       {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-cardio/",
-        "anchor_text": "Tempus Pixel Cardio",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-breast/",
-        "anchor_text": "Tempus Pixel Breast",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/providers/data-collaborations/",
-        "anchor_text": "Data Collaborations",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/real-world-data/",
-        "anchor_text": "RWD & Tempus Lens",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/omics-solutions/",
-        "anchor_text": "Omics Solutions",
-        "score": 47
-      },
-      {
-        "url": "https://www.tempus.com/radiology/tempus-pixel-lung/",
-        "anchor_text": "Tempus Pixel Lung",
+        "url": "https://www.tempus.com/solutions/digital-pathology/",
+        "anchor_text": "Pathology",
         "score": 45
       },
       {
-        "url": "https://www.tempus.com/oncology/genomic-profiling/",
-        "anchor_text": "Genomic Profiling",
-        "score": 44
-      },
-      {
-        "url": "https://www.tempus.com/oncology/algorithmic-tests/",
-        "anchor_text": "Algorithmic Tests",
-        "score": 44
-      },
-      {
-        "url": "https://www.tempus.com/resources/document-library/",
-        "anchor_text": "Document Library",
-        "score": 44
-      },
-      {
-        "url": "https://www.tempus.com/oncology/ehr-integration/",
-        "anchor_text": "EHR Integration",
-        "score": 42
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/sequencing/",
-        "anchor_text": "Sequencing",
-        "score": 42
-      },
-      {
-        "url": "https://www.tempus.com/resources/faqs-oncology/",
-        "anchor_text": "FAQ",
-        "score": 41
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/research/",
-        "anchor_text": "Research",
+        "url": "https://www.tempus.com/solutions/cro-services/",
+        "anchor_text": "CRO Services",
         "score": 40
       },
       {
-        "url": "https://www.tempus.com/life-sciences/compass/",
-        "anchor_text": "CRO Services",
+        "url": "https://www.tempus.com/patients-clinical-trials/",
+        "anchor_text": "Clinical Trials",
+        "score": 40
+      },
+      {
+        "url": "https://www.tempus.com/solutions/data-and-ai/",
+        "anchor_text": "Data & AI",
         "score": 39
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/studies/",
-        "anchor_text": "Tempus Studies",
-        "score": 39
-      },
-      {
-        "url": "https://www.tempus.com/oncology/tempus-plus/",
-        "anchor_text": "Tempus+",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/patients/neuro-psych/",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/about-us/our-history/",
-        "anchor_text": "Our History",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/about-us/tempus-tech/",
-        "anchor_text": "Our Technology",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/responsible-disclosure/",
-        "anchor_text": "Responsible Disclosure",
-        "score": 38
-      },
-      {
-        "url": "https://www.tempus.com/oncology/tempus-one/",
-        "anchor_text": "Tempus One",
-        "score": 37
-      },
-      {
-        "url": "https://www.tempus.com/news/media-coverage/",
-        "anchor_text": "Media Coverage",
-        "score": 37
-      },
-      {
-        "url": "https://www.tempus.com/resources/media-kit/",
-        "anchor_text": "Media Library",
-        "score": 37
       },
       {
         "url": "https://www.tempus.com/neurology-psychiatry/",
-        "anchor_text": "Neurology & Psychiatry Overview",
+        "anchor_text": "Neurology & Psychiatry",
         "score": 36
       },
       {
-        "url": "https://www.tempus.com/cardiology/ecg-ai/",
-        "anchor_text": "ECG-AI",
+        "url": "https://www.tempus.com/patients-neuro-psych/",
+        "anchor_text": "Neurology & Psychiatry",
+        "score": 36
+      },
+      {
+        "url": "https://www.tempus.com/data-collaborations/",
+        "anchor_text": "Data Collaborations",
         "score": 35
       },
       {
-        "url": "https://www.tempus.com/life-sciences/cdx/",
-        "anchor_text": "Companion Diagnostics",
-        "score": 35
-      },
-      {
-        "url": "https://www.tempus.com/about-us/our-team/",
-        "anchor_text": "Our Team",
-        "score": 35
-      },
-      {
-        "url": "https://www.tempus.com/events/asco-2026/?srsltid=AfmBOoq7JaHYGPUNVi0MOBeXo8-NOryF-uCquvU_9YyIiN4KOFXi-ElN",
-        "anchor_text": "Learn more",
-        "score": 34
-      },
-      {
-        "url": "https://www.tempus.com/about-us/careers/",
-        "anchor_text": "Careers",
-        "score": 34
-      },
-      {
-        "url": "https://www.tempus.com/about-us/culture/",
-        "anchor_text": "Culture",
-        "score": 34
-      },
-      {
-        "url": "https://www.tempus.com/newsletter-signup/",
-        "anchor_text": "STAY INFORMED",
+        "url": "https://www.tempus.com/patients-oncology/",
+        "anchor_text": "Oncology",
         "score": 33
+      },
+      {
+        "url": "https://www.tempus.com/document-library/",
+        "anchor_text": "Document Library",
+        "score": 32
+      },
+      {
+        "url": "https://www.tempus.com/policy-center/",
+        "anchor_text": "Policy Center",
+        "score": 29
       },
       {
         "url": "https://www.tempus.com/life-sciences/",
@@ -70917,108 +69881,68 @@
         "score": 29
       },
       {
-        "url": "https://www.tempus.com/job-postings/",
-        "anchor_text": "View Job Postings",
-        "score": 28
-      },
-      {
-        "url": "https://www.tempus.com/terms-of-use/",
-        "anchor_text": "Terms of Use",
-        "score": 28
-      },
-      {
-        "url": "https://www.tempus.com/radiology/prostate/",
-        "anchor_text": "Tempus Pixel Prostate",
-        "score": 26
+        "url": "https://www.tempus.com/media-library/",
+        "anchor_text": "Media Library",
+        "score": 29
       },
       {
         "url": "https://www.tempus.com/contact-us/",
-        "anchor_text": "Contact Us",
+        "anchor_text": "CONTACT US",
         "score": 26
       },
       {
-        "url": "https://www.tempus.com/patients/oncology/",
-        "anchor_text": "Oncology",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#our-team",
+        "anchor_text": "Our Team",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/resources/content/",
-        "anchor_text": "All",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#our-tech",
+        "anchor_text": "Our Tech",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/resources/content/?filter-tag=providers",
-        "anchor_text": "Providers",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#culture",
+        "anchor_text": "Culture",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/resources/content/?filter-tag=life-sciences",
-        "anchor_text": "Life Sciences",
-        "score": 25
+        "url": "https://www.tempus.com/about-us/#careers",
+        "anchor_text": "Careers",
+        "score": 24
       },
       {
-        "url": "https://www.tempus.com/news/partnerships/",
-        "anchor_text": "Additional Partnerships",
-        "score": 25
-      },
-      {
-        "url": "https://www.tempus.com/oncology/hub/",
-        "anchor_text": "Tempus Hub",
-        "score": 20
-      },
-      {
-        "url": "https://www.tempus.com/publications/",
-        "anchor_text": "All",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=oncology",
+        "url": "https://www.tempus.com/publications/?tags=oncology",
         "anchor_text": "Oncology",
         "score": 18
       },
       {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=neuro-psych",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=cardiology",
+        "url": "https://www.tempus.com/publications/?tags=cardiology",
         "anchor_text": "Cardiology",
         "score": 18
       },
       {
-        "url": "https://www.tempus.com/publications/?post-search=&filter=infectious-disease",
-        "anchor_text": "Infectious Disease",
+        "url": "https://www.tempus.com/publications/?tags=neuro-psych",
+        "anchor_text": "Neurology & Psychiatry",
+        "score": 18
+      },
+      {
+        "url": "https://www.tempus.com/publications/",
+        "anchor_text": "All Publications",
         "score": 18
       },
       {
         "url": "https://www.tempus.com/cardiology/",
-        "anchor_text": "Cardiology Overview",
+        "anchor_text": "Cardiology",
         "score": 16
       },
       {
-        "url": "https://www.tempus.com/providers/",
-        "anchor_text": "Providers",
-        "score": 15
-      },
-      {
-        "url": "https://www.tempus.com/pathology/",
-        "anchor_text": "Digital Pathology",
-        "score": 15
-      },
-      {
         "url": "https://www.tempus.com/radiology/",
-        "anchor_text": "Radiology Overview",
-        "score": 15
-      },
-      {
-        "url": "https://www.tempus.com/resources/",
-        "anchor_text": "Resources",
+        "anchor_text": "Radiology",
         "score": 15
       },
       {
         "url": "https://www.tempus.com/oncology/",
-        "anchor_text": "Oncology Overview",
+        "anchor_text": "Oncology",
         "score": 14
       },
       {
@@ -71027,9 +69951,19 @@
         "score": 14
       },
       {
-        "url": "https://www.tempus.com/patients/",
-        "anchor_text": "Patients Overview",
-        "score": 14
+        "url": "https://www.tempus.com/content/?tags=providers",
+        "anchor_text": "For Providers",
+        "score": 13
+      },
+      {
+        "url": "https://www.tempus.com/content/?tags=life-sciences",
+        "anchor_text": "For Life Sciences",
+        "score": 13
+      },
+      {
+        "url": "https://www.tempus.com/content/",
+        "anchor_text": "All Content",
+        "score": 13
       },
       {
         "url": "https://www.tempus.com/privacy/",
@@ -71037,63 +69971,33 @@
         "score": 13
       },
       {
+        "url": "https://www.tempus.com/events/?libraryType=conference",
+        "anchor_text": "Conferences",
+        "score": 12
+      },
+      {
+        "url": "https://www.tempus.com/events/?libraryType=webinar",
+        "anchor_text": "Webinars",
+        "score": 12
+      },
+      {
         "url": "https://www.tempus.com/events/",
-        "anchor_text": "All",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/?filter=providers&post-search=",
-        "anchor_text": "Providers",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/?filter=life-sciences&post-search=",
-        "anchor_text": "Life Sciences",
+        "anchor_text": "All Events",
         "score": 12
       },
       {
         "url": "https://www.tempus.com/order/",
-        "anchor_text": "ORDER A TEST",
+        "anchor_text": "",
         "score": 11
       },
       {
         "url": "https://www.tempus.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/ttct/",
-        "anchor_text": "Clinical Trials",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=1",
-        "anchor_text": "1",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=2",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=3",
-        "anchor_text": "3",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/news/?_page=30",
-        "anchor_text": "",
+        "anchor_text": "Press Releases",
         "score": 10
       },
       {
         "url": "https://www.tempus.com/",
-        "anchor_text": "Tempus",
-        "score": 3
-      },
-      {
-        "url": "https://www.tempus.com/#tempusvision",
-        "anchor_text": "It's About Time",
+        "anchor_text": "",
         "score": 3
       }
     ]
@@ -75934,6 +74838,11 @@
         "score": 123
       },
       {
+        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-participate-in-jefferies-global-healthcare-conference-2026/",
+        "anchor_text": "READ MORE",
+        "score": 120
+      },
+      {
         "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-report-first-quarter-2026-financial-results-on-may-7-2026/",
         "anchor_text": "READ MORE",
         "score": 119
@@ -75942,11 +74851,6 @@
         "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-to-participate-in-two-upcoming-investor-conferences-in-march/",
         "anchor_text": "READ MORE",
         "score": 119
-      },
-      {
-        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-pricing-of-public-offering-of-common-stock-2/",
-        "anchor_text": "READ MORE",
-        "score": 113
       },
       {
         "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-to-report-fourth-quarter-2025-financial-results/",
@@ -80121,6 +79025,11 @@
     ]
   },
   {
+    "company": "Dr. Reddy's Laboratories",
+    "press_url": "https://www.drreddys.com/media/",
+    "candidate_links": []
+  },
+  {
     "company": "Tata Consultancy Services",
     "press_url": "https://www.tcs.com/newsroom",
     "candidate_links": []
@@ -80141,125 +79050,9 @@
     "candidate_links": []
   },
   {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
-        "anchor_text": "subscribe",
-        "score": 58
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
-        "anchor_text": "Clinical Conversations",
-        "score": 45
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/identifying-threats/",
-        "anchor_text": "Identifying Threats",
-        "score": 42
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
-        "anchor_text": "Life in Atomic Resolution",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
-        "anchor_text": "New on ThermoFisher.com",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
-        "anchor_text": "Ask a Scientist",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
-        "anchor_text": "Life in the Lab",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/contact-us/",
-        "anchor_text": "Contact",
-        "score": 33
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/about-us/",
-        "anchor_text": "About Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/behindthebench/",
-        "anchor_text": "Behind the Bench",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/semiconductors/",
-        "anchor_text": "Illuminating Semiconductors",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/biotechnology/",
-        "anchor_text": "Biotech at Scale",
-        "score": 26
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/connectedlab/",
-        "anchor_text": "The Connected Lab",
-        "score": 25
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/analyteguru/",
-        "anchor_text": "AnalyteGuru",
-        "score": 24
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/oempowered/",
-        "anchor_text": "OEMpowered",
-        "score": 23
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/materials/",
-        "anchor_text": "Advancing Materials",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/locations/",
-        "anchor_text": "Locations",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 20
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/mining/",
-        "anchor_text": "Advancing Mining",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/metals/",
-        "anchor_text": "Analyzing Metals",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/food/",
-        "anchor_text": "Examining Food",
-        "score": 17
-      },
-      {
-        "url": "https://www.thermofisher.com/",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 3
-      },
-      {
-        "url": "https://www.thermofisher.com",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 0
-      }
-    ]
+    "company": "FocalCXM",
+    "press_url": "https://www.focalcxm.com/news/",
+    "candidate_links": []
   },
   {
     "company": "T-Hub",
@@ -80764,357 +79557,6 @@
         "url": "https://www.cipla.com/",
         "anchor_text": "Our Presence",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Aurobindo Pharma",
-    "press_url": "https://www.aurobindo.com/media/press-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
-        "anchor_text": "Notice of Board Meetings",
-        "score": 106
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
-        "anchor_text": "Disclosures under Regulation 46 of the LODR",
-        "score": 102
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
-        "anchor_text": "General Meetings",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
-        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
-        "anchor_text": "Special window for lodgement of physical shares",
-        "score": 98
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 97
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
-        "anchor_text": "Supplier Code of Conduct",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
-        "anchor_text": "Appointment and Resignation of Directors",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
-        "anchor_text": "Registrar and Share Transfer Agent",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
-        "anchor_text": "Contact Details for Investor Grievance Redressal",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
-        "anchor_text": "Human Rights Policy",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
-        "anchor_text": "Related Party Transactions",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
-        "anchor_text": "Financials - Subsidiaries",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
-        "anchor_text": "Unpaid Dividend Account Details",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
-        "anchor_text": "Contact Details of KMPs",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 79
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
-        "anchor_text": "Results Announcements",
-        "score": 78
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 74
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
-        "anchor_text": "Scheme of Arrangements",
-        "score": 73
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
-        "anchor_text": "Sustainability Reports",
-        "score": 72
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
-        "anchor_text": "Financial Highlights",
-        "score": 71
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
-        "anchor_text": "Impact Assessment Reports - CSR Projects",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
-        "anchor_text": "Buyback of shares",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
-        "anchor_text": "Share Performance",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
-        "anchor_text": "IR Contacts",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
-        "anchor_text": "PEPFAR program",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
-        "anchor_text": "Dividend Record",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
-        "anchor_text": "Governance Policies",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 66
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
-        "anchor_text": "BMW Reports",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
-        "anchor_text": "Supply Chain Management",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 55
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
-        "anchor_text": "Key facts about HIV/AIDS",
-        "score": 51
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
-        "anchor_text": "Aurobindo Pharma Foundation",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
-        "anchor_text": "Access to Healthcare",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
-        "anchor_text": "Global Partners",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
-        "anchor_text": "Corporate Video",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
-        "anchor_text": "Annual Action Plan",
-        "score": 48
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
-        "anchor_text": "Annual Report",
-        "score": 47
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
-        "anchor_text": "Manufacturing",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
-        "anchor_text": "Gallery",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/overview",
-        "anchor_text": "Overview",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/products",
-        "anchor_text": "Products",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/growth-market",
-        "anchor_text": "Growth Markets",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
-        "anchor_text": "Gallery",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-policy",
-        "anchor_text": "CSR Policy",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
-        "anchor_text": "Life @ Aurobindo",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
-        "anchor_text": "About Us",
-        "score": 39
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/vision-mission",
-        "anchor_text": "Vision / Mission",
-        "score": 38
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/our-presence",
-        "anchor_text": "",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/apitoria",
-        "anchor_text": "Apitoria (API)",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/media/press-releases",
-        "anchor_text": "I Accept",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/curateq",
-        "anchor_text": "Curateq (Biosimilars) / Peptide",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/media/corporate-kit",
-        "anchor_text": "Corporate Kit",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/milestone",
-        "anchor_text": "Milestones",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/eugia",
-        "anchor_text": "Eugia (Speciality products)",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy#cookies",
-        "anchor_text": "Cookie policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/rd",
-        "anchor_text": "R&D",
-        "score": 26
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business",
-        "anchor_text": "Our Business",
-        "score": 25
-      },
-      {
-        "url": "https://www.aurobindo.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.aurobindo.com/sitemap.xml",
-        "anchor_text": "Site Map",
-        "score": 14
-      },
-      {
-        "url": "https://www.aurobindo.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.aurobindo.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.aurobindo.com/",
-        "anchor_text": "",
-        "score": 3
-      },
-      {
-        "url": "https://www.aurobindo.com",
-        "anchor_text": "Aurobindo Pharma Limited.",
-        "score": 0
       }
     ]
   },
@@ -83148,6 +81590,11 @@
   {
     "company": "4D Molecular Therapeutics",
     "press_url": "https://ir.4dmoleculartherapeutics.com/press-releases",
+    "candidate_links": []
+  },
+  {
+    "company": "Cresset Group",
+    "press_url": "https://cresset-group.com/about/news/",
     "candidate_links": []
   },
   {
