@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 24,
-    "items_extracted": 0,
+    "articles_used": 11,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-05-23 08:30:32"
+    "generated_at": "2026-05-26 09:32:45"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Kyowa Kirin",
+      "modality": "gene editing",
+      "news": "Kyowa Kirin and Kura Oncology initiated a Japanese Phase 2 registration-directed trial for ziftomenib, an oral menin inhibitor, in patients with relapsed or refractory NPM1-mutated acute myeloid leukemia. The trial aims to support a regulatory filing in Japan following completion, building on the drug's prior FDA approval in the US.",
+      "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html"
+    }
+  ]
 }

@@ -1452,14 +1452,14 @@
         "score": 145
       },
       {
+        "url": "https://www.novartis.com/news/media-releases/new-novartis-data-era-2026-advance-scientific-understanding-kidney-disease-and-reinforce-portfolio-strength",
+        "anchor_text": "Press releaseMay 26, 2026New Novartis data at ERA 2026 advance scientific understanding of kidney disease and reinforce portfolio strengthLate-breaking Phase III IgAN data for Vanrafia ALIGN and Fabhalta APPLAUSE-IgAN studies to be presented124-week Phase I/II zigakibart data evaluating treatment efficacy and safety in IgAN will be…",
+        "score": 144
+      },
+      {
         "url": "https://www.novartis.com/news/media-releases/novartis-announces-both-ianalumab-phase-iii-clinical-trials-met-primary-endpoint-patients-sjogrens-disease",
         "anchor_text": "Ad hoc releaseAug 11, 2025Novartis announces both ianalumab Phase III clinical trials met primary endpoint in patients with Sjögren’s diseaseAd hoc announcement pursuant to Art. 53 LR    NEPTUNUS-1 and NEPTUNUS-2 are the first ever global phase III trials to demonstrate statistically significant reduction in disease activity for Sjögren’s…",
         "score": 143
-      },
-      {
-        "url": "https://www.novartis.com/news/media-releases/novartis-agrees-acquire-excellergy-inc-building-allergy-leadership-next-generation-anti-ige-innovation",
-        "anchor_text": "Press releaseMar 27, 2026Novartis agrees to acquire Excellergy, Inc., building on allergy leadership with next-generation anti-IgE innovation- Proposed acquisition strengthens Novartis immunology strategy in food allergy and other IgE-driven diseases   - Lead asset Exl-111 builds on proven IgE biology with a differentiated…",
-        "score": 139
       },
       {
         "url": "https://www.novartis.com/healthcare-professionals/investigator-initiated-trials-studies-clinical-and-investigator-initiated-research-non-clinical",
@@ -5937,7 +5937,7 @@
       },
       {
         "url": "https://www.veeva.com/products/veeva-link/medical-insights/",
-        "anchor_text": "Veeva Medical InsightsAccelerate insights from capture to action",
+        "anchor_text": "Veeva Link Medical InsightsAccelerate insights from capture to action",
         "score": 56
       },
       {
@@ -6939,127 +6939,6 @@
     ]
   },
   {
-    "company": "Thermo Fisher Scientific",
-    "press_url": "https://www.thermofisher.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://www.thermofisher.com/blog/accelerating-science-blog-subscribe/",
-        "anchor_text": "subscribe",
-        "score": 58
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/clinical-conversations/",
-        "anchor_text": "Clinical Conversations",
-        "score": 45
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/identifying-threats/",
-        "anchor_text": "Identifying Threats",
-        "score": 42
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/atomic-resolution/",
-        "anchor_text": "Life in Atomic Resolution",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/new-thermo-fisher/",
-        "anchor_text": "New on ThermoFisher.com",
-        "score": 40
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/ask-a-scientist/",
-        "anchor_text": "Ask a Scientist",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/life-in-the-lab/",
-        "anchor_text": "Life in the Lab",
-        "score": 38
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/contact-us/",
-        "anchor_text": "Contact",
-        "score": 33
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/about-us/",
-        "anchor_text": "About Us",
-        "score": 31
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/behindthebench/",
-        "anchor_text": "Behind the Bench",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/semiconductors/",
-        "anchor_text": "Illuminating Semiconductors",
-        "score": 27
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/biotechnology/",
-        "anchor_text": "Biotech at Scale",
-        "score": 26
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/connectedlab/",
-        "anchor_text": "The Connected Lab",
-        "score": 25
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/analyteguru/",
-        "anchor_text": "AnalyteGuru",
-        "score": 24
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/oempowered/",
-        "anchor_text": "OEMpowered",
-        "score": 23
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/materials/",
-        "anchor_text": "Advancing Materials",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/locations/",
-        "anchor_text": "Locations",
-        "score": 22
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 20
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/mining/",
-        "anchor_text": "Advancing Mining",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/metals/",
-        "anchor_text": "Analyzing Metals",
-        "score": 19
-      },
-      {
-        "url": "https://www.thermofisher.com/blog/food/",
-        "anchor_text": "Examining Food",
-        "score": 17
-      },
-      {
-        "url": "https://www.thermofisher.com/",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 3
-      },
-      {
-        "url": "https://www.thermofisher.com",
-        "anchor_text": "Thermo Fisher Scientific",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "Gland Pharma Limited",
     "press_url": "https://glandpharma.com/resource/news",
     "candidate_links": [
@@ -7743,6 +7622,11 @@
       {
         "url": "https://www.birac.nic.in/desc_new.php?id=90",
         "anchor_text": "Contact Us",
+        "score": 15
+      },
+      {
+        "url": "https://www.birac.nic.in/desc_new.php?id=1332",
+        "anchor_text": "Webinar on “Enzymes” Under the Biomanufacturing Initiative of DBT and BIRAC",
         "score": 15
       },
       {
@@ -8780,6 +8664,192 @@
     ]
   },
   {
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
+    "candidate_links": [
+      {
+        "url": "https://adametnext.com/competitive-intelligence/",
+        "anchor_text": "Competitive Intelligence",
+        "score": 40
+      },
+      {
+        "url": "https://adametnext.com/marketing-analytics/",
+        "anchor_text": "Marketing Analytics",
+        "score": 35
+      },
+      {
+        "url": "https://adametnext.com/classic-sidebar/",
+        "anchor_text": "How to make the most of a nontraditional startup community",
+        "score": 31
+      },
+      {
+        "url": "https://adametnext.com/classic-sidebar/#respond",
+        "anchor_text": "No comments yet",
+        "score": 31
+      },
+      {
+        "url": "https://adametnext.com/modern-sidebar/",
+        "anchor_text": "Read more",
+        "score": 30
+      },
+      {
+        "url": "https://adametnext.com/modern-sidebar/#respond",
+        "anchor_text": "No comments yet",
+        "score": 30
+      },
+      {
+        "url": "https://adametnext.com/gallery-post/",
+        "anchor_text": "How can you help your team transition to remote with this essential guide",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/category/development/",
+        "anchor_text": "Development",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/gallery-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 28
+      },
+      {
+        "url": "https://adametnext.com/category/technology/",
+        "anchor_text": "Technology",
+        "score": 27
+      },
+      {
+        "url": "https://adametnext.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/video-post/",
+        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/video-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/audio-post/",
+        "anchor_text": "Read more",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/audio-post/#respond",
+        "anchor_text": "No comments yet",
+        "score": 26
+      },
+      {
+        "url": "https://adametnext.com/category/business/",
+        "anchor_text": "Business",
+        "score": 25
+      },
+      {
+        "url": "https://adametnext.com/category/software/",
+        "anchor_text": "Software",
+        "score": 25
+      },
+      {
+        "url": "https://adametnext.com/about-us/",
+        "anchor_text": "About Us",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/category/general/",
+        "anchor_text": "General",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/category/science/",
+        "anchor_text": "Science",
+        "score": 24
+      },
+      {
+        "url": "https://adametnext.com/author/admin143/",
+        "anchor_text": "admin143",
+        "score": 23
+      },
+      {
+        "url": "https://adametnext.com/category/design/",
+        "anchor_text": "Design",
+        "score": 23
+      },
+      {
+        "url": "https://adametnext.com/tag/marketing/",
+        "anchor_text": "Marketing(3)",
+        "score": 21
+      },
+      {
+        "url": "https://adametnext.com/tag/creative/",
+        "anchor_text": "Creative(4)",
+        "score": 20
+      },
+      {
+        "url": "https://adametnext.com/tag/internet/",
+        "anchor_text": "Internet(4)",
+        "score": 20
+      },
+      {
+        "url": "https://adametnext.com/tag/popular/",
+        "anchor_text": "Popular(3)",
+        "score": 19
+      },
+      {
+        "url": "https://adametnext.com/tag/startup/",
+        "anchor_text": "Startup(3)",
+        "score": 19
+      },
+      {
+        "url": "https://adametnext.com/tag/mobile/",
+        "anchor_text": "Mobile(4)",
+        "score": 18
+      },
+      {
+        "url": "https://adametnext.com/forecasting/",
+        "anchor_text": "Forecasting",
+        "score": 17
+      },
+      {
+        "url": "https://adametnext.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/classic/",
+        "anchor_text": "Problems everyone has when working remotely and how to solve them",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/classic/#respond",
+        "anchor_text": "No comments yet",
+        "score": 13
+      },
+      {
+        "url": "https://adametnext.com/modern/",
+        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
+        "score": 12
+      },
+      {
+        "url": "https://adametnext.com/modern/#respond",
+        "anchor_text": "No comments yet",
+        "score": 12
+      },
+      {
+        "url": "https://adametnext.com/blog/",
+        "anchor_text": "Subscribe",
+        "score": 10
+      },
+      {
+        "url": "https://adametnext.com",
+        "anchor_text": "Adamet Next",
+        "score": 0
+      }
+    ]
+  },
+  {
     "company": "Genotypic Technology Pvt Ltd",
     "press_url": "https://genotypic.co.in/aboutus/news/",
     "candidate_links": [
@@ -9063,11 +9133,6 @@
         "url": "https://insilicominds.com/fda-model-integrated-evidence-mie-industry-meeting-pilot-program-for-generic-drugs/",
         "anchor_text": "Read More »",
         "score": 98
-      },
-      {
-        "url": "https://insilicominds.com/india-bans-animal-testing-promotes-insilico-modeling-simulation-as-an-alternative/",
-        "anchor_text": "Read More »",
-        "score": 97
       },
       {
         "url": "https://insilicominds.com/insilicominds-to-present-at-federation-of-asian-biotech-associations-faba/",
@@ -10554,277 +10619,6 @@
       },
       {
         "url": "https://vimta.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "company": "JETRO",
-    "press_url": "https://www.jetro.go.jp/en/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2026/c295acc70ea10821.html",
-        "anchor_text": "Memorandum of Understanding Signed between Arizona State University, Arizona Commerce Authority, Greater Phoenix Economic Council and JETRO －Promoting Collaboration in R&D and Human Resource Development in Semiconductors and Related Fields",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2026/391ca90b5dec9de9.html",
-        "anchor_text": "Notification on the Establishment of JETRO’s Human Rights Policy Working Committee",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/c3023c4e96345f71.html",
-        "anchor_text": "Notable Japanese Tea Varieties Beyond Matcha Workshops Showcasing the Appeal of Matcha and Roasted Green Tea to be Held in Two U.S. Cities",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/0602e175e34adaa4.html",
-        "anchor_text": "TAIDO African Animation Challenge 2026: Empowering Africa’s Animation Talent",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/0555c053816e09a3.html",
-        "anchor_text": "Memorandum of Cooperation Signed between  GX Acceleration Agency, InnoEnergy, and JETRO — Accelerating Innovation in the Field of Decarbonization through Japan-EU Collaboration —",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/dba596da61a037b7.html",
-        "anchor_text": "Selected projects under the public call for the \"Subsidy for Projects to Stimulate Direct Investment in Japan\"",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/580554dc11092bc8.html",
-        "anchor_text": "【WEB SEMINAR】Strategic Gateway to JAPAN -Advantages of Expanding to AICHI & NAGOYA",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/bd8c0b58e5104a59.html",
-        "anchor_text": "First-ever global healthcare symposium and business contest aimed at solving health issues and creating new innovations Registration for Participation in Global Healthcare Challenge (GHeC) Opens",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/announcement/2025/00636913a721e165.html",
-        "anchor_text": "JETRO Global Career Connect 2025 (Online job fair in English) will be held on July 9-10",
-        "score": 83
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2026/3841a441b1df614e.html",
-        "anchor_text": "Announcing the Japan Pavilion Logo and Symbol: One Year Until Expo 2027 Belgrade Opens",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2026/4e5eb959d969f9fd.html",
-        "anchor_text": "JETRO Publishes 2025 Survey on Business Operations of Foreign-affiliated Companies in Japan",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2026/e241e180688b737c.html",
-        "anchor_text": "FY2025 JETRO Survey on Business Conditions for Japanese Companies Operating Overseas (North America)",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2026/7dc6068af2960be9.html",
-        "anchor_text": "FY2025 JETRO Survey on Business Conditions of Japanese Companies Operating Overseas（Asia and Oceania）",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2025/04461099867183d4.html",
-        "anchor_text": "FY2025 JETRO Survey on Business Conditions of Japanese-Affiliated Companies Overseas (Global Edition)",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2025/f6f032bc5a50bb33.html",
-        "anchor_text": "Japan Pavilion Basic Plan for EXPO 2027 Belgrade Formulated -Exhibition Theme: \"Play and Connect, Together, Playful Spirit of Japan\"-",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2025/3933ef13e04dda22.html",
-        "anchor_text": "JETRO to Host “Super Japan in Lagos” for the First Time – Showcasing Japan’s Pop Culture Appeal  — “Japan Pavilion” to be Established at the 2025 Lagos International Trade Fair , West Africa ’s Largest Trade Fair —",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2025/4bdce143b1616eb7.html",
-        "anchor_text": "Singapore Exhibition and Convention Bureau and JETRO Singapore Ink Partnership to Accelerate Singapore-Japan Business Events Growth",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/releases/2025/f4b1a3a6af9b56e5.html",
-        "anchor_text": "JETRO to Host “Global Startup EXPO 2025” at the Osaka-Kansai Expo Site — Creating Opportunities for Startup Co-Creation and International Partnerships —",
-        "score": 79
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/jetro/newsletters/list.html",
-        "anchor_text": "Newsletters",
-        "score": 39
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/privacy/privacy_policy.html",
-        "anchor_text": "Privacy Policy",
-        "score": 37
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/database/japanstreet/",
-        "anchor_text": "Japan Street",
-        "score": 33
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/database/procurement/",
-        "anchor_text": "Government Procurement",
-        "score": 33
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/reports/white_paper/",
-        "anchor_text": "JETRO White Paper",
-        "score": 32
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/j-bridge.html",
-        "anchor_text": "Partnership and collaboration with Japanese companies（J-Bridge）",
-        "score": 31
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/reports/statistics/",
-        "anchor_text": "Japanese Trade and Investment Statistics",
-        "score": 31
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/eccj/takumi_next/",
-        "anchor_text": "TAKUMI NEXT",
-        "score": 29
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/jetro/worldwide/",
-        "anchor_text": "JETRO Worldwide Offices",
-        "score": 28
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/reports/survey/",
-        "anchor_text": "Survey Reports",
-        "score": 27
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/legal/social.html",
-        "anchor_text": "Social Media Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/trends/foods/",
-        "anchor_text": "Japanese agriculture, forestry, fisheries and food",
-        "score": 25
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/2026.html",
-        "anchor_text": "2026",
-        "score": 24
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/2025.html",
-        "anchor_text": "2025",
-        "score": 24
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/2024.html",
-        "anchor_text": "2024",
-        "score": 24
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/2023.html",
-        "anchor_text": "2023",
-        "score": 24
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/2022.html",
-        "anchor_text": "2022",
-        "score": 24
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/contact.html",
-        "anchor_text": "FAQs/Contact Us",
-        "score": 20
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/hrportal/",
-        "anchor_text": "Open for Professionals",
-        "score": 19
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/contact/",
-        "anchor_text": "FAQs / Inquiry Form",
-        "score": 18
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/startup/",
-        "anchor_text": "JETRO Startup",
-        "score": 18
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/sitemap/",
-        "anchor_text": "Sitemap",
-        "score": 18
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/links.html",
-        "anchor_text": "Links",
-        "score": 18
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/privacy/",
-        "anchor_text": "Privacy Policy",
-        "score": 18
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/invest/",
-        "anchor_text": "Investing In Japan",
-        "score": 17
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/events/",
-        "anchor_text": "Seminar & Webinar",
-        "score": 17
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/videos/",
-        "anchor_text": "Videos",
-        "score": 17
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/jfoodo/",
-        "anchor_text": "JFOODO",
-        "score": 17
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/jetro/",
-        "anchor_text": "About Us",
-        "score": 16
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/legal/",
-        "anchor_text": "Terms of Use",
-        "score": 16
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/",
-        "anchor_text": "",
-        "score": 15
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/news/#site_area_header",
-        "anchor_text": "Scroll PageTop",
-        "score": 15
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/jgc/",
-        "anchor_text": "JETRO Global Connection",
-        "score": 14
-      },
-      {
-        "url": "https://www.jetro.go.jp/en/",
-        "anchor_text": "",
-        "score": 8
-      },
-      {
-        "url": "https://www.jetro.go.jp/",
         "anchor_text": "",
         "score": 3
       }
@@ -14130,6 +13924,11 @@
         "score": 57
       },
       {
+        "url": "https://abiogenesisclinpharm.com/cell-and-gene-therapy-progress-challenges/",
+        "anchor_text": "Cell and Gene Therapy in 2026: Progress, Challenges, and What’s Coming Next",
+        "score": 57
+      },
+      {
         "url": "https://abiogenesisclinpharm.com/rbqm-in-2026-intelligence-clinical-trials/",
         "anchor_text": "0",
         "score": 57
@@ -14160,13 +13959,8 @@
         "score": 53
       },
       {
-        "url": "https://abiogenesisclinpharm.com/how-cro-use-ai-rbm-remote-inspections/",
-        "anchor_text": "0",
-        "score": 53
-      },
-      {
         "url": "https://abiogenesisclinpharm.com/semaglutide-clinical-trials-generics/",
-        "anchor_text": "Semaglutide: From Blockbuster Innovation to a Global Generic Opportunity",
+        "anchor_text": "0",
         "score": 52
       },
       {
@@ -15698,6 +15492,11 @@
     "press_url": "https://www.olympus-global.com/news/",
     "candidate_links": [
       {
+        "url": "https://www.olympus-global.com/news/2026/nr03019.html",
+        "anchor_text": "May. 25, 2026ESGOlympus Selected as a Supplier Engagement Leader 2025, Receiving Highest Rating in CDP Supplier Engagement Rating",
+        "score": 54
+      },
+      {
         "url": "https://www.olympus-global.com/news/2026/nr03004.html",
         "anchor_text": "May. 08, 2026ESGOlympus Named to Dow Jones Best-in-Class World Index for the Fifth Consecutive Year",
         "score": 54
@@ -15751,11 +15550,6 @@
         "url": "https://www.olympus-global.com/csr/esg-data/?page=csr",
         "anchor_text": "ESG Data",
         "score": 30
-      },
-      {
-        "url": "https://www.olympus-global.com/ir/data/medical.html",
-        "anchor_text": "Apr. 09, 2026IRUpdate: IR Library \"Olympus Business\"",
-        "score": 27
       },
       {
         "url": "https://www.olympus-global.com/products/support.html",
@@ -18517,7 +18311,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Cookie Management Center",
+        "anchor_text": "Share on Linkedin",
         "score": 39
       },
       {
@@ -20904,6 +20698,11 @@
         "score": 151
       },
       {
+        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-named-a-leader-in-the-verdantix-green-quadrant-sustainability-consulting-2026",
+        "anchor_text": "EY named a Leader in the Verdantix Green Quadrant: Sustainability Consulting 2026",
+        "score": 149
+      },
+      {
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/new-ey-survey-reveals-ai-literacy-training-opportunity-for-baby-boomer-users",
         "anchor_text": "New EY survey reveals AI literacy training opportunity for baby boomer users",
         "score": 145
@@ -20922,11 +20721,6 @@
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-horizon-3-market-leader-in-data-modernization-and-ai-services",
         "anchor_text": "EY named a Horizon 3 Market Leader in Data Modernization and AI services",
         "score": 141
-      },
-      {
-        "url": "https://www.ey.com/en_gl/newsroom/2026/03/ey-is-a-leader-in-forrester-cybersecurity-consulting-services-wave",
-        "anchor_text": "EY is a Leader in Forrester Cybersecurity Consulting Services Wave",
-        "score": 135
       },
       {
         "url": "https://www.ey.com/en_gl/newsroom/2026/04/ey-named-a-leader-in-the-forrester-wave-for-ocm-services",
@@ -22702,11 +22496,6 @@
     "press_url": "https://rxpropellant.com/news/",
     "candidate_links": [
       {
-        "url": "https://rxpropellant.com/why-science-needs-infrastructure-built-for-research-not-offices/",
-        "anchor_text": "Why Science Needs Infrastructure Built for Research, Not Offices",
-        "score": 79
-      },
-      {
         "url": "https://rxpropellant.com/the-strategic-advantage-of-scientific-ecosystems/",
         "anchor_text": "The Strategic Advantage of Scientific Ecosystems",
         "score": 64
@@ -22720,6 +22509,11 @@
         "url": "https://rxpropellant.com/made-in-india-trusted-by-the-world/",
         "anchor_text": "Made in India, Trusted by the World",
         "score": 50
+      },
+      {
+        "url": "https://rxpropellant.com/life-sciences-expansion-playbook/",
+        "anchor_text": "Bigger Spaces, Longer Leases: The New Playbook for Life Sciences Expansion",
+        "score": 48
       },
       {
         "url": "https://rxpropellant.com/bio-international-convention/",
@@ -25266,9 +25060,9 @@
         "score": 85
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/why-tackling-obesity-now-will-save-india-billions",
-        "anchor_text": "March 4, 2026Why tackling obesity now will save India billions",
-        "score": 85
+        "url": "https://www.lupin.com/media/perspectives/how-to-integrate-esg-into-core-business-strategy",
+        "anchor_text": "May 20, 2026How to Integrate ESG into Core Business Strategy",
+        "score": 84
       },
       {
         "url": "https://www.lupin.com/investors/disclosure-under-regulation-46-of-sebi-regulations-2015",
@@ -30300,11 +30094,6 @@
         "score": 33
       },
       {
-        "url": "https://www.labcorp.com/terms-and-conditions",
-        "anchor_text": "Terms and Conditions",
-        "score": 33
-      },
-      {
         "url": "https://www.labcorp.com/compliance/ethics/slavery",
         "anchor_text": "Combatting Modern Slavery and Human Trafficking Statement",
         "score": 32
@@ -30998,242 +30787,6 @@
       },
       {
         "url": "https://www.dnanexus.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Tempus",
-    "press_url": "https://www.tempus.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-and-predicta-biosciences-announce-collaboration-to-expand-life-sciences-access-to-ultrasensitive-whole-genome-sequencing-assay-for-hematologic-malignancies-and-mrd-monitoring/",
-        "anchor_text": "Tempus and Predicta Biosciences Announce Collaboration to Expand Life Sciences Access to Ultrasensitive Whole-Genome Sequencing Assay for Hematologic Malignancies and MRD MonitoringTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and Predicta Biosciences, a precision oncology company developing novel diagnostic solutions for deep molecular characterization of hematologic malignancies with a focus on circulating tumor cells, today announced the commercial expansion of a co-branded whole-genome sequencing (WGS) assay, currently … Continued2026-04-15Press Release",
-        "score": 209
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-launches-artera-ai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
-        "anchor_text": "Tempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical UseTempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical Use2026-05-21Press Release",
-        "score": 197
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-expands-strategic-collaboration-with-bristol-myers-squibb-to-enhance-the-probability-of-success-across-clinical-development-programs-in-oncology-and-neuroscience/",
-        "anchor_text": "Tempus Expands Strategic Collaboration with Bristol Myers Squibb to Enhance the Probability of Success Across Clinical Development Programs In Oncology and NeuroscienceTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced a new initiative with Bristol Myers Squibb (NYSE: BMY). This collaboration aims to leverage AI, multimodal real-world data and data science techniques to optimize clinical trial designs and enhance the Probability of Technical & Regulatory Success … Continued2026-05-14Press Release",
-        "score": 196
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-named-to-times-list-of-the-10-most-influential-health-and-life-science-companies-of-2026/",
-        "anchor_text": "Tempus Named to TIME’s 10 Most Influential Health and Life Science Companies of 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company advancing precision medicine through the practical application of artificial intelligence, today announced it has been named to TIME’s 10 Most Influential Health and Life Science Companies of 2026. This inaugural TIME100 Companies: Industry Leaders list, an expansion of the TIME100 Most Influential Companies issue, recognizes the organizations … Continued2026-04-28Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-and-usc-announce-strategic-collaboration-to-accelerate-ai-driven-precision-medicine/",
-        "anchor_text": "Tempus and USC Announce Strategic Collaboration to Accelerate AI-Driven Precision MedicineTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and the Keck School of Medicine of USC and Keck Medicine of USC, today announced a multi-faceted collaboration aimed at transforming patient care and accelerating research through the power of data and AI. This collaboration is designed to … Continued2026-04-23Press Release",
-        "score": 118
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
-        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the first quarter ended March 31, 2026 on Tuesday, May 5, 2026. The company will host a conference call and live audio webcast at 4:30 p.m. ET to discuss the … Continued2026-04-21Press Release",
-        "score": 90
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-to-host-inaugural-investor-day-on-may-29-2026/",
-        "anchor_text": "Tempus to Host Inaugural Investor Day on May 29, 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced that the company will host an Investor Day on Friday, May 29, 2026. The event will start at 8:00 a.m. CT / 9:00 a.m. ET and will feature Tempus’ leadership team, including, Founder and CEO Eric … Continued2026-04-29Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/",
-        "anchor_text": "Tempus Reports First Quarter 2026 ResultsCHICAGO, May 5, 2026 — Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine and patient care, today reported financial results for the quarter ended March 31, 2026. Revenue of $348.1 million, up 36.1% year-over-year Diagnostics revenue of $261.1 million, representing 34.7% growth year-over-year, driven by Oncology … Continued2026-05-05Press Release",
-        "score": 69
-      },
-      {
-        "url": "https://www.tempus.com/solutions/next-for-oncology-life-sciences/",
-        "anchor_text": "Care Gap Intelligence",
-        "score": 59
-      },
-      {
-        "url": "https://www.tempus.com/solutions/clinical-trial-recruitment/",
-        "anchor_text": "Clinical Trial Recruitment",
-        "score": 54
-      },
-      {
-        "url": "https://www.tempus.com/solutions/cdx-and-lab-services/",
-        "anchor_text": "CDx & Lab Services",
-        "score": 48
-      },
-      {
-        "url": "https://www.tempus.com/solutions/digital-pathology/",
-        "anchor_text": "Pathology",
-        "score": 45
-      },
-      {
-        "url": "https://www.tempus.com/solutions/cro-services/",
-        "anchor_text": "CRO Services",
-        "score": 40
-      },
-      {
-        "url": "https://www.tempus.com/patients-clinical-trials/",
-        "anchor_text": "Clinical Trials",
-        "score": 40
-      },
-      {
-        "url": "https://www.tempus.com/solutions/data-and-ai/",
-        "anchor_text": "Data & AI",
-        "score": 39
-      },
-      {
-        "url": "https://www.tempus.com/neurology-psychiatry/",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 36
-      },
-      {
-        "url": "https://www.tempus.com/patients-neuro-psych/",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 36
-      },
-      {
-        "url": "https://www.tempus.com/data-collaborations/",
-        "anchor_text": "Data Collaborations",
-        "score": 35
-      },
-      {
-        "url": "https://www.tempus.com/patients-oncology/",
-        "anchor_text": "Oncology",
-        "score": 33
-      },
-      {
-        "url": "https://www.tempus.com/document-library/",
-        "anchor_text": "Document Library",
-        "score": 32
-      },
-      {
-        "url": "https://www.tempus.com/policy-center/",
-        "anchor_text": "Policy Center",
-        "score": 29
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/",
-        "anchor_text": "Life Sciences Overview",
-        "score": 29
-      },
-      {
-        "url": "https://www.tempus.com/media-library/",
-        "anchor_text": "Media Library",
-        "score": 29
-      },
-      {
-        "url": "https://www.tempus.com/contact-us/",
-        "anchor_text": "CONTACT US",
-        "score": 26
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#our-team",
-        "anchor_text": "Our Team",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#our-tech",
-        "anchor_text": "Our Tech",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#culture",
-        "anchor_text": "Culture",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#careers",
-        "anchor_text": "Careers",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/publications/?tags=oncology",
-        "anchor_text": "Oncology",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?tags=cardiology",
-        "anchor_text": "Cardiology",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?tags=neuro-psych",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/",
-        "anchor_text": "All Publications",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/cardiology/",
-        "anchor_text": "Cardiology",
-        "score": 16
-      },
-      {
-        "url": "https://www.tempus.com/radiology/",
-        "anchor_text": "Radiology",
-        "score": 15
-      },
-      {
-        "url": "https://www.tempus.com/oncology/",
-        "anchor_text": "Oncology",
-        "score": 14
-      },
-      {
-        "url": "https://www.tempus.com/research/",
-        "anchor_text": "Academic & Research Centers",
-        "score": 14
-      },
-      {
-        "url": "https://www.tempus.com/content/?tags=providers",
-        "anchor_text": "For Providers",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/content/?tags=life-sciences",
-        "anchor_text": "For Life Sciences",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/content/",
-        "anchor_text": "All Content",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/privacy/",
-        "anchor_text": "Read our Privacy Policy",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/events/?libraryType=conference",
-        "anchor_text": "Conferences",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/?libraryType=webinar",
-        "anchor_text": "Webinars",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/",
-        "anchor_text": "All Events",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/order/",
-        "anchor_text": "",
-        "score": 11
-      },
-      {
-        "url": "https://www.tempus.com/news/",
-        "anchor_text": "Press Releases",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/",
         "anchor_text": "",
         "score": 3
       }
@@ -37995,7 +37548,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price334.50CHF+ 4.10(+1.24%)Today",
+        "anchor_text": "Share price333.90CHF- 0.60(-0.18%)Today",
         "score": 20
       },
       {
@@ -42166,19 +41719,14 @@
         "score": 193
       },
       {
-        "url": "https://newsroom.astellas.com/2026-05-15-chinas-nmpa-accepts-ndapplication-for-izervay-for-the-treatment-of-geographic-atrophy-secondary-to-age-related-macular-degeneration",
-        "anchor_text": "Read moreabout China’s National Medical Products Administration Accepts New Drug Application for IZERVAY™ (avacincaptad pegol) for the Treatment of Geographic Atrophy Secondary to Age-Related Macular Degeneration",
-        "score": 155
+        "url": "https://newsroom.astellas.com/2026-05-26-astellas-announces-five-year-corporate-strategic-plan-to-deliver-greater-value-faster-for-patients-and-position-itself-as-a-sustainable-growth-company",
+        "anchor_text": "Read moreabout Astellas Announces Five-Year Corporate Strategic Plan to Deliver Greater VALUE Faster for Patients and Position Itself as a Sustainable Growth Company",
+        "score": 174
       },
       {
         "url": "https://newsroom.astellas.com/2026-05-19-astellas-to-present-data-on-long-term-outcomes-and-clinical-use-of-its-portfolio-across-disease-stages-at-asco-2026",
         "anchor_text": "Read moreabout Astellas to Present Data on Long-Term Outcomes and Clinical Use of Its Portfolio Across Disease Stages at ASCO 2026",
         "score": 139
-      },
-      {
-        "url": "https://newsroom.astellas.com/2026-05-15-notice-regarding-continuation-of-the-performance-linked-stock-compensation-scheme",
-        "anchor_text": "Read moreabout Notice Regarding Continuation of the Performance-linked Stock Compensation Scheme",
-        "score": 105
       },
       {
         "url": "https://newsroom.astellas.com/media-library",
@@ -42523,7 +42071,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -45678,6 +45226,11 @@
         "score": 28
       },
       {
+        "url": "https://www.immunocore.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
         "url": "https://www.immunocore.com/science/publications",
         "anchor_text": "Publications",
         "score": 25
@@ -46528,11 +46081,6 @@
         "url": "https://www.abcellera.com/contact-us#contact",
         "anchor_text": "Get in touch",
         "score": 23
-      },
-      {
-        "url": "https://www.abcellera.com/press-kit",
-        "anchor_text": "Press Kit",
-        "score": 22
       },
       {
         "url": "https://www.abcellera.com/pipeline/abcl635",
@@ -52338,11 +51886,6 @@
         "score": 13
       },
       {
-        "url": "https://www.sumitomo-pharma.com/terms/",
-        "anchor_text": "More information",
-        "score": 11
-      },
-      {
         "url": "https://www.sumitomo-pharma.com/news/",
         "anchor_text": "News Room",
         "score": 10
@@ -52380,7 +51923,7 @@
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260518_1.html",
-        "anchor_text": "18 MAY 2026NewNutraceuticalsOtsuka Launches New Program FACEDUO \"Heat Illness Prevention VR\"Enabling Early Awareness and Action Through Simulated Experiences to Help Prevent the Onset and Severity of Heat Illness in Older Adults",
+        "anchor_text": "18 MAY 2026NutraceuticalsOtsuka Launches New Program FACEDUO \"Heat Illness Prevention VR\"Enabling Early Awareness and Action Through Simulated Experiences to Help Prevent the Onset and Severity of Heat Illness in Older Adults",
         "score": 80
       },
       {
@@ -53285,6 +52828,11 @@
         "score": 102
       },
       {
+        "url": "https://www.shionogi.com/global/en/investors/shareholder-information/general-meeting-of-shareholders.html",
+        "anchor_text": "Notice of Convocation of the 161st Annual General Meeting of Shareholders",
+        "score": 101
+      },
+      {
         "url": "https://www.shionogi.com/global/en/sustainability/improve-access-to-healthcare/healthcare-systems.html",
         "anchor_text": "Improving\n                                access to healthcare services in developing countries",
         "score": 98
@@ -53911,6 +53459,16 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260526113000_1253.html?year=2026&category=",
+        "anchor_text": "Chugai Receives “The Imperial Invention Prize,” the Highest Honor of the FY2026 National Commendation for Invention — Recycling Antibody Technology Recognized for its Contribution to Pharmaceutical Research —",
+        "score": 53
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260525153000_1252.html?year=2026&category=",
+        "anchor_text": "Organizational and Personnel Changes",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260518153001_1249.html?year=2026&category=",
         "anchor_text": "Alecensa Receives the World-First Tumor-Agnostic Approval forALKFusion Gene-Positive Solid Tumors Across Adult and Pediatric Patients",
         "score": 53
@@ -54336,6 +53894,16 @@
         "score": 26
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260526_eImperial+Invention+Prize.pdf&src=[%0],[%1]&rep=130,1253",
+        "anchor_text": "[PDF\n                            325KB]",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260525_eSoshiki_Jinji.pdf&src=[%0],[%1]&rep=130,1252",
+        "anchor_text": "[PDF\n                            268KB]",
+        "score": 26
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260518_eAlecensa_TACKLE_approval.pdf&src=[%0],[%1]&rep=130,1249",
         "anchor_text": "[PDF\n                            212KB]",
         "score": 26
@@ -54601,6 +54169,11 @@
     "company": "Kyowa Kirin",
     "press_url": "https://www.kyowakirin.com/media_center/news_releases/",
     "candidate_links": [
+      {
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html",
+        "anchor_text": "Kyowa Kirin and Kura Oncology Initiate Japanese Phase 2 Registration-Directed Trial of Ziftomenib in R/R NPM1-m AML",
+        "score": 83
+      },
       {
         "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260303_01.html",
         "anchor_text": "Kyowa Kirin Announces Discontinuation of Rocatinlimab Clinical Trials",
@@ -68667,11 +68240,6 @@
         "score": 134
       },
       {
-        "url": "https://www.biosolveit.de/2025/12/17/biosolveit-at-34th-gp2a-2026-conference-on-medicinal-chemistry-in-gothenburg/",
-        "anchor_text": "Read on",
-        "score": 134
-      },
-      {
         "url": "https://www.biosolveit.de/2026/01/21/ai-ml-in-early-drug-discovery-from-data-to-decisions-virtual-colloquium/",
         "anchor_text": "Read on",
         "score": 129
@@ -68680,16 +68248,6 @@
         "url": "https://www.biosolveit.de/2026/03/05/freedom-space-by-chemspace-march-2026-update-now-a-massive-296-billion/",
         "anchor_text": "Read on",
         "score": 128
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/08/save-the-date-uk-qsar-2026-in-edinburgh-on-21-april-2026/",
-        "anchor_text": "Read on",
-        "score": 114
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/09/emina-yekt-yilmaz-wins-scientific-challenge-winter-2024/",
-        "anchor_text": "Read on",
-        "score": 113
       },
       {
         "url": "https://www.biosolveit.de/2026/03/30/uk-qsar-2026-abstract-and-full-programme-now-avaliable/",
@@ -68747,16 +68305,6 @@
         "score": 90
       },
       {
-        "url": "https://www.biosolveit.de/2025/11/10/winter-2025-scientific-challenge/",
-        "anchor_text": "Read on",
-        "score": 90
-      },
-      {
-        "url": "https://www.biosolveit.de/2026/01/19/tool-of-the-month-spacelight/",
-        "anchor_text": "Read on",
-        "score": 86
-      },
-      {
         "url": "https://www.biosolveit.de/2026/03/19/uk-qsar-2026-one-month-away/",
         "anchor_text": "Read on",
         "score": 85
@@ -68773,11 +68321,6 @@
       },
       {
         "url": "https://www.biosolveit.de/2026/04/29/tool-of-the-month-flexx/",
-        "anchor_text": "Read on",
-        "score": 81
-      },
-      {
-        "url": "https://www.biosolveit.de/2025/12/15/biosolveit-wrapped-2025/",
         "anchor_text": "Read on",
         "score": 81
       },
@@ -70076,242 +69619,6 @@
       },
       {
         "url": "https://www.abridge.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Tempus AI",
-    "press_url": "https://www.tempus.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-and-predicta-biosciences-announce-collaboration-to-expand-life-sciences-access-to-ultrasensitive-whole-genome-sequencing-assay-for-hematologic-malignancies-and-mrd-monitoring/",
-        "anchor_text": "Tempus and Predicta Biosciences Announce Collaboration to Expand Life Sciences Access to Ultrasensitive Whole-Genome Sequencing Assay for Hematologic Malignancies and MRD MonitoringTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and Predicta Biosciences, a precision oncology company developing novel diagnostic solutions for deep molecular characterization of hematologic malignancies with a focus on circulating tumor cells, today announced the commercial expansion of a co-branded whole-genome sequencing (WGS) assay, currently … Continued2026-04-15Press Release",
-        "score": 209
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-launches-artera-ai-prostate-test-for-metastatic-patients-marking-the-first-prostate-digital-pathology-algorithm-in-the-tempus-ecosystem-available-for-clinical-use/",
-        "anchor_text": "Tempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical UseTempus Launches ArteraAI Prostate Test for Metastatic Patients, Marking the First Prostate Digital Pathology Algorithm in the Tempus Ecosystem Available for Clinical Use2026-05-21Press Release",
-        "score": 197
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-expands-strategic-collaboration-with-bristol-myers-squibb-to-enhance-the-probability-of-success-across-clinical-development-programs-in-oncology-and-neuroscience/",
-        "anchor_text": "Tempus Expands Strategic Collaboration with Bristol Myers Squibb to Enhance the Probability of Success Across Clinical Development Programs In Oncology and NeuroscienceTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced a new initiative with Bristol Myers Squibb (NYSE: BMY). This collaboration aims to leverage AI, multimodal real-world data and data science techniques to optimize clinical trial designs and enhance the Probability of Technical & Regulatory Success … Continued2026-05-14Press Release",
-        "score": 196
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-named-to-times-list-of-the-10-most-influential-health-and-life-science-companies-of-2026/",
-        "anchor_text": "Tempus Named to TIME’s 10 Most Influential Health and Life Science Companies of 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company advancing precision medicine through the practical application of artificial intelligence, today announced it has been named to TIME’s 10 Most Influential Health and Life Science Companies of 2026. This inaugural TIME100 Companies: Industry Leaders list, an expansion of the TIME100 Most Influential Companies issue, recognizes the organizations … Continued2026-04-28Press Release",
-        "score": 123
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-and-usc-announce-strategic-collaboration-to-accelerate-ai-driven-precision-medicine/",
-        "anchor_text": "Tempus and USC Announce Strategic Collaboration to Accelerate AI-Driven Precision MedicineTempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, and the Keck School of Medicine of USC and Keck Medicine of USC, today announced a multi-faceted collaboration aimed at transforming patient care and accelerating research through the power of data and AI. This collaboration is designed to … Continued2026-04-23Press Release",
-        "score": 118
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-to-report-first-quarter-2026-financial-results-on-may-5/",
-        "anchor_text": "Tempus to Report First Quarter 2026 Financial Results on May 5Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the first quarter ended March 31, 2026 on Tuesday, May 5, 2026. The company will host a conference call and live audio webcast at 4:30 p.m. ET to discuss the … Continued2026-04-21Press Release",
-        "score": 90
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-to-host-inaugural-investor-day-on-may-29-2026/",
-        "anchor_text": "Tempus to Host Inaugural Investor Day on May 29, 2026Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced that the company will host an Investor Day on Friday, May 29, 2026. The event will start at 8:00 a.m. CT / 9:00 a.m. ET and will feature Tempus’ leadership team, including, Founder and CEO Eric … Continued2026-04-29Press Release",
-        "score": 80
-      },
-      {
-        "url": "https://www.tempus.com/news/pr/tempus-reports-first-quarter-2026-results/",
-        "anchor_text": "Tempus Reports First Quarter 2026 ResultsCHICAGO, May 5, 2026 — Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine and patient care, today reported financial results for the quarter ended March 31, 2026. Revenue of $348.1 million, up 36.1% year-over-year Diagnostics revenue of $261.1 million, representing 34.7% growth year-over-year, driven by Oncology … Continued2026-05-05Press Release",
-        "score": 69
-      },
-      {
-        "url": "https://www.tempus.com/solutions/next-for-oncology-life-sciences/",
-        "anchor_text": "Care Gap Intelligence",
-        "score": 59
-      },
-      {
-        "url": "https://www.tempus.com/solutions/clinical-trial-recruitment/",
-        "anchor_text": "Clinical Trial Recruitment",
-        "score": 54
-      },
-      {
-        "url": "https://www.tempus.com/solutions/cdx-and-lab-services/",
-        "anchor_text": "CDx & Lab Services",
-        "score": 48
-      },
-      {
-        "url": "https://www.tempus.com/solutions/digital-pathology/",
-        "anchor_text": "Pathology",
-        "score": 45
-      },
-      {
-        "url": "https://www.tempus.com/solutions/cro-services/",
-        "anchor_text": "CRO Services",
-        "score": 40
-      },
-      {
-        "url": "https://www.tempus.com/patients-clinical-trials/",
-        "anchor_text": "Clinical Trials",
-        "score": 40
-      },
-      {
-        "url": "https://www.tempus.com/solutions/data-and-ai/",
-        "anchor_text": "Data & AI",
-        "score": 39
-      },
-      {
-        "url": "https://www.tempus.com/neurology-psychiatry/",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 36
-      },
-      {
-        "url": "https://www.tempus.com/patients-neuro-psych/",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 36
-      },
-      {
-        "url": "https://www.tempus.com/data-collaborations/",
-        "anchor_text": "Data Collaborations",
-        "score": 35
-      },
-      {
-        "url": "https://www.tempus.com/patients-oncology/",
-        "anchor_text": "Oncology",
-        "score": 33
-      },
-      {
-        "url": "https://www.tempus.com/document-library/",
-        "anchor_text": "Document Library",
-        "score": 32
-      },
-      {
-        "url": "https://www.tempus.com/policy-center/",
-        "anchor_text": "Policy Center",
-        "score": 29
-      },
-      {
-        "url": "https://www.tempus.com/life-sciences/",
-        "anchor_text": "Life Sciences Overview",
-        "score": 29
-      },
-      {
-        "url": "https://www.tempus.com/media-library/",
-        "anchor_text": "Media Library",
-        "score": 29
-      },
-      {
-        "url": "https://www.tempus.com/contact-us/",
-        "anchor_text": "CONTACT US",
-        "score": 26
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#our-team",
-        "anchor_text": "Our Team",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#our-tech",
-        "anchor_text": "Our Tech",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#culture",
-        "anchor_text": "Culture",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/about-us/#careers",
-        "anchor_text": "Careers",
-        "score": 24
-      },
-      {
-        "url": "https://www.tempus.com/publications/?tags=oncology",
-        "anchor_text": "Oncology",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?tags=cardiology",
-        "anchor_text": "Cardiology",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/?tags=neuro-psych",
-        "anchor_text": "Neurology & Psychiatry",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/publications/",
-        "anchor_text": "All Publications",
-        "score": 18
-      },
-      {
-        "url": "https://www.tempus.com/cardiology/",
-        "anchor_text": "Cardiology",
-        "score": 16
-      },
-      {
-        "url": "https://www.tempus.com/radiology/",
-        "anchor_text": "Radiology",
-        "score": 15
-      },
-      {
-        "url": "https://www.tempus.com/oncology/",
-        "anchor_text": "Oncology",
-        "score": 14
-      },
-      {
-        "url": "https://www.tempus.com/research/",
-        "anchor_text": "Academic & Research Centers",
-        "score": 14
-      },
-      {
-        "url": "https://www.tempus.com/content/?tags=providers",
-        "anchor_text": "For Providers",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/content/?tags=life-sciences",
-        "anchor_text": "For Life Sciences",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/content/",
-        "anchor_text": "All Content",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/privacy/",
-        "anchor_text": "Read our Privacy Policy",
-        "score": 13
-      },
-      {
-        "url": "https://www.tempus.com/events/?libraryType=conference",
-        "anchor_text": "Conferences",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/?libraryType=webinar",
-        "anchor_text": "Webinars",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/events/",
-        "anchor_text": "All Events",
-        "score": 12
-      },
-      {
-        "url": "https://www.tempus.com/order/",
-        "anchor_text": "",
-        "score": 11
-      },
-      {
-        "url": "https://www.tempus.com/news/",
-        "anchor_text": "Press Releases",
-        "score": 10
-      },
-      {
-        "url": "https://www.tempus.com/",
         "anchor_text": "",
         "score": 3
       }
@@ -79338,9 +78645,280 @@
     "candidate_links": []
   },
   {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
+    "company": "Thermo Fisher Scientific",
+    "press_url": "https://www.thermofisher.com/blog/",
     "candidate_links": []
+  },
+  {
+    "company": "JETRO",
+    "press_url": "https://www.jetro.go.jp/en/news/",
+    "candidate_links": [
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2026/c295acc70ea10821.html",
+        "anchor_text": "Memorandum of Understanding Signed between Arizona State University, Arizona Commerce Authority, Greater Phoenix Economic Council and JETRO －Promoting Collaboration in R&D and Human Resource Development in Semiconductors and Related Fields",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2026/391ca90b5dec9de9.html",
+        "anchor_text": "Notification on the Establishment of JETRO’s Human Rights Policy Working Committee",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/c3023c4e96345f71.html",
+        "anchor_text": "Notable Japanese Tea Varieties Beyond Matcha Workshops Showcasing the Appeal of Matcha and Roasted Green Tea to be Held in Two U.S. Cities",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/0602e175e34adaa4.html",
+        "anchor_text": "TAIDO African Animation Challenge 2026: Empowering Africa’s Animation Talent",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/0555c053816e09a3.html",
+        "anchor_text": "Memorandum of Cooperation Signed between  GX Acceleration Agency, InnoEnergy, and JETRO — Accelerating Innovation in the Field of Decarbonization through Japan-EU Collaboration —",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/dba596da61a037b7.html",
+        "anchor_text": "Selected projects under the public call for the \"Subsidy for Projects to Stimulate Direct Investment in Japan\"",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/580554dc11092bc8.html",
+        "anchor_text": "【WEB SEMINAR】Strategic Gateway to JAPAN -Advantages of Expanding to AICHI & NAGOYA",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/bd8c0b58e5104a59.html",
+        "anchor_text": "First-ever global healthcare symposium and business contest aimed at solving health issues and creating new innovations Registration for Participation in Global Healthcare Challenge (GHeC) Opens",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/announcement/2025/00636913a721e165.html",
+        "anchor_text": "JETRO Global Career Connect 2025 (Online job fair in English) will be held on July 9-10",
+        "score": 83
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/3841a441b1df614e.html",
+        "anchor_text": "Announcing the Japan Pavilion Logo and Symbol: One Year Until Expo 2027 Belgrade Opens",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/4e5eb959d969f9fd.html",
+        "anchor_text": "JETRO Publishes 2025 Survey on Business Operations of Foreign-affiliated Companies in Japan",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/e241e180688b737c.html",
+        "anchor_text": "FY2025 JETRO Survey on Business Conditions for Japanese Companies Operating Overseas (North America)",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2026/7dc6068af2960be9.html",
+        "anchor_text": "FY2025 JETRO Survey on Business Conditions of Japanese Companies Operating Overseas（Asia and Oceania）",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2025/04461099867183d4.html",
+        "anchor_text": "FY2025 JETRO Survey on Business Conditions of Japanese-Affiliated Companies Overseas (Global Edition)",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2025/f6f032bc5a50bb33.html",
+        "anchor_text": "Japan Pavilion Basic Plan for EXPO 2027 Belgrade Formulated -Exhibition Theme: \"Play and Connect, Together, Playful Spirit of Japan\"-",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2025/3933ef13e04dda22.html",
+        "anchor_text": "JETRO to Host “Super Japan in Lagos” for the First Time – Showcasing Japan’s Pop Culture Appeal  — “Japan Pavilion” to be Established at the 2025 Lagos International Trade Fair , West Africa ’s Largest Trade Fair —",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2025/4bdce143b1616eb7.html",
+        "anchor_text": "Singapore Exhibition and Convention Bureau and JETRO Singapore Ink Partnership to Accelerate Singapore-Japan Business Events Growth",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/releases/2025/f4b1a3a6af9b56e5.html",
+        "anchor_text": "JETRO to Host “Global Startup EXPO 2025” at the Osaka-Kansai Expo Site — Creating Opportunities for Startup Co-Creation and International Partnerships —",
+        "score": 79
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/jetro/newsletters/list.html",
+        "anchor_text": "Newsletters",
+        "score": 39
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/privacy/privacy_policy.html",
+        "anchor_text": "Privacy Policy",
+        "score": 37
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/database/japanstreet/",
+        "anchor_text": "Japan Street",
+        "score": 33
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/database/procurement/",
+        "anchor_text": "Government Procurement",
+        "score": 33
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/reports/white_paper/",
+        "anchor_text": "JETRO White Paper",
+        "score": 32
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/reports/statistics/",
+        "anchor_text": "Japanese Trade and Investment Statistics",
+        "score": 31
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/j-bridge/",
+        "anchor_text": "Collaborate with Japanese companies",
+        "score": 29
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/eccj/takumi_next/",
+        "anchor_text": "TAKUMI NEXT",
+        "score": 29
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/jetro/worldwide/",
+        "anchor_text": "JETRO Worldwide Offices",
+        "score": 28
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/reports/survey/",
+        "anchor_text": "Survey Reports",
+        "score": 27
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/legal/social.html",
+        "anchor_text": "Social Media Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/trends/foods/",
+        "anchor_text": "Japanese agriculture, forestry, fisheries and food",
+        "score": 25
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/2026.html",
+        "anchor_text": "2026",
+        "score": 24
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/2025.html",
+        "anchor_text": "2025",
+        "score": 24
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/2024.html",
+        "anchor_text": "2024",
+        "score": 24
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/2023.html",
+        "anchor_text": "2023",
+        "score": 24
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/2022.html",
+        "anchor_text": "2022",
+        "score": 24
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/contact.html",
+        "anchor_text": "FAQs/Contact Us",
+        "score": 20
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/hrportal/",
+        "anchor_text": "Open for Professionals",
+        "score": 19
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/contact/",
+        "anchor_text": "FAQs / Inquiry Form",
+        "score": 18
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/startup/",
+        "anchor_text": "JETRO Startup",
+        "score": 18
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/sitemap/",
+        "anchor_text": "Sitemap",
+        "score": 18
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/links.html",
+        "anchor_text": "Links",
+        "score": 18
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/privacy/",
+        "anchor_text": "Privacy Policy",
+        "score": 18
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/invest/",
+        "anchor_text": "Investing In Japan",
+        "score": 17
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/events/",
+        "anchor_text": "Seminar & Webinar",
+        "score": 17
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/videos/",
+        "anchor_text": "Videos",
+        "score": 17
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/jfoodo/",
+        "anchor_text": "JFOODO",
+        "score": 17
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/jetro/",
+        "anchor_text": "About Us",
+        "score": 16
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/legal/",
+        "anchor_text": "Terms of Use",
+        "score": 16
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/",
+        "anchor_text": "",
+        "score": 15
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/news/#site_area_header",
+        "anchor_text": "Scroll PageTop",
+        "score": 15
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/jgc/",
+        "anchor_text": "JETRO Global Connection",
+        "score": 14
+      },
+      {
+        "url": "https://www.jetro.go.jp/en/",
+        "anchor_text": "",
+        "score": 8
+      },
+      {
+        "url": "https://www.jetro.go.jp/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
   },
   {
     "company": "T-Hub",
@@ -79851,6 +79429,11 @@
   {
     "company": "Medpace",
     "press_url": "https://investor.medpace.com/news-releases",
+    "candidate_links": []
+  },
+  {
+    "company": "Tempus",
+    "press_url": "https://www.tempus.com/news/",
     "candidate_links": []
   },
   {
@@ -81883,6 +81466,11 @@
   {
     "company": "Apic Bio",
     "press_url": "https://apicbio.com/news/",
+    "candidate_links": []
+  },
+  {
+    "company": "Tempus AI",
+    "press_url": "https://www.tempus.com/news/",
     "candidate_links": []
   },
   {
