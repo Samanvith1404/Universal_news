@@ -1,39 +1,15 @@
 {
   "query": "protac",
-  "generated_at": "2026-05-27 09:12:02",
-  "article_count": 14,
+  "generated_at": "2026-05-28 09:13:54",
+  "article_count": 16,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The reviewed pharmaceutical intelligence corpus for May 2026, encompassing major industry publications such as BioPharma Dive and STAT News, does not explicitly report on Proteolysis Targeting Chimeras (PROTAC) developments. While the provided articles detail significant advancements in gene editing technologies, antibody-drug conjugates, and obesity therapeutics, no specific clinical trials, partnerships, or regulatory submissions regarding PROTAC modalities were identified within the source text. Consequently, this briefing reflects the current absence of PROTAC-specific data in the selected literature, highlighting instead the broader oncology and biotechnology landscape dominated by gene editing and immunotherapy updates from entities including Merck, Eli Lilly, and Intellia Therapeutics. Stakeholders monitoring PROTAC pipelines should note that this month's public reporting focuses on alternative modalities, with no direct correlation to proteolysis targeting mechanisms found in the analyzed documents. This gap suggests that PROTAC-specific milestones may be reported through different channels or later in the development cycle, requiring continued surveillance beyond the current article set for comprehensive PROTAC intelligence. The absence of PROTAC data in these high-profile industry updates indicates a potential shift in reporting focus toward established modalities like CRISPR and ADCs during this period, alongside significant regulatory and public health shifts involving FDA leadership changes and global health emergencies.",
+      "paragraph": "The pharmaceutical landscape for targeted protein degradation is evolving rapidly beyond traditional proteolysis targeting chimeras (PROTACs) to include molecular glues and next-generation proximity medicines. The U.S. Food and Drug Administration greenlit Arvinas and Pfizer’s vepdegestrant, the first PROTAC approved for advanced breast cancer, marking a regulatory milestone for the modality. Concurrently, significant capital is flowing into alternative degradation technologies, with Merck committing $2.55 billion to Proxygen for molecular glue degraders targeting multiple therapeutic areas. AbbVie, Eli Lilly, and Biogen have also secured substantial partnerships with Neomorph to develop glues for immunology and cancer. While PROTACs utilize chemical linkers to bind target proteins and E3 ligases, molecular glues offer smaller molecular weights and blood-brain barrier penetration, as seen in Proxygen’s CDK12 program. Halda Therapeutics, owned by Johnson & Johnson, is advancing RIPTACs that employ a “hold and kill” mechanism distinct from proteasome-dependent degradation. Fortitude Biomedicines is exploring Glue DACs to overcome antibody-drug conjugate resistance. These developments underscore a strategic shift toward drugging undruggable targets through induced proximity, with companies like General Proximity utilizing platforms to scan effector proteins for oncology and neurodegeneration applications.",
       "sources": [
         {
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/",
-          "label": "BioPharma Dive"
-        },
-        {
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/",
-          "label": "Eli Lilly"
-        },
-        {
-          "url": "https://statnews.com/2026/05/26/health-news-ebola-outbreak-continues-to-worsen/",
-          "label": "Ebola Outbreak"
-        },
-        {
-          "url": "https://statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/",
-          "label": "FDA"
-        },
-        {
-          "url": "https://statnews.com/2026/05/26/pepfar-state-department-plan-dismantling-hiv-cdc/",
-          "label": "PEPFAR Policy"
-        },
-        {
-          "url": "https://statnews.com/2026/05/23/perimenopause-misinformation-influencers-supplements-hormones/",
-          "label": "Perimenopause Health"
-        },
-        {
-          "url": "https://statnews.com/2026/05/21/nih-niaid-jeffrey-taubenberger-exit/",
-          "label": "NIH Leadership"
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/",
+          "label": "Proximity Degraders Review"
         }
       ]
     },
@@ -41,16 +17,16 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Merck — ADC Program — Endometrial Cancer — No PROTAC data reported in ASCO26 abstracts.",
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/"
+          "text": "Arvinas — Vepdegestrant — Advanced Breast Cancer — FDA greenlit first-ever PROTAC for treatment.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Eli Lilly — Gene Editing — Hypercholesterolemia — No PROTAC pipeline reported in Verve updates.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Merck — Proxygen — Multiple Targets — $2.55 billion deal to identify and develop molecular glue degraders.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Intellia Therapeutics — CRISPR — Rare Swelling Disorder — No PROTAC mechanism identified in late-stage study.",
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/"
+          "text": "Halda Therapeutics — HLD-0915 — Cancer — RIPTAC entered clinic with encouraging early results.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -58,16 +34,20 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Merck: Strategic objective to hit $70 billion in annual sales via oncology ADCs; no PROTAC program reported.",
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/"
+          "text": "Arvinas: Developing PROTACs including vepdegestrant for advanced breast cancer.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Eli Lilly: Strategic objective in obesity and gene editing; no PROTAC development identified in provided sources.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Proxygen: Developing next-generation molecular glue degraders targeting p300 and CDK12.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Intellia Therapeutics: Strategic objective for in vivo gene editing; no PROTAC technology utilized in current pipeline.",
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/"
+          "text": "Halda Therapeutics: Pioneering RIPTACs with a hold and kill mechanism for cancer.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Fortitude Biomedicines: Developing Glue DACs to overcome ADC drug resistance.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -75,16 +55,20 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Merck ADC — Phase 3 — Endometrial Cancer — Trial hit mark; mechanism is ADC, not PROTAC.",
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/"
+          "text": "Vepdegestrant: PROTAC mechanism, oestrogen receptor degrader, advanced breast cancer, FDA approved.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Verve Therapeutics — Base Editing — Hypercholesterolemia — Lowered LDL; mechanism is gene editing, not PROTAC.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Proxygen p300: Covalent pharmacology, suppresses oncogenic transcriptional programs, IND-enabling studies next year.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Intellia Therapeutics — CRISPR — Rare Swelling Disorder — Late-stage success; mechanism is gene editing, not PROTAC.",
-          "url": "https://biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/"
+          "text": "Proxygen CDK12: Eliminates cyclin K, high brain penetrance, targets brain metastases, IND-enabling studies next year.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "HLD-0915: RIPTAC mechanism, binds target and pan-essential protein, oral small molecule, entered clinic last year.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -92,8 +76,32 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "No relevant business developments reported.",
-          "url": null
+          "text": "Merck and Proxygen: $2.55 billion deal to identify and develop molecular glue degraders against multiple therapeutic targets.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "AbbVie and Neomorph: $1.64 billion deal to create glues for immunology and cancer targets.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Eli Lilly and Neomorph: $1.45 billion pact to develop molecular glues.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Biogen and Neomorph: $1.46 billion pact to develop molecular glues.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Novartis and Monte Rosa Therapeutics: $5.7 billion deal to license an undisclosed discovery target.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Takeda and Degron Therapeutics: $1.2 billion licensing deal to advance degraders for oncology, neuroscience, and inflammation.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Fortitude Biomedicines: Launched with $13 million in seed funding in 2026.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     }
