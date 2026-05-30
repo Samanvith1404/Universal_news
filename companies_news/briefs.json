@@ -1,17 +1,47 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 11,
-    "items_extracted": 1,
+    "articles_used": 98,
+    "items_extracted": 6,
     "items_dropped": 0,
-    "generated_at": "2026-05-26 09:32:45"
+    "generated_at": "2026-05-30 08:39:51"
   },
   "news": [
     {
-      "company": "Kyowa Kirin",
-      "modality": "gene editing",
-      "news": "Kyowa Kirin and Kura Oncology initiated a Japanese Phase 2 registration-directed trial for ziftomenib, an oral menin inhibitor, in patients with relapsed or refractory NPM1-mutated acute myeloid leukemia. The trial aims to support a regulatory filing in Japan following completion, building on the drug's prior FDA approval in the US.",
-      "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260424_01.html"
+      "company": "GSK",
+      "modality": "monoclonal antibodies",
+      "news": "GSK announced positive pivotal data for bepirovirsen, an investigational antisense oligonucleotide (ASO), achieving a 19% functional cure rate in chronic hepatitis B patients in the B-Well 1 and B-Well 2 Phase III trials. The results, published in the New England Journal of Medicine, showed a statistically significant improvement over placebo and support the drug's potential to redefine treatment for the disease.",
+      "url": "https://www.gsk.com/en-gb/media/press-releases/bepirovirsen-achieves-unprecedented-functional-cure-rates-with-potential-to-redefine-treatment-for-chronic-hepatitis-b/"
+    },
+    {
+      "company": "AstraZeneca",
+      "modality": "monoclonal antibodies",
+      "news": "The FDA approved Imfinzi (durvalumab) in combination with BCG for the treatment of BCG-naïve, high-risk non-muscle-invasive bladder cancer (NMIBC). This approval, based on the Phase III POTOMAC trial, marks the first new therapy in over 30 years for this setting, showing a 32% reduction in the risk of recurrence, progression, or death.",
+      "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/imfinzi-approved-in-us-for-early-bladder-cancer.html"
+    },
+    {
+      "company": "AstraZeneca",
+      "modality": "monoclonal antibodies",
+      "news": "The CARES Phase III clinical programme for anselamimab, a monoclonal antibody targeting amyloid fibrils, failed to meet its primary endpoint in the overall light chain amyloidosis population. However, a prespecified subgroup analysis of patients with kappa light chain amyloidosis demonstrated a 62% improvement in survival and a 71% reduction in cardiovascular hospitalizations.",
+      "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/cares-phase-iii-clinical-programme-did-not-meet-primary-endpoint-in-overall-light-chain-amyloidosis-population.html"
+    },
+    {
+      "company": "AbbVie",
+      "modality": "monoclonal antibodies",
+      "news": "The U.S. FDA approved DECNUPAZ (pivekimab sunirine-pvzy), a CD123-targeting antibody-drug conjugate (ADC), for the treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN). This is the first and only ADC approved for this ultra-rare blood cancer and marks AbbVie's first ADC approval for a blood cancer indication.",
+      "url": "https://news.abbvie.com/2026-05-27-U-S-FDA-Approves-DECNUPAZTM-pivekimab-sunirine-pvzy-for-Treatment-of-Adult-Patients-with-Blastic-Plasmacytoid-Dendritic-Cell-Neoplasm,-an-Ultra-Rare-and-Aggressive-Blood-Cancer-With-Limited-Treatment-Options"
+    },
+    {
+      "company": "Pfizer",
+      "modality": "monoclonal antibodies",
+      "news": "Pfizer and Innovent Biologics entered a global strategic collaboration to research and develop 12 early-stage and de novo cancer medicines. The portfolio includes antibody-drug conjugates (ADCs) and multi-specific antibodies, with Pfizer receiving exclusive global or outside-Greater China licenses for eight programs and co-developing four programs globally.",
+      "url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-innovent-biologics-enter-global-strategic"
+    },
+    {
+      "company": "Junshi Biosciences",
+      "modality": "monoclonal antibodies",
+      "news": "The National Medical Products Administration (NMPA) of China accepted new drug applications (NDAs) for toripalimab injection (subcutaneous) across 12 tumor indications. JS001sc is the first domestic anti-PD-1 monoclonal antibody in a subcutaneous formulation to enter the marketing application stage, offering a more convenient administration method compared to intravenous options.",
+      "url": "https://www.junshipharma.com/en/%e5%90%9b%e5%ae%9e%e7%94%9f%e7%89%a9%e5%ae%a3%e5%b8%83%e7%89%b9%e7%91%9e%e6%99%ae%e5%88%a9%e5%8d%95%e6%8a%97%e6%b3%a8%e5%b0%84%e6%b6%b2%ef%bc%88%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84%ef%bc%8912%e9%a1%b9/"
     }
   ]
 }
