@@ -1,27 +1,19 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-01 10:10:52",
-  "article_count": 22,
+  "generated_at": "2026-06-02 09:40:56",
+  "article_count": 28,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "Analysis of the supplied May 2026 pharmaceutical news articles reveals no explicit data regarding Proteolysis Targeting Chimeras (PROTAC) technology or related pipeline developments. Consequently, this intelligence brief synthesizes the available industry context, which centers on regulatory and scientific stability. Jeremy Levin of Ovid Therapeutics highlights risks to American biotech leadership due to institutional distrust and regulatory upheaval. Policy discussions focus on the Trump administration testing Most Favored Nation (MFN) drug pricing deals, impacting market access strategies. Scientific integrity concerns are raised by the SCORE project’s replication crisis findings, relevant to clinical trial reliability. Additionally, Eli Lilly reported early data for Verve Therapeutics’ gene editor for high cholesterol, illustrating progress in genetic medicine modalities. While these developments define the current landscape, the absence of PROTAC-specific reporting in the source material limits targeted analysis on targeted protein degradation technologies. Stakeholders should monitor future releases for specific PROTAC clinical or commercial updates.",
+      "paragraph": "The pharmaceutical landscape for targeted protein degradation is rapidly evolving, with Proteolysis Targeting Chimera (PROTAC) technology solidifying its clinical viability following the U.S. Food and Drug Administration approval of Arvinas Inc.’s VEPPANU (vepdegestrant) for locally advanced or metastatic ER+/HER2- breast cancer. This milestone validates the PROteolysis TArgeting Chimera platform, which selectively degrades disease-causing proteins rather than merely inhibiting them. Concurrently, the proximity medicine sector is expanding beyond traditional PROTACs, with Vienna-based Proxygen securing a $2.55 billion partnership with Merck to develop next-generation molecular glue degraders targeting p300 and CDK12. While molecular glues offer advantages in blood-brain barrier penetration, PROTACs remain pivotal for targeting undruggable proteins, evidenced by Arvinas’ ongoing programs for KRAS G12D and LRRK2. Innovation continues with Johnson & Johnson-owned Halda Therapeutics pioneering Regulated Induced Proximity Targeted Chimeras (RIPTACs) via HLD-0915, employing a “hold and kill” mechanism independent of the proteasome. Significant capital flows into the sector are further evidenced by AbbVie’s $1.64 billion agreement with Neomorph and Takeda’s $1.2 billion licensing deal with Degron Therapeutics, signaling robust industry confidence in proximity-based therapeutics for oncology and neurological conditions. Fortitude Biomedicines is also advancing Glue DACs to overcome antibody-drug conjugate resistance.",
       "sources": [
         {
-          "url": "https://statnews.com/2026/05/28/biotech-veteran-jeremey-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/",
-          "label": "Jeremy Levin Interview"
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html",
+          "label": "Arvinas Inc."
         },
         {
-          "url": "https://statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/",
-          "label": "Trump Pharma Deals"
-        },
-        {
-          "url": "https://statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/",
-          "label": "Science Replication Crisis"
-        },
-        {
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/",
-          "label": "Eli Lilly Verve Data"
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/",
+          "label": "Labiotech"
         }
       ]
     },
@@ -29,20 +21,28 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Ovid Therapeutics — Jeremy Levin — Industry Leadership — Warns of institutional distrust and regulatory risk to biotech future.",
-          "url": "https://statnews.com/2026/05/28/biotech-veteran-jeremey-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/"
+          "text": "Arvinas — vepdegestrant (VEPPANU) — ER+/HER2- Breast Cancer — FDA Approval",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "White House — MFN Deals — Drug Pricing — Trump administration deals set to be tested by new product launches.",
-          "url": "https://statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/"
+          "text": "Proxygen — Molecular Glue Degraders — Multiple Targets — Merck Partnership",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "SCORE Project — Replication Study — Social Science — Verdict on 4,000 papers shows roughly half did not hold up.",
-          "url": "https://statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/"
+          "text": "Halda Therapeutics — HLD-0915 — Cancer — Clinical Entry",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Eli Lilly — Verve Gene Editor — High Cholesterol — Early study data shows promise for cholesterol lowering.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Fortitude Biomedicines — Glue DAC — ADC Resistance — Discovery Stage",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "AbbVie — Neomorph — Immunology/Cancer — $1.64 Billion Deal",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Takeda — Degron Therapeutics — Oncology/Neuroscience — $1.2 Billion Deal",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -50,20 +50,20 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Ovid Therapeutics: Jeremy Levin (Founder/Chairman) advocates for federal changes to incentivize investment.",
-          "url": "https://statnews.com/2026/05/28/biotech-veteran-jeremey-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/"
+          "text": "Arvinas: Clinical-stage biotech pioneering PROTAC platform with multiple candidates in development.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Teva Pharmaceuticals: Jeremy Levin (Former CEO) cited regarding industry leadership risks.",
-          "url": "https://statnews.com/2026/05/28/biotech-veteran-jeremey-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/"
+          "text": "Proxygen: Vienna-based biotech developing next-generation molecular glue degraders with covalent pharmacology.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Eli Lilly: Strategic investment in gene editing via Verve Therapeutics partnership.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Halda Therapeutics: Subsidiary of Johnson & Johnson pioneering RIPTAC technology for cancer.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Verve Therapeutics: Developing gene editor for high cholesterol, supported by Eli Lilly.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Fortitude Biomedicines: Developing Glue DACs to expand therapeutic window of antibody-drug conjugates.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -71,12 +71,28 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Verve Gene Editor: Early study data indicates lowering of cholesterol levels; mechanism involves gene editing.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "vepdegestrant: PROTAC mechanism targeting estrogen receptor, approved for ESR1m, ER+/HER2- breast cancer.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "SCORE Project: Direct replication of nearly 4,000 social-science papers found roughly half did not hold up.",
-          "url": "https://statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/"
+          "text": "ARV-806: Degrades KRAS G12D, targeting pancreatic, colorectal, and non-small cell lung cancers.",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
+        },
+        {
+          "text": "HLD-0915: RIPTAC mechanism binds target and pan-essential protein, oral small molecule, early results encouraging.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Proxygen p300: Covalent molecular glue, suppresses oncogenic transcriptional programs, preclinical anti-tumor activity.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Proxygen CDK12: Eliminates cyclin K; disrupts CDK12-dependent transcriptional programs; high brain penetrance.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Molecular Glues: Bind E3 ubiquitin ligase to create ternary complex; smaller than PROTACs; effective in crossing blood-brain barrier.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -84,12 +100,24 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Trump Administration MFN Deals: Drug pricing policies set to be tested by new product launches.",
-          "url": "https://statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/"
+          "text": "Arvinas and Pfizer collaboration on vepdegestrant (Veppanu) development and commercialization.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         },
         {
-          "text": "Eli Lilly/Verve: Partnership focused on gene editor technology for high cholesterol treatment.",
-          "url": "https://statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/"
+          "text": "Merck and Proxygen $2.55 billion agreement to identify and develop molecular glue degraders.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Johnson & Johnson acquisition of Halda Therapeutics to advance RIPTAC pipeline.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "AbbVie — Neomorph: $1.64 billion deal to create glues for immunology and cancer targets.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+        },
+        {
+          "text": "Takeda — Degron Therapeutics: $1.2 billion licensing deal to advance degraders for oncology, neuroscience, and inflammation.",
+          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     }
