@@ -1,4 +1,22 @@
 {
+  "2026-06-02": {
+    "gene editing": [
+      {
+        "company": "UCB",
+        "modality": "gene editing",
+        "news": "UCB has completed the acquisition of Neurona Therapeutics, a company focused on regenerative science and cell therapies for epilepsy. The deal, valued at up to $1.15 billion, includes Neurona's lead asset rezanecel, which is currently under Phase I/II investigation for drug-resistant mesial temporal lobe epilepsy.",
+        "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-neurona-therapeutics-advancing-its-leadership-as-innovator-in-epilepsy-through-regenerative-science",
+        "query": "gene editing"
+      },
+      {
+        "company": "OXB",
+        "modality": "gene editing",
+        "news": "OXB announced that Cure Lowe Foundation has been selected for its VectorXcellerator Programme, a fully funded initiative supporting early-stage gene therapy development. The selection covers lentiviral vector and AAV programmes, providing feasibility-level data to guide next development steps without obligation for future commercial engagement.",
+        "url": "https://oxb.com/vectorxcellerator-programme-closed/",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-01": {
     "bispecific antibodies": [
       {
