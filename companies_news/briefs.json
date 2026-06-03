@@ -1,23 +1,41 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 26,
-    "items_extracted": 2,
+    "articles_used": 32,
+    "items_extracted": 5,
     "items_dropped": 0,
-    "generated_at": "2026-06-02 10:25:53"
+    "generated_at": "2026-06-03 10:57:20"
   },
   "news": [
     {
-      "company": "UCB",
-      "modality": "gene editing",
-      "news": "UCB has completed the acquisition of Neurona Therapeutics, a company focused on regenerative science and cell therapies for epilepsy. The deal, valued at up to $1.15 billion, includes Neurona's lead asset rezanecel, which is currently under Phase I/II investigation for drug-resistant mesial temporal lobe epilepsy.",
-      "url": "https://www.ucb.com/newsroom/press-releases/article/ucb-completes-acquisition-of-neurona-therapeutics-advancing-its-leadership-as-innovator-in-epilepsy-through-regenerative-science"
+      "company": "Amgen",
+      "modality": "bispecific antibodies",
+      "news": "The European Commission has approved Amgen's IMDYLLTRA (tarlatamab), a T-cell engager bispecific antibody, for the treatment of extensive-stage small cell lung cancer (ES-SCLC). The approval is based on the Phase 3 DeLLphi-304 trial, which demonstrated a 40% reduction in the risk of death compared to chemotherapy.",
+      "url": "https://www.amgen.com/newsroom/press-releases/2026/06/european-commission-approves-amgens-imdylltra-for-the-treatment-of-extensivestage-small-cell-lung-cancer"
     },
     {
-      "company": "OXB",
-      "modality": "gene editing",
-      "news": "OXB announced that Cure Lowe Foundation has been selected for its VectorXcellerator Programme, a fully funded initiative supporting early-stage gene therapy development. The selection covers lentiviral vector and AAV programmes, providing feasibility-level data to guide next development steps without obligation for future commercial engagement.",
-      "url": "https://oxb.com/vectorxcellerator-programme-closed/"
+      "company": "AstraZeneca",
+      "modality": "monoclonal antibodies",
+      "news": "AstraZeneca presented updated results from the Phase 3 SERENA-6 trial at the 2026 ASCO Annual Meeting, showing that the camizestrant combination significantly delayed time to first and second progression in patients with advanced HR-positive breast cancer with an ESR1 mutation. The study also demonstrated profound reduction in circulating tumor DNA (ctDNA).",
+      "url": "https://www.astrazeneca.com/content/astraz/media-centre/press-releases/2026/camizestrant-combination-delayed-time-to-first-progression-in-patients-with-advanced-hr-positive-breast-cancer-with-an-ESR1-tumour-mutation.html"
+    },
+    {
+      "company": "UCB",
+      "modality": "monoclonal antibodies",
+      "news": "UCB presented new long-term data at EULAR 2026 for BIMZELX (bimekizumab), a dual IL-17A and IL-17F inhibitor monoclonal antibody. The data showed that early inflammation control with bimekizumab in psoriatic arthritis and axial spondyloarthritis led to sustained improvements in patient-reported outcomes and reduced radiographic progression over three years.",
+      "url": "https://www.ucb.com/newsroom/press-releases/article/bimzelxrbimekizumab-data-at-eular-2026-show-early-and-sustained-inflammation-control-can-improve-patient-reported-outcomes-and-limit-disease-progression-in-psa-and-axspa"
+    },
+    {
+      "company": "Junshi Biosciences",
+      "modality": "monoclonal antibodies",
+      "news": "Junshi Biosciences announced that the primary endpoints of event-free survival and major pathological response were met in the final analysis of the Phase 3 NEOTORCH study for toripalimab, a PD-1 monoclonal antibody, combined with chemotherapy for resectable stage II-III non-small cell lung cancer. The company plans to submit a supplemental new drug application to expand the indication.",
+      "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-primary-endpoints-met-in-final-analysis-of-phase-3-study-for-perioperative-toripalimab-plus-chemotherapy-for-resectable-stage-%e2%85%b1-%e2%85%b2-nsclc/"
+    },
+    {
+      "company": "Junshi Biosciences",
+      "modality": "monoclonal antibodies",
+      "news": "The National Medical Products Administration (NMPA) in China approved toripalimab in combination with disitamab vedotin for the first-line treatment of HER2-expressing locally advanced or metastatic urothelial carcinoma. The approval is based on the Phase 3 RC48-C016 trial, which showed significant improvements in progression-free and overall survival compared to chemotherapy.",
+      "url": "https://www.junshipharma.com/en/junshi-biosciences-announces-approval-of-toripalimab-nda-for-the-1st-line-treatment-of-her2-expressing-urothelial-carcinoma/"
     }
   ]
 }
