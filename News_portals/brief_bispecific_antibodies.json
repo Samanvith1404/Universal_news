@@ -1,19 +1,83 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-02 09:40:56",
-  "article_count": 28,
+  "generated_at": "2026-06-03 10:01:26",
+  "article_count": 36,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The pharmaceutical landscape for targeted protein degradation is rapidly evolving, with Proteolysis Targeting Chimera (PROTAC) technology solidifying its clinical viability following the U.S. Food and Drug Administration approval of Arvinas Inc.’s VEPPANU (vepdegestrant) for locally advanced or metastatic ER+/HER2- breast cancer. This milestone validates the PROteolysis TArgeting Chimera platform, which selectively degrades disease-causing proteins rather than merely inhibiting them. Concurrently, the proximity medicine sector is expanding beyond traditional PROTACs, with Vienna-based Proxygen securing a $2.55 billion partnership with Merck to develop next-generation molecular glue degraders targeting p300 and CDK12. While molecular glues offer advantages in blood-brain barrier penetration, PROTACs remain pivotal for targeting undruggable proteins, evidenced by Arvinas’ ongoing programs for KRAS G12D and LRRK2. Innovation continues with Johnson & Johnson-owned Halda Therapeutics pioneering Regulated Induced Proximity Targeted Chimeras (RIPTACs) via HLD-0915, employing a “hold and kill” mechanism independent of the proteasome. Significant capital flows into the sector are further evidenced by AbbVie’s $1.64 billion agreement with Neomorph and Takeda’s $1.2 billion licensing deal with Degron Therapeutics, signaling robust industry confidence in proximity-based therapeutics for oncology and neurological conditions. Fortitude Biomedicines is also advancing Glue DACs to overcome antibody-drug conjugate resistance.",
+      "paragraph": "The June 2026 pharmaceutical intelligence landscape is defined by a landmark regulatory milestone for Proteolysis Targeting Chimeras (PROTACs), led by Arvinas, Inc., which secured the first-ever FDA approval for vepdegestrant (VEPPANU) targeting ESR1m, ER+/HER2- locally advanced or metastatic breast cancer. This achievement validates targeted protein degradation as a viable therapeutic modality beyond traditional inhibition, complementing Arvinas’s broader pipeline including ARV-102 for LRRK2 neurodegenerative diseases, ARV-806 for KRAS G12D mutated cancers, ARV-393 for BCL6 lymphoma, and ARV-027 for skeletal muscle conditions. While Arvinas drives specific PROTAC clinical validation, the wider biopharmaceutical ecosystem reported in this collection highlights significant momentum in advanced therapy manufacturing within Asia-Pacific, with CDMOs like AstraZeneca and WuXi Biologics expanding infrastructure, alongside substantial regional budget allocations such as Australia’s $1.5 billion science commitment. Concurrently, broader industry narratives focus on regulatory policy shifts, including Medicaid work requirements and Medicare coverage for obesity therapeutics, though these specific reports did not detail PROTAC candidates. Space medicine initiatives and infectious disease funding also emerged as key themes, yet PROTAC-specific intelligence remains concentrated within Arvinas’s disclosures during this period, underscoring the company’s pivotal role in advancing protein degradation technologies amidst a diverse regulatory and manufacturing backdrop.",
       "sources": [
+        {
+          "url": "https://biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
+          "label": "CDMOs & ATMP Growth"
+        },
+        {
+          "url": "https://biospectrumasia.com/analysis/29/27705/how-space-medicine-is-rewriting-healthcare.html",
+          "label": "Space Medicine"
+        },
+        {
+          "url": "https://biospectrumasia.com/analysis/29/27706/aussie-budget-2026-big-wins-and-tough-questions-for-life-sciences-.html",
+          "label": "Aussie Budget 2026"
+        },
+        {
+          "url": "https://biospectrumasia.com/news/27/27701/asian-society-of-cardiovascular-imaging-inks-mou-with-philips.html",
+          "label": "ASCI & Philips"
+        },
+        {
+          "url": "https://globenewswire.com/news-release/2026/06/01/3304620/0/en/metastatic-her2-positive-breast-cancer-market-expected-to-surge-at-a-cagr-of-8-3-during-the-forecast-period-2026-2036-due-to-advancing-targeted-treatments-delveinsight.html",
+          "label": "DelveInsight"
+        },
         {
           "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html",
           "label": "Arvinas Inc."
         },
         {
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/",
-          "label": "Labiotech"
+          "url": "https://statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/",
+          "label": "CEPI Ebola Vaccine"
+        },
+        {
+          "url": "https://statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/",
+          "label": "FDA Shock Ban"
+        },
+        {
+          "url": "https://statnews.com/2026/06/01/medicare-bridge-obesity-drug-coverage-no-surprises-act-idr-rules-health-care-inc/",
+          "label": "Medicare GLP-1 Coverage"
+        },
+        {
+          "url": "https://statnews.com/2026/06/01/unvaccinated-blood-donor-directed-donation-transcript/",
+          "label": "Blood Donation Policy"
+        },
+        {
+          "url": "https://statnews.com/2026/06/01/servier-edgewise-therapeutics-muscular-dystrophy-drug-sevasemten/",
+          "label": "Servier Edgewise Deal"
+        },
+        {
+          "url": "https://statnews.com/2026/06/01/bpc-157-researcher-predrag-sikiric-addesses-skeptics-questions/",
+          "label": "BPC-157 Research"
+        },
+        {
+          "url": "https://statnews.com/2026/05/28/biotech-veteran-jeremey-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/",
+          "label": "Jeremy Levin Interview"
+        },
+        {
+          "url": "https://statnews.com/2026/05/28/biotech-veteran-jeremy-levin-on-why-the-industrys-future-is-secure-but-american-leadership-is-at-risk/",
+          "label": "Jeremy Levin Interview Duplicate"
+        },
+        {
+          "url": "https://statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/",
+          "label": "Trump Pharma Policy"
+        },
+        {
+          "url": "https://statnews.com/2026/06/03/ai-arms-race-medical-building-waste/",
+          "label": "Medical Billing AI"
+        },
+        {
+          "url": "https://statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/",
+          "label": "Medicaid Policy"
+        },
+        {
+          "url": "https://statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/",
+          "label": "Telehealth"
         }
       ]
     },
@@ -21,28 +85,24 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Arvinas — vepdegestrant (VEPPANU) — ER+/HER2- Breast Cancer — FDA Approval",
+          "text": "Arvinas — vepdegestrant (VEPPANU) — ESR1m, ER+/HER2- Breast Cancer — FDA Approved",
           "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Proxygen — Molecular Glue Degraders — Multiple Targets — Merck Partnership",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "Arvinas — ARV-102 — LRRK2 Neurodegenerative Diseases — Clinical Development",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Halda Therapeutics — HLD-0915 — Cancer — Clinical Entry",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "Arvinas — ARV-806 — KRAS G12D Mutated Cancers — Clinical Development",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Fortitude Biomedicines — Glue DAC — ADC Resistance — Discovery Stage",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "Arvinas — ARV-393 — BCL6 Relapsed/Refractory Non-Hodgkin Lymphoma — Clinical Development",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "AbbVie — Neomorph — Immunology/Cancer — $1.64 Billion Deal",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Takeda — Degron Therapeutics — Oncology/Neuroscience — $1.2 Billion Deal",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "Arvinas — ARV-027 — PolyQ-AR Skeletal Muscle — Clinical Development",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         }
       ]
     },
@@ -50,20 +110,8 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Arvinas: Clinical-stage biotech pioneering PROTAC platform with multiple candidates in development.",
+          "text": "Arvinas, Inc.: Pioneering PROTAC protein degrader platform to degrade disease-causing proteins.",
           "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
-        },
-        {
-          "text": "Proxygen: Vienna-based biotech developing next-generation molecular glue degraders with covalent pharmacology.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Halda Therapeutics: Subsidiary of Johnson & Johnson pioneering RIPTAC technology for cancer.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Fortitude Biomedicines: Developing Glue DACs to expand therapeutic window of antibody-drug conjugates.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
         }
       ]
     },
@@ -71,28 +119,24 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "vepdegestrant: PROTAC mechanism targeting estrogen receptor, approved for ESR1m, ER+/HER2- breast cancer.",
+          "text": "vepdegestrant — Estrogen Receptor Degrader — Locally Advanced or Metastatic ER+/HER2- Breast Cancer — FDA Approved",
           "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "ARV-806: Degrades KRAS G12D, targeting pancreatic, colorectal, and non-small cell lung cancers.",
+          "text": "ARV-102 — LRRK2 Target — Neurodegenerative Diseases — Clinical Stage",
           "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "HLD-0915: RIPTAC mechanism binds target and pan-essential protein, oral small molecule, early results encouraging.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "ARV-806 — KRAS G12D Target — Pancreatic, Colorectal, NSCLC — Clinical Stage",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Proxygen p300: Covalent molecular glue, suppresses oncogenic transcriptional programs, preclinical anti-tumor activity.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "ARV-393 — BCL6 Target — Relapsed/Refractory Non-Hodgkin Lymphoma — Clinical Stage",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         },
         {
-          "text": "Proxygen CDK12: Eliminates cyclin K; disrupts CDK12-dependent transcriptional programs; high brain penetrance.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Molecular Glues: Bind E3 ubiquitin ligase to create ternary complex; smaller than PROTACs; effective in crossing blood-brain barrier.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "ARV-027 — PolyQ-AR Target — Skeletal Muscle — Clinical Stage",
+          "url": "https://globenewswire.com/news-release/2026/05/29/3303805/0/en/arvinas-to-present-at-jefferies-global-healthcare-conference.html"
         }
       ]
     },
@@ -100,24 +144,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Arvinas and Pfizer collaboration on vepdegestrant (Veppanu) development and commercialization.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Merck and Proxygen $2.55 billion agreement to identify and develop molecular glue degraders.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Johnson & Johnson acquisition of Halda Therapeutics to advance RIPTAC pipeline.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "AbbVie — Neomorph: $1.64 billion deal to create glues for immunology and cancer targets.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
-        },
-        {
-          "text": "Takeda — Degron Therapeutics: $1.2 billion licensing deal to advance degraders for oncology, neuroscience, and inflammation.",
-          "url": "https://www.labiotech.eu/in-depth/proximity-medicines-next-wave/"
+          "text": "No relevant business developments reported.",
+          "url": null
         }
       ]
     }
