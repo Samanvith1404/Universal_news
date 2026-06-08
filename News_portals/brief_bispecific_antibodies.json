@@ -1,19 +1,35 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-06 08:42:45",
-  "article_count": 36,
+  "generated_at": "2026-06-08 10:13:35",
+  "article_count": 42,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The pharmaceutical sector is witnessing significant momentum in targeted protein degradation, with Arvinas leading the charge as the developer of the first FDA-approved PROTAC, VEPPANU (vepdegestrant), indicated for ER+/HER2- breast cancer. Arvinas recently entered a transaction with Rigel Pharmaceuticals for exclusive global rights to VEPPANU, pending regulatory approvals including Hart-Scott-Rodino clearance. Beyond this commercial milestone, Arvinas is advancing a robust pipeline of investigational PROTACs, including ARV-102 targeting LRRK2 for neurodegenerative disorders and ARV-806 for KRAS G12D mutated cancers. Concurrently, Genovyn is fortifying its AI-enabled therapeutic discovery platform by appointing Sammy Bell as Chief Scientific Officer, leveraging his extensive experience in PROTAC development from Eli Lilly to integrate computational intelligence with biological validation. These strategic moves highlight the industry's commitment to expanding protein degradation modalities beyond oncology into neurodegenerative indications. While broader regulatory landscapes continue to evolve regarding licensing transactions, including proposed US legislation targeting China-based drugmaker deals, the focus remains on converting platform insights into high-value therapeutic opportunities through disciplined execution and scientific rigor. This convergence of AI-driven discovery and established PROTAC technology underscores a pivotal shift in addressing previously undruggable targets across multiple therapeutic areas, despite concurrent regulatory scrutiny on federal workforce policies and clinical trial oversight mechanisms.",
+      "paragraph": "June 2026 marks a pivotal period for targeted protein degradation, characterized by significant regulatory milestones and strategic pipeline expansions. Amphista Therapeutics secured FDA clearance for the IND application of AMX-883, a DCAF16-dependent BRD9 degrader for acute myeloid leukaemia, advancing its non-cereblon Targeted Glue™ technology beyond traditional E3 ligases. Concurrently, Arvinas Inc. progressed its commercial and clinical portfolio, finalizing a transaction with Rigel Pharmaceuticals for exclusive global rights to VEPPANU, the first FDA-approved PROTAC for ER+/HER2- breast cancer, while joining The Michael J. Fox Foundation’s programs to advance ARV-102 for Parkinson’s disease. Genovyn reinforced its AI-enabled discovery capabilities by appointing Sammy Bell as Chief Scientific Officer, leveraging his targeted protein degrader expertise to accelerate candidate selection. These scientific strides occur amidst a complex geopolitical landscape, where bipartisan House proposals propose stricter screening for licensing deals involving Chinese biotechnology firms, potentially impacting major collaborations such as those between Pfizer and Innovent Biologics. This environment underscores the maturing degrader sector where novel mechanisms compete alongside established PROTACs, even as regulatory scrutiny reshapes global licensing strategies for oncology and neurodegenerative therapies. Stakeholders must monitor these developments as the industry balances innovation with compliance.",
       "sources": [
         {
           "url": "https://biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/",
-          "label": "BioPharma Dive"
+          "label": "Summit Therapeutics"
         },
         {
           "url": "https://biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/",
-          "label": "BioPharma Dive"
+          "label": "Pfizer"
+        },
+        {
+          "url": "https://biospectrumasia.com/analysis/38/27704/cdmos-atmp-growth-upswing-in-apac.html",
+          "label": "WuXi Biologics"
+        },
+        {
+          "url": "https://biospectrumasia.com/analysis/29/27705/how-space-medicine-is-rewriting-healthcare.html",
+          "label": "JAXA"
+        },
+        {
+          "url": "https://biospectrumasia.com/analysis/29/27706/aussie-budget-2026-big-wins-and-tough-questions-for-life-sciences-.html",
+          "label": "AusBiotech"
+        },
+        {
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307798/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html",
+          "label": "Amphista Therapeutics"
         },
         {
           "url": "https://globenewswire.com/news-release/2026/06/04/3306943/0/en/genovyn-appoints-industry-veterans-sammy-bell-as-chief-scientific-officer-and-jim-edinger-as-chief-development-officer-to-accelerate-ai-enabled-therapeutic-discovery-and-developmen.html",
@@ -24,40 +40,8 @@
           "label": "Arvinas"
         },
         {
-          "url": "https://globenewswire.com/news-release/2026/06/01/3304620/0/en/metastatic-her2-positive-breast-cancer-market-expected-to-surge-at-a-cagr-of-8-3-during-the-forecast-period-2026-2036-due-to-advancing-targeted-treatments-delveinsight.html",
-          "label": "DelveInsight"
-        },
-        {
-          "url": "https://statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/",
-          "label": "HHS Policy"
-        },
-        {
-          "url": "https://statnews.com/2026/06/05/americans-ebola-kenya-protests/",
-          "label": "Ebola Response"
-        },
-        {
-          "url": "https://statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/",
-          "label": "Energy Drinks"
-        },
-        {
-          "url": "https://statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/",
-          "label": "OHRP Safety"
-        },
-        {
-          "url": "https://statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/",
-          "label": "FDA Voucher"
-        },
-        {
-          "url": "https://statnews.com/2026/06/04/after-doctors-patient-ai-scribes-track-visits/",
-          "label": "Kin Health"
-        },
-        {
-          "url": "https://statnews.com/2026/06/04/medicaid-work-requirements-final-rule-cancer-patients/",
-          "label": "CMS"
-        },
-        {
           "url": "https://statnews.com/2026/06/03/pope-encyclical-catholic-health-system-implications-ai-prognosis/",
-          "label": "Catholic Hospitals"
+          "label": "Eli Lilly"
         },
         {
           "url": "https://statnews.com/2026/06/03/ai-arms-race-medical-building-waste/",
@@ -65,19 +49,35 @@
         },
         {
           "url": "https://statnews.com/2026/06/03/medicaid-work-requirements-experts-say-millions-will-lose-coverage/",
-          "label": "CMS"
+          "label": "Medicaid Policy"
         },
         {
           "url": "https://statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/",
           "label": "Hims & Hers"
         },
         {
-          "url": "https://statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/",
-          "label": "Merck"
+          "url": "https://statnews.com/2026/06/06/ebola-outbreak-us-aid-response-tom-frieden-action-plan/",
+          "label": "Revolution Medicines"
         },
         {
-          "url": "https://statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/",
-          "label": "STAT News"
+          "url": "https://statnews.com/2026/06/06/amish-public-health-vaccines-autism-interview-transcript/",
+          "label": "Amish Vaccines"
+        },
+        {
+          "url": "https://statnews.com/2026/06/05/schedule-f-changes-impacts-nih-cdc-fda/",
+          "label": "Schedule F HHS"
+        },
+        {
+          "url": "https://statnews.com/2026/06/05/americans-ebola-kenya-protests/",
+          "label": "Ebola Response"
+        },
+        {
+          "url": "https://statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/",
+          "label": "Texas AG"
+        },
+        {
+          "url": "https://statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/",
+          "label": "OHRP Safety"
         }
       ]
     },
@@ -85,15 +85,19 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Arvinas — VEPPANU — ER+/HER2- Breast Cancer — FDA Approved PROTAC, transaction with Rigel Pharmaceuticals for exclusive global rights.",
+          "text": "Amphista Therapeutics — AMX-883 — Acute Myeloid Leukaemia — FDA clearance of IND application for Phase 1 monotherapy trial in H2 2026.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307798/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "Arvinas — VEPPANU — ER+/HER2- Breast Cancer — Transaction entered with Rigel Pharmaceuticals for exclusive global rights.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "Arvinas — ARV-102 — Parkinson’s Disease — LRRK2 Targeting in clinical development.",
+          "text": "Arvinas — ARV-102 — Parkinson’s Disease — Joined The Michael J. Fox Foundation’s LITE and PPMI programs to advance LRRK2 targeting.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "Genovyn — AI Platform — Therapeutic Discovery — Leadership appointments (Sammy Bell as CSO, Jim Edinger as CDO).",
+          "text": "Genovyn — AI Platform — Therapeutic Discovery — Appointed Sammy Bell as CSO with experience in targeted protein degraders (PROTACs).",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306943/0/en/genovyn-appoints-industry-veterans-sammy-bell-as-chief-scientific-officer-and-jim-edinger-as-chief-development-officer-to-accelerate-ai-enabled-therapeutic-discovery-and-developmen.html"
         }
       ]
@@ -102,11 +106,15 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Arvinas: Clinical-stage biotechnology company pioneering PROTAC protein degrader therapies.",
+          "text": "Amphista Therapeutics: Developing non-cereblon/non-VHL Targeted Glue™ degraders including AMX-883 (BRD9), SMARCA2, and TEAD programs.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307798/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "Arvinas Inc.: Clinical-stage biotechnology pioneering PROTACs, progressing ARV-102 for neurodegeneration and transitioning VEPPANU commercial rights.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "Genovyn: AI-enabled biotechnology company advancing therapeutic discovery with PROTAC experience in leadership.",
+          "text": "Genovyn Inc.: AI-enabled biotechnology integrating computational intelligence with biological validation, appointing leadership with PROTAC expertise.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306943/0/en/genovyn-appoints-industry-veterans-sammy-bell-as-chief-scientific-officer-and-jim-edinger-as-chief-development-officer-to-accelerate-ai-enabled-therapeutic-discovery-and-developmen.html"
         }
       ]
@@ -115,28 +123,36 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "VEPPANU (vepdegestrant): Heterobifunctional protein degrader, FDA approved for ER+/HER2-, ESR1-mutated advanced/metastatic breast cancer.",
+          "text": "AMX-883 (Amphista): DCAF16-dependent BRD9 degrader, Phase 1 monotherapy planned for H2 2026 in AML.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307798/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "SMARCA2 Program (Amphista): DCAF16-dependent, deep in vivo degradation following oral dosing, suppression of KRT80 and PLAU biomarkers.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307798/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "TEAD Program (Amphista): FBXO22-dependent, oral in vivo tumor regression in mesothelioma xenografts, once-every-three-day dosing.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307798/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "VEPPANU (Arvinas/Pfizer): Heterobifunctional protein degrader, FDA approved for ER+/HER2-, ESR1-mutated advanced/metastatic breast cancer.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "ARV-102: PROTAC targeting LRRK2 for neurodegenerative disorders.",
+          "text": "ARV-102 (Arvinas): LRRK2 targeting PROTAC for neurodegenerative disorders, participating in MJFF LITE and PPMI programs.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "ARV-806: PROTAC targeting KRAS G12D for mutated cancers including pancreatic and colorectal.",
+          "text": "ARV-806 (Arvinas): Targets KRAS G12D for mutated cancers including pancreatic and colorectal cancers.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "ARV-393: Targeting BCL6 for relapsed/refractory non-Hodgkin Lymphoma.",
+          "text": "ARV-393 (Arvinas): Targets BCL6 for relapsed/refractory non-Hodgkin Lymphoma.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "ARV-027: Targeting polyQ-AR for Spinal-Bulbar Muscular Atrophy (Kennedy’s disease).",
+          "text": "ARV-027 (Arvinas): Targets polyglutamine-expanded androgen receptor (polyQ-AR) in skeletal muscle for Spinal-Bulbar Muscular Atrophy.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
-        },
-        {
-          "text": "Genovyn Platform: Integrates computational intelligence with biological validation for PROTACs and other modalities.",
-          "url": "https://globenewswire.com/news-release/2026/06/04/3306943/0/en/genovyn-appoints-industry-veterans-sammy-bell-as-chief-scientific-officer-and-jim-edinger-as-chief-development-officer-to-accelerate-ai-enabled-therapeutic-discovery-and-developmen.html"
         }
       ]
     },
@@ -144,11 +160,19 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Arvinas/Pfizer/Rigel: Transaction for exclusive global rights of VEPPANU, subject to Hart-Scott-Rodino Antitrust Improvements Act approvals.",
+          "text": "Arvinas/Pfizer/Rigel: Transaction for exclusive global rights of VEPPANU, subject to HSR Act approval.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306679/0/en/arvinas-joins-the-michael-j-fox-foundation-s-lite-and-ppmi-programs-to-advance-new-therapies-targeting-lrrk2-for-parkinson-s-disease.html"
         },
         {
-          "text": "Genovyn: Strategic leadership appointments to accelerate AI-enabled therapeutic discovery and development.",
+          "text": "Pfizer/Innovent Biologics: Deal potentially worth more than $10 billion, subject to new US government screening proposals.",
+          "url": "https://biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/"
+        },
+        {
+          "text": "Bristol Myers Squibb/Hengrui Pharma: Alliance potentially worth up to $15.2 billion, subject to new US government screening proposals.",
+          "url": "https://biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/"
+        },
+        {
+          "text": "Genovyn: Leadership appointments (Sammy Bell, Jim Edinger) to accelerate platform development and IND-enabling activities.",
           "url": "https://globenewswire.com/news-release/2026/06/04/3306943/0/en/genovyn-appoints-industry-veterans-sammy-bell-as-chief-scientific-officer-and-jim-edinger-as-chief-development-officer-to-accelerate-ai-enabled-therapeutic-discovery-and-developmen.html"
         }
       ]
