@@ -1,41 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 29,
-    "items_extracted": 5,
+    "articles_used": 24,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-06-09 09:24:59"
+    "generated_at": "2026-06-11 10:25:15"
   },
   "news": [
     {
-      "company": "GSK",
-      "modality": "monoclonal antibodies",
-      "news": "GSK entered an agreement to acquire Nuvalent, Inc. for $10.6 billion, gaining access to its late-stage pipeline including the B7-H3 antibody-drug conjugate (ADC) Ris-Rez, which is currently in Phase III clinical development for lung cancer.",
-      "url": "https://www.gsk.com/en-gb/media/press-releases/gsk-enters-agreement-to-acquire-nuvalent-inc/"
-    },
-    {
-      "company": "Roche",
-      "modality": "bispecific antibodies",
-      "news": "Roche announced a global collaboration with Nurix Therapeutics to co-develop and co-commercialize bexobrutideg, a BTK degrader. The deal includes potential indications in B-cell malignancies, immunology, and neurology, leveraging Roche's oncology portfolio.",
-      "url": "https://www.roche.com/media/releases/med-cor-2026-06-08"
-    },
-    {
-      "company": "AbbVie",
-      "modality": "bispecific antibodies",
-      "news": "AbbVie presented new data at EHA 2026 for epcoritamab, a CD3xCD20 bispecific antibody. Results from the Phase 3 EPCORE DLBCL-1 trial showed a statistically significant improvement in progression-free survival compared to investigator's choice of chemoimmunotherapy in relapsed/refractory large B-cell lymphoma.",
-      "url": "https://news.abbvie.com/2026-06-08-AbbVie-Presents-New-Data-Across-Its-Blood-Cancer-Portfolio-at-EHA-2026"
-    },
-    {
-      "company": "Pfizer",
-      "modality": "monoclonal antibodies",
-      "news": "The U.S. FDA approved an expanded indication for Pfizer's HYMPAVZI (marstacimab), a bispecific antibody targeting TFPI, to include pediatric patients ages 6 to 11 with hemophilia A or B, with or without inhibitors, marking the first subcutaneous non-factor therapy for this age group.",
-      "url": "https://www.pfizer.com/news/press-release/press-release-detail/us-fda-approves-pfizers-hympavzi-treatment-two-additional"
-    },
-    {
-      "company": "insitro",
+      "company": "Novartis",
       "modality": "gene editing",
-      "news": "insitro presented preclinical data for CTRO-1013, an AI-discovered siRNA therapeutic targeting IRS1. The study demonstrated that liver-targeted silencing of IRS1 reduced fibrosis progression and injury biomarkers in MASH models, supporting the program's advancement toward first-in-human trials.",
-      "url": "https://www.insitro.com/news/insitro-presents-new-data-demonstrating-its-ai-discovered-mash-candidate-shows-anti-fibrotic-signal-beyond-liver-fat-reduction-at-the-american-diabetes-association-86th-scientific-sessions/"
+      "news": "Novartis announced that the FORTITUDE Phase I/II study of del-brax (delpacibart braxlosiran) met its primary biomarker endpoint in patients with facioscapulohumeral muscular dystrophy (FSHD). The investigational antibody oligonucleotide conjugate (AOC) showed significant reductions in DUX4-regulated biomarkers, validating the dosing regimen for the ongoing Phase III trial.",
+      "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint"
     }
   ]
 }

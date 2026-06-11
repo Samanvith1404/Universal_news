@@ -1,4 +1,15 @@
 {
+  "2026-06-11": {
+    "gene editing": [
+      {
+        "company": "Novartis",
+        "modality": "gene editing",
+        "news": "Novartis announced that the FORTITUDE Phase I/II study of del-brax (delpacibart braxlosiran) met its primary biomarker endpoint in patients with facioscapulohumeral muscular dystrophy (FSHD). The investigational antibody oligonucleotide conjugate (AOC) showed significant reductions in DUX4-regulated biomarkers, validating the dosing regimen for the ongoing Phase III trial.",
+        "url": "https://www.novartis.com/news/media-releases/novartis-delpacibart-braxlosiran-del-brax-phase-iii-study-facioscapulohumeral-muscular-dystrophy-fshd-meets-primary-biomarker-endpoint",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-09": {
     "monoclonal antibodies": [
       {
