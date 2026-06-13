@@ -1,19 +1,47 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-12 09:45:12",
-  "article_count": 24,
+  "generated_at": "2026-06-13 08:55:02",
+  "article_count": 20,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "June 2026 demonstrated significant momentum in targeted protein degradation technology, characterized by major strategic partnerships and regulatory milestones distinguishing this modality from traditional inhibition. Roche announced a substantial collaboration with Nurix Therapeutics to co-develop bexobrutideg, a Bruton’s tyrosine kinase (BTK) degrader, investing $700 million upfront to address resistance issues in blood cancers and autoimmune conditions. Concurrently, Amphista Therapeutics received FDA clearance for its IND application for AMX-883, a non-cereblon BRD9 degrader utilizing proprietary Targeted Glue™ technology, paving the way for Phase 1 trials in acute myeloid leukaemia. These developments underscore the industry's shift towards eliminating protein targets rather than merely inhibiting them. While broader pipeline landscapes faced mixed signals in other therapeutic areas, the momentum in protein degradation remains robust, with Roche and Amphista positioning their respective programs to overcome limitations of traditional small molecules and establish new treatment pathways for complex diseases. The convergence of these activities signals a robust expansion of the targeted protein degradation pipeline beyond early research into late-stage clinical validation and commercial positioning, reflecting high industry confidence in next-generation therapeutics capable of eliminating target proteins.",
+      "paragraph": "June 2026 marked significant activity in targeted protein degradation (TPD) alongside broader pipeline shifts across the biopharmaceutical sector. Roche advanced its strategic partnership with Nurix Therapeutics for the BTK degrader bexobrutideg, signaling industry confidence in eliminating targets over traditional inhibition with a $700 million upfront commitment. Simultaneously, Amphista Therapeutics secured FDA clearance for its BRD9 degrader AMX-883, targeting acute myeloid leukaemia with a non-cereblon mechanism utilizing Eclipsys platform technology. These TPD advancements contrast with mixed clinical readouts elsewhere, such as Sanofi halting its riliprubart trial in chronic inflammatory demyelinating polyneuropathy due to efficacy concerns. While complement inhibitors and cell therapies remain active in autoimmune indications, the strategic focus on protein degradation technologies by major players like Roche and emerging biotechs like Amphista highlights a shift toward novel mechanisms to overcome resistance in oncology. Investors are closely monitoring these degradation platforms as potential best-in-class solutions, even as traditional antibody programs face challenges. The convergence of big pharma capital and innovative biotech platforms suggests a robust pipeline for next-generation therapeutics capable of targeting previously undruggable proteins, though some source datasets noted a lull in specific PROTAC announcements relative to broader health policy updates during this period.",
       "sources": [
+        {
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/",
+          "label": "Sanofi"
+        },
         {
           "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/",
           "label": "Roche"
         },
         {
+          "url": "https://globenewswire.com/news-release/2026/06/10/3310000/0/en/metastatic-prostate-cancer-market-set-for-robust-growth-through-2036-driven-by-the-emergence-of-parp-inhibitors-and-psma-targeted-radioligand-therapies-delveinsight.html",
+          "label": "DelveInsight"
+        },
+        {
           "url": "https://globenewswire.com/news-release/2026/06/08/3307957/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html",
           "label": "Amphista Therapeutics"
+        },
+        {
+          "url": "https://statnews.com/2026/06/10/acog-obgyn-vaccine-recommendations-pregnancy/",
+          "label": "ACOG"
+        },
+        {
+          "url": "https://statnews.com/2026/06/10/parental-notification-laws-abortion-blue-states/",
+          "label": "Nevada Supreme Court"
+        },
+        {
+          "url": "https://statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/",
+          "label": "FDA"
+        },
+        {
+          "url": "https://statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/",
+          "label": "NIAID"
+        },
+        {
+          "url": "https://statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/",
+          "label": "CDC"
         }
       ]
     },
@@ -21,12 +49,16 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Roche — bexobrutideg — Chronic Lymphocytic Leukemia/Non-Hodgkin Lymphoma — Collaboration with Nurix Therapeutics",
+          "text": "Roche — Bexobrutideg — Blood Cancers/Autoimmune — Collaboration with Nurix for BTK targeted protein degradation.",
           "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/"
         },
         {
-          "text": "Amphista Therapeutics — AMX-883 — Acute Myeloid Leukaemia — FDA IND Clearance",
+          "text": "Amphista Therapeutics — AMX-883 — Acute Myeloid Leukaemia — FDA IND clearance for BRD9 degrader.",
           "url": "https://globenewswire.com/news-release/2026/06/08/3307957/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "Nurix Therapeutics — Bexobrutideg — Chronic Lymphocytic Leukaemia — Up to $2.3 billion deal potential with Roche.",
+          "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/"
         }
       ]
     },
@@ -34,15 +66,15 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Roche: Strategic objective to leverage targeted protein degradation to overcome BTK inhibitor resistance in blood cancers and autoimmune conditions.",
+          "text": "Roche: Strategic partnership with Nurix to co-develop BTK degrader bexobrutideg to overcome drug resistance.",
           "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/"
         },
         {
-          "text": "Amphista Therapeutics: Strategic objective to transition into a clinical-stage company using proprietary Eclipsys® platform for non-cereblon degraders.",
+          "text": "Amphista Therapeutics: Advancing BRD9 degrader AMX-883 into clinical trials using Targeted Glue™ technology.",
           "url": "https://globenewswire.com/news-release/2026/06/08/3307957/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
         },
         {
-          "text": "Nurix Therapeutics: Strategic objective to partner with Roche for codevelopment of bexobrutideg to elevate competitiveness.",
+          "text": "Nurix Therapeutics: Licensing deal for bexobrutideg with Roche covering US rights split, upfront payment, and royalties.",
           "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/"
         }
       ]
@@ -51,11 +83,15 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "bexobrutideg: Mechanism degrades Bruton’s tyrosine kinase (BTK) to sidestep resistance; Phase 3 study in CLL expected to begin summer 2026.",
+          "text": "Bexobrutideg: BTK degrader, Phase 3 study in CLL expected to begin summer 2026, aims to sidestep resistance.",
           "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/"
         },
         {
-          "text": "AMX-883: Mechanism recruits DCAF16 to degrade BRD9 via Targeted Glue™ technology; Phase 1 monotherapy trial for relapsed/refractory AML and high-risk MDS.",
+          "text": "AMX-883: BRD9 degrader (DCAF16-dependent), Phase 1 monotherapy dose-escalation in relapsed/refractory AML and high-risk MDS.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307957/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
+        },
+        {
+          "text": "Mechanism: Targeted protein degradation via Eclipsys platform distinct from cereblon or VHL-based PROTACs.",
           "url": "https://globenewswire.com/news-release/2026/06/08/3307957/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
         }
       ]
@@ -64,8 +100,12 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Roche and Nurix Therapeutics: $700 million upfront payment with potential up to $2.3 billion; Roche covers 60% of development costs and splits U.S. rights.",
+          "text": "Roche and Nurix: $700 million upfront, up to $2.3 billion total, split US rights, Roche covers 60% development costs.",
           "url": "https://biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/"
+        },
+        {
+          "text": "Amphista Therapeutics: IND clearance enables Phase 1 trial initiation in H2 2026 for AMX-883.",
+          "url": "https://globenewswire.com/news-release/2026/06/08/3307957/0/en/amphista-therapeutics-announces-fda-clearance-of-ind-application-for-amx-883-its-lead-targeted-glue-degrader-for-acute-myeloid-leukaemia.html"
         }
       ]
     }
