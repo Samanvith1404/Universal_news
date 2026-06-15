@@ -1,31 +1,51 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-14 09:20:09",
-  "article_count": 22,
+  "generated_at": "2026-06-15 11:28:19",
+  "article_count": 20,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The provided pharmaceutical intelligence corpus for June 2026 encompasses significant regulatory and public health developments, including FDA approvals for Sanofi’s teplizumab in pediatric type 1 diabetes and the first new sunscreen ingredient in 25 years, alongside leadership changes at NIAID and vaccine guidance updates from ACOG. However, a targeted review of these articles reveals no specific developments, pipeline announcements, or clinical trial data related to PROTAC (PROteolysis TArgeting Chimeras) technology. Consequently, this brief reflects the absence of PROTAC-specific intelligence within the current source material, highlighting broader regulatory trends in diabetes, infectious disease, and consumer health rather than targeted protein degradation modalities. While Sanofi advanced teplizumab through a speedy review program and NIAID appointed John Powers III as acting director amidst infectious disease concerns, these events do not intersect with the PROTAC query focus. The monitoring period also captured legal rulings on reproductive health and vaccine policy divergences, yet none of the five provided articles contain entities, mechanisms, or trial results associated with proteolysis targeting chimeras. This intelligence summary confirms that for the specified timeframe and source set, PROTAC pipeline activity remains unreported, necessitating reliance on alternative data streams for degradation technology insights.",
+      "paragraph": "The pharmaceutical intelligence landscape for June 2026 highlights significant activity within the broader biopharma ecosystem, though specific developments regarding Proteolysis Targeting Chimeras (PROTACs) remain limited within the provided corpus. Industry analysis indicates approximately two dozen biotech developers have emerged over the past two decades targeting undruggable targets via protein degradation, yet current reporting prioritizes established modalities. Notable regulatory and clinical shifts include Sanofi receiving FDA approval for teplizumab in pediatric stage 3 diabetes while halting its riliprubart trial in chronic inflammatory demyelinating polyneuropathy. Concurrently, regulatory frameworks are evolving, with China implementing Order 818 to accelerate access to advanced therapies, potentially influencing global licensing strategies. Market reports indicate robust growth in metastatic prostate cancer and lupus nephritis sectors driven by PARP inhibitors and radioligand therapies, involving companies like Novartis and Simcere. Despite these advancements in biologics and small molecules, the specific query focus on PROTAC modalities yielded no direct clinical or business developments in the supplied articles, indicating a potential gap in the current reporting cycle for this targeted protein degradation technology. Stakeholders should monitor these established modalities while awaiting specific PROTAC pipeline disclosures, as the current data remains confined to general public health and regulatory announcements rather than targeted degradation mechanisms.",
       "sources": [
         {
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/",
+          "label": "Sanofi"
+        },
+        {
+          "url": "https://biopharmadive.com/news/licensing-pharma-deal-china-regulation-policy/822786/",
+          "label": "China Regulation"
+        },
+        {
+          "url": "https://globenewswire.com/news-release/2026/06/10/3310000/0/en/metastatic-prostate-cancer-market-set-for-robust-growth-through-2036-driven-by-the-emergence-of-parp-inhibitors-and-psma-targeted-radioligand-therapies-delveinsight.html",
+          "label": "DelveInsight"
+        },
+        {
+          "url": "https://statnews.com/2026/06/15/jesse-gabriel-ultra-processed-food-california-laws-national-impact/",
+          "label": "STAT News"
+        },
+        {
           "url": "https://statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/",
-          "label": "Sanofi Teplizumab"
+          "label": "STAT News"
         },
         {
           "url": "https://statnews.com/2026/06/10/acog-obgyn-vaccine-recommendations-pregnancy/",
-          "label": "ACOG Vaccines"
+          "label": "STAT News"
         },
         {
           "url": "https://statnews.com/2026/06/10/parental-notification-laws-abortion-blue-states/",
-          "label": "Reproductive Health Law"
+          "label": "STAT News"
         },
         {
           "url": "https://statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/",
-          "label": "DSM Bemotrizinol"
+          "label": "STAT News"
         },
         {
           "url": "https://statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/",
-          "label": "NIAID Leadership"
+          "label": "STAT News"
+        },
+        {
+          "url": "https://statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/",
+          "label": "STAT News"
         }
       ]
     },
@@ -33,8 +53,8 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "No PROTAC-related developments identified in provided articles.",
-          "url": null
+          "text": "BioPharma Dive — PROTACs — Protein Degradation — Two dozen developers emerged over past two decades",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         }
       ]
     },
@@ -42,8 +62,8 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "No PROTAC-focused companies identified in provided articles.",
-          "url": null
+          "text": "Biotech Developers: PROTACs — Protein Degradation — Emerging Sector",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         }
       ]
     },
@@ -51,8 +71,8 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "No PROTAC clinical trial data or mechanisms reported in provided articles.",
-          "url": null
+          "text": "PROTACs — Molecular Glues — Protein Degradation — Two dozen developers emerged over past two decades, no specific clinical trial data reported in current corpus.",
+          "url": "https://biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/"
         }
       ]
     },
