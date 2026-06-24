@@ -1,31 +1,47 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-23 08:42:09",
+  "generated_at": "2026-06-24 08:36:21",
   "article_count": 18,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The pharmaceutical intelligence landscape for June 2026 reflects significant regulatory and policy activity, though no specific advancements in Proteolysis Targeting Chimeras (PROTAC) technology were identified within the provided source material. Key regulatory actions included the FDA advisory panel's unanimous endorsement of Moderna's seasonal mRNA flu vaccine for adults aged 50 and older, alongside legislative discussions regarding the COINS Act which highlight potential U.S. restrictions on investment in China's biotechnology industry. Concurrently, the Department of Justice achieved a proposed antitrust settlement with OhioHealth regarding contracting practices, while the Trump administration moved to integrate special education oversight into the Department of Health and Human Services. Venture capital discourse, represented by Canaan partners, cautioned that decoupling research ecosystems could hinder drug development. Despite these broader industry shifts involving vaccine approvals, market regulation, and geopolitical investment policy, the supplied articles contain no explicit data, clinical trial results, or business transactions related to proteolysis targeting chimeras. Consequently, this brief reflects the absence of PROTAC-specific intelligence within the current source set, suggesting that current industry focus remains on antitrust compliance and international investment frameworks rather than novel small molecule degradation modalities during this reporting period.",
+      "paragraph": "Entact Bio has reinforced its strategic positioning in induced-proximity therapeutics by appointing John G. Houston, Ph.D., to its Board of Directors, leveraging his pivotal role in advancing the first FDA-approved PROTAC drug, Veppanu (vepdegestrant), during his tenure at Arvinas. This leadership addition supports Entact’s proprietary Encompass™ platform, which utilizes ENTAC™ medicines to enhance beneficial protein function via deubiquitylases, distinguishing its approach from traditional protein degradation while capitalizing on the therapeutic potential demonstrated by PROTACs. While this development marks a significant milestone for proximity-inducing modalities, a comprehensive review of June 2026 pharmaceutical intelligence sources, including extensive STAT News publications, indicates no additional PROTAC-specific clinical trials, regulatory approvals, or corporate transactions were reported within that broader corpus. The available intelligence from those sources focused primarily on regulatory shifts such as FDA clinical trial pilot programs and CMS Medicare Advantage recalculations, rather than targeted protein degradation pipelines. Consequently, the current landscape reflects Entact Bio’s specific advancements in protein enhancement as the primary PROTAC-adjacent narrative, contrasting with a wider industry reporting environment dominated by vaccine licensing and policy reforms without explicit detail on small-molecule degrader candidates or clinical outcomes in this specific timeframe.",
       "sources": [
         {
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html",
+          "label": "Entact Bio"
+        },
+        {
+          "url": "https://statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/",
+          "label": "FDA Clinical Trials Pilot"
+        },
+        {
+          "url": "https://statnews.com/2026/06/20/blue-zones-real-open-access-publishing-fees-letters-to-editor/",
+          "label": "STAT Letters to Editor"
+        },
+        {
+          "url": "https://statnews.com/2026/06/18/medicare-advantage-star-ratings-recalculated-volatility-industry-lawsuits/",
+          "label": "CMS Medicare Advantage"
+        },
+        {
           "url": "https://statnews.com/2026/06/18/fda-mrna-flu-vaccine-vrbpac-advisers-endorse-moderna-shots/",
-          "label": "Moderna"
+          "label": "Moderna mRNA Flu Vaccine"
         },
         {
           "url": "https://statnews.com/2026/06/18/strategic-health-diplomacy-congress-oversight-ebola-hantavirus/",
-          "label": "PEPFAR/Congress"
+          "label": "Strategic Health Diplomacy"
         },
         {
-          "url": "https://statnews.com/2026/06/17/ohiohealth-antitrust-settlement-doj-ohio-attorney-general/",
-          "label": "OhioHealth"
+          "url": "https://statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/",
+          "label": "HHS Ebola Trial"
         },
         {
-          "url": "https://statnews.com/2026/06/17/health-news-trump-administration-brings-special-ed-to-hhs/",
-          "label": "HHS"
+          "url": "https://statnews.com/2026/06/23/medicaid-work-requirements-disability-medically-frail/",
+          "label": "CMS Medicaid Policy"
         },
         {
-          "url": "https://statnews.com/2026/06/17/china-biotech-pharma-us-venture-capital/",
-          "label": "Canaan"
+          "url": "https://statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/",
+          "label": "Eli Lilly Retatrutide"
         }
       ]
     },
@@ -33,8 +49,12 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "N/A — N/A — N/A — No PROTAC-specific developments reported across regulatory, clinical, or commercial sectors during this period.",
-          "url": null
+          "text": "Entact Bio — ENTAC™ — Loss-of-function disease — Board Appointment of John G. Houston",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
+        },
+        {
+          "text": "Arvinas — Veppanu (vepdegestrant) — Not specified — First FDA-approved PROTAC drug",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
     },
@@ -42,8 +62,12 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "N/A: No PROTAC-specific companies reported in provided articles.",
-          "url": null
+          "text": "Entact Bio: Developing precision medicines to enhance beneficial protein function using Encompass™ platform and ENTAC™ medicines.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
+        },
+        {
+          "text": "Arvinas: Advanced first FDA-approved PROTAC drug (Veppanu) under Houston's leadership.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
     },
@@ -51,8 +75,12 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "N/A: No PROTAC-specific clinical data reported in provided articles.",
-          "url": null
+          "text": "ENTAC™ medicines: Leverage induced-proximity mechanism similar to PROTACs but enhance beneficial proteins via deubiquitylases (DUBs).",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
+        },
+        {
+          "text": "Veppanu (vepdegestrant): First FDA-approved type of proximity-inducing drugs called PROTACs.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
     },
