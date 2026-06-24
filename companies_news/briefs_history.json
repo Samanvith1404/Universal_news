@@ -1,4 +1,22 @@
 {
+  "2026-06-24": {
+    "gene editing": [
+      {
+        "company": "Genetix Biotherapeutics",
+        "modality": "gene editing",
+        "news": "Genetix Biotherapeutics and SPIMACO announced a strategic agreement to commercialize and manufacture LYFGENIA and ZYNTEGLO in Saudi Arabia and the Middle East. These are one-time gene addition cell therapies for sickle cell disease and beta-thalassemia, involving localized manufacturing capabilities.",
+        "url": "https://www.genetixbiotx.com/press-release-2026-06-23.html",
+        "query": "gene editing"
+      },
+      {
+        "company": "Asimov",
+        "modality": "gene editing",
+        "news": "Asimov launched Chrysalis transposase, a proprietary genome integration tool engineered from butterfly genomes for biotherapeutics production. The tool is designed to deliver higher titers and stable expression for cell line development in biologics and genetic medicines.",
+        "url": "https://www.asimov.com/news/asimov-launches-chrysalis-transposase-a-wholly-owned-genome-integration-tool-for-biotherapeutics-production",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-11": {
     "gene editing": [
       {
