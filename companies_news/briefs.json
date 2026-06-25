@@ -1,23 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 32,
-    "items_extracted": 2,
+    "articles_used": 17,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-06-24 09:14:24"
+    "generated_at": "2026-06-25 09:09:55"
   },
   "news": [
     {
-      "company": "Genetix Biotherapeutics",
+      "company": "Gilead Sciences",
       "modality": "gene editing",
-      "news": "Genetix Biotherapeutics and SPIMACO announced a strategic agreement to commercialize and manufacture LYFGENIA and ZYNTEGLO in Saudi Arabia and the Middle East. These are one-time gene addition cell therapies for sickle cell disease and beta-thalassemia, involving localized manufacturing capabilities.",
-      "url": "https://www.genetixbiotx.com/press-release-2026-06-23.html"
-    },
-    {
-      "company": "Asimov",
-      "modality": "gene editing",
-      "news": "Asimov launched Chrysalis transposase, a proprietary genome integration tool engineered from butterfly genomes for biotherapeutics production. The tool is designed to deliver higher titers and stable expression for cell line development in biologics and genetic medicines.",
-      "url": "https://www.asimov.com/news/asimov-launches-chrysalis-transposase-a-wholly-owned-genome-integration-tool-for-biotherapeutics-production"
+      "news": "The U.S. FDA approved Trodelvy (sacituzumab govitecan-hziy) for the first-line treatment of metastatic triple-negative breast cancer. While Trodelvy is an antibody-drug conjugate (ADC) and not a gene editing therapy, this approval represents a significant regulatory milestone in oncology during the reported period.",
+      "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-trodelvy-for-first-line-treatment-of-metastatic-triple-negative-breast-cancer"
     }
   ]
 }

@@ -1,4 +1,15 @@
 {
+  "2026-06-25": {
+    "gene editing": [
+      {
+        "company": "Gilead Sciences",
+        "modality": "gene editing",
+        "news": "The U.S. FDA approved Trodelvy (sacituzumab govitecan-hziy) for the first-line treatment of metastatic triple-negative breast cancer. While Trodelvy is an antibody-drug conjugate (ADC) and not a gene editing therapy, this approval represents a significant regulatory milestone in oncology during the reported period.",
+        "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-trodelvy-for-first-line-treatment-of-metastatic-triple-negative-breast-cancer",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-06-24": {
     "gene editing": [
       {
