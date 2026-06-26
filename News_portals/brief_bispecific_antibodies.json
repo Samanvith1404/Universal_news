@@ -1,19 +1,39 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-25 08:31:13",
-  "article_count": 12,
+  "generated_at": "2026-06-26 08:47:29",
+  "article_count": 20,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "The pharmaceutical landscape surrounding induced-proximity therapeutics continues to evolve as Entact Bio strengthens its leadership by appointing John G. Houston, Ph.D., to its Board of Directors. Dr. Houston, instrumental in advancing the first FDA-approved PROTAC drug at Arvinas, brings critical expertise to Entact’s development of ENTAC™ medicines. While PROTACs direct induced proximity toward degrading harmful proteins, Entact’s ENTACs leverage the same underlying mechanism to enhance the function of beneficial proteins, targeting loss-of-function diseases previously out of reach. This strategic appointment bolsters the advancement of Entact’s proprietary Encompass™ platform. Concurrently, the broader regulatory environment is shifting, with the Food and Drug Administration announcing a pilot program designed to accelerate early-stage clinical trials. This initiative aims to reduce development timelines by six to twelve months to enhance U.S. competitiveness, potentially influencing future degradation technology development timelines. Although specific PROTAC clinical trial data was not detailed in all source material, the convergence of Arvinas’ regulatory success with Entact’s innovative platform highlights the expanding therapeutic potential of proximity-inducing drugs. The FDA’s push for faster Investigational New Drug pathways underscores the industry's focus on efficiency, signaling a shift toward protein enhancement strategies in precision medicine alongside established degradation modalities.",
+      "paragraph": "Entact Bio has strengthened its leadership in induced-proximity therapeutics by appointing John G. Houston, Ph.D., to its Board of Directors, leveraging his pivotal role in advancing the first FDA-approved PROTAC drug, Veppanu (vepdegestrant), during his tenure at Arvinas. This strategic appointment underscores the industry's growing validation of proximity-inducing modalities, as Entact Bio develops ENTAC™ medicines that utilize the same underlying mechanism as PROTAC protein degraders but aim to enhance the function of beneficial proteins rather than degrade harmful ones. While this specific development highlights progress in the PROTAC-adjacent sector, broader regulatory shifts in June 2026, including an FDA pilot program designed to accelerate early-stage clinical trials and reduce development timelines by six to twelve months, may facilitate future Investigational New Drug pathways for degrader technologies. Despite these operational adjustments within the biotechnology sector, other monitored sources indicated no specific PROTAC pipeline updates or corporate announcements during this reporting period, suggesting a concentrated focus on foundational platform advancements rather than late-stage clinical disclosures. Stakeholders should consider these regulatory adjustments as potential facilitators for emerging degrader technologies while monitoring for further pipeline expansions.",
       "sources": [
         {
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html",
           "label": "Entact Bio"
         },
         {
+          "url": "https://statnews.com/2026/06/25/tarasoff-50th-anniversary-murder-doctor-patient-confidentiality/",
+          "label": "Ethics Policy"
+        },
+        {
+          "url": "https://statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/",
+          "label": "HHS Trial"
+        },
+        {
+          "url": "https://statnews.com/2026/06/23/medicaid-work-requirements-disability-medically-frail/",
+          "label": "Medicaid Policy"
+        },
+        {
+          "url": "https://statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/",
+          "label": "Obesity Drug Access"
+        },
+        {
           "url": "https://statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/",
           "label": "FDA Pilot Program"
+        },
+        {
+          "url": "https://statnews.com/2026/06/20/blue-zones-real-open-access-publishing-fees-letters-to-editor/",
+          "label": "NIH Policy"
         }
       ]
     },
@@ -21,16 +41,8 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Entact Bio — ENTAC™ — Loss-of-function disease — Board Appointment of John G. Houston, Ph.D.",
+          "text": "Entact Bio — ENTAC™ — Loss-of-function disease — Appointment of John G. Houston to Board of Directors",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
-        },
-        {
-          "text": "Arvinas — Veppanu (vepdegestrant) — Not specified — FDA Approval (referenced)",
-          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
-        },
-        {
-          "text": "FDA — Investigational New Drug — Early-stage trials — Pilot program for accelerated timelines",
-          "url": "https://statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/"
         }
       ]
     },
@@ -38,11 +50,11 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Entact Bio: Developing ENTAC medicines via Encompass™ platform to enhance protein function using DUBs.",
+          "text": "Entact Bio: Developing precision medicines that enhance the function of beneficial proteins via the Encompass™ platform.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         },
         {
-          "text": "Arvinas: Referenced for Houston's background and PROTAC approval (Veppanu).",
+          "text": "Arvinas: Company that earned the first-ever FDA approval for a type of proximity-inducing drugs called PROTACs (Veppanu).",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
@@ -51,11 +63,15 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ENTAC™: Leverages induced-proximity mechanism similar to PROTACs but enhances beneficial proteins using deubiquitylase (DUB) biochemistry.",
+          "text": "PROTAC mechanism directs induced proximity power toward degrading harmful proteins.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         },
         {
-          "text": "Veppanu (vepdegestrant): First FDA-approved PROTAC drug (Proteolysis-Targeting Chimera).",
+          "text": "ENTAC mechanism directs induced proximity power toward enhancing beneficial ones to treat loss-of-function diseases.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
+        },
+        {
+          "text": "Entact Bio leverages deubiquitylase (DUB) biochemistry to regulate and enhance protein function.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
@@ -64,8 +80,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "No relevant business developments reported.",
-          "url": null
+          "text": "Entact Bio appointed John G. Houston, Ph.D., as Independent Director to its Board of Directors.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
     }
