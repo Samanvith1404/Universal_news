@@ -1,17 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 17,
+    "articles_used": 20,
     "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-06-25 09:09:55"
+    "generated_at": "2026-06-27 08:44:08"
   },
   "news": [
     {
-      "company": "Gilead Sciences",
+      "company": "ProQR Therapeutics",
       "modality": "gene editing",
-      "news": "The U.S. FDA approved Trodelvy (sacituzumab govitecan-hziy) for the first-line treatment of metastatic triple-negative breast cancer. While Trodelvy is an antibody-drug conjugate (ADC) and not a gene editing therapy, this approval represents a significant regulatory milestone in oncology during the reported period.",
-      "url": "https://www.gilead.com/news/news-details/2026/u-s--fda-approves-trodelvy-for-first-line-treatment-of-metastatic-triple-negative-breast-cancer"
+      "news": "ProQR Therapeutics announced positive Phase 1 target engagement data for AX-0810, establishing the first clinical validation of its Axiomer RNA editing platform. The data confirms the platform's ability to utilize the cell's ADAR machinery to make specific single nucleotide edits in RNA.",
+      "url": "https://ir.proqr.com/press-releases/proqr-announces-positive-phase-1-target-engagement-data-for-ax-0810-establishing-first-clinical-validation-of-the-axiomer-rna-editing-platform"
     }
   ]
 }
