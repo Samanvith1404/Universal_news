@@ -1,23 +1,19 @@
 {
   "query": "protac",
-  "generated_at": "2026-06-27 08:08:54",
+  "generated_at": "2026-06-28 08:42:54",
   "article_count": 18,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "Entact Bio has reinforced its position in induced-proximity therapeutics by appointing John G. Houston, Ph.D., to its Board of Directors, leveraging his experience in advancing Arvinas’s Veppanu (vepdegestrant), the first FDA-approved PROTAC drug. This strategic appointment supports Entact’s development of ENTAC™ medicines, which utilize the same underlying induced-proximity mechanism as PROTAC protein degraders but aim to enhance beneficial protein function rather than degrade harmful ones. The Encompass™ platform, rooted in deubiquitylase (DUB) biochemistry, enables the creation of these protein-enhancing medications to treat loss-of-function diseases previously out of reach for conventional therapeutics. While broader industry discussions at BIO 2026 highlighted artificial intelligence integration and Washington policy strategies, the specific advancement of Entact’s program underscores the maturation of proximity-inducing modalities beyond degradation. Concurrent regulatory shifts, including FDA pilot programs for early-stage trials and scrutiny over compassionate use pathways for obesity therapeutics, frame the environment in which these novel mechanisms operate. This development marks a significant step in translating the scientific foundation of protein degraders into a new class of precision medicines focused on functional enhancement, addressing underserved patient populations through innovative small-molecule drug development strategies amidst a complex regulatory landscape.",
+      "paragraph": "Entact Bio has strengthened its leadership in induced-proximity therapeutics by appointing John G. Houston, Ph.D., to its Board of Directors, leveraging his pivotal role in advancing the first FDA-approved PROTAC drug at Arvinas. This strategic move underscores the growing validation of proximity-inducing modalities, as Houston previously helped build Arvinas into a company that secured approval for Veppanu (vepdegestrant). Entact Bio is now applying similar induced-proximity mechanisms to develop ENTAC™ medicines, which aim to enhance the function of beneficial proteins rather than degrading harmful ones, targeting loss-of-function diseases previously out of reach for conventional therapeutics. The company’s proprietary Encompass™ platform utilizes deubiquitylase (DUB) biochemistry to regulate and enhance protein function, expanding the treatable disease universe. While broader industry updates in June 2026 included FDA pilot programs for trial acceleration and Eli Lilly’s compassionate use access for retatrutide, specific PROTAC intelligence remains anchored in these proximity-inducing advancements. Houston’s experience in taking novel mechanisms from concept to approval is deemed invaluable for advancing the ENTAC pipeline. This development highlights the maturation of protein degrader and enhancer technologies within the biopharma sector, where proximity-inducing drugs are establishing a new class of medicines that bring different proteins together to produce therapeutic effects. As the industry navigates complex regulatory landscapes, the success of PROTACs provides a foundational blueprint for next-generation precision medicines like those in Entact’s portfolio, signaling substantial opportunity for conditions underserved by current modalities.",
       "sources": [
         {
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html",
           "label": "Entact Bio"
         },
         {
-          "url": "https://statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/",
-          "label": "BIO 2026 Conference"
-        },
-        {
           "url": "https://statnews.com/2026/06/25/tarasoff-50th-anniversary-murder-doctor-patient-confidentiality/",
-          "label": "Tarasoff Case Ethics"
+          "label": "Tarasoff Case"
         },
         {
           "url": "https://statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/",
@@ -33,15 +29,19 @@
         },
         {
           "url": "https://statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/",
-          "label": "FDA Clinical Trial Pilot"
+          "label": "FDA Clinical Trials"
+        },
+        {
+          "url": "https://statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/",
+          "label": "BIO 2026 Conference"
         },
         {
           "url": "https://statnews.com/2026/06/25/supreme-court-blocks-thousands-lawsuits-roundup-weedkiller-cancer/",
-          "label": "Bayer Roundup Litigation"
+          "label": "Bayer/Roundup"
         },
         {
           "url": "https://statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/",
-          "label": "Senate Inquiry"
+          "label": "Eli Lilly/Retatrutide"
         }
       ]
     },
@@ -49,11 +49,11 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Entact Bio — ENTAC™ — Loss-of-function disease — Board Appointment of John G. Houston, Ph.D.",
+          "text": "Entact Bio — ENTAC™ — Loss-of-function disease — Appointment of John G. Houston, Ph.D., to Board of Directors to leverage PROTAC expertise.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         },
         {
-          "text": "Arvinas — Veppanu (vepdegestrant) — PROTAC — First FDA-approved PROTAC drug (contextual reference)",
+          "text": "Arvinas — Veppanu (vepdegestrant) — PROTAC — First FDA-approved proximity-inducing drug referenced as precedent.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
@@ -62,11 +62,11 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Entact Bio: Developing precision medicines to enhance beneficial protein function via Encompass™ platform.",
+          "text": "Entact Bio: Developing precision medicines to enhance beneficial protein function via Encompass™ platform and ENTAC™ pipeline.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         },
         {
-          "text": "Arvinas: Developer of first FDA-approved PROTAC drug Veppanu (vepdegestrant).",
+          "text": "Arvinas: Pioneered PROTAC technology leading to FDA approval of Veppanu (vepdegestrant) for protein degradation.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
@@ -75,7 +75,11 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "ENTAC™: Induced-proximity mechanism enhancing beneficial protein function; Encompass™ platform; DUB biochemistry.",
+          "text": "ENTAC™: Induced-proximity mechanism leveraging deubiquitylase (DUB) biochemistry to enhance protein function rather than degrade.",
+          "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
+        },
+        {
+          "text": "Veppanu (vepdegestrant): PROTAC mechanism directing power toward degrading harmful proteins, recently approved by FDA.",
           "url": "https://globenewswire.com/news-release/2026/06/23/3315842/0/en/entact-bio-appoints-john-g-houston-ph-d-to-its-board-of-directors.html"
         }
       ]
