@@ -4,6 +4,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -95,11 +100,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -410,7 +410,7 @@
       },
       {
         "url": "https://www.sanofi.com/en/our-company/sustainability",
-        "anchor_text": "Sustainability",
+        "anchor_text": "Social Impact",
         "score": 46
       },
       {
@@ -1551,6 +1551,11 @@
         "url": "https://www.novartis.com/research-and-development/research-disease-areas/diseases-aging-and-regenerative-medicine-dare-research-novartis",
         "anchor_text": "Diseases of Aging and Regenerative medicine (DARe)",
         "score": 128
+      },
+      {
+        "url": "https://www.novartis.com/healthcare-professionals/managed-access-programs/managed-access-patient-privacy-notice-and-consent-templates",
+        "anchor_text": "Managed Access patient privacy notice and consent templates",
+        "score": 125
       },
       {
         "url": "https://www.novartis.com/news/novartis-statement-about-entresto-sacubitrilvalsartan-selection-medicare-drug-price-negotiation-program",
@@ -6078,7 +6083,7 @@
       },
       {
         "url": "https://www.veeva.com/commercial-evidence/",
-        "anchor_text": "Commercial Evidence™Transform interactions into scalable, actionable insights",
+        "anchor_text": "Commercial Evidence™Transform field and digital interactions into actionable insights",
         "score": 35
       },
       {
@@ -9042,192 +9047,6 @@
     ]
   },
   {
-    "company": "AdametNext",
-    "press_url": "https://adametnext.com/blog/",
-    "candidate_links": [
-      {
-        "url": "https://adametnext.com/competitive-intelligence/",
-        "anchor_text": "Competitive Intelligence",
-        "score": 40
-      },
-      {
-        "url": "https://adametnext.com/marketing-analytics/",
-        "anchor_text": "Marketing Analytics",
-        "score": 35
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/",
-        "anchor_text": "How to make the most of a nontraditional startup community",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/classic-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 31
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/",
-        "anchor_text": "Read more",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/modern-sidebar/#respond",
-        "anchor_text": "No comments yet",
-        "score": 30
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/",
-        "anchor_text": "How can you help your team transition to remote with this essential guide",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/development/",
-        "anchor_text": "Development",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/gallery-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 28
-      },
-      {
-        "url": "https://adametnext.com/category/technology/",
-        "anchor_text": "Technology",
-        "score": 27
-      },
-      {
-        "url": "https://adametnext.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/",
-        "anchor_text": "The best remote UX and UI design conferences to attend in 2020",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/video-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/",
-        "anchor_text": "Read more",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/audio-post/#respond",
-        "anchor_text": "No comments yet",
-        "score": 26
-      },
-      {
-        "url": "https://adametnext.com/category/business/",
-        "anchor_text": "Business",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/category/software/",
-        "anchor_text": "Software",
-        "score": 25
-      },
-      {
-        "url": "https://adametnext.com/about-us/",
-        "anchor_text": "About Us",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/general/",
-        "anchor_text": "General",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/category/science/",
-        "anchor_text": "Science",
-        "score": 24
-      },
-      {
-        "url": "https://adametnext.com/author/admin143/",
-        "anchor_text": "admin143",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/category/design/",
-        "anchor_text": "Design",
-        "score": 23
-      },
-      {
-        "url": "https://adametnext.com/tag/marketing/",
-        "anchor_text": "Marketing(3)",
-        "score": 21
-      },
-      {
-        "url": "https://adametnext.com/tag/creative/",
-        "anchor_text": "Creative(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/internet/",
-        "anchor_text": "Internet(4)",
-        "score": 20
-      },
-      {
-        "url": "https://adametnext.com/tag/popular/",
-        "anchor_text": "Popular(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/startup/",
-        "anchor_text": "Startup(3)",
-        "score": 19
-      },
-      {
-        "url": "https://adametnext.com/tag/mobile/",
-        "anchor_text": "Mobile(4)",
-        "score": 18
-      },
-      {
-        "url": "https://adametnext.com/forecasting/",
-        "anchor_text": "Forecasting",
-        "score": 17
-      },
-      {
-        "url": "https://adametnext.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/",
-        "anchor_text": "Problems everyone has when working remotely and how to solve them",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/classic/#respond",
-        "anchor_text": "No comments yet",
-        "score": 13
-      },
-      {
-        "url": "https://adametnext.com/modern/",
-        "anchor_text": "Are enterprise teams the next big thing in the freelance revolution?",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/modern/#respond",
-        "anchor_text": "No comments yet",
-        "score": 12
-      },
-      {
-        "url": "https://adametnext.com/blog/",
-        "anchor_text": "Subscribe",
-        "score": 10
-      },
-      {
-        "url": "https://adametnext.com",
-        "anchor_text": "Adamet Next",
-        "score": 0
-      }
-    ]
-  },
-  {
     "company": "Genotypic Technology Pvt Ltd",
     "press_url": "https://genotypic.co.in/aboutus/news/",
     "candidate_links": [
@@ -10751,6 +10570,327 @@
       },
       {
         "url": "https://sciex.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Vimta Labs",
+    "press_url": "https://vimta.com/investors/announcements/",
+    "candidate_links": [
+      {
+        "url": "https://vimta.com/automotive-mechanical-performance-testing/",
+        "anchor_text": "Automotive Mechanical Performance Testing",
+        "score": 57
+      },
+      {
+        "url": "https://vimta.com/industrial-and-control-equipment-testing/",
+        "anchor_text": "Industrial and Control Equipment Testing",
+        "score": 56
+      },
+      {
+        "url": "https://vimta.com/medical-device-product-safety-testing/",
+        "anchor_text": "Medical Device Product Safety Testing",
+        "score": 53
+      },
+      {
+        "url": "https://vimta.com/consumer-electronics-product-testing/",
+        "anchor_text": "Consumer Electronics Product Testing",
+        "score": 52
+      },
+      {
+        "url": "https://vimta.com/ce-marking-certification-and-testing/",
+        "anchor_text": "CE Marking Certification and Testing",
+        "score": 52
+      },
+      {
+        "url": "https://vimta.com/environmental-reliability-testing/",
+        "anchor_text": "Environmental & Reliability Testing",
+        "score": 49
+      },
+      {
+        "url": "https://vimta.com/physical-security-product-testing/",
+        "anchor_text": "Physical Security Product Testing",
+        "score": 49
+      },
+      {
+        "url": "https://vimta.com/services-electricals-electronics/",
+        "anchor_text": "Electricals & Electronics",
+        "score": 48
+      },
+      {
+        "url": "https://vimta.com/corporate-social-responsibility/",
+        "anchor_text": "Corporate Social Responsibility",
+        "score": 47
+      },
+      {
+        "url": "https://vimta.com/services-biologics-biosimilars/",
+        "anchor_text": "Biologics & Biosimilars",
+        "score": 46
+      },
+      {
+        "url": "https://vimta.com/safety-and-performance-testing/",
+        "anchor_text": "Safety and Performance Testing",
+        "score": 46
+      },
+      {
+        "url": "https://vimta.com/what-do-we-do/vision-values/",
+        "anchor_text": "Vision & Values",
+        "score": 45
+      },
+      {
+        "url": "https://vimta.com/environment-health-safety-ehs/",
+        "anchor_text": "Environment, Health & Safety (EHS)",
+        "score": 45
+      },
+      {
+        "url": "https://vimta.com/services-beauty-personal-care/",
+        "anchor_text": "Home & Personal Care",
+        "score": 45
+      },
+      {
+        "url": "https://vimta.com/services-specialty-chemicals/",
+        "anchor_text": "Specialty Chemicals",
+        "score": 44
+      },
+      {
+        "url": "https://vimta.com/en-and-bis-testing-for-psp-2/",
+        "anchor_text": "EN and BIS Testing for PSP",
+        "score": 44
+      },
+      {
+        "url": "https://vimta.com/global-market-access-testing/",
+        "anchor_text": "Global Market Access Testing",
+        "score": 44
+      },
+      {
+        "url": "https://vimta.com/quality-management-system/",
+        "anchor_text": "Quality Management System",
+        "score": 41
+      },
+      {
+        "url": "https://vimta.com/environment-health-safety/",
+        "anchor_text": "Environment, Health & Safety",
+        "score": 41
+      },
+      {
+        "url": "https://vimta.com/avionics-products-testing/",
+        "anchor_text": "Avionics Products Testing",
+        "score": 41
+      },
+      {
+        "url": "https://vimta.com/it-product-safety-testing/",
+        "anchor_text": "IT Product Safety Testing",
+        "score": 41
+      },
+      {
+        "url": "https://vimta.com/about-us/what-do-we-do/",
+        "anchor_text": "What Do We Do",
+        "score": 40
+      },
+      {
+        "url": "https://vimta.com/services-pharmaceuticals/",
+        "anchor_text": "Pharmaceuticals",
+        "score": 40
+      },
+      {
+        "url": "https://vimta.com/services-medical-devices/",
+        "anchor_text": "Medical Devices",
+        "score": 40
+      },
+      {
+        "url": "https://vimta.com/services-water-beverages/",
+        "anchor_text": "Water & Beverages",
+        "score": 40
+      },
+      {
+        "url": "https://vimta.com/military-product-testing/",
+        "anchor_text": "Military Product Testing",
+        "score": 40
+      },
+      {
+        "url": "https://vimta.com/careers/open-positions/",
+        "anchor_text": "Open Positions",
+        "score": 40
+      },
+      {
+        "url": "https://vimta.com/services-nutraceuticals/",
+        "anchor_text": "Nutraceuticals",
+        "score": 39
+      },
+      {
+        "url": "https://vimta.com/radio-frequency-testing/",
+        "anchor_text": "Radio Frequency Testing",
+        "score": 39
+      },
+      {
+        "url": "https://vimta.com/market-access-testing-2/",
+        "anchor_text": "Market Access Testing",
+        "score": 39
+      },
+      {
+        "url": "https://vimta.com/careers/life-at-vimta/",
+        "anchor_text": "Life at Vimta",
+        "score": 39
+      },
+      {
+        "url": "https://vimta.com/certification-services/",
+        "anchor_text": "Certification Services",
+        "score": 38
+      },
+      {
+        "url": "https://vimta.com/contact-us/feedback/",
+        "anchor_text": "Feedback",
+        "score": 37
+      },
+      {
+        "url": "https://vimta.com/preclinical-research/",
+        "anchor_text": "Preclinical Research",
+        "score": 36
+      },
+      {
+        "url": "https://vimta.com/fan-testing-services/",
+        "anchor_text": "Fan Testing Services",
+        "score": 36
+      },
+      {
+        "url": "https://vimta.com/crads-whatwedevelop/",
+        "anchor_text": "What We develop",
+        "score": 35
+      },
+      {
+        "url": "https://vimta.com/emi-and-emc-testing/",
+        "anchor_text": "EMI and EMC Testing",
+        "score": 35
+      },
+      {
+        "url": "https://vimta.com/toys-safety-testing/",
+        "anchor_text": "Toys Safety Testing",
+        "score": 35
+      },
+      {
+        "url": "https://vimta.com/ce-marking-services/",
+        "anchor_text": "CE Marking Services",
+        "score": 35
+      },
+      {
+        "url": "https://vimta.com/crads-introduction/",
+        "anchor_text": "Development",
+        "score": 34
+      },
+      {
+        "url": "https://vimta.com/services-crop-care/",
+        "anchor_text": "Crop Care",
+        "score": 34
+      },
+      {
+        "url": "https://vimta.com/services-packaging/",
+        "anchor_text": "Packaging",
+        "score": 34
+      },
+      {
+        "url": "https://vimta.com/by-service-package/",
+        "anchor_text": "By Service Package",
+        "score": 34
+      },
+      {
+        "url": "https://vimta.com/clinical-research/",
+        "anchor_text": "Clinical Research",
+        "score": 33
+      },
+      {
+        "url": "https://vimta.com/bis-crs-testing-2/",
+        "anchor_text": "BIS CRS Testing",
+        "score": 33
+      },
+      {
+        "url": "https://vimta.com/psp-certification/",
+        "anchor_text": "PSP Certification",
+        "score": 33
+      },
+      {
+        "url": "https://vimta.com/investors/announcements/",
+        "anchor_text": "2018-19",
+        "score": 31
+      },
+      {
+        "url": "https://vimta.com/what-do-we-do/",
+        "anchor_text": "What do we do",
+        "score": 29
+      },
+      {
+        "url": "https://vimta.com/services-food/",
+        "anchor_text": "Food",
+        "score": 29
+      },
+      {
+        "url": "https://vimta.com/tec-testing-2/",
+        "anchor_text": "TEC Testing",
+        "score": 29
+      },
+      {
+        "url": "https://vimta.com/investors/insights/",
+        "anchor_text": "Downloads",
+        "score": 26
+      },
+      {
+        "url": "https://vimta.com/contact-us/",
+        "anchor_text": "Contact Us",
+        "score": 26
+      },
+      {
+        "url": "https://vimta.com/our-credo/",
+        "anchor_text": "Our Credo",
+        "score": 25
+      },
+      {
+        "url": "https://vimta.com/by-test/",
+        "anchor_text": "By Test",
+        "score": 23
+      },
+      {
+        "url": "https://vimta.com/accreditations/",
+        "anchor_text": "Accreditations",
+        "score": 20
+      },
+      {
+        "url": "https://vimta.com/agriculture/",
+        "anchor_text": "Agriculture",
+        "score": 17
+      },
+      {
+        "url": "https://vimta.com/leadership/",
+        "anchor_text": "Meet Our Leaders",
+        "score": 16
+      },
+      {
+        "url": "https://vimta.com/philosophy/",
+        "anchor_text": "Philosophy",
+        "score": 16
+      },
+      {
+        "url": "https://vimta.com/investors/",
+        "anchor_text": "Investors",
+        "score": 15
+      },
+      {
+        "url": "https://vimta.com/bydomain/",
+        "anchor_text": "By Domain",
+        "score": 14
+      },
+      {
+        "url": "https://vimta.com/events/",
+        "anchor_text": "Events",
+        "score": 12
+      },
+      {
+        "url": "https://vimta.com/cgmp/",
+        "anchor_text": "cGMP",
+        "score": 10
+      },
+      {
+        "url": "https://vimta.com/",
         "anchor_text": "",
         "score": 3
       }
@@ -16573,6 +16713,122 @@
     ]
   },
   {
+    "company": "Unilabs",
+    "press_url": "https://unilabs.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://unilabs.com/healthcare-professionals/clinical-laboratory-testing",
+        "anchor_text": "Clinical Laboratory Testing",
+        "score": 67
+      },
+      {
+        "url": "https://unilabs.com/our-company/join-us/current-job-opportunities",
+        "anchor_text": "Current job opportunities",
+        "score": 62
+      },
+      {
+        "url": "https://unilabs.com/our-company/unilabs-executive-leadership-team",
+        "anchor_text": "Unilabs Executive Leadership Team",
+        "score": 60
+      },
+      {
+        "url": "https://unilabs.com/our-company/join-us/working-at-unilabs",
+        "anchor_text": "Working at Unilabs",
+        "score": 55
+      },
+      {
+        "url": "https://unilabs.com/our-company/about-unilabs/who-we-are",
+        "anchor_text": "Who we are",
+        "score": 53
+      },
+      {
+        "url": "https://unilabs.com/healthcare-professionals/radiology",
+        "anchor_text": "Radiology",
+        "score": 49
+      },
+      {
+        "url": "https://unilabs.com/healthcare-professionals/pathology",
+        "anchor_text": "Pathology",
+        "score": 49
+      },
+      {
+        "url": "https://unilabs.com/healthcare-professionals/genetics",
+        "anchor_text": "Genetics",
+        "score": 48
+      },
+      {
+        "url": "https://unilabs.com/our-company/about-unilabs",
+        "anchor_text": "About Unilabs",
+        "score": 40
+      },
+      {
+        "url": "https://unilabs.com/ivdr-mdr-public-declaration",
+        "anchor_text": "IVDR/MDR Public Declaration",
+        "score": 40
+      },
+      {
+        "url": "https://unilabs.com/our-company/unilabs-news",
+        "anchor_text": "News",
+        "score": 39
+      },
+      {
+        "url": "https://unilabs.com/healthcare-professionals",
+        "anchor_text": "Healthcare Professionals",
+        "score": 37
+      },
+      {
+        "url": "https://unilabs.com/our-company/join-us",
+        "anchor_text": "Join us",
+        "score": 34
+      },
+      {
+        "url": "https://unilabs.com/data-protection",
+        "anchor_text": "Data Protection",
+        "score": 28
+      },
+      {
+        "url": "https://unilabs.com/legal-notice",
+        "anchor_text": "Legal notice",
+        "score": 25
+      },
+      {
+        "url": "https://unilabs.com/our-company",
+        "anchor_text": "Our Company",
+        "score": 24
+      },
+      {
+        "url": "https://unilabs.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://unilabs.com/patients",
+        "anchor_text": "Patients",
+        "score": 11
+      },
+      {
+        "url": "https://unilabs.com/news/#main-content",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://unilabs.com/news/",
+        "anchor_text": "Continue to the main corporate website",
+        "score": 10
+      },
+      {
+        "url": "https://unilabs.com/home",
+        "anchor_text": "Home",
+        "score": 7
+      },
+      {
+        "url": "https://unilabs.com/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
     "company": "Biocon",
     "press_url": "https://www.bioconbiologics.com/news/press-releases/",
     "candidate_links": [
@@ -18318,7 +18574,7 @@
       },
       {
         "url": "https://www.illumina.com/company/news-center.html",
-        "anchor_text": "Share on Linkedin",
+        "anchor_text": "Cookie Management Center",
         "score": 39
       },
       {
@@ -21914,456 +22170,6 @@
     "press_url": "https://www.panaceabiotec.com/en/section/news-center",
     "candidate_links": [
       {
-        "url": "https://www.panaceabiotec.com/en/contentcis-%D0%B8%D0%B9%D0%BD-%D0%B1%D2%AF%D1%81-%D0%BD%D1%83%D1%82%D0%B0%D0%B3-%D0%B4%D0%B0%D1%8F%D0%B0%D1%80-%D0%BD%D0%B8%D0%B9%D0%B3%D0%BC%D0%B8%D0%B9%D0%BD-%D1%8D%D1%80%D2%AF%D2%AF%D0%BB-%D0%BC%D1%8D%D0%BD%D0%B4%D0%B8%D0%B9%D0%B3-%D0%B1%D1%8D%D1%85%D0%B6%D2%AF%D2%AF%D0%BB%D1%8D%D1%85",
-        "anchor_text": "Read more",
-        "score": 306
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/content%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%81%D9%8A-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A3%D9%86%D8%AD%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A",
-        "anchor_text": "Read more",
-        "score": 284
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentus-delegation-led-by-ambassador-to-india-eric-garcetti-assistant-secretary-for-global-affairs-hhs-loyce-pace-and-hhs-health-attach%C3%A9-genessa-giorgi-visited-panacea-biotec-randd-centre-developing-novel-tetravalent-dengue-vaccine-dengiall",
-        "anchor_text": "Read more",
-        "score": 265
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/content%D1%83%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D1%8F-%D0%B2-%D1%81%D0%BD%D0%B3",
-        "anchor_text": "Read more",
-        "score": 239
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-panacea-biotec-is-proud-to-announce-the-inclusion-of-emulsipan-adjuvant-in-the-cepi-adjuvant-library-and-its-foray-into-commercialisation-of-its-indigenously-developed-adjuvants",
-        "anchor_text": "Read more",
-        "score": 216
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-reports-financial-results-for-quarter-nine-months-ended-31-december-2013-gets-unicef-award-for-supply-of-pentavalent-vaccine-easyfive-tt-during-the-period-2014-2016",
-        "anchor_text": "Read more",
-        "score": 204
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-donates-125000-doses-of-easyfive-tt-dtwp-hepb-hib-a-fully-liquid-pentavalent-vaccine-to-ministry-of-health-republic-of-cuba-for-use-in-the-national-health-system",
-        "anchor_text": "Read more",
-        "score": 201
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-receives-certificate-of-gmp-compliance-with-manufacturing-authorizations-for-22-medicinal-products-from-state-service-of-ukraine-on-medicines-and-drugs-control",
-        "anchor_text": "Read more",
-        "score": 199
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentlaunch-of-the-denstar-project-advancing-the-licensure-of-a-tetravalent-live-attenuated-dengue-vaccine-dengiall-in-sub-saharan-africa-and-to-facilitate-its-global-access",
-        "anchor_text": "Read more",
-        "score": 193
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-panacea-biotec-announces-successful-completion-of-phase-i-ii-study-of-its-novel-tetravalent-recombinant-chimeric-dengue-candidate-vaccine-dengiall",
-        "anchor_text": "Read more",
-        "score": 185
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-strategic-alliance-with-kremers-urban-for-11-high-barrier-to-entry-generics-and-the-launch-of-tacrolimus-capsules-in-us",
-        "anchor_text": "Read more",
-        "score": 169
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-inks-triapartite-agreement-with-natco-pharma-and-breckenridge-pharmaceutical-manufacturing-supply-azacitidine-injection",
-        "anchor_text": "Read more",
-        "score": 159
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentmanufacturing-cooperation-is-key-to-equitable-access-of-vaccines-across-countries-dr-rajesh-jain-ethealthworldupdated-july-15-2021",
-        "anchor_text": "Read more",
-        "score": 155
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-dfc-commits-us20-million-long-term-loan-to-panacea-biotec-towards-capacity-expansion-project-for-hexavalent-vaccine",
-        "anchor_text": "Read more",
-        "score": 154
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-launches-easyfourpol-in-india-and-receives-registration-of-valganciclovir-powder-for-oral-solution-in-germany",
-        "anchor_text": "Read more",
-        "score": 149
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentrussian-direct-investment-fund-and-panacea-biotec-agree-to-produce-100-million-doses-of-sputnik-v-vaccine-in-india-per-year",
-        "anchor_text": "Read more",
-        "score": 148
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-gets-pan-american-health-organization-paho-order-for-supply-of-easyfive-tt-vaccines-worth-usd-13.49-million",
-        "anchor_text": "Read more",
-        "score": 147
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentcii-national-conference-on-vaccine-industry-in-india-current-status-and-future-prospects-hotel-hayat-regency-new-delhi",
-        "anchor_text": "Read more",
-        "score": 143
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-panacea-biotec-supplies-1st-shipment-of-the-second-component-of-sputnik-v-vaccine-produced-in-india",
-        "anchor_text": "Read more",
-        "score": 138
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-inaugurates-state-of-the-art-oncology-production-unit-at-baddi-himachal-pradesh-new-delhi-india",
-        "anchor_text": "Read more",
-        "score": 135
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentcabapan-a-cost-effective-product-for-the-treatment-of-metastatic-castration-resistant-prostrate-cancer-mcrpc",
-        "anchor_text": "Read more",
-        "score": 133
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-observes-organ-donation-day-mohan-foundation-organizes-awareness-camp-in-the-company-premises",
-        "anchor_text": "Read more",
-        "score": 133
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentdcvmn-international-develop-multiple-initiatives-to-accelerate-access-to-affordable-high-quality-vaccines",
-        "anchor_text": "Read more",
-        "score": 130
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentmankind-pharma-acquires-domestic-pharmaceutical-formulation-brands-of-panacea-biotec-for-india-and-nepal",
-        "anchor_text": "Read more",
-        "score": 129
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentnation-wide-study-confirms-chilrun-full-accelerates-growth-and-development-in-children-in-just-90-days",
-        "anchor_text": "Read more",
-        "score": 127
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-launches-pacliall--a-cost-effective-and-novel-drug-delivery-product-for-breast-cancer",
-        "anchor_text": "Read more",
-        "score": 125
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-receives-unicef-&-paho-awards-for-supply-of-pentavalent-vaccine-%28dtwp-hepb-hib%29",
-        "anchor_text": "Read more",
-        "score": 123
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-gets-government-of-indias-order-for-supply-of-oral-polio-vaccine-worth-rs-187-crore",
-        "anchor_text": "Read more",
-        "score": 123
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-receives-pre-qualification-certification-from-who-for-supply-of-hepatitis-b-vaccine",
-        "anchor_text": "Read more",
-        "score": 123
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-vows-to-protect-millions-of-infants-across-the-world-from-five-infectious-diseases",
-        "anchor_text": "Read more",
-        "score": 122
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-signs-agreement-with-family-vaccines-to-supply-combination-vaccines-in-philippines",
-        "anchor_text": "Read more",
-        "score": 122
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-receives-licence-to-produce-sputnik-v-at-baddi-business-line-chennai-05-july-2021",
-        "anchor_text": "Read more",
-        "score": 121
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-acceptance-of-its-anda-for-paclitaxel-protein-bound-particles-by-us-fda",
-        "anchor_text": "Read more",
-        "score": 121
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentunaudited-financial-results-provisional-for-the-quarter-and-nine-months-ended-31st-december-2006",
-        "anchor_text": "Read more",
-        "score": 121
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentensures-limited-availability-of-life-saving-drug-cilamin-250-capsule-d-penicillamine-ip-250-mg",
-        "anchor_text": "Read more",
-        "score": 119
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentlaunches--tenepan,-a-cost-effective-product-for-the-treatment-of-type-2-diabetes-mellitus-t2dm",
-        "anchor_text": "Read more",
-        "score": 119
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-collaborates-with-nrdc-for-technology-transfer-of-fmd-vaccine-developed-by-ivri",
-        "anchor_text": "Read more",
-        "score": 119
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release--initiation-of-phase-iii-clinical-trial-of-dengiall-by-icmr-and-panacea-biotec",
-        "anchor_text": "Read more",
-        "score": 117
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentcepi-thsti-and-panacea-biotec-partner-to-develop-broadly-protective-betacoronavirus-vaccines",
-        "anchor_text": "Read more",
-        "score": 117
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-panacea-biotec-and-refana-announce-landmark-collaboration-for-covid-19-vaccine",
-        "anchor_text": "Read more",
-        "score": 117
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentwho-pre-qualification-pq-of-pentavalent-vaccine-easyfive-tt-dtwp-hepb-hib-for-panacea-biotec",
-        "anchor_text": "Read more",
-        "score": 117
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-reports-impressive-financial-results-for-the-quarter-year-ended-march-31-2011",
-        "anchor_text": "Read more",
-        "score": 117
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-reports-financial-results-for-the-quarter-nine-months-ended-december-31-2011",
-        "anchor_text": "Read more",
-        "score": 116
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentobtains-patent-for-extended-release-pharmaceutical-composition-containing-nimesulide-willgo",
-        "anchor_text": "Read more",
-        "score": 116
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-introduces-fully-liquid-tetravalent-vaccine-easyfour-tt-against-dtp-and-hib",
-        "anchor_text": "Read more",
-        "score": 115
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentannounces-establishment-inspection-report-usfda-for-its-pharmaceutical-facilities-at-baddi",
-        "anchor_text": "Read more",
-        "score": 115
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-collaboration-with-a-leading-international-pharmaceutical-company",
-        "anchor_text": "Read more",
-        "score": 115
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-reports-financial-results-for-the-quarter-half-year-ended-september-30-2011",
-        "anchor_text": "Read more",
-        "score": 115
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-receives-usd-24.32-million-award-of-pentavalent-vaccine-from-u.n.-agencies",
-        "anchor_text": "Read more",
-        "score": 114
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentinaugurates-pharmaceutical-formulations-facility-at-baddi-new-marketing-office-at-mumbai",
-        "anchor_text": "Read more",
-        "score": 113
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-celebrates-63rd-indian-republic-day-with-launch-of-polprotec-in-nigeria",
-        "anchor_text": "Read more",
-        "score": 111
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-landmark-collaboration-with-the-nederlands-vaccin-instituut",
-        "anchor_text": "Read more",
-        "score": 109
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-reports-excellent-financial-results-for-quarter-ended-june-2006",
-        "anchor_text": "Read more",
-        "score": 103
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentthank-od-and-its-combinations-will-now-be-available-under-trademark-of-sitcom",
-        "anchor_text": "Read more",
-        "score": 102
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentprestigious-intellectual-property-science-award-top-50-indian-innovators-2015",
-        "anchor_text": "Read more",
-        "score": 102
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contententers-into-agreement-with-punjab-university-to-develop-new-chemical-entities",
-        "anchor_text": "Read more",
-        "score": 102
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-and-apotex-inc.expand-collaboration-to-lunch-prasugrel-in-usa",
-        "anchor_text": "Read more",
-        "score": 101
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentannounces-anda-approval-us-market-lta-award-pentavalent-vaccine-easyfive-tt",
-        "anchor_text": "Read more",
-        "score": 100
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-reports-financial-results-for-the-quarter-ended-june-30-2011",
-        "anchor_text": "Read more",
-        "score": 100
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-eyes-$1%E2%80%8A-billion-hexavalent-vaccine-%E2%80%8Amarket",
-        "anchor_text": "Read more",
-        "score": 99
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentrenforcer-la-sant%C3%A9-publique-%C3%A0-travers-la-r%C3%A9gion-africaine",
-        "anchor_text": "Read more",
-        "score": 97
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentvilact-for-treatment-of-uncontrolled-type-2-diabetes-mellitus-patients",
-        "anchor_text": "Read more",
-        "score": 95
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-collaboration-with-rising-pharmaceuticals-inc",
-        "anchor_text": "Read more",
-        "score": 95
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-inaugurates-pharmaceutical-formulation-plant-at-baddi",
-        "anchor_text": "Read more",
-        "score": 93
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-receipt-of-manufacturing-license-to-produce-sputnik-v",
-        "anchor_text": "Read more",
-        "score": 92
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentrdif-and-panacea-biotec-launch-the-production-of-sputnik-v-in-india",
-        "anchor_text": "Read more",
-        "score": 92
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentcapacitar-a-sa%C3%BAde-p%C3%BAblica-em-toda-a-regi%C3%A3o-africana",
-        "anchor_text": "Read more",
-        "score": 91
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-joint-collaboration-with-bionpharma-inc.",
-        "anchor_text": "Read more",
-        "score": 90
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-empowering-public-health-across-the-african-region",
-        "anchor_text": "Read more",
-        "score": 89
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-redeems-foreign-currency-convertible-bonds-fccbs",
-        "anchor_text": "Read more",
-        "score": 88
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentguardians-of-global-health:-leading-vaccine-innovators-of-2025",
-        "anchor_text": "Read more",
-        "score": 87
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-pioneers-development-of-dengue-vaccine-in-india",
-        "anchor_text": "Read more",
-        "score": 87
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-announces-strategic-alliance-with-apotex-inc",
-        "anchor_text": "Read more",
-        "score": 84
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-signs-agreement-with-laboratories-clausen-sa",
-        "anchor_text": "Read more",
-        "score": 84
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-to-launch-7-ant-cancer-drugs-june-28,-2007",
-        "anchor_text": "Read more",
-        "score": 82
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentexcellent-financial-results-for-quarter-nine-months-ended",
-        "anchor_text": "Read more",
-        "score": 82
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentexcellent-financial-results-for-quarter-half-year-ended",
-        "anchor_text": "Read more",
-        "score": 80
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-raises-us-100-million-via-fccb-issue",
-        "anchor_text": "Read more",
-        "score": 76
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentcis-mintaqasida-jamoat-salomatligini-mustahkamlash",
-        "anchor_text": "Read more",
-        "score": 75
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentannounces-launch-of-prasugrel-tablets-in-us-market",
-        "anchor_text": "Read more",
-        "score": 75
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpressrelease-transfer-of-pharma-business-05022020",
-        "anchor_text": "Read more",
-        "score": 74
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release-launch-of-niko-mom-baby-skin-care",
-        "anchor_text": "Read more",
-        "score": 72
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentempowering-public-health-across-the-cis-region",
-        "anchor_text": "Read more",
-        "score": 71
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentvaccine-easysixtm-for-six-preventable-diseases",
-        "anchor_text": "Read more",
-        "score": 71
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentlifesavingdrugd-penicillamineipwilsonsdisease",
-        "anchor_text": "Read more",
-        "score": 70
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-forays-into-cancer-treatment-",
-        "anchor_text": "Read more",
-        "score": 69
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contenthistoric-deal-panacea-serum-easysix-vaccine",
-        "anchor_text": "Read more",
-        "score": 68
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentannoucement-of-key-managerial-appointments",
-        "anchor_text": "Read more",
-        "score": 67
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpanacea-biotec-q-3-net-profit-zooms-by-81",
-        "anchor_text": "Read more",
-        "score": 66
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentdengue-tetravalent-vaccine-agreement",
-        "anchor_text": "Read more",
-        "score": 61
-      },
-      {
         "url": "https://www.panaceabiotec.com/en/section/adverse-event-reporting",
         "anchor_text": "Report Adverse Event (दवाईओं की सुरक्षा रिपोर्टिंग)",
         "score": 51
@@ -22372,11 +22178,6 @@
         "url": "https://www.panaceabiotec.com/en/content/about-panacea-biotec",
         "anchor_text": "About Us",
         "score": 48
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpress-release30062019",
-        "anchor_text": "Read more",
-        "score": 46
       },
       {
         "url": "https://www.panaceabiotec.com/en/content/our-privacy-policy",
@@ -22397,11 +22198,6 @@
         "url": "https://www.panaceabiotec.com/en/section/contact-us",
         "anchor_text": "Contact Us",
         "score": 38
-      },
-      {
-        "url": "https://www.panaceabiotec.com/en/contentpr09032018",
-        "anchor_text": "Read more",
-        "score": 25
       },
       {
         "url": "https://www.panaceabiotec.com/en/section/career",
@@ -22883,6 +22679,357 @@
         "url": "https://sunpharma.com/",
         "anchor_text": "",
         "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Aurobindo Pharma",
+    "press_url": "https://www.aurobindo.com/media/press-releases",
+    "candidate_links": [
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
+        "anchor_text": "Notice of Board Meetings",
+        "score": 106
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
+        "anchor_text": "Disclosures under Regulation 46 of the LODR",
+        "score": 102
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
+        "anchor_text": "General Meetings",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
+        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
+        "score": 100
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
+        "anchor_text": "Special window for lodgement of physical shares",
+        "score": 98
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
+        "anchor_text": "Annual Reports",
+        "score": 97
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
+        "anchor_text": "Supplier Code of Conduct",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
+        "anchor_text": "Appointment and Resignation of Directors",
+        "score": 88
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
+        "anchor_text": "Registrar and Share Transfer Agent",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
+        "anchor_text": "Contact Details for Investor Grievance Redressal",
+        "score": 85
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
+        "anchor_text": "Human Rights Policy",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
+        "anchor_text": "Related Party Transactions",
+        "score": 83
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
+        "anchor_text": "Financials - Subsidiaries",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
+        "anchor_text": "Unpaid Dividend Account Details",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
+        "anchor_text": "Contact Details of KMPs",
+        "score": 82
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
+        "anchor_text": "Shareholding Pattern",
+        "score": 79
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
+        "anchor_text": "Results Announcements",
+        "score": 78
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
+        "anchor_text": "Code of Conduct",
+        "score": 74
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
+        "anchor_text": "Scheme of Arrangements",
+        "score": 73
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
+        "anchor_text": "Sustainability Reports",
+        "score": 72
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
+        "anchor_text": "Financial Highlights",
+        "score": 71
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
+        "anchor_text": "Impact Assessment Reports - CSR Projects",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
+        "anchor_text": "Buyback of shares",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
+        "anchor_text": "Share Performance",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
+        "anchor_text": "IR Contacts",
+        "score": 68
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
+        "anchor_text": "PEPFAR program",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
+        "anchor_text": "Dividend Record",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
+        "anchor_text": "Governance Policies",
+        "score": 67
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 66
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
+        "anchor_text": "BMW Reports",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
+        "anchor_text": "Supply Chain Management",
+        "score": 61
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
+        "anchor_text": "Board of Directors",
+        "score": 55
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
+        "anchor_text": "Key facts about HIV/AIDS",
+        "score": 51
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
+        "anchor_text": "Aurobindo Pharma Foundation",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
+        "anchor_text": "Access to Healthcare",
+        "score": 50
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
+        "anchor_text": "Global Partners",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
+        "anchor_text": "Corporate Video",
+        "score": 49
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
+        "anchor_text": "Annual Action Plan",
+        "score": 48
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
+        "anchor_text": "Annual Report",
+        "score": 47
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
+        "anchor_text": "Manufacturing",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
+        "anchor_text": "Gallery",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/investors/corporate-governance",
+        "anchor_text": "Corporate Governance",
+        "score": 45
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/overview",
+        "anchor_text": "Overview",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/arv/products",
+        "anchor_text": "Products",
+        "score": 42
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/growth-market",
+        "anchor_text": "Growth Markets",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
+        "anchor_text": "Gallery",
+        "score": 41
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability/csr-policy",
+        "anchor_text": "CSR Policy",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
+        "anchor_text": "Life @ Aurobindo",
+        "score": 40
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
+        "anchor_text": "About Us",
+        "score": 39
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/vision-mission",
+        "anchor_text": "Vision / Mission",
+        "score": 38
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/our-presence",
+        "anchor_text": "",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/apitoria",
+        "anchor_text": "Apitoria (API)",
+        "score": 36
+      },
+      {
+        "url": "https://www.aurobindo.com/media/press-releases",
+        "anchor_text": "I Accept",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/curateq",
+        "anchor_text": "Curateq (Biosimilars) / Peptide",
+        "score": 35
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/europe",
+        "anchor_text": "Europe",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/media/corporate-kit",
+        "anchor_text": "Corporate Kit",
+        "score": 34
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/milestone",
+        "anchor_text": "Milestones",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business/eugia",
+        "anchor_text": "Eugia (Speciality products)",
+        "score": 33
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/privacy-policy#cookies",
+        "anchor_text": "Cookie policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.aurobindo.com/about-us/rd",
+        "anchor_text": "R&D",
+        "score": 26
+      },
+      {
+        "url": "https://www.aurobindo.com/our-business",
+        "anchor_text": "Our Business",
+        "score": 25
+      },
+      {
+        "url": "https://www.aurobindo.com/contact-us",
+        "anchor_text": "Contact Us",
+        "score": 23
+      },
+      {
+        "url": "https://www.aurobindo.com/sustainability",
+        "anchor_text": "Sustainability",
+        "score": 17
+      },
+      {
+        "url": "https://www.aurobindo.com/sitemap.xml",
+        "anchor_text": "Site Map",
+        "score": 14
+      },
+      {
+        "url": "https://www.aurobindo.com/investors",
+        "anchor_text": "Investors",
+        "score": 12
+      },
+      {
+        "url": "https://www.aurobindo.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://www.aurobindo.com/",
+        "anchor_text": "",
+        "score": 3
+      },
+      {
+        "url": "https://www.aurobindo.com",
+        "anchor_text": "Aurobindo Pharma Limited.",
+        "score": 0
       }
     ]
   },
@@ -24874,6 +25021,11 @@
         "score": 249
       },
       {
+        "url": "https://newsroom.viatris.com/2026-06-29-Viatris-Announces-Positive-Top-Line-Results-from-Phase-3-Study-of-VR-205-in-Japanese-Adults-with-Primary-Immunoglobulin-A-Nephropathy",
+        "anchor_text": "",
+        "score": 157
+      },
+      {
         "url": "https://newsroom.viatris.com/2026-04-10-Viatris-Announces-Multiple-Data-Presentations-at-the-2026-American-Society-of-Cataract-and-Refractive-Surgery-Annual-Meeting",
         "anchor_text": "",
         "score": 148
@@ -24887,11 +25039,6 @@
         "url": "https://newsroom.viatris.com/2026-05-18-U-S-FDA-Accepts-Viatris-New-Drug-Application-for-Fast-Acting-Meloxicam-for-the-Treatment-of-Moderate-to-Severe-Acute-Pain",
         "anchor_text": "",
         "score": 145
-      },
-      {
-        "url": "https://newsroom.viatris.com/2026-03-19-Viatris-to-Outline-its-Vision-for-Sustained-Revenue-and-Earnings-Growth-Through-2030",
-        "anchor_text": "",
-        "score": 108
       },
       {
         "url": "https://newsroom.viatris.com/2026-05-07-Viatris-to-Present-at-the-Bank-of-America-Securities-2026-Healthcare-Conference",
@@ -26402,6 +26549,11 @@
     "press_url": "https://www.wuxibiologics.com/media",
     "candidate_links": [
       {
+        "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-receives-brazil-anvisa-gmp-certification-to-enable-global-commercial-manufacturing-of-innovative-cancer-immunotherapy/",
+        "anchor_text": "NewsJun. 30, 2026WuXi Biologics Receives Brazil ANVISA GMP Certification to Enable Global Commercial Manufacturing of Innovative Cancer Immunotherapy",
+        "score": 164
+      },
+      {
         "url": "https://www.wuxibiologics.com/press-release/2026-summer-davos-wuxi-biologics-ceo-dr-chris-chen-empowering-client-growth-and-unlocking-the-business-value-through-green-crdmo/",
         "anchor_text": "NewsJun. 26, 20262026 Summer Davos | WuXi Biologics CEO Dr. Chris Chen: Empowering Client Growth and Unlocking the Business Value through Green CRDMO",
         "score": 160
@@ -26410,11 +26562,6 @@
         "url": "https://www.wuxibiologics.com/press-release/wuxi-biologics-25th-drug-substance-facility-completes-first-gmp-production-manufacturing-process-execution-with-zero-deviations/",
         "anchor_text": "NewsJun. 24, 2026WuXi Biologics’ 25th Drug Substance Facility Completes First GMP Production, Manufacturing Process Execution with Zero Deviations",
         "score": 159
-      },
-      {
-        "url": "https://www.wuxibiologics.com/wuxi-biologics-suzhou-biosafety-testing-center-received-fourth-ema-gmp-certification-enabling-19-commercial-products-for-the-european-market/",
-        "anchor_text": "NewsJun. 18, 2026WuXi Biologics’ Suzhou Biosafety Testing Center Received Fourth EMA GMP Certification, Enabling 19 Commercial Products for the European Market",
-        "score": 156
       },
       {
         "url": "https://www.wuxibiologics.com/production-systems/mammalian-derived-product-services/recombinant-proteins-enzymes-cytokines/",
@@ -33386,6 +33533,11 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
+        "anchor_text": "FDA Grants Priority Review To Genentech’s Application for Enspryng, the First and Only At-Home Subcutaneous Treatment Option for Thyroid Eye Disease (TED)",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15117/2026-06-17/fda-accepts-supplemental-biologics-licen",
         "anchor_text": "FDA Accepts Supplemental Biologics License Application for Genentech’s Lunsumio and Polivy Combination for People With Relapsed or Refractory Large B-Cell Lymphoma",
         "score": 99
@@ -33503,11 +33655,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15093/2025-12-10/genentechs-giredestrant-reduced-risk-of-",
         "anchor_text": "Genentech’s Giredestrant Reduced Risk of Invasive Disease Recurrence or Death by 30% in ER-Positive Early-Stage Breast Cancer",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15091/2025-12-08/genentech-presents-lunsumio-data-showing",
-        "anchor_text": "Genentech Presents Lunsumio Data Showing Potential Across Earlier Treatment Lines in Indolent and Aggressive Lymphomas",
         "score": 99
       },
       {
@@ -35947,6 +36094,11 @@
         "score": 50
       },
       {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-06-30",
+        "anchor_text": "FDA grants Priority Review to Roche’s Enspryng, the first and only at-home subcutaneous treatment option for thyroid eye disease (TED)June 30, 2026",
+        "score": 50
+      },
+      {
         "url": "https://www.roche.com/media/releases/med-cor-2026-06-29",
         "anchor_text": "Roche announces the launch of AXELIOS 1, a transformative next-generation sequencing platformJune 29, 2026",
         "score": 50
@@ -35989,11 +36141,6 @@
       {
         "url": "https://www.roche.com/media/releases/med-cor-2026-05-19",
         "anchor_text": "Roche to present new data at ASCO 2026, reinforcing giredestrant's potential to transform the treatment paradigm in early breast cancerMay 19, 2026",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-05-12",
-        "anchor_text": "Roche receives CE mark for new blood test to detect Alzheimer's pathology: Elecsys® plasma phosphorylated-tau 217 (pTau217)May 12, 2026",
         "score": 50
       },
       {
@@ -36203,7 +36350,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price336.30CHF+ 0.30(+0.09%)Today",
+        "anchor_text": "Share price336.80CHF- 2.00(-0.59%)Today",
         "score": 20
       },
       {
@@ -36864,11 +37011,6 @@
         "score": 201
       },
       {
-        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-launches-velys-hip-navigation-with-ai-to-support-intraoperative-consistency-and-efficiency-in-total-hip-arthroplasty",
-        "anchor_text": "Read more",
-        "score": 175
-      },
-      {
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-cardiac-ablation-technology-in-europe-with-availability-of-dual-energy-thermocool-smarttouch-sf-platform",
         "anchor_text": "Read more",
         "score": 174
@@ -36892,6 +37034,11 @@
         "url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-highlights-positive-results-from-membrane-trial-published-in-jama-neurology",
         "anchor_text": "Read more",
         "score": 136
+      },
+      {
+        "url": "https://www.jnj.com/media-center/press-releases/depuy-synthes-appoints-christina-zamarro-as-chief-financial-officer",
+        "anchor_text": "Read more",
+        "score": 112
       },
       {
         "url": "https://www.jnj.com/our-societal-impact/global-environmental-sustainability",
@@ -37461,6 +37608,11 @@
         "score": 176
       },
       {
+        "url": "https://news.abbvie.com/2026-06-29-AbbVie-Announces-Positive-Phase-3-Results-for-Epcoritamab-Plus-Lenalidomide-in-Patients-with-Relapsed-or-Refractory-Diffuse-Large-B-Cell-Lymphoma",
+        "anchor_text": "AbbVie Announces Positive Phase 3 Results for Epcoritamab Plus Lenalidomide in Patients with Relapsed or Refractory Diffuse Large B-Cell Lymphoma",
+        "score": 169
+      },
+      {
         "url": "https://news.abbvie.com/2026-06-29-AbbVie-Receives-Positive-CHMP-Opinion-for-Upadacitinib-RINVOQ-R-for-the-Treatment-of-Adults-and-Adolescents-with-Severe-Alopecia-Areata",
         "anchor_text": "AbbVie Receives Positive CHMP Opinion for Upadacitinib (RINVOQ®) for the Treatment of Adults and Adolescents with Severe Alopecia Areata",
         "score": 159
@@ -37499,11 +37651,6 @@
         "url": "https://news.abbvie.com/2026-06-26-AbbVie-to-Host-Second-Quarter-2026-Earnings-Conference-Call",
         "anchor_text": "AbbVie to Host Second-Quarter 2026 Earnings Conference Call",
         "score": 83
-      },
-      {
-        "url": "https://news.abbvie.com/2026-06-18-AbbVie-Declares-Quarterly-Dividend",
-        "anchor_text": "AbbVie Declares Quarterly Dividend",
-        "score": 58
       },
       {
         "url": "https://news.abbvie.com/pr-contacts/",
@@ -37727,13 +37874,13 @@
         "score": 113
       },
       {
-        "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/giving-in-africa",
-        "anchor_text": "Giving in Africa",
+        "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/sponsorship-faqs",
+        "anchor_text": "Sponsorship FAQs",
         "score": 111
       },
       {
-        "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/sponsorship-faqs",
-        "anchor_text": "Sponsorship FAQs",
+        "url": "https://www.gilead.com/responsibility/giving-at-gilead/corporate-giving/how-to-apply-for-funding/giving-in-africa",
+        "anchor_text": "Giving in Africa",
         "score": 111
       },
       {
@@ -38052,13 +38199,13 @@
         "score": 59
       },
       {
-        "url": "https://www.gilead.com/company/board-of-directors/sandra-horning",
-        "anchor_text": "Sandra J. Horning, MD",
+        "url": "https://www.gilead.com/company/board-of-directors/harish-manwani",
+        "anchor_text": "Harish Manwani",
         "score": 58
       },
       {
-        "url": "https://www.gilead.com/company/board-of-directors/harish-manwani",
-        "anchor_text": "Harish Manwani",
+        "url": "https://www.gilead.com/company/board-of-directors/sandra-horning",
+        "anchor_text": "Sandra J. Horning, MD",
         "score": 58
       },
       {
@@ -43844,6 +43991,11 @@
     "press_url": "https://insilico.com/news",
     "candidate_links": [
       {
+        "url": "https://insilico.com/news/tt2t6rbzr1-insilico-medicine-caps-monumental-week-a",
+        "anchor_text": "Insilico Medicine caps monumental week at BIO 2026: Secures landmark $2.5B partnership and dominates thought leadership",
+        "score": 71
+      },
+      {
         "url": "https://insilico.com/news/fzshrjdhj1-pharmaai-summer-update-preview-drive-the",
         "anchor_text": "Pharma.AI Summer Update Preview: Drive the future of pharmaceutical intelligence",
         "score": 71
@@ -43861,11 +44013,6 @@
       {
         "url": "https://insilico.com/news/ps2bndbh61-insilico-medicine-and-human-longevity-an",
         "anchor_text": "Insilico Medicine and Human Longevity Announce Collaboration to Co-Develop Industry-First AI Foundation Model for Longevity Science",
-        "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/f8il5i2j91-insilico-medicine-and-saudi-aramco-intro",
-        "anchor_text": "Insilico Medicine and Saudi Aramco Introduce the “Sanity Pipeline” to Advance AI-driven Discovery of MOFs",
         "score": 71
       },
       {
@@ -44168,6 +44315,147 @@
       {
         "url": "https://numerionlabs.ai/",
         "anchor_text": "Home",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Generate Biomedicines",
+    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+    "candidate_links": [
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
+        "score": 110
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
+        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
+        "score": 99
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
+        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
+        "score": 93
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
+        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
+        "score": 75
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
+        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
+        "score": 64
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
+        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
+        "score": 56
+      },
+      {
+        "url": "https://generatebiomedicines.com/generative-biology",
+        "anchor_text": "Generative Biology®",
+        "score": 31
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
+        "anchor_text": "News Releases",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
+        "anchor_text": "Skip to content",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
+        "anchor_text": "Skip to navigation",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type",
+        "anchor_text": "Overview",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
+        "anchor_text": "Blog Posts",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
+        "anchor_text": "Media Highlights",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
+        "anchor_text": "Presentations & Publications",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
+        "anchor_text": "Next Page",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
+        "anchor_text": "4",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
+        "anchor_text": "5",
+        "score": 30
+      },
+      {
+        "url": "https://generatebiomedicines.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://generatebiomedicines.com/terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center",
+        "anchor_text": "Media Center",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
+        "anchor_text": "1",
+        "score": 25
+      },
+      {
+        "url": "https://generatebiomedicines.com/about-us",
+        "anchor_text": "About Us",
+        "score": 21
+      },
+      {
+        "url": "https://generatebiomedicines.com/platform",
+        "anchor_text": "The Generate Platform™",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/pipeline",
+        "anchor_text": "Pipeline",
+        "score": 11
+      },
+      {
+        "url": "https://generatebiomedicines.com/careers",
+        "anchor_text": "Careers",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/contact",
+        "anchor_text": "",
+        "score": 10
+      },
+      {
+        "url": "https://generatebiomedicines.com/",
+        "anchor_text": "",
         "score": 3
       }
     ]
@@ -44890,6 +45178,11 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15118/2026-06-29/fda-grants-priority-review-to-genentechs",
+        "anchor_text": "FDA Grants Priority Review To Genentech’s Application for Enspryng, the First and Only At-Home Subcutaneous Treatment Option for Thyroid Eye Disease (TED)",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15117/2026-06-17/fda-accepts-supplemental-biologics-licen",
         "anchor_text": "FDA Accepts Supplemental Biologics License Application for Genentech’s Lunsumio and Polivy Combination for People With Relapsed or Refractory Large B-Cell Lymphoma",
         "score": 99
@@ -45007,11 +45300,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15093/2025-12-10/genentechs-giredestrant-reduced-risk-of-",
         "anchor_text": "Genentech’s Giredestrant Reduced Risk of Invasive Disease Recurrence or Death by 30% in ER-Positive Early-Stage Breast Cancer",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15091/2025-12-08/genentech-presents-lunsumio-data-showing",
-        "anchor_text": "Genentech Presents Lunsumio Data Showing Potential Across Earlier Treatment Lines in Indolent and Aggressive Lymphomas",
         "score": 99
       },
       {
@@ -49249,6 +49537,11 @@
         "score": 52
       },
       {
+        "url": "https://www.sumitomo-pharma.com/ir/library/financial_results_summary/",
+        "anchor_text": "Consolidated Financial Statements for Years ended March 31, 2026 and 2025",
+        "score": 46
+      },
+      {
         "url": "https://www.sumitomo-pharma.com/sustainability/healthcare_innovation/",
         "anchor_text": "Promoting Healthcare Innovation",
         "score": 44
@@ -49486,11 +49779,6 @@
       {
         "url": "https://www.sumitomo-pharma.com/news/20260325.html",
         "anchor_text": "Notice Concerning Non-operating Income Recorded in the Company’s Non-consolidated Financial Statements (Japanese GAAP)",
-        "score": 23
-      },
-      {
-        "url": "https://www.sumitomo-pharma.com/news/20260306.html",
-        "anchor_text": "Announcement on the Approval for Manufacturing and Marketing Authorization of the Allogeneic iPS Cell-Derived Dopaminergic Neural Progenitor Cell Product “AMCHEPRY” in Japan",
         "score": 23
       },
       {
@@ -51237,6 +51525,16 @@
         "score": 56
       },
       {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260630170000_1260.html?year=2026&category=",
+        "anchor_text": "Roche’s Announcement Regarding Enspryng (FDA Accepts Application for Thyroid Eye Disease)",
+        "score": 53
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260630153000_1259.html?year=2026&category=",
+        "anchor_text": "Launch of Joint Research Using Real-World Data and Generative AI (LLM) to Improve the Accuracy and Efficiency of Identifying Candidate Patients for Clinical Trials",
+        "score": 53
+      },
+      {
         "url": "https://www.chugai-pharm.co.jp/english/news/detail/20260619153002_1258.html?year=2026&category=",
         "anchor_text": "Chugai Files New Drug Application in Japan for Sparsentan for the Treatment of IgA Nephropathy",
         "score": 53
@@ -51689,6 +51987,16 @@
       {
         "url": "https://www.chugai-pharm.co.jp/english/innovation/",
         "anchor_text": "Innovation",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260630_eEnspryng_TED_FDA.pdf&src=[%0],[%1]&rep=130,1260",
+        "anchor_text": "[PDF\n                            105KB]",
+        "score": 26
+      },
+      {
+        "url": "https://www.chugai-pharm.co.jp/news/cont_file_dl.php?f=260630_eJoint+research+on+patient+selection+for+clinical+trial+candidates.pdf&src=[%0],[%1]&rep=130,1259",
+        "anchor_text": "[PDF\n                            268KB]",
         "score": 26
       },
       {
@@ -55498,8 +55806,8 @@
         "score": 31
       },
       {
-        "url": "https://ir.discmedicine.com/news-releases#lfg-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://ir.discmedicine.com/news-releases#main-menu",
+        "anchor_text": "Skip to main navigation",
         "score": 26
       },
       {
@@ -61475,6 +61783,22 @@
     ]
   },
   {
+    "company": "Apic Bio",
+    "press_url": "https://apicbio.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://apicbio.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://apicbio.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
+      }
+    ]
+  },
+  {
     "company": "Asimov",
     "press_url": "https://www.asimov.com/news/",
     "candidate_links": [
@@ -62972,6 +63296,332 @@
       },
       {
         "url": "https://www.exscientia.ai/",
+        "anchor_text": "",
+        "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Chemspace",
+    "press_url": "https://chem-space.com/news",
+    "candidate_links": [
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/integrated-discovery-services",
+        "anchor_text": "Integration Solutions",
+        "score": 63
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/fragment-based-drug-discovery",
+        "anchor_text": "Fragment-based Drug Discovery",
+        "score": 63
+      },
+      {
+        "url": "https://chem-space.com/news/phenotypic-screening-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 58
+      },
+      {
+        "url": "https://chem-space.com/news/cell-based-assays-for-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 56
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-alipheron-freedom-spacce-5",
+        "anchor_text": "Read more",
+        "score": 56
+      },
+      {
+        "url": "https://chem-space.com/news/pharmacology-in-drug-development",
+        "anchor_text": "Read more",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/news/chemical-space-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/del-ml-cs-approach",
+        "anchor_text": "DEL-ML",
+        "score": 52
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-article-benchmark",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-target-identification",
+        "anchor_text": "Read more",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro/molecular-docking",
+        "anchor_text": "Molecular Docking",
+        "score": 51
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas/compound-management",
+        "anchor_text": "Compound Management",
+        "score": 50
+      },
+      {
+        "url": "https://chem-space.com/news/israel-conference-announcement",
+        "anchor_text": "Read more",
+        "score": 50
+      },
+      {
+        "url": "https://chem-space.com/news/automation-in-drug-discovery",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/trillion-scale-online-search",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/biologics-for-research-stat6",
+        "anchor_text": "Read more",
+        "score": 48
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-new-version",
+        "anchor_text": "Read more",
+        "score": 45
+      },
+      {
+        "url": "https://chem-space.com/news/control-in-an-experiment",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-askcos-webinar",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/news/antibodies-special-offer",
+        "anchor_text": "Read more",
+        "score": 44
+      },
+      {
+        "url": "https://chem-space.com/ai-supported-focused-libraries",
+        "anchor_text": "AI-Supported Focused Libraries",
+        "score": 43
+      },
+      {
+        "url": "https://chem-space.com/news/freedom-space-biosolve",
+        "anchor_text": "Read more",
+        "score": 42
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-pharmacelera",
+        "anchor_text": "Read more",
+        "score": 42
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-bld-catalog",
+        "anchor_text": "Read more",
+        "score": 41
+      },
+      {
+        "url": "https://chem-space.com/news/ambeed-catalog-update",
+        "anchor_text": "Read more",
+        "score": 41
+      },
+      {
+        "url": "https://chem-space.com/news/opendel-discounts",
+        "anchor_text": "Read more",
+        "score": 37
+      },
+      {
+        "url": "https://chem-space.com/news/molecule-to-watch",
+        "anchor_text": "Read more",
+        "score": 37
+      },
+      {
+        "url": "https://chem-space.com/news/chemspace-askcos",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://chem-space.com/news/christmas-delays",
+        "anchor_text": "Read more",
+        "score": 36
+      },
+      {
+        "url": "https://chem-space.com/promotional-materials",
+        "anchor_text": "Promo materials",
+        "score": 34
+      },
+      {
+        "url": "https://chem-space.com/news/what-is-dmpk",
+        "anchor_text": "Read more",
+        "score": 32
+      },
+      {
+        "url": "https://chem-space.com/drug-discovery-cro",
+        "anchor_text": "Discovery CRO",
+        "score": 31
+      },
+      {
+        "url": "https://chem-space.com/news/ligand-ai",
+        "anchor_text": "Read more",
+        "score": 29
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas",
+        "anchor_text": "Integration Solutions",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas#custom-features",
+        "anchor_text": "Custom Features",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/purchasing-saas#integrated-procurement",
+        "anchor_text": "Integrated Procurement",
+        "score": 28
+      },
+      {
+        "url": "https://chem-space.com/news/page-39",
+        "anchor_text": "39",
+        "score": 27
+      },
+      {
+        "url": "https://chem-space.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://chem-space.com/freedom-space",
+        "anchor_text": "Freedom Space 5.0",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-2",
+        "anchor_text": "2",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-3",
+        "anchor_text": "3",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-4",
+        "anchor_text": "4",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/news/page-5",
+        "anchor_text": "5",
+        "score": 26
+      },
+      {
+        "url": "https://chem-space.com/sds-coa",
+        "anchor_text": "SDS/CoA",
+        "score": 20
+      },
+      {
+        "url": "https://chem-space.com/user/register",
+        "anchor_text": "I need to register",
+        "score": 18
+      },
+      {
+        "url": "https://chem-space.com/user/forgot",
+        "anchor_text": "I forgot password",
+        "score": 16
+      },
+      {
+        "url": "https://chem-space.com/publications",
+        "anchor_text": "Publications",
+        "score": 15
+      },
+      {
+        "url": "https://chem-space.com/user/login",
+        "anchor_text": "Sign in",
+        "score": 15
+      },
+      {
+        "url": "https://chem-space.com/biologics",
+        "anchor_text": "Biologics",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/compounds",
+        "anchor_text": "Compound sets",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/tutorials",
+        "anchor_text": "Tutorials",
+        "score": 12
+      },
+      {
+        "url": "https://chem-space.com/supplier",
+        "anchor_text": "Suppliers",
+        "score": 11
+      },
+      {
+        "url": "https://chem-space.com/contacts",
+        "anchor_text": "Contacts",
+        "score": 11
+      },
+      {
+        "url": "https://chem-space.com/search",
+        "anchor_text": "Chemical search",
+        "score": 9
+      },
+      {
+        "url": "https://chem-space.com/events",
+        "anchor_text": "Events",
+        "score": 9
+      },
+      {
+        "url": "https://chem-space.com/about",
+        "anchor_text": "About us",
+        "score": 8
+      },
+      {
+        "url": "https://chem-space.com/terms",
+        "anchor_text": "Terms and Conditions",
+        "score": 8
+      },
+      {
+        "url": "https://chem-space.com/news#login-modal",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/sale",
+        "anchor_text": "Sale %",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news#Enquire",
+        "anchor_text": "",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/cart",
+        "anchor_text": "0",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/news?currency=eur",
+        "anchor_text": "eur",
+        "score": 7
+      },
+      {
+        "url": "https://chem-space.com/",
         "anchor_text": "",
         "score": 3
       }
@@ -69933,6 +70583,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -70024,11 +70679,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -70339,7 +70989,7 @@
       },
       {
         "url": "https://www.sanofi.com/en/our-company/sustainability",
-        "anchor_text": "Sustainability",
+        "anchor_text": "Social Impact",
         "score": 46
       },
       {
@@ -70747,6 +71397,22 @@
         "url": "https://www.zealandpharma.com/",
         "anchor_text": "Continue to external site",
         "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Aerpio Pharmaceuticals",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://aerpio.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://aerpio.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
       }
     ]
   },
@@ -71208,6 +71874,22 @@
     ]
   },
   {
+    "company": "Aerpio",
+    "press_url": "https://aerpio.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://aerpio.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://aerpio.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
+      }
+    ]
+  },
+  {
     "company": "Juvena Therapeutics",
     "press_url": "https://www.juvenatherapeutics.com/news/",
     "candidate_links": [
@@ -71611,6 +72293,22 @@
         "url": "https://www.calicolabs.com/",
         "anchor_text": "Calico",
         "score": 3
+      }
+    ]
+  },
+  {
+    "company": "Change Bioscience",
+    "press_url": "https://changebioscience.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://changebioscience.com/news/#main",
+        "anchor_text": "Skip to main content",
+        "score": 10
+      },
+      {
+        "url": "https://changebioscience.com/news/",
+        "anchor_text": "How do I keep my personal information private?",
+        "score": 10
       }
     ]
   },
@@ -73459,6 +74157,11 @@
     "press_url": "https://www.sanofi.com/en/media-room/press-releases",
     "candidate_links": [
       {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-30-05-00-00-3319382",
+        "anchor_text": "Read the Press Release",
+        "score": 107
+      },
+      {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-06-25-06-00-00-3317281",
         "anchor_text": "Read the Press Release",
         "score": 107
@@ -73550,11 +74253,6 @@
       },
       {
         "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-05-00-3278650",
-        "anchor_text": "Read the Press Release",
-        "score": 107
-      },
-      {
-        "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-04-22-05-00-00-3278646",
         "anchor_text": "Read the Press Release",
         "score": 107
       },
@@ -73865,7 +74563,7 @@
       },
       {
         "url": "https://www.sanofi.com/en/our-company/sustainability",
-        "anchor_text": "Sustainability",
+        "anchor_text": "Social Impact",
         "score": 46
       },
       {
@@ -74643,12 +75341,12 @@
       },
       {
         "url": "https://affiniatx.com/aftx-201/",
-        "anchor_text": "UPBEAT Trial: AFTX-201 in BAG3 DCM",
+        "anchor_text": "AFTX-201 in BAG3 DCM",
         "score": 24
       },
       {
         "url": "https://affiniatx.com/bag3-dcm/",
-        "anchor_text": "For People with BAG3 DCM",
+        "anchor_text": "For People with BAG3 DCM: The UPBEAT trial",
         "score": 24
       },
       {
@@ -75191,18 +75889,13 @@
     "candidate_links": []
   },
   {
-    "company": "Vimta Labs",
-    "press_url": "https://vimta.com/investors/announcements/",
+    "company": "AdametNext",
+    "press_url": "https://adametnext.com/blog/",
     "candidate_links": []
   },
   {
     "company": "T-Hub",
     "press_url": "https://t-hub.co/media/",
-    "candidate_links": []
-  },
-  {
-    "company": "Unilabs",
-    "press_url": "https://unilabs.com/news/",
     "candidate_links": []
   },
   {
@@ -75683,357 +76376,6 @@
         "url": "https://www.cipla.com/",
         "anchor_text": "Our Presence",
         "score": 3
-      }
-    ]
-  },
-  {
-    "company": "Aurobindo Pharma",
-    "press_url": "https://www.aurobindo.com/media/press-releases",
-    "candidate_links": [
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/notice-of-board-meeting",
-        "anchor_text": "Notice of Board Meetings",
-        "score": 106
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/disclosures-under-regulation-46-of-the-lodr",
-        "anchor_text": "Disclosures under Regulation 46 of the LODR",
-        "score": 102
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/newspaper-publications/general-meetings",
-        "anchor_text": "General Meetings",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/code-of-practices-and-procedures-for-fair-disclosure",
-        "anchor_text": "Code of Practices and Procedures for Fair Disclosure",
-        "score": 100
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/special-window-for-lodgement-of-physical-shares",
-        "anchor_text": "Special window for lodgement of physical shares",
-        "score": 98
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financial-information/annual-reports",
-        "anchor_text": "Annual Reports",
-        "score": 97
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/supplier-code-of-conduct",
-        "anchor_text": "Supplier Code of Conduct",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/appointment-and-resignation-of-directors",
-        "anchor_text": "Appointment and Resignation of Directors",
-        "score": 88
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/registrar-and-share-transfer-agent",
-        "anchor_text": "Registrar and Share Transfer Agent",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-grievances",
-        "anchor_text": "Contact Details for Investor Grievance Redressal",
-        "score": 85
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards/human-rights-policy",
-        "anchor_text": "Human Rights Policy",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/related-party-transactions",
-        "anchor_text": "Related Party Transactions",
-        "score": 83
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/financials-subsidiaries",
-        "anchor_text": "Financials - Subsidiaries",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/unpaid-dividend-account-details",
-        "anchor_text": "Unpaid Dividend Account Details",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/contact-details-of-kmps",
-        "anchor_text": "Contact Details of KMPs",
-        "score": 82
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/shareholding-pattern",
-        "anchor_text": "Shareholding Pattern",
-        "score": 79
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/results-reports-presentations/results-announcements",
-        "anchor_text": "Results Announcements",
-        "score": 78
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/disclosures-under-regulation-46/code-of-conduct",
-        "anchor_text": "Code of Conduct",
-        "score": 74
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/scheme-of-arrangements",
-        "anchor_text": "Scheme of Arrangements",
-        "score": 73
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/sustainability-report",
-        "anchor_text": "Sustainability Reports",
-        "score": 72
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/financial-highlights",
-        "anchor_text": "Financial Highlights",
-        "score": 71
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/impact-assessment-reports-csr-projects",
-        "anchor_text": "Impact Assessment Reports - CSR Projects",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/buyback-of-shares",
-        "anchor_text": "Buyback of shares",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/share-performance",
-        "anchor_text": "Share Performance",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/ir-contacts/phone-numbers-email-addresses",
-        "anchor_text": "IR Contacts",
-        "score": 68
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare/pepfar-program",
-        "anchor_text": "PEPFAR program",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/shareholder-information/dividend-records",
-        "anchor_text": "Dividend Record",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/governance-policies",
-        "anchor_text": "Governance Policies",
-        "score": 67
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 66
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/esg-sustainability/bmw-report",
-        "anchor_text": "BMW Reports",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/social-accountability-standards",
-        "anchor_text": "Supply Chain Management",
-        "score": 61
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/management/board-of-directors",
-        "anchor_text": "Board of Directors",
-        "score": 55
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/hiv-arv-key-facts",
-        "anchor_text": "Key facts about HIV/AIDS",
-        "score": 51
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/aurobindo-foundation",
-        "anchor_text": "Aurobindo Pharma Foundation",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/access-to-healthcare",
-        "anchor_text": "Access to Healthcare",
-        "score": 50
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/global-partners",
-        "anchor_text": "Global Partners",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/corporate-video",
-        "anchor_text": "Corporate Video",
-        "score": 49
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-action-plan",
-        "anchor_text": "Annual Action Plan",
-        "score": 48
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/annual-csr-report",
-        "anchor_text": "Annual Report",
-        "score": 47
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/manufacturing-prowess",
-        "anchor_text": "Manufacturing",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/arv-gallery",
-        "anchor_text": "Gallery",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/investors/corporate-governance",
-        "anchor_text": "Corporate Governance",
-        "score": 45
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/overview",
-        "anchor_text": "Overview",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/arv/products",
-        "anchor_text": "Products",
-        "score": 42
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/growth-market",
-        "anchor_text": "Growth Markets",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-gallery",
-        "anchor_text": "Gallery",
-        "score": 41
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability/csr-policy",
-        "anchor_text": "CSR Policy",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/careers/life-at-aurobindo",
-        "anchor_text": "Life @ Aurobindo",
-        "score": 40
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/about-aurobindo",
-        "anchor_text": "About Us",
-        "score": 39
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/vision-mission",
-        "anchor_text": "Vision / Mission",
-        "score": 38
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/our-presence",
-        "anchor_text": "",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/apitoria",
-        "anchor_text": "Apitoria (API)",
-        "score": 36
-      },
-      {
-        "url": "https://www.aurobindo.com/media/press-releases",
-        "anchor_text": "I Accept",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/curateq",
-        "anchor_text": "Curateq (Biosimilars) / Peptide",
-        "score": 35
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/europe",
-        "anchor_text": "Europe",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/media/corporate-kit",
-        "anchor_text": "Corporate Kit",
-        "score": 34
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/milestone",
-        "anchor_text": "Milestones",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business/eugia",
-        "anchor_text": "Eugia (Speciality products)",
-        "score": 33
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/privacy-policy#cookies",
-        "anchor_text": "Cookie policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.aurobindo.com/about-us/rd",
-        "anchor_text": "R&D",
-        "score": 26
-      },
-      {
-        "url": "https://www.aurobindo.com/our-business",
-        "anchor_text": "Our Business",
-        "score": 25
-      },
-      {
-        "url": "https://www.aurobindo.com/contact-us",
-        "anchor_text": "Contact Us",
-        "score": 23
-      },
-      {
-        "url": "https://www.aurobindo.com/sustainability",
-        "anchor_text": "Sustainability",
-        "score": 17
-      },
-      {
-        "url": "https://www.aurobindo.com/sitemap.xml",
-        "anchor_text": "Site Map",
-        "score": 14
-      },
-      {
-        "url": "https://www.aurobindo.com/investors",
-        "anchor_text": "Investors",
-        "score": 12
-      },
-      {
-        "url": "https://www.aurobindo.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://www.aurobindo.com/",
-        "anchor_text": "",
-        "score": 3
-      },
-      {
-        "url": "https://www.aurobindo.com",
-        "anchor_text": "Aurobindo Pharma Limited.",
-        "score": 0
       }
     ]
   },
@@ -77017,147 +77359,6 @@
     "company": "Recursion Pharmaceuticals",
     "press_url": "https://ir.recursion.com/news-events/press-releases",
     "candidate_links": []
-  },
-  {
-    "company": "Generate Biomedicines",
-    "press_url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-    "candidate_links": [
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors-with-appointment-of-marsha-fanucci",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with Appointment of Marsha Fanucci",
-        "score": 110
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-announces-multi-target-collaboration-with-novartis",
-        "anchor_text": "Generate:Biomedicines Announces Multi-Target Collaboration with Novartis to Discover and Develop Protein Therapeutics with GenerativeAI",
-        "score": 99
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-provides-update-on-its-platform-and-pipeline",
-        "anchor_text": "Generate:Biomedicines Provides Update on its Platform and Pipeline Powered byAIat the43rdAnnual J.P. Morgan Healthcare Conference",
-        "score": 93
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-board-of-directors",
-        "anchor_text": "Generate:Biomedicines Expands Board of Directors with the Appointment of Rupert Vessey, M.D., Ph.D., and Nancy Simonian, M.D.",
-        "score": 75
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generatebiomedicines-expands-c-suite",
-        "anchor_text": "Generate:Biomedicines Expands C‑suite with Chief Corporate Affairs Officer and Chief Technical Operations Officer",
-        "score": 64
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/generate-welcomes-laurie-lee",
-        "anchor_text": "Generate:Biomedicines Welcomes Laurie Lee,MD, as Chief Medical Officer for the Immunology&Inflammation Portfolio",
-        "score": 56
-      },
-      {
-        "url": "https://generatebiomedicines.com/generative-biology",
-        "anchor_text": "Generative Biology®",
-        "score": 31
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases",
-        "anchor_text": "News Releases",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-content",
-        "anchor_text": "Skip to content",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=newsReleases#main-nav",
-        "anchor_text": "Skip to navigation",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type",
-        "anchor_text": "Overview",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=blogPosts",
-        "anchor_text": "Blog Posts",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=mediaHighlights",
-        "anchor_text": "Media Highlights",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p2?type=publications",
-        "anchor_text": "Presentations & Publications",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p3?type=newsReleases",
-        "anchor_text": "Next Page",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p4?type=newsReleases",
-        "anchor_text": "4",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center/p5?type=newsReleases",
-        "anchor_text": "5",
-        "score": 30
-      },
-      {
-        "url": "https://generatebiomedicines.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://generatebiomedicines.com/terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center",
-        "anchor_text": "Media Center",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/media-center?type=newsReleases",
-        "anchor_text": "1",
-        "score": 25
-      },
-      {
-        "url": "https://generatebiomedicines.com/about-us",
-        "anchor_text": "About Us",
-        "score": 21
-      },
-      {
-        "url": "https://generatebiomedicines.com/platform",
-        "anchor_text": "The Generate Platform™",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/pipeline",
-        "anchor_text": "Pipeline",
-        "score": 11
-      },
-      {
-        "url": "https://generatebiomedicines.com/careers",
-        "anchor_text": "Careers",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/contact",
-        "anchor_text": "",
-        "score": 10
-      },
-      {
-        "url": "https://generatebiomedicines.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
   },
   {
     "company": "Sangamo Therapeutics",
@@ -78236,337 +78437,6 @@
     "candidate_links": []
   },
   {
-    "company": "Apic Bio",
-    "press_url": "https://apicbio.com/news/",
-    "candidate_links": []
-  },
-  {
-    "company": "Chemspace",
-    "press_url": "https://chem-space.com/news",
-    "candidate_links": [
-      {
-        "url": "https://chem-space.com/drug-discovery-cro/integrated-discovery-services",
-        "anchor_text": "Integration Solutions",
-        "score": 63
-      },
-      {
-        "url": "https://chem-space.com/drug-discovery-cro/fragment-based-drug-discovery",
-        "anchor_text": "Fragment-based Drug Discovery",
-        "score": 63
-      },
-      {
-        "url": "https://chem-space.com/news/phenotypic-screening-in-drug-discovery",
-        "anchor_text": "Read more",
-        "score": 58
-      },
-      {
-        "url": "https://chem-space.com/news/cell-based-assays-for-drug-discovery",
-        "anchor_text": "Read more",
-        "score": 56
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-alipheron-freedom-spacce-5",
-        "anchor_text": "Read more",
-        "score": 56
-      },
-      {
-        "url": "https://chem-space.com/news/pharmacology-in-drug-development",
-        "anchor_text": "Read more",
-        "score": 52
-      },
-      {
-        "url": "https://chem-space.com/news/chemical-space-in-drug-discovery",
-        "anchor_text": "Read more",
-        "score": 52
-      },
-      {
-        "url": "https://chem-space.com/drug-discovery-cro/del-ml-cs-approach",
-        "anchor_text": "DEL-ML",
-        "score": 52
-      },
-      {
-        "url": "https://chem-space.com/news/freedom-space-article-benchmark",
-        "anchor_text": "Read more",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-target-identification",
-        "anchor_text": "Read more",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/drug-discovery-cro/molecular-docking",
-        "anchor_text": "Molecular Docking",
-        "score": 51
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas/compound-management",
-        "anchor_text": "Compound Management",
-        "score": 50
-      },
-      {
-        "url": "https://chem-space.com/news/israel-conference-announcement",
-        "anchor_text": "Read more",
-        "score": 50
-      },
-      {
-        "url": "https://chem-space.com/news/automation-in-drug-discovery",
-        "anchor_text": "Read more",
-        "score": 48
-      },
-      {
-        "url": "https://chem-space.com/news/trillion-scale-online-search",
-        "anchor_text": "Read more",
-        "score": 48
-      },
-      {
-        "url": "https://chem-space.com/news/biologics-for-research-stat6",
-        "anchor_text": "Read more",
-        "score": 48
-      },
-      {
-        "url": "https://chem-space.com/news/freedom-space-new-version",
-        "anchor_text": "Read more",
-        "score": 45
-      },
-      {
-        "url": "https://chem-space.com/news/control-in-an-experiment",
-        "anchor_text": "Read more",
-        "score": 44
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-askcos-webinar",
-        "anchor_text": "Read more",
-        "score": 44
-      },
-      {
-        "url": "https://chem-space.com/news/antibodies-special-offer",
-        "anchor_text": "Read more",
-        "score": 44
-      },
-      {
-        "url": "https://chem-space.com/ai-supported-focused-libraries",
-        "anchor_text": "AI-Supported Focused Libraries",
-        "score": 43
-      },
-      {
-        "url": "https://chem-space.com/news/freedom-space-biosolve",
-        "anchor_text": "Read more",
-        "score": 42
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-pharmacelera",
-        "anchor_text": "Read more",
-        "score": 42
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-bld-catalog",
-        "anchor_text": "Read more",
-        "score": 41
-      },
-      {
-        "url": "https://chem-space.com/news/ambeed-catalog-update",
-        "anchor_text": "Read more",
-        "score": 41
-      },
-      {
-        "url": "https://chem-space.com/news/opendel-discounts",
-        "anchor_text": "Read more",
-        "score": 37
-      },
-      {
-        "url": "https://chem-space.com/news/molecule-to-watch",
-        "anchor_text": "Read more",
-        "score": 37
-      },
-      {
-        "url": "https://chem-space.com/news/chemspace-askcos",
-        "anchor_text": "Read more",
-        "score": 36
-      },
-      {
-        "url": "https://chem-space.com/news/christmas-delays",
-        "anchor_text": "Read more",
-        "score": 36
-      },
-      {
-        "url": "https://chem-space.com/promotional-materials",
-        "anchor_text": "Promo materials",
-        "score": 34
-      },
-      {
-        "url": "https://chem-space.com/news/what-is-dmpk",
-        "anchor_text": "Read more",
-        "score": 32
-      },
-      {
-        "url": "https://chem-space.com/drug-discovery-cro",
-        "anchor_text": "Discovery CRO",
-        "score": 31
-      },
-      {
-        "url": "https://chem-space.com/news/ligand-ai",
-        "anchor_text": "Read more",
-        "score": 29
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas",
-        "anchor_text": "Integration Solutions",
-        "score": 28
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas#custom-features",
-        "anchor_text": "Custom Features",
-        "score": 28
-      },
-      {
-        "url": "https://chem-space.com/purchasing-saas#integrated-procurement",
-        "anchor_text": "Integrated Procurement",
-        "score": 28
-      },
-      {
-        "url": "https://chem-space.com/news/page-39",
-        "anchor_text": "39",
-        "score": 27
-      },
-      {
-        "url": "https://chem-space.com/privacy-policy",
-        "anchor_text": "More...",
-        "score": 27
-      },
-      {
-        "url": "https://chem-space.com/freedom-space",
-        "anchor_text": "Freedom Space 5.0",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/news/page-2",
-        "anchor_text": "2",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/news/page-3",
-        "anchor_text": "3",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/news/page-4",
-        "anchor_text": "4",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/news/page-5",
-        "anchor_text": "5",
-        "score": 26
-      },
-      {
-        "url": "https://chem-space.com/sds-coa",
-        "anchor_text": "SDS/CoA",
-        "score": 20
-      },
-      {
-        "url": "https://chem-space.com/user/register",
-        "anchor_text": "I need to register",
-        "score": 18
-      },
-      {
-        "url": "https://chem-space.com/user/forgot",
-        "anchor_text": "I forgot password",
-        "score": 16
-      },
-      {
-        "url": "https://chem-space.com/publications",
-        "anchor_text": "Publications",
-        "score": 15
-      },
-      {
-        "url": "https://chem-space.com/user/login",
-        "anchor_text": "Sign in",
-        "score": 15
-      },
-      {
-        "url": "https://chem-space.com/biologics",
-        "anchor_text": "Biologics",
-        "score": 12
-      },
-      {
-        "url": "https://chem-space.com/compounds",
-        "anchor_text": "Compound sets",
-        "score": 12
-      },
-      {
-        "url": "https://chem-space.com/tutorials",
-        "anchor_text": "Tutorials",
-        "score": 12
-      },
-      {
-        "url": "https://chem-space.com/supplier",
-        "anchor_text": "Suppliers",
-        "score": 11
-      },
-      {
-        "url": "https://chem-space.com/contacts",
-        "anchor_text": "Contacts",
-        "score": 11
-      },
-      {
-        "url": "https://chem-space.com/search",
-        "anchor_text": "Chemical search",
-        "score": 9
-      },
-      {
-        "url": "https://chem-space.com/events",
-        "anchor_text": "Events",
-        "score": 9
-      },
-      {
-        "url": "https://chem-space.com/about",
-        "anchor_text": "About us",
-        "score": 8
-      },
-      {
-        "url": "https://chem-space.com/terms",
-        "anchor_text": "Terms and Conditions",
-        "score": 8
-      },
-      {
-        "url": "https://chem-space.com/news#login-modal",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/news",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/sale",
-        "anchor_text": "Sale %",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/news#Enquire",
-        "anchor_text": "",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/cart",
-        "anchor_text": "0",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/news?currency=eur",
-        "anchor_text": "eur",
-        "score": 7
-      },
-      {
-        "url": "https://chem-space.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "Tempus AI",
     "press_url": "https://www.tempus.com/news/",
     "candidate_links": []
@@ -78579,21 +78449,6 @@
   {
     "company": "Springworks Therapeutics",
     "press_url": "https://ir.springworkstx.com/news-releases",
-    "candidate_links": []
-  },
-  {
-    "company": "Aerpio Pharmaceuticals",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": []
-  },
-  {
-    "company": "Aerpio",
-    "press_url": "https://aerpio.com/news/",
-    "candidate_links": []
-  },
-  {
-    "company": "Change Bioscience",
-    "press_url": "https://changebioscience.com/news/",
     "candidate_links": []
   },
   {
