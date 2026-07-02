@@ -1,10 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 16,
-    "items_extracted": 0,
+    "articles_used": 19,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-07-01 09:34:22"
+    "generated_at": "2026-07-02 09:01:38"
   },
-  "news": []
+  "news": [
+    {
+      "company": "Novartis",
+      "modality": "gene editing",
+      "news": "Novartis received European Commission approval for Itvisma (onasemnogene abeparvovec), a gene replacement therapy for spinal muscular atrophy (SMA), expanding access to children two years and older, teens, and adults. The one-time therapy replaces the faulty SMN1 gene to address the genetic root cause of the disease.",
+      "url": "https://www.novartis.com/news/media-releases/novartis-receives-european-commission-approval-itvisma-spinal-muscular-atrophy-sma"
+    }
+  ]
 }
