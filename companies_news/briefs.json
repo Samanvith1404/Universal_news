@@ -1,17 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 19,
+    "articles_used": 9,
     "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-07-02 09:01:38"
+    "generated_at": "2026-07-03 09:10:34"
   },
   "news": [
     {
-      "company": "Novartis",
-      "modality": "gene editing",
-      "news": "Novartis received European Commission approval for Itvisma (onasemnogene abeparvovec), a gene replacement therapy for spinal muscular atrophy (SMA), expanding access to children two years and older, teens, and adults. The one-time therapy replaces the faulty SMN1 gene to address the genetic root cause of the disease.",
-      "url": "https://www.novartis.com/news/media-releases/novartis-receives-european-commission-approval-itvisma-spinal-muscular-atrophy-sma"
+      "company": "Junshi Biosciences",
+      "modality": "monoclonal antibodies",
+      "news": "Junshi Biosciences entered a licensing collaboration with Fosun Wanbang to develop and commercialize roconkibart, an anti-IL-17A monoclonal antibody, in the Greater China region. The deal includes an upfront payment of RMB215 million and potential milestone payments up to RMB1.125 billion.",
+      "url": "https://www.junshipharma.com/en/junshi-biosciences-enters-licensing-collaboration-with-fosun-wanbang-on-roconkibart-il-17a/"
     }
   ]
 }
