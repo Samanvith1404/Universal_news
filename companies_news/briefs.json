@@ -2,16 +2,9 @@
   "meta": {
     "query": "gene editing",
     "articles_used": 9,
-    "items_extracted": 1,
+    "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-07-03 09:10:34"
+    "generated_at": "2026-07-04 08:49:00"
   },
-  "news": [
-    {
-      "company": "Junshi Biosciences",
-      "modality": "monoclonal antibodies",
-      "news": "Junshi Biosciences entered a licensing collaboration with Fosun Wanbang to develop and commercialize roconkibart, an anti-IL-17A monoclonal antibody, in the Greater China region. The deal includes an upfront payment of RMB215 million and potential milestone payments up to RMB1.125 billion.",
-      "url": "https://www.junshipharma.com/en/junshi-biosciences-enters-licensing-collaboration-with-fosun-wanbang-on-roconkibart-il-17a/"
-    }
-  ]
+  "news": []
 }
