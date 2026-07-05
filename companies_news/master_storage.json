@@ -114146,5 +114146,33 @@
         "score": 108,
         "date_added": "2026-07-04",
         "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/en/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-07-05",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/es/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-07-05",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/fr/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-07-05",
+        "article_like": true
+    },
+    {
+        "company": "ALS Global",
+        "url": "https://www.alsglobal.com/pt/Food-insights-blog?nav=global",
+        "score": 36,
+        "date_added": "2026-07-05",
+        "article_like": true
     }
 ]
