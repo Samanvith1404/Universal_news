@@ -1,11 +1,11 @@
 {
   "query": "protac",
-  "generated_at": "2026-07-04 07:43:55",
+  "generated_at": "2026-07-05 08:08:53",
   "article_count": 12,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "In a significant advancement for targeted protein degradation technologies, Rayca Precision and Data Powered Therapeutics have announced a strategic co-development partnership aimed at designing and advancing a new generation of nanobody therapeutics for cancers of high unmet need. This collaboration integrates Rayca’s computational discovery engine, which models therapeutic targets in motion and designs candidate molecules using structure-aware generative methods, with Data Powered Therapeutics’ platform for high-throughput experimental validation. The partnership specifically targets difficult oncology settings, including resistant cancers and aggressive neuroendocrine cancers such as small cell lung cancer, utilizing a nanobody bioPROTAC approach alongside other mechanisms. By addressing developability liabilities like expression and stability early in the design phase, the companies aim to resolve attrition risks before clinical progression. While specific targets remain confidential, the agreement focuses on advancing lead programmes toward development candidates with first-in-class potential. This initiative underscores the industry shift toward combining AI-driven design with automated wet-lab characterization to accelerate the delivery of differentiated therapeutics for resistant tumor types, ensuring candidate quality is moved upstream to resolve liabilities before they become critical issues during development.",
+      "paragraph": "Rayca Precision and Data Powered Therapeutics have established a strategic co-development partnership aimed at advancing a new generation of nanobody therapeutics targeting cancers with high unmet need, specifically leveraging a nanobody bioPROTAC approach for targeted protein degradation. This collaboration integrates Rayca Precision’s computational discovery engine, which models therapeutic targets in motion and designs candidate molecules using structure-aware generative methods, with Data Powered Therapeutics’ platform for high-throughput experimental validation. By addressing developability liabilities such as expression and stability early in the design phase, the partnership seeks to resolve attrition risks typically encountered late in biologics development. The program targets difficult oncology settings, including therapy-resistant cancers, immune-evasive tumors, and aggressive neuroendocrine cancers like small cell lung cancer, including cases with brain metastasis. While specific targets remain confidential, the initiative encompasses multiple therapeutic mechanisms with first-in-class potential. The companies intend to advance lead programmes toward development candidates, utilizing automated wet-lab data generation to characterize up to a thousand nanobody variants in parallel. This approach compresses sequential work into weeks, focusing resources on molecules with the clearest path to the clinic. The partnership highlights a shift in drug discovery where experimental evidence at scale complements computational modeling to enhance candidate quality upstream.",
       "sources": [
         {
           "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/",
@@ -17,7 +17,7 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Rayca Precision — Nanobody bioPROTAC — Cancers of high unmet need — Strategic co-development partnership",
+          "text": "Rayca Precision — Nanobody bioPROTAC — Oncology (Small Cell Lung Cancer, Neuroendocrine Cancers) — Strategic co-development partnership with Data Powered Therapeutics",
           "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
         }
       ]
@@ -26,11 +26,11 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Rayca Precision: Strategic objective to treat developability as a primary at the design stage using modelling and collective intelligence for nanobody therapeutics.",
+          "text": "Rayca Precision: Strategic objective to design candidate molecules with structure-aware generative methods and screen against binding thermodynamics; associated with nanobody bioPROTAC program.",
           "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
         },
         {
-          "text": "Data Powered Therapeutics: Strategic objective to automate wet-lab data generation at scale to compress sequential work into automated runs for nanobody variants.",
+          "text": "Data Powered Therapeutics: Strategic objective to automate wet-lab data generation at scale for nanobody variants; associated with nanobody bioPROTAC program.",
           "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
         }
       ]
@@ -39,7 +39,7 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Mechanism: Targeted protein degradation through a nanobody bioPROTAC approach. Population: Patients with cancers resistant to standard therapy, tumors evading immune system, aggressive neuroendocrine cancers such as small cell lung cancer. Status: Lead programmes advancing toward development candidates. Specific targets remain confidential.",
+          "text": "Mechanism: Targeted protein degradation through a nanobody bioPROTAC approach. Indications: Cancers resistant to standard therapy, aggressive neuroendocrine cancers (small cell lung cancer), disease spread to brain. Status: Advancing lead programmes toward development candidates using computational design and high-throughput experimental validation.",
           "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
         }
       ]
@@ -48,7 +48,7 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Rayca Precision and Data Powered Therapeutics entered a strategic co-development partnership to design and advance nanobody therapeutics for cancers of high unmet need.",
+          "text": "Rayca Precision and Data Powered Therapeutics announced a strategic co-development partnership to design and advance a new generation of nanobody therapeutics for cancers of high unmet need.",
           "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
         }
       ]
