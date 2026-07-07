@@ -10762,327 +10762,6 @@
     ]
   },
   {
-    "company": "Vimta Labs",
-    "press_url": "https://vimta.com/investors/announcements/",
-    "candidate_links": [
-      {
-        "url": "https://vimta.com/automotive-mechanical-performance-testing/",
-        "anchor_text": "Automotive Mechanical Performance Testing",
-        "score": 57
-      },
-      {
-        "url": "https://vimta.com/industrial-and-control-equipment-testing/",
-        "anchor_text": "Industrial and Control Equipment Testing",
-        "score": 56
-      },
-      {
-        "url": "https://vimta.com/medical-device-product-safety-testing/",
-        "anchor_text": "Medical Device Product Safety Testing",
-        "score": 53
-      },
-      {
-        "url": "https://vimta.com/consumer-electronics-product-testing/",
-        "anchor_text": "Consumer Electronics Product Testing",
-        "score": 52
-      },
-      {
-        "url": "https://vimta.com/ce-marking-certification-and-testing/",
-        "anchor_text": "CE Marking Certification and Testing",
-        "score": 52
-      },
-      {
-        "url": "https://vimta.com/environmental-reliability-testing/",
-        "anchor_text": "Environmental & Reliability Testing",
-        "score": 49
-      },
-      {
-        "url": "https://vimta.com/physical-security-product-testing/",
-        "anchor_text": "Physical Security Product Testing",
-        "score": 49
-      },
-      {
-        "url": "https://vimta.com/services-electricals-electronics/",
-        "anchor_text": "Electricals & Electronics",
-        "score": 48
-      },
-      {
-        "url": "https://vimta.com/corporate-social-responsibility/",
-        "anchor_text": "Corporate Social Responsibility",
-        "score": 47
-      },
-      {
-        "url": "https://vimta.com/services-biologics-biosimilars/",
-        "anchor_text": "Biologics & Biosimilars",
-        "score": 46
-      },
-      {
-        "url": "https://vimta.com/safety-and-performance-testing/",
-        "anchor_text": "Safety and Performance Testing",
-        "score": 46
-      },
-      {
-        "url": "https://vimta.com/what-do-we-do/vision-values/",
-        "anchor_text": "Vision & Values",
-        "score": 45
-      },
-      {
-        "url": "https://vimta.com/environment-health-safety-ehs/",
-        "anchor_text": "Environment, Health & Safety (EHS)",
-        "score": 45
-      },
-      {
-        "url": "https://vimta.com/services-beauty-personal-care/",
-        "anchor_text": "Home & Personal Care",
-        "score": 45
-      },
-      {
-        "url": "https://vimta.com/services-specialty-chemicals/",
-        "anchor_text": "Specialty Chemicals",
-        "score": 44
-      },
-      {
-        "url": "https://vimta.com/en-and-bis-testing-for-psp-2/",
-        "anchor_text": "EN and BIS Testing for PSP",
-        "score": 44
-      },
-      {
-        "url": "https://vimta.com/global-market-access-testing/",
-        "anchor_text": "Global Market Access Testing",
-        "score": 44
-      },
-      {
-        "url": "https://vimta.com/quality-management-system/",
-        "anchor_text": "Quality Management System",
-        "score": 41
-      },
-      {
-        "url": "https://vimta.com/environment-health-safety/",
-        "anchor_text": "Environment, Health & Safety",
-        "score": 41
-      },
-      {
-        "url": "https://vimta.com/avionics-products-testing/",
-        "anchor_text": "Avionics Products Testing",
-        "score": 41
-      },
-      {
-        "url": "https://vimta.com/it-product-safety-testing/",
-        "anchor_text": "IT Product Safety Testing",
-        "score": 41
-      },
-      {
-        "url": "https://vimta.com/about-us/what-do-we-do/",
-        "anchor_text": "What Do We Do",
-        "score": 40
-      },
-      {
-        "url": "https://vimta.com/services-pharmaceuticals/",
-        "anchor_text": "Pharmaceuticals",
-        "score": 40
-      },
-      {
-        "url": "https://vimta.com/services-medical-devices/",
-        "anchor_text": "Medical Devices",
-        "score": 40
-      },
-      {
-        "url": "https://vimta.com/services-water-beverages/",
-        "anchor_text": "Water & Beverages",
-        "score": 40
-      },
-      {
-        "url": "https://vimta.com/military-product-testing/",
-        "anchor_text": "Military Product Testing",
-        "score": 40
-      },
-      {
-        "url": "https://vimta.com/careers/open-positions/",
-        "anchor_text": "Open Positions",
-        "score": 40
-      },
-      {
-        "url": "https://vimta.com/services-nutraceuticals/",
-        "anchor_text": "Nutraceuticals",
-        "score": 39
-      },
-      {
-        "url": "https://vimta.com/radio-frequency-testing/",
-        "anchor_text": "Radio Frequency Testing",
-        "score": 39
-      },
-      {
-        "url": "https://vimta.com/market-access-testing-2/",
-        "anchor_text": "Market Access Testing",
-        "score": 39
-      },
-      {
-        "url": "https://vimta.com/careers/life-at-vimta/",
-        "anchor_text": "Life at Vimta",
-        "score": 39
-      },
-      {
-        "url": "https://vimta.com/certification-services/",
-        "anchor_text": "Certification Services",
-        "score": 38
-      },
-      {
-        "url": "https://vimta.com/contact-us/feedback/",
-        "anchor_text": "Feedback",
-        "score": 37
-      },
-      {
-        "url": "https://vimta.com/preclinical-research/",
-        "anchor_text": "Preclinical Research",
-        "score": 36
-      },
-      {
-        "url": "https://vimta.com/fan-testing-services/",
-        "anchor_text": "Fan Testing Services",
-        "score": 36
-      },
-      {
-        "url": "https://vimta.com/crads-whatwedevelop/",
-        "anchor_text": "What We develop",
-        "score": 35
-      },
-      {
-        "url": "https://vimta.com/emi-and-emc-testing/",
-        "anchor_text": "EMI and EMC Testing",
-        "score": 35
-      },
-      {
-        "url": "https://vimta.com/toys-safety-testing/",
-        "anchor_text": "Toys Safety Testing",
-        "score": 35
-      },
-      {
-        "url": "https://vimta.com/ce-marking-services/",
-        "anchor_text": "CE Marking Services",
-        "score": 35
-      },
-      {
-        "url": "https://vimta.com/crads-introduction/",
-        "anchor_text": "Development",
-        "score": 34
-      },
-      {
-        "url": "https://vimta.com/services-crop-care/",
-        "anchor_text": "Crop Care",
-        "score": 34
-      },
-      {
-        "url": "https://vimta.com/services-packaging/",
-        "anchor_text": "Packaging",
-        "score": 34
-      },
-      {
-        "url": "https://vimta.com/by-service-package/",
-        "anchor_text": "By Service Package",
-        "score": 34
-      },
-      {
-        "url": "https://vimta.com/clinical-research/",
-        "anchor_text": "Clinical Research",
-        "score": 33
-      },
-      {
-        "url": "https://vimta.com/bis-crs-testing-2/",
-        "anchor_text": "BIS CRS Testing",
-        "score": 33
-      },
-      {
-        "url": "https://vimta.com/psp-certification/",
-        "anchor_text": "PSP Certification",
-        "score": 33
-      },
-      {
-        "url": "https://vimta.com/investors/announcements/",
-        "anchor_text": "2018-19",
-        "score": 31
-      },
-      {
-        "url": "https://vimta.com/what-do-we-do/",
-        "anchor_text": "What do we do",
-        "score": 29
-      },
-      {
-        "url": "https://vimta.com/services-food/",
-        "anchor_text": "Food",
-        "score": 29
-      },
-      {
-        "url": "https://vimta.com/tec-testing-2/",
-        "anchor_text": "TEC Testing",
-        "score": 29
-      },
-      {
-        "url": "https://vimta.com/investors/insights/",
-        "anchor_text": "Downloads",
-        "score": 26
-      },
-      {
-        "url": "https://vimta.com/contact-us/",
-        "anchor_text": "Contact Us",
-        "score": 26
-      },
-      {
-        "url": "https://vimta.com/our-credo/",
-        "anchor_text": "Our Credo",
-        "score": 25
-      },
-      {
-        "url": "https://vimta.com/by-test/",
-        "anchor_text": "By Test",
-        "score": 23
-      },
-      {
-        "url": "https://vimta.com/accreditations/",
-        "anchor_text": "Accreditations",
-        "score": 20
-      },
-      {
-        "url": "https://vimta.com/agriculture/",
-        "anchor_text": "Agriculture",
-        "score": 17
-      },
-      {
-        "url": "https://vimta.com/leadership/",
-        "anchor_text": "Meet Our Leaders",
-        "score": 16
-      },
-      {
-        "url": "https://vimta.com/philosophy/",
-        "anchor_text": "Philosophy",
-        "score": 16
-      },
-      {
-        "url": "https://vimta.com/investors/",
-        "anchor_text": "Investors",
-        "score": 15
-      },
-      {
-        "url": "https://vimta.com/bydomain/",
-        "anchor_text": "By Domain",
-        "score": 14
-      },
-      {
-        "url": "https://vimta.com/events/",
-        "anchor_text": "Events",
-        "score": 12
-      },
-      {
-        "url": "https://vimta.com/cgmp/",
-        "anchor_text": "cGMP",
-        "score": 10
-      },
-      {
-        "url": "https://vimta.com/",
-        "anchor_text": "",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "JETRO",
     "press_url": "https://www.jetro.go.jp/en/news/",
     "candidate_links": [
@@ -16617,6 +16296,11 @@
         "score": 79
       },
       {
+        "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+        "anchor_text": "Learn more",
+        "score": 78
+      },
+      {
         "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
         "anchor_text": "Learn more",
         "score": 76
@@ -16640,11 +16324,6 @@
         "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
         "anchor_text": "Learn more",
         "score": 66
-      },
-      {
-        "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-        "anchor_text": "Learn more",
-        "score": 58
       },
       {
         "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
@@ -18725,7 +18404,7 @@
       },
       {
         "url": "https://www.illumina.com/company/legal/privacy.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "Privacy Policy",
         "score": 33
       },
       {
@@ -18925,11 +18604,6 @@
         "score": 91
       },
       {
-        "url": "https://www.bcg.com/press/9june2026-europeans-worried-about-personal-finances-spending-cutbacks",
-        "anchor_text": "",
-        "score": 90
-      },
-      {
         "url": "https://www.bcg.com/capabilities/innovation-strategy-delivery/product-innovation-engineering",
         "anchor_text": "Product Innovation and Engineering",
         "score": 89
@@ -19007,6 +18681,11 @@
       {
         "url": "https://www.bcg.com/capabilities/innovation-strategy-delivery/business-model-innovation",
         "anchor_text": "Business Model Innovation",
+        "score": 84
+      },
+      {
+        "url": "https://www.bcg.com/press/7july2026-reserve-replacement-upstream-agenda-energy-transition",
+        "anchor_text": "",
         "score": 84
       },
       {
@@ -20742,12 +20421,12 @@
       },
       {
         "url": "https://www.ey.com/en_gl/services/ai/platform",
-        "anchor_text": "EY.ai - A unifying platform",
+        "anchor_text": "ey.ai The Reimagination Engine",
         "score": 35
       },
       {
         "url": "https://www.ey.com/en_gl/insights/ipo/trends",
-        "anchor_text": "How IPO candidates can navigate uncertain and selective marketsThe EY Global IPO Trends Q1 2026 explore how selectivity, geopolitics and investor expectations are shaping IPO access worldwide. Learn more.08 Apr 2026IPO",
+        "anchor_text": "Why IPO markets are gaining momentum nowThe EY Global IPO Trends Q2 2026 explores IPO momentum, episodic windows shaped by mega-IPOs and geopolitics, and more flexible paths to go public.07 Jul 2026IPO",
         "score": 34
       },
       {
@@ -21512,14 +21191,14 @@
         "score": 173
       },
       {
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-law-portugal-launches-strengthening-kpmg-global-legal-services-offering.html",
+        "anchor_text": "",
+        "score": 166
+      },
+      {
         "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-international-announces-global-and-regional-leadership-appointments.html",
         "anchor_text": "",
         "score": 162
-      },
-      {
-        "url": "https://kpmg.com/xx/en/media/press-releases/2026/06/kpmg-and-microsoft-scale-trusted-enterprise-ai-agents-globally.html",
-        "anchor_text": "",
-        "score": 152
       },
       {
         "url": "https://kpmg.com/content/experience-fragments/kpmgpublic/xx/en/site/rfp-form-location-selector-overlay/master.html",
@@ -24413,14 +24092,14 @@
         "score": 102
       },
       {
-        "url": "https://www.lupin.com/media/perspectives/the-intergenerational-impact-of-investing-in-women-s-health",
-        "anchor_text": "May 8, 2026The Intergenerational Impact of Investing in Women’s Health",
-        "score": 95
-      },
-      {
         "url": "https://www.lupin.com/media/press-releases/lupin-s-ankleshwar-facility-receives-eir-from-u-s-fda",
         "anchor_text": "Lupin’s Ankleshwar Facility Receives EIR from U.S. FDA",
         "score": 91
+      },
+      {
+        "url": "https://www.lupin.com/media/perspectives/hidden-cost-climate-risk-leaves-on-every-balance-sheet",
+        "anchor_text": "July 6, 2026Hidden Cost Climate Risk Leaves on Every Balance Sheet",
+        "score": 90
       },
       {
         "url": "https://www.lupin.com/media/perspectives/reimagining-access-in-asthma-care-for-the-next-decade",
@@ -30466,8 +30145,8 @@
         "score": 18
       },
       {
-        "url": "https://blog.23andme.com/category/news?pageUri=category&pageUri=news&pageUri=inside-23andme#cookie-choices",
-        "anchor_text": "Do Not Sell or Share My Personal Information",
+        "url": "https://blog.23andme.com/category/news#cookie-choices",
+        "anchor_text": "Your Privacy Choices",
         "score": 18
       },
       {
@@ -34104,6 +33783,11 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-",
+        "anchor_text": "Genentech and Roche Present New Data in Alzheimer’s Disease From Across Its Integrated Pharmaceutical and Diagnostics Portfolio at AAIC",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i",
         "anchor_text": "Genentech’s Divarasib Shows Superiority in Head-to-Head Phase III Trial Against Approved KRAS G12C Inhibitors in Non-Small Cell Lung Cancer",
         "score": 99
@@ -34221,11 +33905,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15095/2025-12-21/fda-approves-genentechs-lunsumio-velo-fo",
         "anchor_text": "FDA Approves Genentech’s Lunsumio VELO™ for Subcutaneous Use in Relapsed or Refractory Follicular Lymphoma",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15094/2025-12-19/genentech-announces-agreement-with-us-go",
-        "anchor_text": "Genentech Announces Agreement With U.S. Government",
         "score": 99
       },
       {
@@ -36625,6 +36304,11 @@
         "score": 50
       },
       {
+        "url": "https://www.roche.com/media/releases/med-cor-2026-07-07",
+        "anchor_text": "Roche presents new data in Alzheimer’s disease from across its integrated pharmaceutical and diagnostics portfolio at AAICJuly 07, 2026",
+        "score": 50
+      },
+      {
         "url": "https://www.roche.com/media/releases/med-cor-2026-07-02",
         "anchor_text": "[Ad hoc announcement pursuant to Art. 53 LR] Roche’s divarasib shows superiority in head-to-head phase III trial against approved KRAS G12C inhibitors in non-small cell lung cancerJuly 02, 2026",
         "score": 50
@@ -36667,11 +36351,6 @@
       {
         "url": "https://www.roche.com/media/releases/med-cor-2026-06-01",
         "anchor_text": "Roche to present new data advancing its obesity portfolio at the American Diabetes Association’s 2026 Scientific SessionsJune 01, 2026",
-        "score": 50
-      },
-      {
-        "url": "https://www.roche.com/media/releases/med-cor-2026-05-27",
-        "anchor_text": "Roche launches the Liver Disease Panel, the first suite of certified algorithms to support Chronic Liver Disease managementMay 27, 2026",
         "score": 50
       },
       {
@@ -36881,7 +36560,7 @@
       },
       {
         "url": "https://www.roche.com/investors/bonds",
-        "anchor_text": "Share price337.10CHF- 3.50(-1.03%)Today",
+        "anchor_text": "Share price334.50CHF+ 2.70(+0.81%)Today",
         "score": 20
       },
       {
@@ -37327,7 +37006,7 @@
       },
       {
         "url": "https://www.astrazeneca.com/media-centre/press-releases.html",
-        "anchor_text": "Set Preferences",
+        "anchor_text": "Select Preferences",
         "score": 47
       },
       {
@@ -37580,6 +37259,11 @@
         "url": "https://www.jnj.com/media-center/press-releases/innovative-medicine",
         "anchor_text": "Innovative Medicine",
         "score": 64
+      },
+      {
+        "url": "https://www.jnj.com/our-societal-impact/environmental-sustainability",
+        "anchor_text": "Environmental sustainability",
+        "score": 63
       },
       {
         "url": "https://www.jnj.com/privacy-center/en-us/privacy-statement?s=00000195-202e-ddef-a3f7-213f11db0000&p=00000195-202a-ddef-a3f7-213b3e7b0000",
@@ -38134,6 +37818,11 @@
         "score": 225
       },
       {
+        "url": "https://news.abbvie.com/2026-07-06-AbbVie-Announces-TEPKINLY-R-epcoritamab-in-Combination-with-Lenalidomide-and-Rituximab-is-Approved-by-the-European-Commission-for-the-Treatment-of-Relapsed-or-Refractory-Follicular-Lymphoma",
+        "anchor_text": "AbbVie Announces TEPKINLY® (epcoritamab) in Combination with Lenalidomide and Rituximab is Approved by the European Commission for the Treatment of Relapsed or Refractory Follicular Lymphoma",
+        "score": 213
+      },
+      {
         "url": "https://news.abbvie.com/2026-06-23-AbbVie-Announces-European-Commission-Approval-of-SKYRIZI-R-risankizumab-for-the-Treatment-of-Pediatric-Patients-with-Moderate-to-Severe-Plaque-Psoriasis",
         "anchor_text": "AbbVie Announces European Commission Approval of SKYRIZI® (risankizumab) for the Treatment of Pediatric Patients with Moderate to Severe Plaque Psoriasis",
         "score": 176
@@ -38172,11 +37861,6 @@
         "url": "https://news.abbvie.com/2026-06-26-SKYRIZI-R-risankizumab-rzaa-Now-FDA-Approved-for-Pediatric-Use-in-Psoriatic-Disease",
         "anchor_text": "SKYRIZI® (risankizumab-rzaa) Now FDA Approved for Pediatric Use in Psoriatic Disease",
         "score": 107
-      },
-      {
-        "url": "https://news.abbvie.com/2026-06-22-AbbVie-to-Acquire-Apogee-Therapeutics,-Deepening-Immunology-Portfolio",
-        "anchor_text": "AbbVie to Acquire Apogee Therapeutics, Deepening Immunology Portfolio",
-        "score": 93
       },
       {
         "url": "https://news.abbvie.com/2026-06-26-AbbVie-to-Host-Second-Quarter-2026-Earnings-Conference-Call",
@@ -40687,9 +40371,9 @@
         "score": 264
       },
       {
-        "url": "https://newsroom.astellas.com/2026-05-22-padcev-in-combination-with-keytruda-receives-positive-chmp-opinion-for-the-treatment-of-patients-with-resectable-mibc-who-are-ineligible-for-cisplatin-based-chemotherapy",
-        "anchor_text": "Read moreabout PADCEV™ (enfortumab vedotin) in Combination with Keytruda®(pembrolizumab) Receives Positive CHMP Opinion for the Treatment of Patients with Resectable Muscle-Invasive Bladder Cancer who are Ineligible for Cisplatin-Based Chemotherapy",
-        "score": 193
+        "url": "https://newsroom.astellas.com/2026-07-07-chinas-national-medical-products-administration-accepts-biologics-license-application-for-padcev-tm-enfortumab-vedotin-plus-keytruda-r-pembrolizumab-in-muscle-invasive-bladder-cancer",
+        "anchor_text": "Read moreabout China’s National Medical Products Administration Accepts Biologics License Application for PADCEV™ (enfortumab vedotin) plus Keytruda®(pembrolizumab) in Muscle-Invasive Bladder Cancer",
+        "score": 206
       },
       {
         "url": "https://newsroom.astellas.com/2026-05-26-astellas-announces-five-year-corporate-strategic-plan-to-deliver-greater-value-faster-for-patients-and-position-itself-as-a-sustainable-growth-company",
@@ -40777,8 +40461,8 @@
         "score": 7
       },
       {
-        "url": "https://newsroom.astellas.com/news?o=1350",
-        "anchor_text": "271",
+        "url": "https://newsroom.astellas.com/news?o=1355",
+        "anchor_text": "272",
         "score": 7
       },
       {
@@ -41049,7 +40733,7 @@
       },
       {
         "url": "https://www.takeda.com/newsroom/press-releases/",
-        "anchor_text": "Do not sell or share my personal information",
+        "anchor_text": "Press Releases",
         "score": 41
       },
       {
@@ -43246,7 +42930,7 @@
       },
       {
         "url": "https://crisprtx.com/about-us/privacy-policy",
-        "anchor_text": "privacy policy",
+        "anchor_text": "Privacy & cookie policy",
         "score": 38
       },
       {
@@ -43656,6 +43340,11 @@
         "url": "https://www.sarepta.com/newsroom/whatd-you-do-summer-our-summer-interns-share-lessons-learned",
         "anchor_text": "What’d you do this summer? Our summer interns share lessons learned",
         "score": 84
+      },
+      {
+        "url": "https://www.sarepta.com/newsroom/time-rise-floor-what-it-can-tell-us-about-when-act-duchenne",
+        "anchor_text": "Time to Rise From Floor: What it can tell us about when to act in Duchenne",
+        "score": 83
       },
       {
         "url": "https://www.sarepta.com/newsroom/gene-therapy-faqs-what-it-how-it-works-and-what-expect",
@@ -44527,6 +44216,11 @@
     "press_url": "https://insilico.com/news",
     "candidate_links": [
       {
+        "url": "https://insilico.com/news/er6gnm3741-pharmaai-q2-2026-summer-webinar-a-deep-d",
+        "anchor_text": "Pharma.AI Q2 2026 Summer Webinar: A Deep Dive into Insilico Medicine’s Latest Platform Upgrades",
+        "score": 71
+      },
+      {
         "url": "https://insilico.com/news/4ifuiaal01-insilico-medicine-announces-collaboratio",
         "anchor_text": "Insilico Medicine Announces Collaboration with Takeda to Advance Strategic AI Drug Discovery",
         "score": 71
@@ -44550,11 +44244,6 @@
         "url": "https://insilico.com/news/bno2kl4lp1-insilico-completes-first-in-human-dosing",
         "anchor_text": "Insilico Completes First-in-Human Dosing in Phase I Clinical Study of AI-Driven NLRP3 Inhibitor ISM8969, Achieving First Clinical Milestone in Collaboration with Hygtia Therapeutics",
         "score": 71
-      },
-      {
-        "url": "https://insilico.com/news/s8o11au3t1-insilico-medicine-appoints-jue-wang-phd",
-        "anchor_text": "Insilico Medicine Appoints Jue Wang, PhD as Global Head of Business Development",
-        "score": 70
       },
       {
         "url": "https://insilico.com/design-resources",
@@ -45001,11 +44690,6 @@
     "press_url": "https://www.abcellera.com/news",
     "candidate_links": [
       {
-        "url": "https://www.abcellera.com/news/abcellera-announces-first-patients-dosed-in-phase-2-portion-of-its-phase-1-2-clinical-trial-of-abcl635-for-the-treatment-of-vasomotor-symptoms-due-to-menopause",
-        "anchor_text": "Read article",
-        "score": 179
-      },
-      {
         "url": "https://www.abcellera.com/news/jazz-pharmaceuticals-and-abcellera-announce-collaboration-to-discover-next-generation-t-cell-engaging-multispecific-antibodies",
         "anchor_text": "Read article",
         "score": 146
@@ -45044,6 +44728,11 @@
         "url": "https://www.abcellera.com/news/abcellera-appoints-dr-victor-sandor-to-its-board-of-directors",
         "anchor_text": "Read article",
         "score": 81
+      },
+      {
+        "url": "https://www.abcellera.com/news/abcellera-appoints-dr-lynn-seely-to-its-board-of-directors",
+        "anchor_text": "Read article",
+        "score": 78
       },
       {
         "url": "https://www.abcellera.com/news/abcellera-reports-full-year-2025-business-results",
@@ -45714,6 +45403,11 @@
         "score": 103
       },
       {
+        "url": "https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-",
+        "anchor_text": "Genentech and Roche Present New Data in Alzheimer’s Disease From Across Its Integrated Pharmaceutical and Diagnostics Portfolio at AAIC",
+        "score": 99
+      },
+      {
         "url": "https://www.gene.com/media/press-releases/15119/2026-07-01/genentechs-divarasib-shows-superiority-i",
         "anchor_text": "Genentech’s Divarasib Shows Superiority in Head-to-Head Phase III Trial Against Approved KRAS G12C Inhibitors in Non-Small Cell Lung Cancer",
         "score": 99
@@ -45831,11 +45525,6 @@
       {
         "url": "https://www.gene.com/media/press-releases/15095/2025-12-21/fda-approves-genentechs-lunsumio-velo-fo",
         "anchor_text": "FDA Approves Genentech’s Lunsumio VELO™ for Subcutaneous Use in Relapsed or Refractory Follicular Lymphoma",
-        "score": 99
-      },
-      {
-        "url": "https://www.gene.com/media/press-releases/15094/2025-12-19/genentech-announces-agreement-with-us-go",
-        "anchor_text": "Genentech Announces Agreement With U.S. Government",
         "score": 99
       },
       {
@@ -47253,11 +46942,6 @@
         "score": 41
       },
       {
-        "url": "https://www.iconplc.com/about/healthy-participants",
-        "anchor_text": "Healthy participants",
-        "score": 41
-      },
-      {
         "url": "https://www.iconplc.com/news-events/press-releases#toolbar-widgets",
         "anchor_text": "Page tools",
         "score": 41
@@ -48581,7 +48265,7 @@
       },
       {
         "url": "https://www.catalent.com/news-and-events/",
-        "anchor_text": "Do Not Sell My Personal Information",
+        "anchor_text": "Cookies Settings",
         "score": 31
       },
       {
@@ -50465,7 +50149,7 @@
       },
       {
         "url": "https://www.otsuka.co.jp/en/company/newsreleases/2026/20260629_1.html",
-        "anchor_text": "29 JUN 2026NewNutraceuticalsJoint Research with Tohoku UniversityEstablishment of a Collaborative Research Program on Water Turnover and Total Conditioning",
+        "anchor_text": "29 JUN 2026NutraceuticalsJoint Research with Tohoku UniversityEstablishment of a Collaborative Research Program on Water Turnover and Total Conditioning",
         "score": 80
       },
       {
@@ -52857,6 +52541,11 @@
     "press_url": "https://www.kyowakirin.com/media_center/news_releases/",
     "candidate_links": [
       {
+        "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260609_01.html",
+        "anchor_text": "Kyowa Kirin Publishes “Integrated Report 2025”",
+        "score": 83
+      },
+      {
         "url": "https://www.kyowakirin.com/media_center/news_releases/2026/e20260513_01.html",
         "anchor_text": "Kura Oncology and Kyowa Kirin to Present Updated Frontline Ziftomenib / 7+3 Combination Data at EHA 2026 Congress",
         "score": 83
@@ -52943,7 +52632,7 @@
       },
       {
         "url": "https://www.kyowakirin.com/privacy_policy/index.html",
-        "anchor_text": "Privacy Policy.",
+        "anchor_text": "More information",
         "score": 30
       },
       {
@@ -56000,6 +55689,11 @@
     "press_url": "https://www.celltrion.com/en-us/company/media-center",
     "candidate_links": [
       {
+        "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4844",
+        "anchor_text": "Celltrion’s Vegzelma completes formulary listings with two major U.S. PBMs, expanding reimbursement access to drive further U.S. growth2026.07.07- Completed formulary listings with ESI’s public and private insurance plans and Optum’s public insurance plan, securing reimbursement coverage across 35% of the total U.S. insurance market- Vegzelma recorded 10.6% market share in the U.S. bevacizumab sector in May, with rapid growth expected through expanded reimbursement access- High-margin follow-up products including Omlyclo are scheduled to launch in the U.S. in H2, building on the performance of Celltrion’s existing portfolio [July 7, 2026, KST] Celltrion today announced that Vegzelma (bevacizumab), its treatment for metastatic colorectal cancer and breast cancer, has successfully secured formulary listings with two major pharmacy benefit managers (PBMs) in the United States, establishing a foundation for reimbursement coverage. As Vegzelma has already achieved a market share of over 10% through ‘open market’-focused sales activities, this latest achievement is expected to further accelerate its market share expansion.Vegzelma has recently been listed as a preferred drug on the government and commercial insurance formularies of Express Scripts (ESI), one of the top three PBMs in the United States, as well as on the government insurance formulary of Optum, another major PBM. Reimbursement coverage for ESI government plans and Optum has already taken effect from July 1, while reimbursement coverage for ESI commercial plans is scheduled to begin in January next year.In the U.S. pharmaceutical market, the top three PBMs hold significant influence, accounting for approximately 80% of the total insurance market. If a drug is not listed on formularies managed by PBMs, patients are required to purchase the product at its full price without reimbursement, making access to high-cost treatments practically difficult. Through these PBM formulary listings, Vegzelma has secured reimbursement coverage across more than 35% of the U.S. insurance market, establishing a stable foundation for prescription growth.According to IQVIA, Vegzelma recorded approximately 10.6% market share in the U.S. bevacizumab sector as of May, surpassing double-digit market share for the first time since launch and continuing its growth momentum. This result was achieved through Celltrion USA’s focused strategy targeting the U.S. bevacizumab open market and is considered particularly meaningful as Vegzelma delivered strong performance despite entering the market as a latecomer in a highly competitive environment.The open market is a channel supported by the U.S. government that directly connects healthcare institutions and pharmaceutical companies, where a company’s sales capabilities and product competitiveness serve as key factors for market penetration. With these formulary listings, Vegzelma is expected to further accelerate its market share growth by adding new reimbursement access from insurers to the existing growth momentum generated in the open market. Celltrion plans to continue pursuing formulary listing negotiations with other major PBMs to further strengthen Vegzelma’s growth trajectory.In addition to Vegzelma, Celltrion’s other key products, including SteQeyma (ustekinumab) and Yuflyma (adalimumab), are also continuing to perform well in the U.S. market. The two products recorded market shares of 13.3% and 8.1%, respectively, in the U.S. in May, demonstrating stable prescription growth. Also, SteQeyma ranked second in prescription volume among ustekinumab biosimilars despite intense competition following the launch of seven biosimilar products, underscoring the direct sales competitiveness of Celltrion USA.Alongside the performance of its existing products, Celltrion’s U.S. revenue growth is expected to continue as high-margin follow-up products are launched. In the second half of the year, the subcutaneous (SC) formulation of Avtozma (tocilizumab), a treatment for autoimmune diseases, and Omlyclo (omalizumab) are scheduled to be newly launched in the U.S., further strengthening the company’s portfolio. Also, Omlyclo is expected to launch in the U.S. as a first-mover omalizumab biosimilar, positioning it to rapidly capture the market based on its competitive advantage.“Vegzelma has secured a reimbursement foundation in the U.S. by being listed as a preferred drug on the formularies of major PBMs with significant market influence, and we expect this to further accelerate prescription growth,” said an official from Celltrion. “We will continue to pursue formulary listing negotiations with other major PBMs to build on Vegzelma’s achievements, while strengthening the sales performance of Celltrion’s broader portfolio and expanding our market influence in the United States.”",
+        "score": 66
+      },
+      {
         "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4841",
         "anchor_text": "Celltrion Reports Preliminary Q2 2026 Revenue of KRW 1.3Tn and Operating Profit of KRW 430Bn… Achieving Record-High Second-Quarter Performance, Raising Expectations for Full-Year Target Outperformance2026.07.03Celltrion Revenue increased 35.2% YoY and operating profit surged 77.3%, marking the highest second-quarter performance in the company's history.High-margin newer portfolio exceeded 60% of total revenue, driving improved product mix and operating margin expansion to approximately 33%.Continued growth across the U.S. and Europe, supported by manufacturing expansion and pipeline advancement, further strengthens long-term growth foundation.Second consecutive quarter of outperforming market expectations, with further growth anticipated during the industry’s peak season in the second half. INCHEON, South Korea – Celltrion today announced that it recorded preliminary consolidated revenue of KRW 1.3 trillion and operating profit of KRW 430 billion for the second quarter of 2026. The results represent the strongest second-quarter performance in the company's history, with revenue increasing 35.2% year over year (YoY) and operating profit rising 77.3% YoY. Operating margin also improved significantly from 25% in the prior-year period to approximately 33%, demonstrating both continued top-line growth and improved profitability. The quarter was particularly meaningful as it reflected not only higher sales but also qualitative grwoth driven by a greater contribution from high-margin products and structurally improved cost base. Following its strong first-quarter performance, Celltrion once again exceeded market expectations in the second quarter, underscoring the growing commercial impact of its business competitiveness. The company also surpassed its previously announced second-quarter operating profit target of KRW 400 billion, which had been presented in its business outlook and management plan disclosed earlier this year, further strengthening confidence in the execution of its annual business plan. Furthermore, considering the seasonal characteristics of the biosimilar industry, in which supply volumes for major national tenders and year-end inventory stocking demand are concentrated in the second half of the year, sales growth is expected to accelerate further during the remainder of the year. As a result, expectations are increasing that the company will exceed its full-year performance targets. Transition toward High-Margin Young Portfolio Accelerates Structural Profitability Improvement The strong performance was driven by the rapid growth of newly launched high-margin products in addition to solid sales of the company’s existing flagship products, accelerating the transformation of its product portfolio toward higher-value offerings. Newer products including Remsima SC(marketed as Zymfentra in the U.S.), Yuflyma, and Steqeyma continued to deliver strong growth across major global markets, with the newer portfolio accounting for more than 60% of total revenue.Zymfentra continued to achieve record-high prescription volumes in the United States, while Steqeyma rapidly expanded its market share and established itself among the leading competitors in the U.S. market. Avtozma and Stoboclo/Osenvelt also successfully gained market traction and are emerging as new growth drivers. In Europe, Omlyclo continued to benefit from its first-mover advantage, while Vegzelma maintained its leading market position despite being a later entrant. Avtozma, Yuflyma, and Stoboclo/Osenvelt have also entered a phase of accelerated sales growth and are expected to become key contributors to second-half performance. Profitability is also improving structurally. As most one-off costs associated with the merger have been resolved, the completion of high-cost inventory clearance, the end of R&D amortization, and improved manufacturing yield(Titer Improvement) collectively enhanced the company's cost competitiveness. Celltrion believes these profitability improvements are structural rather than temporary, supported by a higher-margin product mix and improved manufacturing efficiency, providing a solid foundation for sustainable earnings growth. Strengthening Biosimilars, Novel Drug Pipeline, and Manufacturing Capacity to Support Long-Term Growth Beyond its strong financial performance, Celltrion continues to strengthen its long-term growth platform. CT-P55, a biosimilar referencing Cosentyx for autoimmune diseases, is currently undergoing regulatory review in Korea, North America, and other key markets, while regulatory submissions for Herzuma SC are progressing sequentially across major global markets. Development of follow-on biosimilars referencing Keytruda and Darzalex is also progressing as planned. The company plans to expand its biosimilar portfolio to 18 products by 2030 and 41 products by 2038. Novel drug development is also advancing steadily. CT-P70 and CT-P71 have both received U.S. FDA Fast Track Designation, accelerating their clinical development. Celltrion continues to expand R&D investment with the goal of securing a portfolio of 20 novel drug candidates by next year. To support its expanding product portfolio, Celltrion is simultaneously strengthening its global manufacturing network. In Korea, the company is constructing Plants 4 and 5, adding 180,000 liters of drug substance (DS) manufacturing capacity to its existing 250,000-liter production base. In the United States, Celltrion recently announced a 75,000-liter expansion of its Branchburg manufacturing facility in New Jersey, increasing total U.S. capacity to 141,000 liters. The expansion of its U.S. manufacturing site is expected to structurally mitigate tariff and supply chain risks while establishing a stronger foundation for the company's global contract manufacturing (CMO) business, ultimately supporting the company's long-term growth and enterprise value. A Celltrion official said, \"Our second-quarter performance demonstrates that our strategy of expanding the newer product portfolio while improving profitability has begun to deliver meaningful results.\" The official added, \"We continue to strengthen our sustainable growth foundation by simultaneously expanding our product portfolio, enhancing manufacturing capabilities, and accelerating novel drug development. As major tender opportunities and continued momentum from newly launched products are expected to support stronger performance in the second half, we remain confident in delivering results that surpass those of the first half while further strengthening our competitiveness as a global biopharmaceutical leader.\".",
         "score": 66
@@ -56007,11 +55701,6 @@
       {
         "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4789",
         "anchor_text": "Celltrion Initiates Primate Toxicology Study for Potential First-in-Class Quadruple-Action Obesity Candidate, Targets IND submission in the first half of next year as Celltrion advances a metabolic disease platform beyond obesity2026.05.29Designed to address limitations of current GLP-1 therapies by maximizing weight reduction while supporting preservation of muscle mass.Comprehensive toxicology studies, including primate studies, are underway as the program enters the final preclinical stage ahead of global clinical development.Positioned as a next-generation platform candidate with potential applicability across obesity, diabetes, and broader metabolic disease indications.Strategic collaboration with Japan-based Scohia Pharma supports development, with Celltrion expected to lead global development and commercialization.Expands Celltrion’s innovative pipeline beyond biosimilars into obesity, ADCs, and other novel therapeutics, reinforcing mid- to long-term growth drivers. INCHEON, South Korea – Celltrion today announced the initiation of primate toxicology studies for its next-generation obesity drug candidate, CT-G32, representing the final preclinical step prior to global clinical development. The company is advancing the program toward submission of an Investigational New Drug (IND) application in the first half of next year.CT-G32 is a next-generation obesity candidate designed to simultaneously engage four targets, including GLP-1 (glucagon-like peptide-1), and is being advanced by Celltrion as a potential first-in-class therapeutic. The candidate is intended to address key limitations observed in the current GLP-1 treatment landscape, including variability in patient response, muscle loss, and treatment durability, while enhancing overall weight reduction efficacy.As the global obesity therapeutics market is projected to exceed USD 100 billion, competition to secure next-generation multi-agonist mechanisms continues to intensify across the pharmaceutical industry. Celltrion aims to position CT-G32 beyond a conventional weight-loss therapy and develop it as a broader metabolic disease platform capable of regulating fat, muscle, and overall energy metabolism.Under the current toxicology program, Celltrion will assess the safety and toxicity profile of CT-G32 in 252 rats and 48 monkeys. The study is expected to provide critical data to support dose selection and safety evaluation for future clinical trials. In parallel, the company plans to further characterize the candidate’s pharmacokinetic (PK) and pharmacodynamic (PD) profile.In earlier preclinical studies, CT-G32 demonstrated superior weight reduction at equivalent doses relative to a benchmark candidate previously under development, while also showing preservation of lean body mass, including muscle.Based on these preclinical findings, Celltrion intends to submit an IND application in the first half of next year and subsequently advance CT-G32 into global clinical development. The company is also evaluating the potential to expand the candidate beyond obesity into additional metabolic disease indications, including diabetes and metabolic dysfunction-associated steatohepatitis (MASH).To support this program, Celltrion has established a strategic collaboration framework with Japan-based Scohia Pharma and is jointly advancing development activities. Celltrion expects to play a leading role across the full value chain, including preclinical and clinical development as well as global commercialization, in order to strengthen its long-term competitiveness in the global market.In parallel with its quadruple-action injectable program, Celltrion is also developing a multi-action oral obesity candidate. Through differentiated treatment options across stages of care, the company seeks to maximize portfolio synergies and build a broader presence in the obesity therapeutics market. Research is currently underway to improve stability and bioavailability, with IND submission for the oral candidate targeted for the second half of 2028.A Celltrion official said, “CT-G32 is being developed as a next-generation candidate intended to address the limitations of current GLP-1-based therapies while extending Celltrion’s reach beyond obesity into broader metabolic disease areas.” The official added, “Leveraging the global development and manufacturing capabilities established through our biosimilar business, Celltrion will continue to expand its innovative pipeline in areas including obesity and ADCs in support of sustainable mid- to long-term growth.”",
-        "score": 66
-      },
-      {
-        "url": "https://www.celltrion.com/en-us/company/media-center/press-release/4740",
-        "anchor_text": "Celltrion to present seven abstracts in inflammatory bowel disease (IBD) at 2026 Digestive Disease Week® (DDW)2026.04.22Seven abstracts accepted for presentation include data from long-term follow-up studies and a post-hoc analysis of the pivotal LIBERTY studies (LIBERTY-CD and LIBERTY-UC) of ZYMFENTRA® (infliximab-dyyb)Findings emphasize clinical decision-making in long-term management of inflammatory bowel disease (IBD), reinforcing Celltrion's commitment to elevating the standard of care and addressing unmet medical need in gastroenterology INCHEON, South Korea, April 21, 2026 Celltrion, Inc. today announced that seven abstracts will be presented at the 2026 Digestive Disease Week® (DDW) Annual Meeting, taking place May 2-5 in Chicago, Illinois. The oral and poster presentations will feature data including post-hoc analysis of its pivotal LIBERTY studies (LIBERTY-CD and LIBERTY-UC) of ZYMFENTRA®, the first and only FDA-approved subcutaneous infliximab. \"The findings provide additional evidence that disease control can be effectively recaptured with a convenient subcutaneous option, with the potential to advance the treatment paradigm for people living with Crohn's disease and ulcerative colitis,\" said Juby Jacob-Nara, Senior Vice President and Chief Medical Officer at Celltrion USA. \"The research Celltrion is presenting at DDW reflects our ongoing commitment to transforming IBD care through innovative therapies that improve patient outcomes.\" Celltrion is driving scientific discovery and expanding access to comprehensive clinical and real-world evidence to support informed treatment decisions in an increasingly complex and evolving IBD landscape. The details of Celltrion's abstracts are as follows: Abstract TitlePresentation DetailsAll times CTPROFILE 4-year follow-up shows that earlyeffective \"top-down\" therapy is associated withreduced long-term Crohn's disease complications Oral PresentationLate Breakers in IBDTuesday, May 5, 2026/ 10:00 AM –10:15 AM Randomised controlled trial of withdrawal ofthiopurines in patients with IBD switching fromintravenous to subcutaneous infliximab: Resultsof the MINIMISE study Oral PresentationIBD: Controlled Clinical Trials 2Tuesday, May 5, 2026/ 8:30 AM –8:45 AM Randomised controlled trial of continuedintravenous versus switching to subcutaneousinfliximab in inflammatory bowel disease: theSubcutaneous Infliximab Switch Study (SISS) Oral PresentationIBD: Controlled Clinical Trials 2Tuesday, May 5, 2026/ 8:00 AM–8:15 AM Comparison of effectiveness betweensubcutaneous infliximab as monotherapy orcombined with an immunosuppressant in patientswith Crohn's disease: interim results from theREMONO-CD study Oral Presentation #537Comparative Effectiveness in IBDSunday May 3, 2026 / 4:30PM –4:45PM Long-term effectiveness, safety, acceptability, andprogression of bowel damage of switching fromintravenous to subcutaneous infliximab inpatients with inflammatory bowel diseasestreated with intensified doses: The REMSWITCH-VLT study Oral PresentationAdvances in Medical Therapy of IBDTuesday, May 5, 2026/ 4:45 PM –5:00 PM Recapturing disease control with subcutaneousinfliximab after a drug holiday followingintravenous infliximab induction: A post hocanalysis of LIBERTY-CD and -UC studies Poster PresentationInflammatory Bowel Disease ePoster ShowcaseSunday, May 3, 2026/11:57 AM –12:03 PM Subcutaneous infliximab (CT-P13 SC) asmaintenance therapy for Crohn's disease in Japan:Safety and efficacy over 44 weeks ePoster (online only)  Notes to Editors: About ZYMFENTRA® (infliximab-dyyb) ZYMFENTRA® (infliximab-dyyb) is a prescription medicine used as an injection under the skin (subcutaneous injection) by adults for the maintenance treatment of moderately-to-severely active ulcerative colitis following treatment with an infliximab product given by intravenous infusion (IV), Moderately-to-severely active Crohn's disease following treatment with an infliximab product given by intravenous infusion (IV). ZYMFENTRA blocks the action of tumor necrosis factor-alpha (TNF-alpha), a protein that can be overproduced in response to certain diseases and cause the immune system to attack normal, healthy parts of the body. ZYMFENTRA was approved by the FDA through the Biologics License Application (BLA) under the 351 (a) pathway of the Public Health Service Act (a \"stand-alone\" BLA). ZYMFENTRA is considered a new biologic with a first-approved subcutaneous administration form and thus will be under patent protection for its dosage form by 2037 and for its route of administration by 2040. Indication and Important Safety Information ZYMFENTRA® is a prescription medicine indicated in adults for maintenance treatment of: Moderately-to-severely active Crohn's disease following treatment with an infliximab product administered intravenously.Moderately-to-severely active ulcerative colitis following treatment with an infliximab product administered intravenously. It is not known if ZYMFENTRA is safe and effective in children under 18 years of age. What is the most important information I should know about ZYMFENTRA? SERIOUS INFECTIONS Patients treated with ZYMFENTRA are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death. Discontinue ZYMFENTRA if a patient develops a serious infection or sepsis. Reported infections include: Active tuberculosis (TB), including reactivation of latent TB. Patients frequently presented with disseminated or extrapulmonary disease. Patients should be tested for latent TB before and during treatment with ZYMFENTRA. Treatment for latent infection should be initiated prior to treatment with ZYMFENTRA.Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis. Patients may present with disseminated, rather than localized, disease. Empiric anti-fungal therapy should be considered in patients at risk for invasive fungal infections who develop severe systemic illness.Bacterial, viral, and other infections due to opportunistic pathogens, including Legionella and Listeria. The risks and benefits of treatment with ZYMFENTRA should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection. Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ZYMFENTRA, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy. Risk of infection may be higher in patients greater than 65 years of age, patients with comorbid conditions and/or patients taking concomitant immunosuppressant therapy. In clinical trials, other serious infections observed in patients treated with infliximab included arthritis bacterial, pneumonia, and urinary tract infection. MALIGNANCIES Malignancies, some fatal, have been reported in children, adolescents, and young adults treated with TNF blockers, including infliximab products.Approximately half of these cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma. The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression and malignancies that are not usually observed in children and adolescents. The malignancies occurred after a median of 30 months after the first dose of therapy. Most of the patients were receiving concomitant immunosuppressants. Post-marketing cases of hepatosplenic T-cell lymphoma, a rare type of T-cell lymphoma, have been reported in patients treated with TNF blockers, including infliximab products. These cases have had a very aggressive disease course and have been fatal. The majority of reported cases have occurred in patients with Crohn's disease or ulcerative colitis, and most were in adolescent and young adult males. Almost all of these patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis. Carefully assess the risks and benefits of treatment with ZYMFENTRA, especially in these patient types. In clinical trials of all TNF blockers, more cases of malignancies were observed compared with controls and the expected rate in the general population. In clinical trials of some TNF blockers, including infliximab products, more cases of other malignancies were observed compared with controls. As the potential role of TNF blocker therapy in the development of malignancies is not known, caution should be exercised when considering treatment of patients with a current or a past history of malignancy. Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF blocker therapy, including infliximab products. Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer. CONTRAINDICATIONS ZYMFENTRA is contraindicated in patients with a previous severe hypersensitivity reaction to infliximab-dyyb, other infliximab products, any of the inactive ingredients of ZYMFENTRA or any murine proteins (severe hypersensitivity reactions have included anaphylaxis, hypotension and serum sickness). HEPATITIS B VIRUS REACTIVATION TNF blockers, including infliximab products, have been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic carriers. Some cases were fatal. Patients should be tested for HBV infection before initiating ZYMFENTRA. For patients who test positive, consult a physician with expertise in the treatment of hepatitis B. Exercise caution when prescribing ZYMFENTRA for patients identified as carriers of HBV and monitor closely for active HBV infection during and following termination of therapy with ZYMFENTRA. Discontinue ZYMFENTRA in patients who develop HBV reactivation and initiate antiviral therapy with appropriate supportive treatment. Exercise caution when considering resumption of ZYMFENTRA and monitor patients closely. HEPATOTOXICITY Hepatobiliary disorders, including acute liver failure, jaundice abnormal hepatic function, hepatic steatosis, hepatitis, hepatotoxicity, hyperbilirubinemia and non-alcoholic fatty liver, have been reported in patients receiving infliximab products post-marketing. Some cases were fatal or required liver transplant. Aminotransferase elevations were not noted prior to discovery of liver injury in many cases. Patients with symptoms or signs of liver dysfunction should be evaluated for evidence of liver injury. If jaundice and/or marked liver enzyme elevations (eg, ≥5 times the upper limit of normal) develop, ZYMFENTRA should be discontinued and a thorough investigation of the abnormality should be undertaken. CONGESTIVE HEART FAILURE Cases of worsening congestive heart failure (CHF) and new onset CHF have been reported with TNF blockers. Some cases had a fatal outcome. In several exploratory trials of other TNF blockers in the treatment of CHF, there were greater proportions of TNF-blocker-treated patients who had CHF exacerbations requiring hospitalization or increased mortality. ZYMFENTRA has not been studied in patients with a history of CHF and ZYMFENTRA should be used with caution in patients with CHF. HEMATOLOGIC REACTION Cases of leukopenia, neutropenia, thrombocytopenia and pancytopenia (some fatal) have been reported. The causal relationship to infliximab-product therapy remains unclear. Exercise caution in patients who have ongoing or a history of significant hematologic abnormalities. Advise patients to seek immediate medical attention if they develop signs and symptoms of blood dyscrasias or infection. Consider discontinuation of ZYMFENTRA in patients who develop significant hematologic abnormalities. HYPERSENSITIVITY AND OTHER ADMINISTRATION REACTIONS In post-marketing experience, serious systemic hypersensitivity reactions (including anaphylaxis, hypotension and serum sickness) have been reported following administration of infliximab products. If an anaphylactic or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue ZYMFENTRA. INJECTION SITE REACTIONS In clinical studies, localized injection-site reactions were reported following administration of ZYMFENTRA. If a clinically significant injection-site reaction occurs, institute appropriate therapy and discontinue ZYMFENTRA. NEUROLOGIC REACTIONS Agents that inhibit TNF have been associated with central nervous system (CNS) manifestation of systemic vasculitis, seizure and new onset or exacerbation of CNS demyelinating disorders, including multiple sclerosis and optic neuritis and peripheral demyelinating disorders, including Guillain-Barré syndrome. Exercise caution when considering ZYMFENTRA in patients with these disorders and consider discontinuation if these disorders develop. RISK OF INFECTION WITH CONCURRENT ADMINISTRATION OF OTHER BIOLOGICS PRODUCTS Serious infections and neutropenia have been reported with concurrent use of ZYMFENTRA with other immunosuppressive biological products. The concurrent use of ZYMFENTRA with other immunosuppressive biological products used to treat UC and CD may increase the risk of infection and is not recommended. RISK OF ADDITIVE IMMUNOSUPPRESSIVE EFFECTS FROM PRIOR BIOLOGICAL PRODUCTS Consider the half-life and mode of action of prior biological products to avoid unintended additive immunosuppressive effects when initiating ZYMFENTRA. AUTOIMMUNITY Treatment with TNF blockers may result in the formation of autoantibodies and in the development of a lupus-like syndrome. Discontinue ZYMFENTRA treatment if symptoms of a lupus-like syndrome develop. VACCINATIONS AND USE OF LIVE VACCINES/THERAPEUTIC INFECTIOUS AGENTS Prior to initiating ZYMFENTRA, update vaccinations in accordance with current vaccination guidelines. Live vaccines or therapeutic infectious agents should not be given with ZYMFENTRA due to the possibility of clinical infections, including disseminated infections. At least a 6-month waiting period following birth is recommended before the administration of any live vaccine to infants exposed in utero to ZYMFENTRA. ADVERSE REACTIONS In clinical trials with ZYMFENTRA, the most common adverse reactions occurring in ≥3% of ZYMFENTRA-treated patients included site reactions, COVID-19, anemia, arthralgia, infection site reaction, increased alanine aminotransferase and abdominal pain for UC, and COVID-19, headache, upper respiratory tract infection, injection site reaction, diarrhea, increased blood creatine phosphokinase, arthralgia, increased alanine aminotransferase, hypertension, urinary tract infection, neutropenia, dizziness and leukopenia for CD. Please click for Full U.S. Prescribing Information. Globally, prescribing information varies; refer to the individual country product label for complete information.About Digestive Disease Week® Digestive Disease Week® (DDW) is the largest international gathering of physicians, researchers and academics in the fields of gastroenterology, hepatology, endoscopy and gastrointestinal surgery. Jointly sponsored by the American Association for the Study of Liver Diseases (AASLD), the American Gastroenterological Association (AGA), the American Society for Gastrointestinal Endoscopy (ASGE) and the Society for Surgery of the Alimentary Tract (SSAT), DDW is an in-person and online meeting from May 2-5, 2026. More information can be found at www.ddw.org About Celltrion, Inc. Celltrion is a leading biopharmaceutical company that specializes in researching, developing, manufacturing, marketing and sales of innovative therapeutics that improve people's lives worldwide. Celltrion is a pioneer in the biosimilar space, having launched the world's first monoclonal antibody biosimilar. Our global pharmaceutical portfolio addresses a range of therapeutic areas including immunology, oncology, hematology, ophthalmology and endocrinology. Beyond biosimilar products, we are committed to advancing our pipeline with novel drugs to push the boundaries of scientific innovation and deliver quality medicines. For more information, please visit our website www.celltrion.com/en-us. and stay updated with our latest news and events on our social media: LinkedIn, Instagram, X, and Facebook. About Celltrion USA Celltrion USA is Celltrion's U.S. subsidiary established in 2018. Headquartered in New Jersey, Celltrion USA is committed to expanding access to innovative biologics to improve care for U.S. patients. Celltrion's FDA-approved biosimilar products in immunology, oncology, hematology, and endocrinology include: INFLECTRA® (infliximab-dyyb), TRUXIMA® (rituximab-abbs), HERZUMA® (trastuzumab-pkrb), VEGZELMA® (bevacizumab-adcd), YUFLYMA®(adalimumab-aaty), AVTOZMA® (tocilizumab-anho), STEQEYMA® (ustekinumab-stba), STOBOCLO® (denosumab-bmwo), OSENVELT® (denosumab-bmwo), OMLYCLO® (omalizumab-igec), and EYDENZELT® (aflibercept-boav) as well as the novel biologic ZYMFENTRA® (infliximab-dyyb).Celltrion USA will continue to leverage Celltrion's unique heritage in biotechnology, supply chain excellence and best-in-class sales capabilities to improve access to high-quality biopharmaceuticals for U.S. patients. For more information, please visit www.celltrionusa.com and stay updated with our latest news and events on our social media: LinkedIn. FORWARD-LOOKING STATEMENT Certain information set forth in this press release contains statements related to our future business and financial performance and future events or developments involving Celltrion, Inc. and its subsidiaries that may constitute forward-looking statements under pertinent securities laws. This press release contains forward looking statements. These statements may be also identified by words such as \"prepares\", \"hopes to\", \"upcoming\", \"plans to\", \"aims to\", \"to be launched\", \"is preparing\", \"once gained\", \"could\", \"with the aim of\", \"may\", \"once identified\", \"will\", \"working towards\", \"is due\", \"become available\", \"has potential to\", \"anticipate\" the negative of these words or such other variations thereon or comparable terminology. In addition, our representatives may make oral forward-looking statements. Such statements are based on the current expectations and certain assumptions of Celltrion, Inc. and its subsidiaries' management, of which many are beyond its control. Forward-looking statements are provided to allow potential investors the opportunity to understand management's beliefs and opinions in respect of the future so that they may use such beliefs and opinions as one factor in evaluating an investment. These statements are not guarantees of future performance and undue reliance should not be placed on them. Such forward-looking statements necessarily involve known and unknown risks and uncertainties associated with the company's business, including the risk factors disclosed in its Annual Report and/or Quarterly Reports, which may cause actual performance and financial results in future periods to differ materially from any projections of future performance or results expressed or implied by such statements. Celltrion, Inc. and its subsidiaries undertake no obligation to update forward-looking statements if circumstances or management's estimates or opinions should change except as required by applicable securities laws. For further information please contact: Brendi Bluittbbluitt@jpa.com    +1 202-545-7722 SOURCE Celltrion",
         "score": 66
       },
       {
@@ -56978,72 +56667,6 @@
     ]
   },
   {
-    "company": "Monte Rosa Therapeutics",
-    "press_url": "https://www.monterosatx.com/news/",
-    "candidate_links": [
-      {
-        "url": "https://www.monterosatx.com/privacy-policy",
-        "anchor_text": "Privacy Policy",
-        "score": 27
-      },
-      {
-        "url": "https://www.monterosatx.com/terms-of-use",
-        "anchor_text": "Terms of Use",
-        "score": 25
-      },
-      {
-        "url": "https://www.monterosatx.com/news/index.html",
-        "anchor_text": "Monte Rosa Therapeutics",
-        "score": 20
-      },
-      {
-        "url": "https://www.monterosatx.com/presentations/",
-        "anchor_text": "Presentations",
-        "score": 19
-      },
-      {
-        "url": "https://www.monterosatx.com/pipeline/",
-        "anchor_text": "Pipeline",
-        "score": 14
-      },
-      {
-        "url": "https://www.monterosatx.com/contact/",
-        "anchor_text": "Contact",
-        "score": 13
-      },
-      {
-        "url": "https://www.monterosatx.com/science/",
-        "anchor_text": "Science",
-        "score": 13
-      },
-      {
-        "url": "https://www.monterosatx.com/careers/",
-        "anchor_text": "Careers",
-        "score": 13
-      },
-      {
-        "url": "https://www.monterosatx.com/search/",
-        "anchor_text": "Search",
-        "score": 12
-      },
-      {
-        "url": "https://www.monterosatx.com/about/",
-        "anchor_text": "About",
-        "score": 11
-      },
-      {
-        "url": "https://www.monterosatx.com/news/",
-        "anchor_text": "News",
-        "score": 10
-      },
-      {
-        "url": "https://www.monterosatx.com/",
-        "anchor_text": "Monte Rosa Therapeutics",
-        "score": 3
-      }
-    ]
-  },
-  {
     "company": "KaryoPharm Therapeutics",
     "press_url": "https://investors.karyopharm.com/press-releases",
     "candidate_links": [
@@ -57798,6 +57421,11 @@
       {
         "url": "https://ir.novavax.com/press-releases#ot-preferences-link",
         "anchor_text": "Your Privacy Choices",
+        "score": 27
+      },
+      {
+        "url": "https://ir.novavax.com/cookies-policy",
+        "anchor_text": "More information",
         "score": 27
       },
       {
@@ -59356,6 +58984,11 @@
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-Phase-II-Data-Demonstrating-Immune-Reprogramming-and-Durable-Survival-with-Botensilimab-Balstilimab-and-agenT-797-in-PD-1-Refractory-Gastroesophageal-Cancer/default.aspx",
         "anchor_text": "Read More",
         "score": 253
+      },
+      {
+        "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-Reports-Landmark-BOTBAL-Data-Showing-33-Three-Year-Overall-Survival-in-Refractory-MSS-Metastatic-Colorectal-Cancer-Without-Active-Liver-Metastases-at-ESMO-GI-2026/default.aspx",
+        "anchor_text": "Read More",
+        "score": 251
       },
       {
         "url": "https://investor.agenusbio.com/news/news-details/2026/Agenus-and-Noetik-Present-ASCO-2026-Data-Linking-AI-Analysis-of-Routine-Pretreatment-Tumor-Pathology-Images-to-Response-and-Survival-with-BOTBAL-in-MSS-Metastatic-CRC/default.aspx",
@@ -64197,14 +63830,14 @@
         "score": 145
       },
       {
-        "url": "https://cresset-group.com/news/ai-unlocks-unparalleled-efficiency-gains-in-flare-v11-cressets-leading-software-solution-for-digital-molecular-discovery/",
-        "anchor_text": "",
-        "score": 143
-      },
-      {
         "url": "https://cresset-group.com/news/cresset-releases-flare-v12-to-cut-synthesis-and-testing-cycles-with-faster-more-flexible-fep/",
         "anchor_text": "",
         "score": 115
+      },
+      {
+        "url": "https://cresset-group.com/event/whats-new-in-flare-v12-significant-enhancements-to-fep-and-structure-based-methods/",
+        "anchor_text": "",
+        "score": 106
       },
       {
         "url": "https://cresset-group.com/news/cresset-acquires-molab-ai-to-advance-digitization-of-drug-discovery/",
@@ -64285,6 +63918,11 @@
         "url": "https://cresset-group.com/news/cresset-newsletter-august-2025/",
         "anchor_text": "Read More",
         "score": 53
+      },
+      {
+        "url": "https://cresset-group.com/event/ai-in-drug-discovery-xchange/",
+        "anchor_text": "",
+        "score": 52
       },
       {
         "url": "https://cresset-group.com/news/cresset-newsletter-july-2025/",
@@ -64414,6 +64052,11 @@
       {
         "url": "https://cresset-group.com/about/contact-us/",
         "anchor_text": "Request demo",
+        "score": 34
+      },
+      {
+        "url": "https://cresset-group.com/event/acs-fall-2/",
+        "anchor_text": "",
         "score": 34
       },
       {
@@ -66598,14 +66241,14 @@
         "score": 71
       },
       {
+        "url": "https://www.abridge.com/blog/rady-childrens-health-ai-adoption-cerner",
+        "anchor_text": "Read more",
+        "score": 60
+      },
+      {
         "url": "https://www.abridge.com/blog/adventist-health-ai-adoption-cerner",
         "anchor_text": "Read more",
         "score": 55
-      },
-      {
-        "url": "https://www.abridge.com/blog/scaling-open-ai-gpt-models-nursing",
-        "anchor_text": "Read more",
-        "score": 54
       },
       {
         "url": "https://www.abridge.com/blog/geisinger-ambient-ai-adoption",
@@ -68201,13 +67844,13 @@
         "score": 28
       },
       {
-        "url": "https://www.nuclera.com/latest-news/",
-        "anchor_text": "News",
+        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
+        "anchor_text": "Skip to content",
         "score": 27
       },
       {
-        "url": "https://www.nuclera.com/latest-news/#fl-main-content",
-        "anchor_text": "Skip to content",
+        "url": "https://www.nuclera.com/latest-news/",
+        "anchor_text": "News",
         "score": 27
       },
       {
@@ -71671,11 +71314,6 @@
         "score": 168
       },
       {
-        "url": "https://crinetics.com/press-releases/crinetics-pharmaceuticals-announces-submission-of-marketing-authorization-application-in-brazil-for-palsonify-paltusotine-in-acromegaly/",
-        "anchor_text": "READ MORE",
-        "score": 168
-      },
-      {
         "url": "https://crinetics.com/press-releases/crinetics-and-leading-patient-groups-launch-everyday-advocacy-initiative-to-empower-people-across-endocrine-disease-communities/",
         "anchor_text": "READ MORE",
         "score": 160
@@ -71749,6 +71387,11 @@
         "url": "https://crinetics.com/events/crinetics-to-participate-in-td-cowen-46-annual-health-care-conference-2/",
         "anchor_text": "Crinetics to Participate in TD Cowen 46 Annual Health Care Conference",
         "score": 96
+      },
+      {
+        "url": "https://crinetics.com/press-releases/vertex-to-acquire-crinetics-pharmaceuticals/",
+        "anchor_text": "READ MORE",
+        "score": 76
       },
       {
         "url": "https://crinetics.com/events/webcast-crinetics-pharmaceuticals-corporate-update/",
@@ -75973,6 +75616,11 @@
     "candidate_links": []
   },
   {
+    "company": "Vimta Labs",
+    "press_url": "https://vimta.com/investors/announcements/",
+    "candidate_links": []
+  },
+  {
     "company": "T-Hub",
     "press_url": "https://t-hub.co/media/",
     "candidate_links": []
@@ -77452,903 +77100,7 @@
   {
     "company": "Merck KGaA",
     "press_url": "https://www.merckgroup.com/en/news/press-releases.html",
-    "candidate_links": [
-      {
-        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow/smart-manufacturing-transforming-the-factory-shopfloor.html",
-        "anchor_text": "Company Info",
-        "score": 127
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development/healthcare/clinical-trials.html",
-        "anchor_text": "Clinical Trials",
-        "score": 105
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/delivery-systems-and-services.html",
-        "anchor_text": "Delivery Systems and Services",
-        "score": 93
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines/sustainability-statement.html",
-        "anchor_text": "Sustainability Statement",
-        "score": 89
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/compliance/compliance-hotline.html",
-        "anchor_text": "Company Info",
-        "score": 89
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/metrology-and-inspection.html",
-        "anchor_text": "Metrology and Inspection",
-        "score": 88
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/semiconductors/custom-innovation/intermolecular.html",
-        "anchor_text": "Intermolecular®",
-        "score": 86
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/events-and-presentations/annual-general-meeting.html",
-        "anchor_text": "Company Info",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-algeria.html",
-        "anchor_text": "Algeria",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-tunisia.html",
-        "anchor_text": "Tunisia",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa/merck-in-morocco.html",
-        "anchor_text": "Morocco",
-        "score": 84
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-east-africa/merck-in-ethiopia.html",
-        "anchor_text": "Ethiopia",
-        "score": 81
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/futureinsightprize_streaming.html",
-        "anchor_text": "Future Insight Prize",
-        "score": 80
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-east-africa/merck-in-nigeria.html",
-        "anchor_text": "Nigeria",
-        "score": 80
-      },
-      {
-        "url": "https://www.merckgroup.com/content/corporate/communications/china-country-site/zh.html",
-        "anchor_text": "China, mainland",
-        "score": 80
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/specialty-gases.html",
-        "anchor_text": "Semiconductor Specialty Gases",
-        "score": 79
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-saudi-arabia.html",
-        "anchor_text": "Saudi Arabia",
-        "score": 79
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-east-africa/merck-in-egypt.html",
-        "anchor_text": "Egypt",
-        "score": 78
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-east-africa/merck-in-ghana.html",
-        "anchor_text": "Ghana",
-        "score": 78
-      },
-      {
-        "url": "https://www.merckgroup.com/en/the-future-transformation/ai-economically-meaningful.html",
-        "anchor_text": "Stories",
-        "score": 77
-      },
-      {
-        "url": "https://www.merckgroup.com/en/the-future-transformation/what-the-crisis-taught-us.html",
-        "anchor_text": "Stories",
-        "score": 76
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-palestine.html",
-        "anchor_text": "Palestine",
-        "score": 76
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/thin-films.html",
-        "anchor_text": "Semiconductor Thin Films",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/our-approach-to-research-and-development.html",
-        "anchor_text": "Our R&D Approach",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-bahrain.html",
-        "anchor_text": "Bahrain",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-lebanon.html",
-        "anchor_text": "Lebanon",
-        "score": 74
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-jordan.html",
-        "anchor_text": "Jordan",
-        "score": 73
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-kuwait.html",
-        "anchor_text": "Kuwait",
-        "score": 73
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/business-ethics/digital-ethics.html",
-        "anchor_text": "Company Info",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-qatar.html",
-        "anchor_text": "Qatar",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-syria.html",
-        "anchor_text": "Syria",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-yemen.html",
-        "anchor_text": "Yemen",
-        "score": 72
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/research-challenges.html",
-        "anchor_text": "Research Challenges",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-iran.html",
-        "anchor_text": "Iran",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-iraq.html",
-        "anchor_text": "Iraq",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-oman.html",
-        "anchor_text": "Oman",
-        "score": 71
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/science-space/envisioning-tomorrow.html",
-        "anchor_text": "Envisioning Tomorrow",
-        "score": 70
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-middle-east/merck-in-uae.html",
-        "anchor_text": "United Arab Emirates",
-        "score": 70
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/research-grants.html",
-        "anchor_text": "Research Grants",
-        "score": 67
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/formulations.html",
-        "anchor_text": "Semiconductor Formulations",
-        "score": 66
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation/innovation-cup.html",
-        "anchor_text": "Innovation Cup",
-        "score": 66
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-and-west-africa.html",
-        "anchor_text": "Ivory Coast",
-        "score": 65
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-release-subscription.html",
-        "anchor_text": "Subscribe to News Releases",
-        "score": 64
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/products-and-innovation.html",
-        "anchor_text": "Products & Innovation",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/sustainability-strategy.html",
-        "anchor_text": "Company Info",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics/technologies/optronics.html",
-        "anchor_text": "Optronics",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/periodic-table-of-elements-app.html",
-        "anchor_text": "Applications & Industry",
-        "score": 63
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/reports-and-guidelines.html",
-        "anchor_text": "Reports & Guidelines",
-        "score": 62
-      },
-      {
-        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 61
-      },
-      {
-        "url": "https://www.merckgroup.com/en/deployment-testing/privacy-statement.html#3-2-2-cookies",
-        "anchor_text": "Cookie Policy",
-        "score": 61
-      },
-      {
-        "url": "https://www.merckgroup.com/en/stories/potential-of-mrna-technology.html",
-        "anchor_text": "Stories",
-        "score": 61
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/community-engagement.html",
-        "anchor_text": "Community Engagement",
-        "score": 60
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/neurology-and-immunology.html",
-        "anchor_text": "Neurology & Immunology",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news-stories/events-and-highlights.html",
-        "anchor_text": "Events & Highlights",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/events-and-presentations.html",
-        "anchor_text": "Events & Presentations",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-north-macedonia.html",
-        "anchor_text": "North Macedonia",
-        "score": 59
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-kits/q4-2025.html",
-        "anchor_text": "Company Info",
-        "score": 58
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-czech-republic.html",
-        "anchor_text": "Czech Republic",
-        "score": 58
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/reports-and-financials.html",
-        "anchor_text": "Reports &  Financials",
-        "score": 57
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-south-africa.html",
-        "anchor_text": "Zimbabwe",
-        "score": 56
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/business-ethics.html",
-        "anchor_text": "Business Ethics",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/corporate-governance.html",
-        "anchor_text": "Corporate Governance",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-philippines.html",
-        "anchor_text": "Philippines",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-new-zealand.html",
-        "anchor_text": "New Zealand",
-        "score": 55
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/health-for-all.html",
-        "anchor_text": "Health Equity",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/discovery-solutions.html",
-        "anchor_text": "Discovery Solutions",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/download-gallery.html",
-        "anchor_text": "Download Gallery",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bangladesh.html",
-        "anchor_text": "Bangladesh",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-luxembourg.html",
-        "anchor_text": "Luxembourg",
-        "score": 54
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/advanced-solutions.html",
-        "anchor_text": "Advanced Solutions",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/healthcare-pipeline.html",
-        "anchor_text": "Healthcare Pipeline",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/global-r-and-d-hubs.html",
-        "anchor_text": "Global R&D Hubs",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/creditor-relations.html",
-        "anchor_text": "Creditor Relations",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-singapore.html",
-        "anchor_text": "Singapore",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-venezuela.html",
-        "anchor_text": "Venezuela",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-australia.html",
-        "anchor_text": "Australia",
-        "score": 53
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/strategy-and-values.html",
-        "anchor_text": "Strategy & Values",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/process-solutions.html",
-        "anchor_text": "Process Solutions",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-contacts.html",
-        "anchor_text": "Media Contacts",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-malaysia.html",
-        "anchor_text": "Malaysia",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-thailand.html",
-        "anchor_text": "Thailand",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bulgaria.html",
-        "anchor_text": "Bulgaria",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-slovakia.html",
-        "anchor_text": "Slovakia",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-slovenia.html",
-        "anchor_text": "Slovenia",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-paraguay.html",
-        "anchor_text": "Paraguay",
-        "score": 52
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/building-belonging.html",
-        "anchor_text": "Building Belonging",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/general-medicine.html",
-        "anchor_text": "General Medicine",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/vibrant-thoughts.html",
-        "anchor_text": "Vibrant Thoughts",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/shares-and-bonds.html",
-        "anchor_text": "Shares",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/contact-services.html",
-        "anchor_text": "IR Contact & Services",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-albania.html",
-        "anchor_text": "Albania",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-baltics.html",
-        "anchor_text": "Lithuania",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-belarus.html",
-        "anchor_text": "Belarus",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-belgium.html",
-        "anchor_text": "Belgium",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-croatia.html",
-        "anchor_text": "Croatia",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-hungary.html",
-        "anchor_text": "Hungary",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-ireland.html",
-        "anchor_text": "Ireland",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-ukraine.html",
-        "anchor_text": "Ukraine",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-bolivia.html",
-        "anchor_text": "Bolivia",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-uruguay.html",
-        "anchor_text": "Uruguay",
-        "score": 51
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-israel.html",
-        "anchor_text": "Israel",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-cyprus.html",
-        "anchor_text": "Cyprus",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-serbia.html",
-        "anchor_text": "Serbia",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-panama.html",
-        "anchor_text": "Panama",
-        "score": 50
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/open-innovation.html",
-        "anchor_text": "Open Innovation",
-        "score": 49
-      },
-      {
-        "url": "https://www.merckgroup.com/de/company/merck-in-germany.html",
-        "anchor_text": "Germany",
-        "score": 49
-      },
-      {
-        "url": "https://www.merckgroup.com/en/the-future-transformation.html",
-        "anchor_text": "The Future Transformation Blog",
-        "score": 48
-      },
-      {
-        "url": "https://www.merckgroup.com/en/media-center/press-kits.html",
-        "anchor_text": "Press Kits",
-        "score": 48
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide/merck-in-peru.html",
-        "anchor_text": "Perú",
-        "score": 48
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/life-science.html",
-        "anchor_text": "Life Science",
-        "score": 47
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/science-space.html",
-        "anchor_text": "Science Space",
-        "score": 47
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/rare-tumors.html",
-        "anchor_text": "Rare Tumors",
-        "score": 46
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research/ai-research.html",
-        "anchor_text": "Artificial Intelligence - AI Research",
-        "score": 45
-      },
-      {
-        "url": "https://www.merckgroup.com/en/stories/what-is-mrna.html",
-        "anchor_text": "Applications & Industry",
-        "score": 45
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors/why-invest.html",
-        "anchor_text": "Why Invest",
-        "score": 45
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news/press-releases.html#main-content",
-        "anchor_text": "Skip to main content",
-        "score": 44
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news/press-releases.html",
-        "anchor_text": "",
-        "score": 44
-      },
-      {
-        "url": "https://www.merckgroup.com/uk-en/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/our-impact.html",
-        "anchor_text": "Our Impact",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/contact-us.html",
-        "anchor_text": "Contact us",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/careers/job-search.html",
-        "anchor_text": "Our job search",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/supplier-information.html",
-        "anchor_text": "Suppliers",
-        "score": 43
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/environment.html",
-        "anchor_text": "Environment",
-        "score": 41
-      },
-      {
-        "url": "https://www.merckgroup.com/en/privacy-statement.html",
-        "anchor_text": "Privacy Statement",
-        "score": 40
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability/employees.html",
-        "anchor_text": "Employees",
-        "score": 39
-      },
-      {
-        "url": "https://www.merckgroup.com/en/legal-disclaimer.html",
-        "anchor_text": "Legal Disclaimer",
-        "score": 39
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/ourheadquarters.html",
-        "anchor_text": "Headquarters",
-        "score": 38
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/electronics.html",
-        "anchor_text": "Electronics",
-        "score": 36
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/healthcare.html",
-        "anchor_text": "Healthcare",
-        "score": 35
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news-stories.html",
-        "anchor_text": "News & Media",
-        "score": 35
-      },
-      {
-        "url": "https://www.merckgroup.com/en/terms-of-use.html",
-        "anchor_text": "Terms Of Use",
-        "score": 35
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/fertility.html",
-        "anchor_text": "Fertility",
-        "score": 34
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/management.html",
-        "anchor_text": "Management",
-        "score": 33
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise/oncology.html",
-        "anchor_text": "Oncology",
-        "score": 33
-      },
-      {
-        "url": "https://www.merckgroup.com/central-america.html",
-        "anchor_text": "Trinidad and Tobago",
-        "score": 33
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company/history.html",
-        "anchor_text": "History",
-        "score": 30
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sustainability.html",
-        "anchor_text": "Sustainability",
-        "score": 27
-      },
-      {
-        "url": "https://www.merckgroup.com/en/partnering.html",
-        "anchor_text": "Partnering",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/in-en.html",
-        "anchor_text": "India",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/id-id.html",
-        "anchor_text": "Indonesia",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/jp-ja.html",
-        "anchor_text": "Japan",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/kr-ko.html",
-        "anchor_text": "South Korea",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/tw-zh.html",
-        "anchor_text": "Taiwan",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/tr-tr.html",
-        "anchor_text": "Türkiye",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/vn-vi.html",
-        "anchor_text": "Vietnam",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/at-de.html",
-        "anchor_text": "Austria",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/dk-da.html",
-        "anchor_text": "Denmark",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/fi-fi.html",
-        "anchor_text": "Finland",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/fr-fr.html",
-        "anchor_text": "France",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/gr-el.html",
-        "anchor_text": "Greece",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/it-it.html",
-        "anchor_text": "Italy",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/nl-en.html",
-        "anchor_text": "Netherlands",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/no-no.html",
-        "anchor_text": "Norway",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/pl-pl.html",
-        "anchor_text": "Poland",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/pt-pt.html",
-        "anchor_text": "Portugal",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ro-ro.html",
-        "anchor_text": "Romania",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ru-ru.html",
-        "anchor_text": "Russian Federation",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/es-es.html",
-        "anchor_text": "Spain",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/se-sv.html",
-        "anchor_text": "Sweden",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ch-en.html",
-        "anchor_text": "Switzerland",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/uk-en.html",
-        "anchor_text": "United Kingdom",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ar-es.html",
-        "anchor_text": "Argentina",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/br-pt.html",
-        "anchor_text": "Brazil",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/cl-es.html",
-        "anchor_text": "Chile",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/co-es.html",
-        "anchor_text": "Colombia",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/ec-es.html",
-        "anchor_text": "Ecuador",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/mx-es.html",
-        "anchor_text": "Mexico",
-        "score": 23
-      },
-      {
-        "url": "https://www.merckgroup.com/en/expertise.html",
-        "anchor_text": "Expertise",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/investors.html",
-        "anchor_text": "Investor Relations",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/worldwide.html",
-        "anchor_text": "Mozambique",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/locations.html",
-        "anchor_text": "Locations",
-        "score": 22
-      },
-      {
-        "url": "https://www.merckgroup.com/en/research.html",
-        "anchor_text": "Research",
-        "score": 21
-      },
-      {
-        "url": "https://www.merckgroup.com/en/company.html",
-        "anchor_text": "Company",
-        "score": 20
-      },
-      {
-        "url": "https://www.merckgroup.com/en/sitemap.html",
-        "anchor_text": "Sitemap",
-        "score": 20
-      },
-      {
-        "url": "https://www.merckgroup.com/en/events.html",
-        "anchor_text": "Events",
-        "score": 19
-      },
-      {
-        "url": "https://www.merckgroup.com/en/news.html",
-        "anchor_text": "News",
-        "score": 17
-      },
-      {
-        "url": "https://www.merckgroup.com/en/404.html",
-        "anchor_text": "Let's go",
-        "score": 16
-      },
-      {
-        "url": "https://www.merckgroup.com/en.html",
-        "anchor_text": "Our homepage",
-        "score": 10
-      },
-      {
-        "url": "https://www.merckgroup.com",
-        "anchor_text": "https://www.merckgroup.com",
-        "score": 0
-      }
-    ]
+    "candidate_links": []
   },
   {
     "company": "Ipsen",
@@ -78439,6 +77191,72 @@
     "company": "Ikena Oncology",
     "press_url": "https://ir.ikenaoncology.com/press-releases",
     "candidate_links": []
+  },
+  {
+    "company": "Monte Rosa Therapeutics",
+    "press_url": "https://www.monterosatx.com/news/",
+    "candidate_links": [
+      {
+        "url": "https://www.monterosatx.com/privacy-policy",
+        "anchor_text": "Privacy Policy",
+        "score": 27
+      },
+      {
+        "url": "https://www.monterosatx.com/terms-of-use",
+        "anchor_text": "Terms of Use",
+        "score": 25
+      },
+      {
+        "url": "https://www.monterosatx.com/news/index.html",
+        "anchor_text": "Monte Rosa Therapeutics",
+        "score": 20
+      },
+      {
+        "url": "https://www.monterosatx.com/presentations/",
+        "anchor_text": "Presentations",
+        "score": 19
+      },
+      {
+        "url": "https://www.monterosatx.com/pipeline/",
+        "anchor_text": "Pipeline",
+        "score": 14
+      },
+      {
+        "url": "https://www.monterosatx.com/contact/",
+        "anchor_text": "Contact",
+        "score": 13
+      },
+      {
+        "url": "https://www.monterosatx.com/science/",
+        "anchor_text": "Science",
+        "score": 13
+      },
+      {
+        "url": "https://www.monterosatx.com/careers/",
+        "anchor_text": "Careers",
+        "score": 13
+      },
+      {
+        "url": "https://www.monterosatx.com/search/",
+        "anchor_text": "Search",
+        "score": 12
+      },
+      {
+        "url": "https://www.monterosatx.com/about/",
+        "anchor_text": "About",
+        "score": 11
+      },
+      {
+        "url": "https://www.monterosatx.com/news/",
+        "anchor_text": "News",
+        "score": 10
+      },
+      {
+        "url": "https://www.monterosatx.com/",
+        "anchor_text": "Monte Rosa Therapeutics",
+        "score": 3
+      }
+    ]
   },
   {
     "company": "Fog Pharmaceuticals",
