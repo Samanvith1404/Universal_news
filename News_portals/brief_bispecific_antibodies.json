@@ -1,15 +1,15 @@
 {
   "query": "protac",
-  "generated_at": "2026-07-05 08:08:53",
-  "article_count": 12,
+  "generated_at": "2026-07-08 07:22:50",
+  "article_count": 2,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "Rayca Precision and Data Powered Therapeutics have established a strategic co-development partnership aimed at advancing a new generation of nanobody therapeutics targeting cancers with high unmet need, specifically leveraging a nanobody bioPROTAC approach for targeted protein degradation. This collaboration integrates Rayca Precision’s computational discovery engine, which models therapeutic targets in motion and designs candidate molecules using structure-aware generative methods, with Data Powered Therapeutics’ platform for high-throughput experimental validation. By addressing developability liabilities such as expression and stability early in the design phase, the partnership seeks to resolve attrition risks typically encountered late in biologics development. The program targets difficult oncology settings, including therapy-resistant cancers, immune-evasive tumors, and aggressive neuroendocrine cancers like small cell lung cancer, including cases with brain metastasis. While specific targets remain confidential, the initiative encompasses multiple therapeutic mechanisms with first-in-class potential. The companies intend to advance lead programmes toward development candidates, utilizing automated wet-lab data generation to characterize up to a thousand nanobody variants in parallel. This approach compresses sequential work into weeks, focusing resources on molecules with the clearest path to the clinic. The partnership highlights a shift in drug discovery where experimental evidence at scale complements computational modeling to enhance candidate quality upstream.",
+      "paragraph": "The pharmaceutical landscape is undergoing a significant transformation driven by the increasing structural complexity of modern small molecules, particularly targeted protein degraders and covalent agents. WuXi AppTec highlights that these induced-proximity therapeutics require distinct medicinal chemistry priorities compared to traditional binders, necessitating a shift from compound-centric processes to outcome-oriented disciplines. As these molecules move through R&D pipelines, classical workflows often prove insufficient to support demands such as ternary complex formation and linker topology optimization. To address translational success rates, the industry is adopting integrated CRDMO platforms that connect discovery, development, and manufacturing under a single quality system. This approach allows for early process development decisions that reduce rework risks and compress timelines without sacrificing continuity. Technologies including DNA-encoded libraries, flow chemistry, and high-resolution mass spectrometry are expanding access to new target classes. Dr. Dave Madge of WuXi AppTec notes that advances in screening and structural biology are making the discovery process increasingly predictable and engineerable. Consequently, biotech and pharmaceutical innovators are increasingly relying on trusted partners capable of maintaining unified quality standards across global operations to ensure reproducibility from laboratory to commercial scale. This integrated strategy is critical for advancing breakthrough treatments involving complex modalities like protein degraders to the clinic.",
       "sources": [
         {
-          "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/",
-          "label": "Rayca Precision"
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html",
+          "label": "WuXi AppTec"
         }
       ]
     },
@@ -17,8 +17,8 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "Rayca Precision — Nanobody bioPROTAC — Oncology (Small Cell Lung Cancer, Neuroendocrine Cancers) — Strategic co-development partnership with Data Powered Therapeutics",
-          "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
+          "text": "WuXi AppTec — Targeted Protein Degraders — Broad Disease Targets — Integrated CRDMO support for clinical progression",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html"
         }
       ]
     },
@@ -26,12 +26,8 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "Rayca Precision: Strategic objective to design candidate molecules with structure-aware generative methods and screen against binding thermodynamics; associated with nanobody bioPROTAC program.",
-          "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
-        },
-        {
-          "text": "Data Powered Therapeutics: Strategic objective to automate wet-lab data generation at scale for nanobody variants; associated with nanobody bioPROTAC program.",
-          "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
+          "text": "WuXi AppTec: Providing integrated CRDMO services to support discovery through commercial manufacturing for complex small molecules like protein degraders.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html"
         }
       ]
     },
@@ -39,8 +35,8 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Mechanism: Targeted protein degradation through a nanobody bioPROTAC approach. Indications: Cancers resistant to standard therapy, aggressive neuroendocrine cancers (small cell lung cancer), disease spread to brain. Status: Advancing lead programmes toward development candidates using computational design and high-throughput experimental validation.",
-          "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
+          "text": "Targeted Protein Degraders — Mechanism involves catalytic removal of target protein via transient binding; challenges include ternary complex formation and linker topology.",
+          "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html"
         }
       ]
     },
@@ -48,8 +44,8 @@
       "heading": "Business & Deals",
       "points": [
         {
-          "text": "Rayca Precision and Data Powered Therapeutics announced a strategic co-development partnership to design and advance a new generation of nanobody therapeutics for cancers of high unmet need.",
-          "url": "https://nordiclifescience.org/rayca-precision-enters-partnership-with-data-powered-therapeutics/"
+          "text": "No relevant business developments reported.",
+          "url": null
         }
       ]
     }
