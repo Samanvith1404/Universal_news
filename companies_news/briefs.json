@@ -1,23 +1,17 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 13,
-    "items_extracted": 2,
+    "articles_used": 11,
+    "items_extracted": 1,
     "items_dropped": 0,
-    "generated_at": "2026-07-07 09:27:16"
+    "generated_at": "2026-07-08 08:30:14"
   },
   "news": [
     {
-      "company": "Genentech",
-      "modality": "bispecific antibodies",
-      "news": "Genentech and Roche presented new long-term safety and biomarker data for trontinemab, an investigational Brainshuttle bispecific antibody, at the Alzheimer's Association International Conference. The company also revealed the design of the Phase III PrevenTRON study to investigate the drug in preclinical Alzheimer's disease.",
-      "url": "https://www.gene.com/media/press-releases/15120/2026-07-06/genentech-and-roche-present-new-data-in-"
-    },
-    {
-      "company": "AbbVie",
-      "modality": "bispecific antibodies",
-      "news": "The European Commission granted marketing authorization for TEPKINLY (epcoritamab), a bispecific antibody, in combination with lenalidomide and rituximab for the treatment of relapsed or refractory follicular lymphoma. The approval is based on Phase 3 EPCORE FL-1 trial data showing significant improvement in progression-free survival.",
-      "url": "https://news.abbvie.com/2026-07-06-AbbVie-Announces-TEPKINLY-R-epcoritamab-in-Combination-with-Lenalidomide-and-Rituximab-is-Approved-by-the-European-Commission-for-the-Treatment-of-Relapsed-or-Refractory-Follicular-Lymphoma"
+      "company": "Insilico Medicine",
+      "modality": "gene editing",
+      "news": "Insilico Medicine initiated a Phase III clinical trial for Rentosertib, an AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis. The trial aims to evaluate the efficacy and safety of the novel small molecule in 320 patients over 52 weeks.",
+      "url": "https://insilico.com/news/xmjsn4l091-insilico-initiates-phase-iii-clinical-tr"
     }
   ]
 }
