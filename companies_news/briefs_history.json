@@ -1,4 +1,22 @@
 {
+  "2026-07-09": {
+    "gene editing": [
+      {
+        "company": "Wave Life Sciences",
+        "modality": "gene editing",
+        "news": "Wave Life Sciences announced positive data from the RestorAATion-2 trial for WVE-006, an RNA editing oligonucleotide (AIMer) for alpha-1 antitrypsin deficiency. The treatment achieved a protective MZ-like phenotype by generating wild-type M-AAT and reducing harmful Z-AAT, with effects sustained for at least three months following dosing.",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-positive-update-restoraation-2",
+        "query": "gene editing"
+      },
+      {
+        "company": "Wave Life Sciences",
+        "modality": "gene editing",
+        "news": "The company reported that regulatory feedback on a potential accelerated approval pathway for WVE-006 is expected in mid-2026. Additionally, the clinical trial application (CTA) for WVE-008, a GalNAc-conjugated AIMer for PNPLA3 I148M liver disease, is on track for submission in 2026.",
+        "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-reports-first-quarter-2026-financial-results",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-07-08": {
     "gene editing": [
       {

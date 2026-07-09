@@ -1,17 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 11,
-    "items_extracted": 1,
+    "articles_used": 54,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-07-08 08:30:14"
+    "generated_at": "2026-07-09 09:28:47"
   },
   "news": [
     {
-      "company": "Insilico Medicine",
+      "company": "Wave Life Sciences",
       "modality": "gene editing",
-      "news": "Insilico Medicine initiated a Phase III clinical trial for Rentosertib, an AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis. The trial aims to evaluate the efficacy and safety of the novel small molecule in 320 patients over 52 weeks.",
-      "url": "https://insilico.com/news/xmjsn4l091-insilico-initiates-phase-iii-clinical-tr"
+      "news": "Wave Life Sciences announced positive data from the RestorAATion-2 trial for WVE-006, an RNA editing oligonucleotide (AIMer) for alpha-1 antitrypsin deficiency. The treatment achieved a protective MZ-like phenotype by generating wild-type M-AAT and reducing harmful Z-AAT, with effects sustained for at least three months following dosing.",
+      "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-announces-positive-update-restoraation-2"
+    },
+    {
+      "company": "Wave Life Sciences",
+      "modality": "gene editing",
+      "news": "The company reported that regulatory feedback on a potential accelerated approval pathway for WVE-006 is expected in mid-2026. Additionally, the clinical trial application (CTA) for WVE-008, a GalNAc-conjugated AIMer for PNPLA3 I148M liver disease, is on track for submission in 2026.",
+      "url": "https://ir.wavelifesciences.com/news-releases/news-release-details/wave-life-sciences-reports-first-quarter-2026-financial-results"
     }
   ]
 }
