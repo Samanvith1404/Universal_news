@@ -1,4 +1,24 @@
 {
+  "2026-07-10": {
+    "monoclonal antibodies": [
+      {
+        "company": "Serum Institute of India",
+        "modality": "monoclonal antibodies",
+        "news": "Serum Institute of India (SII) and the Drugs for Neglected Diseases initiative (DNDi) signed a licensing agreement to advance a monoclonal antibody treatment (VIS513) for dengue. A Phase III clinical trial is scheduled to begin in early 2027 across Brazil, Malaysia, and Thailand, involving 1,000 participants to test the safety and efficacy of the therapy.",
+        "url": "https://www.seruminstitute.com/brazil-malaysia-and-thailand-set-to-start-global-clinical-trial-to-test-promising-dengue-treatment-developed-by-serum-institute-of-india.php",
+        "query": "gene editing"
+      }
+    ],
+    "gene editing": [
+      {
+        "company": "Oxford Nanopore Technologies",
+        "modality": "gene editing",
+        "news": "Oxford Nanopore Technologies highlighted new FDA draft guidance recommending long-read sequencing for the safety assessment of genome-edited therapies. The guidance emphasizes the need to detect large structural variants and complex on- and off-target editing events that short-read sequencing may miss, positioning nanopore technology as a critical tool for insertion site analysis in cell and gene therapy quality control.",
+        "url": "https://nanoporetech.com/blog/fda-draft-guidance-ushers-in-a-new-approach",
+        "query": "gene editing"
+      }
+    ]
+  },
   "2026-07-09": {
     "gene editing": [
       {
