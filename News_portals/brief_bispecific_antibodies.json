@@ -1,11 +1,11 @@
 {
   "query": "protac",
-  "generated_at": "2026-07-09 08:21:25",
+  "generated_at": "2026-07-10 08:15:36",
   "article_count": 2,
   "sections": [
     {
       "heading": "Overview",
-      "paragraph": "WuXi AppTec highlights the evolving landscape of small molecule drug discovery, emphasizing the increasing structural complexity of modern therapeutics such as targeted protein degraders and covalent agents. The contract research, development, and manufacturing organization notes that classical workflows are insufficient for induced-proximity therapeutics, which require specialized handling of ternary complex formation and linker topology. Dr. Dave Madge, VP of Discovery Services at WuXi AppTec, states that the field is shifting toward a deliberate discovery paradigm where screening, structural biology, and systems-level analysis make processes more predictable. To address translational success rates, the company advocates for integrated infrastructure connecting chemical synthesis, computational modeling, and manufacturing under one global quality system. This approach allows process decisions made early in discovery to carry forward without variability, compressing timelines for complex molecules like protein degraders. The organization supports biotech and pharmaceutical innovators across 30+ countries, aiming to ensure reproducibility from laboratory to commercial scale. By aligning discovery, development, and manufacturing, WuXi AppTec facilitates the progression of these advanced modalities into the clinic, addressing challenges such as molecular weight, polarity, and conformational flexibility that traditional medicinal chemistry struggles to manage effectively.",
+      "paragraph": "The pharmaceutical landscape is undergoing a significant transformation driven by the increasing structural complexity of modern small molecules, particularly targeted protein degraders and covalent agents. WuXi AppTec highlights that classical workflows are insufficient for these advanced modalities, which demand integrated approaches connecting discovery, development, and manufacturing under a unified quality system. Targeted protein degraders function by converting transient binding events into the catalytic removal of target proteins, introducing unique challenges such as ternary complex formation and linker topology optimization. To address translational success rates, the industry is shifting from compound-centric processes to outcome-oriented disciplines that leverage technologies like DNA-encoded libraries, fragment-based screening, and flow chemistry. WuXi AppTec emphasizes that early process development is critical for degraders to mitigate risks associated with synthetic complexity and analytical performance during scale-up. By maintaining consistent certifications and audit history across global operations, contract research, development, and manufacturing organizations can prevent variability that derails timelines. This integrated CRDMO model allows partners to compress development timelines while preserving continuity from the first gram to commercial batch. Consequently, the focus is evolving from target druggability to target engagement strategy, ensuring that scientific insight and development capabilities are connected across the entire discovery continuum to support the clinical advancement of complex small molecule therapeutics.",
       "sources": [
         {
           "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html",
@@ -17,7 +17,7 @@
       "heading": "Key Developments",
       "points": [
         {
-          "text": "WuXi AppTec — Targeted Protein Degraders — Disease-relevant proteins — Integrated CRDMO support for clinic entry",
+          "text": "WuXi AppTec — Targeted Protein Degraders — General — Integrated CRDMO support for clinical advancement",
           "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html"
         }
       ]
@@ -26,7 +26,7 @@
       "heading": "Companies in Focus",
       "points": [
         {
-          "text": "WuXi AppTec: Providing integrated end-to-end CRDMO services for complex small molecules including protein degraders.",
+          "text": "WuXi AppTec: Providing integrated end-to-end CRDMO services to support complex small molecule discovery and manufacturing.",
           "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html"
         }
       ]
@@ -35,7 +35,7 @@
       "heading": "Clinical & Scientific Highlights",
       "points": [
         {
-          "text": "Targeted protein degraders convert a transient binding event into catalytic removal of a target protein; challenges include ternary complex formation and linker topology.",
+          "text": "Targeted protein degraders convert transient binding events into catalytic removal of target proteins, requiring optimization of ternary complex formation and linker topology.",
           "url": "https://globenewswire.com/news-release/2026/07/06/3322314/0/en/integrated-development-helps-targeted-protein-degraders-reach-the-clinic.html"
         }
       ]
