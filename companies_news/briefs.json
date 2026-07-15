@@ -1,10 +1,10 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 18,
+    "articles_used": 11,
     "items_extracted": 0,
     "items_dropped": 0,
-    "generated_at": "2026-07-14 08:05:59"
+    "generated_at": "2026-07-15 08:06:33"
   },
   "news": []
 }
