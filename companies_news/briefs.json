@@ -1,10 +1,23 @@
 {
   "meta": {
     "query": "gene editing",
-    "articles_used": 10,
-    "items_extracted": 0,
+    "articles_used": 24,
+    "items_extracted": 2,
     "items_dropped": 0,
-    "generated_at": "2026-07-16 08:10:24"
+    "generated_at": "2026-07-17 08:11:23"
   },
-  "news": []
+  "news": [
+    {
+      "company": "GSK",
+      "modality": "gene editing",
+      "news": "GSK's M72/AS01E tuberculosis vaccine candidate, developed using advanced adjuvant technology, has progressed toward global access through a new manufacturing agreement between the Gates Medical Research Institute and Serum Institute of India. This partnership aims to ensure large-scale production and availability of the vaccine candidate pending successful Phase 3 trial outcomes.",
+      "url": "https://www.gsk.com/en-gb/media/media-statements/gsk-developed-tb-vaccine-candidate-progresses-toward-global-access-with-new-manufacturing-agreement/"
+    },
+    {
+      "company": "Plowshare Therapies",
+      "modality": "gene editing",
+      "news": "Plowshare Therapies has selected OXB as its GMP manufacturing partner to support the development and manufacturing of its AAV gene therapy programme, including the lead candidate PLOW-101 for maple syrup urine disease. The collaboration will utilize OXB's FDA-approved commercial-scale viral vector facility in Durham, North Carolina.",
+      "url": "https://oxb.com/news/oxb-selected-as-gmp-manufacturing-partner-to-support-manufacturing-of-plowshare-therapies-aav-gene-therapy-programme/"
+    }
+  ]
 }
